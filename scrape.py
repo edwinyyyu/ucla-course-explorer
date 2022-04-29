@@ -8,13 +8,14 @@ import time
 SUBJECT_URL = "https://registrar.ucla.edu/academics/course-descriptions"
 COURSES_URL = "https://registrar.ucla.edu/academics/course-descriptions?search="
 
+# Get html from dynamic web page.
 def get_html(url):
     parent_window = driver.current_window_handle
     driver.switch_to.new_window("tab")
     
     driver.get(url)
     driver.refresh()
-    time.sleep(1)
+    time.sleep(1) # Give web page time to load. Not 100% reliable.
     html = driver.page_source
     
     driver.close()
@@ -22,17 +23,14 @@ def get_html(url):
     
     return html
 
-def scrape_subject_areas():
-    url = SUBJECT_URL
-    
-    html = get_html(url)
-
+# Scrape courses for a subject area and output to file.
 def scrape_courses(subject_area):
     url_appendage = subject_area.replace(" ", "+")
     url = COURSES_URL + url_appendage
     
     html = get_html(url)
     
+    # Manually determined points to cut html at.
     start_str = '<div class="course-descriptions-subject-area">'
     end_str = '<div class="page-menu">'
     start_index = html.find(start_str)
@@ -40,16 +38,10 @@ def scrape_courses(subject_area):
     
     html = html[start_index: end_index]
     soup = BeautifulSoup(html, "html.parser")
+    text = soup.prettify()
     
     path = "course-descriptions-html/"
     filename = path + subject_area.replace(" ", "_").replace("/", "-").lower() + ".txt"
-    
-    text = soup.prettify()
-    
-    #start_str = subject_area
-    #start_index = text.find(start_str)
-    
-    #text = text[start_index:]
     
     with open(filename, "w") as f:
         for line in text.splitlines():
@@ -57,11 +49,8 @@ def scrape_courses(subject_area):
             if len(stripped) > 0 and stripped[0] != "<":
                 f.write(stripped + "\n")
     
-    #course_substring
-    #for course_substring in html
-
 # main
-driver = webdriver.Firefox()
+driver = webdriver.Firefox() # Edit to use preferred browser.
 
 with open("subjects.txt", "r") as f:
     lines = f.readlines()
