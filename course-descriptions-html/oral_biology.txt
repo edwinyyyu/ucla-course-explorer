@@ -1,0 +1,104 @@
+Lower Division Courses (2)
+19. Fiat Lux Freshman Seminars
+Units: 1.0
+Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.
+99. Student Research Program
+Units: 1.0 to 2.0
+Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
+Graduate Courses (32)
+201A. Advanced Oral Biology: Ontogenesis
+Units: 3.0
+Lecture, three hours. Evolutionary perspective of cellular development from simple molecules that were formed during first billion years of Earth to development of cells, tissues, and organs of invertebrates and vertebrates. Development of vertebrate feeding apparatus from comparative anatomical and physiological point of view, followed by embryogenesis of orofacial and dental structures of humans. S/U or letter grading.
+201C. Advanced Oral Biology: Pathobiology
+Units: 3.0
+Lecture, three hours. Molecular basis for pathogenic processes in tissues of oral cavity. Topics include microbially mediated demineralization of hard tissues, soft tissue infections, carcinogenesis, colonization of mucosal substrates by opportunists, etc. S/U or letter grading.
+202. Salivary Diagnostics: Salivaomics, Saliva-Exosomics, Saliva Liquid Biopsy
+Units: 2.0
+Lecture, one hour. Focus on basic, translational, and clinical advancements of saliva and its -omics constituents in oral and systemic health, precision, and personalized medicine. Topics covered by active investigators in field of research. Lectures accompanied by two cutting-edge papers in field to prime student of exciting and emerging fields. Letter grading.
+203. Oral Embryology and Histology
+Units: 4.0
+Lecture, four hours. Lectures and laboratory instruction in development and histological structure of facial region and oral and peri-oral organs and tissues. Letter grading.
+M204. Mechanisms and Relief of Pain
+Units: 2.0
+(Same as Neuroscience M233.) Lecture, two hours. Advanced treatment of neuroanatomical, neurophysiological, and biochemical bases of pain perception. Topics include classical pain theories, pain receptors and pathways, endogenous mechanisms of pain modulation, and pharmacological basis for treatment of pain disorders. Letter grading.
+205A. Methodology in Research Design and Data Analysis
+Units: 2.0
+Lecture, two hours. Designed for graduate oral biology students. Integration of didactic lectures in descriptive and inferential statistics and in research design (emphasis on experimental design), presentations of statistical software, and open discussion of specific needs of oral biology students when they design their research. Letter grading.
+205B. Methodology in Evidence-Based Dentistry
+Units: 2.0
+Seminar, two hours. Designed for oral biology graduate students. Fundamentals of evidence-based research in dentistry and its implications for practice. Letter grading.
+205C. Advanced Seminar: Comparative Effectiveness and Evidence-Based Research
+Units: 2.0
+Seminar, one hour; discussion, one hour. Requisites: courses 205A, 205B (may be taken concurrently). Hands-on experience in process of systematic review, as shared mechanism in comparative effectiveness and evidence-based research. Specialized topics include level and quality of evidence assessments, acceptable sampling analysis, meta-analysis and meta-regression, and Bayesian-derived decision making following utility versus logic model. Students work on examples of their choice and interest in oral biology, medicine, and orthodontics. Letter grading.
+206. Current Topics in Oral Immunology
+Units: 2.0
+Lecture, two hours. Preparation: basic immunology. Discussion and analysis of current research dealing with immunological issues related to oral health, including HIV, opportunistic oral infections, periodontal pathology, oral immunopathology, caries immunology, endodontic immunology, etc. Letter grading.
+208. Genomics and Proteomics in Oral Biology Research
+Units: 2.0
+Lecture, one hour; discussion, one hour. Introduction to fundamentals and technical aspects of genomics and proteomics and analysis of data derived therefrom. Discussion of implications and applications of genomics and proteomics in diagnostic protocols such as salivary diagnostics. Letter grading.
+209. Scientific Ethics
+Units: 2.0
+Seminar, two hours. Required course in scientific ethics for graduate students in Oral Biology MS and PhD programs and for NRSA trainees in School of Dentistry. Letter grading.
+211. Biology of Temporomandibular Joint
+Units: 2.0
+Lecture, two hours. Anatomy, histology, physiology, and biomechanics of temporomandibular joint (TMJ) and related musculature. Pain mechanisms, sensorimotor integration, and motor mechanisms in TMJ function, and current methods of TMJ imaging. S/U or letter grading.
+212. Proseminar: Oral Biology Research
+Units: 2.0
+Seminar, one hour; discussion, one hour. Introductory course for graduate MS students. Guest seminars on topics of research in oral biology (pain pathways, immunology, bone biology, microbiology, cancer, and salivary genomics), followed by discussions led by course chair. Letter grading.
+214. Current Research in Osteoimmunology
+Units: 2.0
+Seminar, one hour; discussion, one hour. Exploration of oral bone biology and immunology and how both systems talk to each other. Topics include immune modulation of bone metabolism, osteoblastic niche for hematopoietic progenitors, adult bone marrow stem cell changes, and osteoimmunology in at-risk populations. Letter grading.
+215A. Fundamentals of Immunology
+Units: 2.0
+Lecture, two hours. Basic cellular and molecular mechanisms involved in responses mediated by immune effectors, with emphasis on immunopathology involved in autoimmunity, cancer, and immunodeficiency syndromes. Letter grading.
+215B. Current Advanced Research Topics in Immunology
+Units: 2.0
+Seminar, one hour; discussion, one hour. Overview of rapidly changing discoveries in very important field of immunology. Directed and student-led discussions of current cutting-edge research developments in immunology. Letter grading.
+220. Integrative Biology and Biomaterials Science in Relation to Dentistry
+Units: 2.0
+Lecture, one hour; laboratory, 90 minutes. Introduction to integrative biology and biomaterials science by bringing together diversity of disciplines that complement one another to unravel complexity of biology in biomaterials in relation to dentistry. Integration of bioengineering, materials sciences, cell biology, and dentistry. Fundamentals of materials science in relation to dentistry, stem cell biology, and knowledge necessary to participate in dental and biomedical research, innovation, and product development. Letter grading.
+221. Advanced Dental Materials
+Units: 2.0
+Lecture, one hour; laboratory, 90 minutes. Preparation of individuals for academic and research careers in dental materials science or broader area of biomaterials relevant to clinical dental practice. Fundamentals of dental materials and knowledge necessary to participate in research and product development. Introduction to materials science, with focus on major classes of materials used in dentistry, including polymers, metals, and ceramics, and providing up-to-date information on dental materials currently used in clinical dentistry. Letter grading.
+226. Craniofacial Growth and Development
+Units: 2.0
+Lecture, two hours. Preparation: strong background in histology and embryology. Students acquire, from scientific literature discussed in lecture/seminar format, advanced knowledge of relevant aspects of human biology as they apply to classic and current concepts of principles governing growth and development of craniofacial region. Students required to present seminars on assigned topics that aid their understanding and analysis of course content that has application to their specific and professional fields. Letter grading.
+227. Dental Embryology and Histology
+Units: 2.0
+Lecture, two hours. Description and interpretation of important stages in development of orofacial apparatus and histological features of its component tissues. Critique of scientific literature relevant to course content and analysis of current state of knowledge about selected features of orofacial apparatus that are of significance to clinical dental specialists. S/U or letter grading.
+228. Dental Pharmacology and Therapeutics
+Units: 2.0
+Lecture, three hours. Survey of pharmacology, with particular emphasis on how drugs interact with dentistry. General principles of drug action and drug effects on autonomic and central nervous systems. S/U or letter grading.
+229A. Culture, Ethnicity, and Health: Implications for Oral Biology and Medicine
+Units: 2.0
+Seminar, one hour; discussion, one hour. Examination of sociocultural, biological, and linguistic anthropology to understand factors that influence health and well-being, experience and distribution of illness, prevention and treatment of sickness, healing processes, social relations of therapy management, and cultural importance and utilization of pluralistic medical systems. Theory, perspectives, and methods from clinical medicine, public health, epidemiology, demography, and social sciences. Letter grading.
+229B. Anthropological Perspectives on Global Health: Implications for Oral Biology and Medicine
+Units: 2.0
+Seminar, one hour; discussion, one hour. What factors determine health, illness, and disease in global context, including political ecology of infectious diseases, child health issues, women's health and reproductive health, global trade in legal and illegal drugs, demography and health transition, structural adjustment, problems associated with globalization of pharmaceutical industry; antibiotic resistance, and globalization and health equity. Letter grading.
+234. Seminar: Developmental Neuroendocrineimmunology
+Units: 2.0
+Seminar, two hours. Designed for graduate students. Psychological and physiological processes intertwine, and one important aspect of psychoneuroimmunological research is characterization of mechanisms that underlie these interactions. Examination of current literature on neuroimmune interaction from developmental perspective. S/U or letter grading.
+M256. Interdisciplinary Response to Infectious Disease Emergencies: Dentistry Perspective
+Units: 4.0
+(Same as Community Health Sciences M256, Medicine M256, and Nursing M298.) Lecture, three hours; discussion, one hour. Designed to instill in professional students ideas of common emergency health problems and coordinated response, with specific attention to bioterrorism. Examination of tools to help students prevent, detect, and intervene in infectious disease emergencies. Interdisciplinary sessions also attended by students in Schools of Medicine, Nursing, and Public Health during weeks two through five. Letter grading.
+260. Oral Biology Seminar
+Units: 1.0
+Seminar, one hour. Discussion of peer-reviewed literature readings in basic sciences related to oral biology. S/U grading.
+273. Research in Clinical Immunology and Lymphology
+Units: 2.0
+Lecture, one hour; discussion, one hour. Forum for discussion of cutting-edge topics in immunology and lymphology from clinical perspective. Emphasis on immune surveillance and lymphatic drainage of oral pathologies associated with AIDS and other diseases. Letter grading.
+275. Molecular and Cell Biology for Oral Biology Graduate Students
+Units: 3.0
+Lecture, two hours; literature review, one hour. Advanced course on prokaryotic and eukaryotic molecular and cell biology, with emphasis on applications in dental research. Letter grading.
+596. Directed Individual Study or Research
+Units: 2.0 to 8.0
+Tutorial, to be arranged. S/U or letter grading.
+597. Preparation for PhD Qualifying Examinations
+Units: 4.0 to 8.0
+Tutorial, to be arranged. S/U or letter grading.
+598. Thesis Research and Preparation
+Units: 2.0 to 8.0
+Tutorial, to be arranged. S/U grading.
+599. Research for and Preparation of PhD Dissertation
+Units: 4.0 to 8.0
+Tutorial, to be arranged. S/U or letter grading.

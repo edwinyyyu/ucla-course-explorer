@@ -1,0 +1,294 @@
+Lower Division Courses (9)
+19. Fiat Lux Freshman Seminars
+Units: 1.0
+Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.
+30H. Collaborative Undergraduate Research Laboratory in Yeast, Genetics, and Molecular Biology
+Units: 5.0
+Lecture, two hours; laboratory, six hours. Limited to 24 students in Collaborative Undergraduate Research Laboratory (CURL), sponsored by Howard Hughes Medical Institute Professors Program. Basic training in biological research, covering topics in molecular genetics, molecular biology, model organism biology, and data analysis. Letter grading.
+50. Stem Cell Biology, Politics, and Ethics: Teasing Apart Issues
+Units: 5.0
+Lecture, three and one half hours; discussion, 90 minutes. Developmental biology of various types of human stem cells. Important functional differences between embryonic, hematopoietic, and adult stem cells, as well as differences in their biomedical potentials. Discussion of history of debate surrounding embryos, as well as various social, ethical, political, and economic aspects of stem cell research. P/NP or letter grading.
+60. Biomedical Ethics
+Units: 5.0
+Lecture, three hours; discussion, one hour. Examination of importance of ethics in research and exploration of how and why bioethics is relevant to reproductive screening, policy formation, public regulation, and law. Provides foundation in traditional ethics, consideration of subcategories of bioethics, neuroethics, and eugenics, and how to apply ethics to contemporary issues in research and technology. P/NP or letter grading.
+70. Genetic Engineering and Society
+Units: 5.0
+Lecture, four hours; discussion, one hour. Designed for nonmajors. Not open to students with credit for Honors Collegium 70A or Life Sciences 3 or 4. Basic principles of genetic engineering. Overview of genetic engineering concepts and specific applications of genetic engineering to medicine, agriculture, law, and society. Emphasis on genetic engineering history and foundations to generate discussion on its use in society. P/NP or letter grading.
+89. Honors Seminars
+Units: 1.0
+Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.
+89HC. Honors Contracts
+Units: 1.0
+Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.
+90. Human Stem Cells and Medicine
+Units: 5.0
+Lecture, three and one half hours; discussion 90 minutes. Stem cells have potential to revolutionize way medicine is practiced today. Some stem cell therapies are already used successfully to treat thousands of people worldwide. Other stem cell therapies are considered experimental; therefore treatments must be monitored by Food and Drug Administration to ensure safety and efficacy. Some stem cell therapies are offered with minimal scientific justification, relying on hope and hype rather than scientific fact. Exploration of use of stem cells in modern medicine to take close look at science behind some of today's most famous and infamous stem cell medical applications. P/NP or letter grading.
+99. Student Research Program
+Units: 1.0 to 2.0
+Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
+Upper Division Courses (52)
+100. Introduction to Cell Biology
+Units: 5.0
+Lecture, three hours; discussion, one hour. Requisites: Life Sciences 3, 4, and 23L, or 7A, 7B, 7C, and 23L. Not open for credit to Molecular, Cell, and Developmental Biology majors or to students with credit for course 165A. Analysis of cell organization, structure, and function at molecular level. Cell membranes and organelles, membrane transport, cellular signaling, cytoskeleton and cell movement, intracellular trafficking, cell energetics. Letter grading.
+104AL. Research Immersion Laboratory in Developmental Biology
+Units: 5.0
+Lecture, two hours; laboratory, eight hours. Requisites: Life Sciences 3, 4, and 23L, or 7A, 7B, 7C, 23L, and 107. Course 104AL is requisite to 104BL. Limited to Molecular, Cell, and Developmental Biology and Microbiology, Immunology, and Molecular Genetics majors. Discovery-based research using sea urchins as model system. Students determine expression of unstudied sea urchin genes using combination of molecular biology and computation techniques. May not be repeated for credit. Letter grading.
+104BL. Advanced Research Analysis in Developmental Biology
+Units: 4.0
+Laboratory, six hours. Enforced requisite: course 104AL. Limited to Molecular, Cell, and Developmental Biology and Microbiology, Immunology, and Molecular Genetics majors. Investigation to be primarily computational in nature whereby students use bioinformatics or mathematical modeling software to interpret, expand, or refine datasets. Use of graphics software to prepare figures and illustrations for presentations, posters, reports, and websites (database entries). Research accomplishments discussed in weekly seminar-style meetings in which student groups create PowerPoint slides and formally present results to class. Production of team poster and final report describing entire research project required. Letter grading.
+M130. Fundamentals of Digital Imaging and Image Processing
+Units: 5.0
+(Same as Computational and Systems Biology M130.) Lecture, three hours; laboratory, two hours. Requisites: Life Sciences 7A, 7B, 7C, and Life Sciences 30A, 30B, and 40 or Statistics 13, or Mathematics 3A, 3B, and 3C, or Mathematics 31A, 31B, and 32A or 33A. Digital imaging has become integral tool to our everyday lives and to nearly every field of life sciences. Quantitative approach to learning about basic properties of digital signals and surveying fundamental methods for processing and analyzing images. Letter grading.
+138. Developmental Biology
+Units: 5.0
+Lecture, three hours; discussion, one hour. Requisites: Life Sciences 3, 4, and 23L, or 7A, 7B, 7C, 23L, and 107. Development of understanding of fundamental molecular mechanisms and cellular activities guiding formation of complex organism from single fertilized egg. Development of model organisms to understand conserved nature of developmental decisions across animal kingdom, distinct features that lead to diversification of animal shape and form during evolution. Origin and roles of stem and progenitor cells in development and maintenance of specific organ systems. Roles of cell shape change, cell death, proliferation, and migration in generating shape of embryo, organs, and tissues. Mechanisms by which cells become different from and communicate with one another to coordinate their activities in time and space in embryo. Special emphasis on experimental approaches used to address these fundamental questions that determine how organized tissues and organs are formed and maintained throughout life of organism. Letter grading.
+M140. Cancer Cell Biology
+Units: 5.0
+(Same as Biological Chemistry M140.) Lecture, three hours; discussion, one hour. Requisite: course 165A. Cancer causes and genetics. Effects of cell transformation on cell growth and metabolism. Altered cell cycle, metabolism, and differentiation pathways in cancer cells. Tumor microenvironment contributions to cancer malignancy, including angiogenesis, metastasis, and immune system evasion. Letter grading.
+C141. Molecular Basis of Plant Differentiation and Development
+Units: 5.0
+Lecture, three hours; discussion, one hour. Requisites: Life Sciences 1, 3, 4, and 23L, or 7A, 7B, 7C, 23L, and 107. In-depth study of basic processes of growth differentiation and development in plants and molecular mechanisms underlying these processes. Discussion of variety of plant systems, with focus on developing critical understanding of current experimental basis of research in this field. Concurrently scheduled with course C239. Letter grading.
+143. Developmental Biology: Genetic Control of Organogenesis
+Units: 5.0
+Lecture, three hours; discussion, one hour. Requisites: course 138, Life Sciences 3, 4, and 23L, or 7A, 7B, 7C, 23L, and 107. Cellular and molecular basis of animal embryology, with primary emphasis on vertebrate organ development, but including pertinent material from Drosophila and other invertebrate model organisms. Letter grading.
+144. Molecular Biology of Cellular Processes
+Units: 5.0
+Lecture, three hours; discussion, one hour. Requisites: Life Sciences 3, 4, and 23L, or 7A, 7B, 7C, 23L, and 107. Not open for credit to students with credit for Chemistry 153B. Development of thorough understanding of fundamentals of modern molecular biology both from perspective of known molecular mechanisms for regulating fundamental processes in cells and from theoretical applied perspective for using molecular biology as laboratory tool. Special emphasis on molecular mechanisms that relate to chromatin and histone modifications, DNA replication and repair, transposition, microRNAs, meiosis, and splicing. Application of molecular biology as tool to understand embryonic development, reprogramming, cancer, and stem cells. Development of sophisticated understanding of DNA, RNA, and protein as well as capability of designing experiments to address fundamental questions in biology and interpreting experimental data. Letter grading.
+145. Appreciation and Critical Review of Biomedical Research
+Units: 4.0
+Seminar, four hours. Corequisite: one course from 198B, 198C, 199B, 199C. Designed to offer students perspectives on how to appreciate independent research they are conducting in faculty mentor's laboratory, and allow them to gain wider understanding of molecular, cell, and developmental biology. Through free-form Socratic learning method, class participation and interaction with classmates is encouraged, while students gain understanding of process and value of peer evaluation, and improved verbal and written presentation skills. Letter grading.
+146. Metabolism and Disease
+Units: 5.0
+Lecture, three hours; discussion, one hour. Requisites: course 165A, and Life Sciences 3, 4, and 23L, or 7A, 7B, 7C, 23L, and 107. Contribution of cellular metabolism to biology of human diseases including cancer and diabetes. Exploration of (1) major alterations of cellular metabolism in disease, (2) tools and technologies that enable detailed characterization of metabolic alterations, (3) therapeutic targeting of metabolic vulnerabilities, and (4) utility of altered cellular metabolism as diagnostic and predictive biomarkers. Letter grading.
+C150. Plant Communication
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: Life Sciences 3, 4, and 23L, or 7A, 7B, 7C, 23L, and 107. Most people think of plants as static organisms, yet they live in world of symbiosis and community. Plants change atmosphere, enrich soil, and communicate with insects, bacteria, and each other--Earth's ultimate symbiote. Just as science has revealed over time misconceptions about how things work at deeper level, scientists and economists now recognize that beyond obvious need to grow above-ground biomass for fuel production, we must better understand how to make that biomass in sustainable manner. Introductory course in chemical ecology and how natural compounds affect gene expression. Emphasis on role of natural compounds in plant/microbe, plant/plant, and plant/herbivore interactions; synopsis of principles of plant defense mechanisms and responses to microbial infections. Concurrently scheduled with course C250. P/NP or letter grading.
+150AL. Research Immersion Laboratory in Plant-Microbe Ecology
+Units: 5.0
+Lecture, two hours; laboratory, eight hours. Enforced requisites: Life Sciences 7A, 7B, 7C, 23L, 107. Course 150AL is enforced requisite to 150BL. Limited to Molecular, Cell, and Developmental Biology majors. Introductory plant-microbe biology laboratory to give students hands-on experience doing experiments and making their own observations about plants and microbiome. Letter grading.
+CM156. Human Genetics and Genomics
+Units: 5.0
+(Same as Microbiology CM156.) Lecture, three hours; discussion, one hour. Requisites: Life Sciences 3, 4, and 23L, or 7A, 7B, and 7C. Application of genetic principles in human populations, with emphasis on genomics, family studies, positional cloning, Mendelian and common diseases, cancer genetics, animal models, cytogenetics, pharmacogenetics, population genetics, and genetic counseling. Lectures and readings in literature, with focus on current questions in fields of medical and human genetics and methodologies appropriate to answer such questions. Concurrently scheduled with course CM256. Letter grading.
+160. Principles of Light Microscopy
+Units: 4.0
+Lecture, three hours; laboratory, two hours. Requisites: Life Sciences 7A, 7B, 7C, 23L. Over last two decades, there has been explosion of new techniques in light microscopy which has provided us with invaluable tools for biological research. Study of light microscopy techniques currently used in research laboratories. Basics of light microscopy (image formation, magnification, resolution, contrast), widefield and fluorescence microscopy, optical sections (confocal, multi-photon, light-sheet and total internal reflection fluorescence microscope), and super-resolution microscopy. Laboratory sessions include setting up and using simple, rail-based microscope; hands-on time and demonstrations on brightfield/epiflurorescence, confocal, light-sheet and super-resolution microscopes. Letter grading.
+165A. Biology of Cells
+Units: 5.0
+Lecture, three hours; discussion, one hour. Requisites: Chemistry 14D or 30B, Life Sciences 3, or 7A, 7B, and 7C. Not open for credit to students with credit for course 100. Molecular basis of cellular structure and function, with focus on each individual cellular organelle, as well as interaction of cells with extracellular environment and with other cells. Material presented in context of experimental questions and answers to incorporate concept of scientific method and recent advances in cell biology research. Exposure in discussions to recent scientific articles that directly relate to information examined in lectures. Letter grading.
+165B. Molecular Biology of Cell Nucleus
+Units: 5.0
+Lecture, three hours; discussion, two hours. Requisite: course 165A. Continuation of course 165A. Molecular biology of eukaryotic cell nucleus, with focus on structure, organization, replication, and repair of eukaryotic genome; eukaryotic gene expression, including transcription, translation, and transport; cell cycle and cancer. Study of advanced specialized topics to allow integrated approach to molecular cell biology. Material presented in context of experimental questions and answers to incorporate concept of scientific method and recent advances in cell biology research. Exposure in discussions to current literature that directly relates to information examined in lectures. Letter grading.
+168. Stem Cell Biology
+Units: 5.0
+Lecture, three hours; discussion, one hour. Requisites: courses 138, 165A. State-of-art education of embryonic and adult stem cells and how these pluripotent/multipotent cells can be used to treat congenital defects, diseases, or injury in humans. Review of current knowledge of human and mouse embryonic stem cells and how they develop into various tissue types. Discussion of adult stem cells in hematopoietic, nervous, and other organ systems to provide examples of tissue-specific stem cells and their impact in human disease. Examination of various model organisms as examples of how model organisms have helped to discover fundamental principles in stem cell biology. How advances in cell and molecular biology and tissue engineering can be applied to use of stem cells in regenerative medicine. Ethical and legal issues related to stem cell research. Letter grading.
+M170. Biochemistry and Molecular Biology of Photosynthetic Apparatus
+Units: 2.0 to 4.0
+(Same as Chemistry CM170.) Lecture, two to three hours; discussion, zero to two hours. Requisites: Chemistry 153A and 153B, or Life Sciences 3 and 23L, and Chemistry 153L. Recommended: Chemistry 153C, 154, Life Sciences 4. Light harvesting, photochemistry, electron transfer, carbon fixation, carbohydrate metabolism, pigment synthesis in chloroplasts and bacteria. Assembly of photosynthetic membranes and regulation of genes encoding those components. Emphasis on understanding of experimental approaches. P/NP or letter grading.
+172. Genomics and Bioinformatics
+Units: 5.0
+Lecture, three hours; discussion, one hour. Requisite: course 144 or 165B or Chemistry 153B or Microbiology 132. Genomics is study of complete repertoire of molecules in cells. Topics include human and yeast genomes and genetic approaches to study of function of individual genes, fundamental bioinformatics algorithms used to study relationship between nucleotide and protein sequences and reconstruction of their evolution, use of microarray technologies to measure changes in gene expression, analysis of microarray data including clustering and promoter analysis, proteomics topics including protein expression and interactions, epigenomic study of DNA methylation and chromatin modification, and systems biology, or computational approaches to integrating varied genomic data to gain more complete understanding of cellular biology. Letter grading.
+C174A. Advanced Topics in Cell and Molecular Biology: Molecular Evolution
+Units: 2.0
+Lecture, two hours. Requisites: courses 100 or 165A, 144, Life Sciences 4 or 107. Recent developments in fields of molecular, cell, and developmental biology. Current developments in field of molecular evolution. Constructing evolutionary trees at molecular level; formal testing of evolutionary hypotheses using sequencing data. Concurrently scheduled with course C222A. Letter grading.
+C174B. Advanced Topics in Cell and Molecular Biology: Molecular Biology of Cell Nucleus
+Units: 2.0
+Lecture, two hours. Requisites: courses 100 or 165A, 144, Life Sciences 4 or 107. Recent developments in fields of molecular, cell, and developmental biology. Animal cell nucleus regulation of cell metabolism. Structure/function relationships, nuclear-cytoplasmic exchange, DNA replication and gene expression. Concurrently scheduled with course C222B. Letter grading.
+C174D. Advanced Topics in Cell and Molecular Biology: Molecular Biology of Extracellular Matrix
+Units: 2.0
+Lecture, two hours. Requisites: courses 100 or 165A, 144. Recommended: course 138. Recent developments in fields of molecular, cell, and developmental biology. Synthesis of key extracellular matrix proteins and their assembly into supramolecular structures. Interactions of matrix proteins with cells and their influence on tissue formation. Concurrently scheduled with course C222D. Letter grading.
+M175A. Neuroscience: From Molecules to Mind--Cellular and Systems Neuroscience
+Units: 5.0
+(Same as Neuroscience M101A, Physiological Science M180A, and Psychology M117A.) Lecture, four hours; discussion, 90 minutes. Requisites: Chemistry 14C or 30A (14C may be taken concurrently), Life Sciences 7C, Physics 1B or 1BH or 5C or 6B. Students must receive grade of C- or better to proceed to next course in series. Cellular neurophysiology, membrane potential, action potentials, and synaptic transmission. Sensory systems and motor system; how assemblies of neurons process complex information and control movement. P/NP or letter grading.
+M175B. Neuroscience: From Molecules to Mind--Molecular and Developmental Neuroscience
+Units: 5.0
+(Same as Neuroscience M101B, Physiological Science M180B, and Psychology M117B.) Lecture, four hours; discussion, 90 minutes. Requisites: course M175A (with grade of C- or better), Life Sciences 7C. Molecular biology of channels and receptors: focus on voltage dependent channels and neurotransmitter receptors. Molecular biology of supramolecular mechanisms: synaptic transmission, axonal transport, cytoskeleton, and muscle. Classical experiments and modern molecular approaches in developmental neurobiology. P/NP or letter grading.
+M175C. Neuroscience: From Molecules to Mind--Behavioral and Cognitive Neuroscience
+Units: 5.0
+(Same as Neuroscience M101C, Physiological Science M180C, and Psychology M117C.) Lecture, four hours; discussion, 90 minutes. Requisite: course M175A with grade of C- or better. Neural mechanisms underlying motivation, learning, and cognition. P/NP or letter grading.
+180A. Scientific Analysis and Communication I
+Units: 2.0
+Seminar, two hours. Enforced corequisite: course 196A. Students read and discuss scientific articles and give presentations, introducing research topics using relevant primary literature. Critical aspects of research process, including record keeping, ethics, laboratory safety and citizenry, mechanics of scientific writing, diverse approaches to research, and project responsibilities and ownership. Acquisition of in-depth and broad knowledge about student research projects, improvement of oral and written communication skills, and full appreciation of process of doing good science and becoming skilled researchers. Letter grading.
+180B. Scientific Analysis and Communication II
+Units: 2.0
+Seminar, two hours. Enforced requisites: courses 180A, 196A. Enforced corequisite: course 196B. Students give presentations similar to laboratory meeting or research symposium talk in which speakers discuss project goals, methodological approaches, results, and conclusions. How to write research papers as well as prepare and present scientific posters. Production of deliverables that demonstrate research achievements and creation of sense of pride for work accomplished as skilled researchers. Letter grading.
+187AL. Research Immersion Laboratory in Genomic Biology
+Units: 5.0
+Lecture, three hours; laboratory, six hours. Requisites: Life Sciences 4 or 107, 23L. Course 187AL is requisite to 187BL. Limited to Molecular, Cell, and Developmental Biology majors. Introduction to cutting-edge genomic technologies and bioinformatics methods and resources for genome annotation. Students propose original research projects related to gene annotation and drive their projects using bioinformatics tools. Students are provided fragments of genome from relatively poorly studied organism that has been sequenced at UCLA. May not be repeated for credit. Letter grading.
+188. Special Courses in Molecular, Cell, and Developmental Biology
+Units: 2.0
+Seminar, two hours. Departmentally sponsored experimental or temporary courses, such as those taught by visiting faculty members. May be repeated for credit with topic change. Letter grading.
+188SA. Individual Studies for USIE Facilitators
+Units: 1.0
+Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.
+188SB. Individual Studies for USIE Facilitators
+Units: 1.0
+Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.
+188SC. Individual Studies for USIE Facilitators
+Units: 2.0
+Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading.
+189. Advanced Honors Seminars
+Units: 1.0
+Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.
+189HC. Honors Contracts
+Units: 1.0
+Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.
+191. Variable Topics Research Seminars: Molecular, Cell, and Developmental Biology
+Units: 2.0
+Seminar, two hours. Designed for junior/senior departmental majors. Intended for students with strong commitment to pursue graduate studies in molecular, biochemical, physiological, and biomedical fields. Weekly variable topics course with reading, discussion, and presentation of paper selected from current literature. May be repeated once for credit. P/NP or letter grading.
+192A. Undergraduate Practicum in Molecular, Cell, and Developmental Biology
+Units: 4.0
+Seminar, three hours. Limited to junior/senior Molecular, Cell, and Developmental Biology majors. Training and supervised practicum for advanced undergraduate students. Students assist in preparation of materials and development of innovative programs under guidance of faculty members in small course settings. Consult Undergraduate Office for further information. May not be applied toward course requirements for Molecular, Cell, and Developmental Biology major. May be repeated once for credit. P/NP or letter grading.
+192B. Undergraduate Practicum: CityLab
+Units: 2.0
+Seminar, two hours. Limited to juniors/seniors in any life sciences major. CityLab training and supervised practicum for advanced undergraduate students. Students assist in preparation of materials and development of innovative programs under guidance of faculty members in small course settings. May not be applied toward course requirements for Molecular, Cell, and Developmental Biology major. May be repeated once for credit. P/NP or letter grading.
+193. Journal Club Seminars: Molecular, Cell, and Developmental Biology
+Units: 1.0
+Seminar, two hours. Corequisite: course 198A or 198B or 198C or 199 or 199A or 199B or 199C. Limited to juniors/seniors. Development of in-depth understanding of and ability to discuss current literature in field of students' own research. May be repeated for credit. P/NP grading.
+194A. Research Group Seminars: Molecular, Cell, and Developmental Biology
+Units: 1.0
+Seminar, two hours. Corequisite: course 198A or 198B or 198C or 199 or 199A or 199B or 199C. Limited to juniors/seniors. Involvement in laboratory's weekly research group meeting to encourage student participation in research and to stimulate progress in specific research areas. Discussion of use of specific research methods and current literature in field or of research of faculty members or students. May be repeated for credit. P/NP or letter grading.
+194B. Research Group Seminars: Current Topics in Biomedical Sciences
+Units: 2.0
+Seminar, two hours. Limited to juniors/seniors in research traineeships or those who have strong commitment to pursue graduate studies in molecular, biochemical, physiological, or biomedical fields. Weekly presentation and discussion of paper selected from current literature. May be repeated for credit. Letter grading.
+196A. Research Apprenticeship I in Molecular, Cell, and Developmental Biology
+Units: 4.0
+Tutorial, 12 hours. Requisites: Life Sciences 3 and 4, or 7A, 7B, 7C, 23L, and 107, 3.0 premajor and/or major grade-point average, and at least one term of prior experience in same laboratory in which 196A research is to be conducted. Corequisite: course 180A. Course 196A is requisite to 196B. Designed for undergraduate students who are interested in pursuing inquiry-based and hypothesis-driven research experience in laboratory of departmental or preapproved faculty mentor. Guided research course to be taken in conjunction with course 180A, followed by continuation research course 196B. Technical aspects vary depending on specific laboratory; however, all students learn how to apply scientific method: propose hypothesis, identify experiments to address hypothesis, perform experiments, and analyze results. How to record information from experimental activities into laboratory notebooks and to write research proposals. Letter grading.
+196B. Research Apprenticeship II in Molecular, Cell, and Developmental Biology
+Units: 4.0
+Tutorial, 12 hours. Enforced requisites: courses 180A, 196A. Enforced corequisite: course 180B. Technical aspects vary depending on specific laboratory; however, all students use scientific method learned in course 196A and continue same experimental scope proposed, but with additional degree of independence in technical and intellectual aspects of research. Letter grading.
+198A. Honors Research in Molecular, Cell, and Developmental Biology
+Units: 4.0
+Tutorial, 12 hours. Requisites: Life Sciences 3 and 4, or 7A, 7B, 7C, 23L, and 107. Course 198A is requisite to 198B, which is requisite to 198C. Limited to junior/senior Molecular, Cell, and Developmental Biology majors. Development and completion of comprehensive research project and honors thesis under direct supervision of approved faculty member to broaden and deepen students' knowledge of some phase of molecular, cell, and developmental biology. Must be taken for at least three terms and for total of 12 units. Report on progress must be presented to undergraduate adviser each term 198 course is taken. Individual contract required. In Progress grading (credit to be given only on completion of course 198B).
+198B. Honors Research in Molecular, Cell, and Developmental Biology
+Units: 4.0
+Tutorial, 12 hours. Requisites: course 198A, Life Sciences 3 and 4, or 7A, 7B, 7C, 23L, and 107. Limited to junior/senior Molecular, Cell, and Developmental Biology majors. Development and completion of comprehensive research project and honors thesis under direct supervision of approved faculty member to broaden and deepen students' knowledge of some phase of molecular, cell, and developmental biology. Must be taken for at least three terms and for total of 12 units. Report on progress must be presented to undergraduate adviser each term 198 course is taken. Individual contract required. Letter grading.
+198C. Honors Research in Molecular, Cell, and Developmental Biology
+Units: 4.0
+Tutorial, 12 hours. Requisites: course 198B, Life Sciences 3 and 4, or 7A, 7B, 7C, 23L, and 107. Limited to junior/senior Molecular, Cell, and Developmental Biology majors. Development and completion of comprehensive research project and honors thesis under direct supervision of approved faculty member to broaden and deepen students' knowledge of some phase of molecular, cell, and developmental biology. Must be taken for at least three terms and for total of 12 units. Report on progress must be presented to undergraduate adviser each term 198 course is taken. Individual contract required. Letter grading.
+198D. Honors Research in Molecular, Cell, and Developmental Biology
+Units: 4.0
+Tutorial, 12 hours. Requisites: Life Sciences 3 and 4, or 7A, 7B, 7C, 23L, and 107. Limited to junior/senior Molecular, Cell, and Developmental Biology majors. Development and completion of comprehensive research project and honors thesis under direct supervision of approved faculty member to broaden and deepen students' knowledge of some phase of molecular, cell, and developmental biology. Must be taken for at least three terms and for total of 12 units. Report on progress must be presented to undergraduate adviser each term 198 course is taken. Individual contract required. Letter grading.
+199. Special Studies Directed Research in Molecular, Cell, and Developmental Biology
+Units: 4.0
+Tutorial, 12 hours. Preparation: submission of written proposal to department for approval by appropriate term deadline. Proposal to be developed in consultation with instructor, outlining research study to be undertaken. Requisites: Life Sciences 3 and 4, or 7A, 7B, 7C, 23L, and 107. Limited to juniors/seniors. Department majors may enroll with sponsorship from department faculty members or preapproved outside faculty members. Other junior/senior life sciences majors may enroll only with department faculty sponsors. Supervised individual research under guidance of faculty mentor. Studies to involve laboratory research, not literature surveys or library research. At end of term culminating paper describing progress of project and signed by student and instructor must be presented to department. May be repeated for credit. Individual contract required. Letter grading.
+199A. Directed Research in Molecular, Cell, and Developmental Biology
+Units: 4.0
+Tutorial, 12 hours. Preparation: minimum 3.0 grade-point average in major. Requisites: Life Sciences 3 and 4, or 7A, 7B, 7C, 23L, and 107. Course 199A is requisite to 199B, which is requisite to 199C, which is requisite to 199D. Limited to juniors/seniors. Department majors may enroll with sponsorship from department faculty members or preapproved outside faculty members. Other junior/senior life sciences majors may enroll only for research projects in laboratories with department faculty sponsors. Supervised individual research under guidance of faculty mentor. Culminating research project designed to broaden and deepen students' knowledge of some phase of molecular, cell, and developmental biology. Must be taken for at least two terms and for total of at least 8 units. Individual contract required. In Progress grading (credit to be given only on completion of course 199B). Students may elect to enroll in additional research through courses 199C and 199D (letter grading). Report on progress must be presented to department each term 199A through 199D course is taken.
+199B. Directed Research in Molecular, Cell, and Developmental Biology
+Units: 4.0
+Tutorial, 12 hours. Preparation: minimum 3.0 grade-point average in major. Requisites: course 199A, Life Sciences 3 and 4, or 7A, 7B, 7C, 23L, and 107. Limited to juniors/seniors. Department majors may enroll with sponsorship from department faculty members or preapproved outside faculty members. Other junior/senior life sciences majors may enroll only for research projects in laboratories with department faculty sponsors. Supervised individual research under guidance of faculty mentor. Culminating research project designed to broaden and deepen students? knowledge of some phase of molecular, cell, and developmental biology. Must be taken for at least two terms and for total of at least 8 units. Individual contract required. Letter grading. Students may elect to enroll in additional research through courses 199C and 199D (letter grading). Report on progress must be presented to department each term 199A through 199D course is taken.
+199C. Directed Research in Molecular, Cell, and Developmental Biology
+Units: 4.0
+Tutorial, 12 hours. Preparation: minimum 3.0 grade-point average in major. Requisites: course 199B, Life Sciences 3 and 4, or 7A, 7B, 7C, 23L, and 107. Limited to juniors/seniors. Department majors may enroll with sponsorship from department faculty members or preapproved outside faculty members. Other junior/senior life sciences majors may enroll only for research projects in laboratories with department faculty sponsors. Supervised individual research under guidance of faculty mentor. Culminating research project designed to broaden and deepen students' knowledge of some phase of molecular, cell, and developmental biology. Must be taken for at least two terms and for total of at least 8 units. Students may elect to enroll in additional research through courses 199C and 199D. Report on progress must be presented to department each term 199A through 199D course is taken. Individual contract required. Letter grading.
+199D. Directed Research in Molecular, Cell, and Developmental Biology
+Units: 4.0
+Tutorial, 12 hours. Preparation: minimum 3.0 grade-point average in major. Requisites: course 199C, Life Sciences 3 and 4, or 7A, 7B, 7C, 23L, and 107. Limited to juniors/seniors. Department majors may enroll with sponsorship from department faculty members or preapproved outside faculty members. Other junior/senior life sciences majors may enroll only for research projects in laboratories with department faculty sponsors. Supervised individual research under guidance of faculty mentor. Culminating research project designed to broaden and deepen students' knowledge of some phase of molecular, cell, and developmental biology. Must be taken for at least two terms and for total of at least 8 units. Students may elect to enroll in additional research through courses 199C and 199D. Report on progress must be presented to department each term 199A through 199D course is taken. Individual contract required. Letter grading.
+Graduate Courses (36)
+C222A. Advanced Topics in Cell and Molecular Biology: Molecular Evolution
+Units: 2.0
+Lecture, two hours. Requisites: courses 100 or 165A, 144, Life Sciences 4 or 107. Recent developments in fields of molecular, cell, and developmental biology. Current developments in field of molecular evolution. Constructing evolutionary trees at molecular level; formal testing of evolutionary hypotheses using sequencing data. Original research proposal required. Concurrently scheduled with course C174A. Letter grading.
+C222B. Advanced Topics in Cell and Molecular Biology: Molecular Biology of Cell Nucleus
+Units: 2.0
+Lecture, two hours. Requisites: courses 100 or 165A, 144, Life Sciences 4 or 107. Recent developments in fields of molecular, cell, and developmental biology. Animal cell nucleus regulation of cell metabolism. Structure/function relationships, nuclear-cytoplasmic exchange, DNA replication and gene expression. Original research proposal required. Concurrently scheduled with course C174B. Letter grading.
+C222D. Advanced Topics in Cell and Molecular Biology: Molecular Biology of Extracellular Matrix
+Units: 2.0
+Lecture, two hours. Requisites: courses 100 or 165A, 144. Recommended: course 138. Recent developments in fields of molecular, cell, and developmental biology. Synthesis of key extracellular matrix proteins and their assembly into supramolecular structures. Interactions of matrix proteins with cells and their influence on tissue formation. Concurrently scheduled with course C174D. Original research proposal required. Letter grading.
+224. Molecular Basis of Vascular Biology
+Units: 4.0
+Lecture, four hours. Requisites: Life Sciences 3, 4. Developmental and pathological aspects of vascular biology. Presentation and discussion of key questions of vascular biology with mechanistic viewpoint. Major emphasis on experimental approaches and current research in field. Introduction to several model systems along with presentation of specific topic. Basic information provided as to how this knowledge is obtained in laboratory using variety of experimental approaches and model organisms. Letter grading.
+228. Prokaryotic and Eukaryotic Gene Systems
+Units: 2.0
+Lecture, two hours. Presentations concerning current experimental approaches in study of DNA replication, organization, transcription, and translation. S/U or letter grading.
+M230B. Structural Molecular Biology
+Units: 4.0
+(Same as Chemistry M230B.) Lecture, three hours; discussion, one hour. Requisites: Mathematics 3C, Physics 6C. Selected topics from principles of biological structure; structures of globular proteins and RNAs; structures of fibrous proteins, nucleic acids, and polysaccharides; harmonic analysis and Fourier transforms; principles of electron, neutron, and X-ray diffraction; optical and computer filtering; three-dimensional reconstruction. S/U or letter grading.
+M230D. Structural Molecular Biology Laboratory
+Units: 2.0
+(Same as Chemistry M230D.) Laboratory, 10 hours. Corequisite: course M230B. Methods in structural molecular biology, including experiments utilizing single crystal X-ray diffraction, low angle X-ray diffraction, electron diffraction, optical diffraction, optical filtering, three-dimensional reconstruction from electron micrographs, and model building. S/U or letter grading.
+M234. Genetic Control of Development
+Units: 4.0
+(Same as Biological Chemistry M234.) Lecture, four hours. Topics at forefront of molecular developmental biology, including problems in oogenesis and early embryogenesis, pattern formation, axis determination, nervous system development, cellular morphogenesis, and cell-cell and cell-matrix interactions. S/U or letter grading.
+C239. Molecular Basis of Plant Differentiation and Development
+Units: 5.0
+Lecture, three hours; discussion, one hour. Requisites: Life Sciences 1, 3, 4, and 23L, or 7A, 7B, 7C, 23L, and 107. In-depth study of basic processes of growth differentiation and development in plants and molecular mechanisms underlying these processes. Discussion of variety of plant systems, with focus on developing critical understanding of current experimental basis of research in this field. Concurrently scheduled with course C141. Preparation and presentation of term paper, in addition to other coursework, required of graduate students. Letter grading.
+242. Topics in Neurobiology
+Units: 4.0
+Lecture, three hours. Requisite: course 171. Selected current problems in neurobiology discussed in depth, with emphasis on analysis of original papers. May be repeated for credit. Letter grading.
+C250. Plant Communication
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: Life Sciences 3, 4, and 23L, or 7A, 7B, 7C, 23L, and 107. Most people think of plants as static organisms, yet they live in world of symbiosis and community. Plants change atmosphere, enrich soil, and communicate with insects, bacteria, and each other--Earth's ultimate symbiote. Just as science has revealed over time misconceptions about how things work at deeper level, scientists and economists now recognize that beyond obvious need to grow above-ground biomass for fuel production, we must better understand how to make that biomass in sustainable manner. Introductory course in chemical ecology and how natural compounds affect gene expression. Emphasis on role of natural compounds in plant/microbe, plant/plant, and plant/herbivore. Interactions; synopsis of principles of plant defense mechanisms and responses to microbial infections. Concurrently scheduled with course C150. S/U or letter grading.
+254. Seminar: Plant Morphogenesis
+Units: 2.0
+Seminar, two hours. S/U or letter grading.
+255. RNA Editing
+Units: 4.0
+Lecture, two hours; discussion, one hour. Knowledge of molecular biology and molecular genetics required. Discussion of diverse set of novel RNA modification phenomena known as RNA editing. Topics include U insertion/deletion type of editing in trypanosome mitochondria, C to U substitution editing in apo B mRNA and plant mitochondria, C insertion editing in Physarum mitochondria, etc. Discussion of mechanism, function, and evolution of these phenomena. S/U grading.
+CM256. Human Genetics and Genomics
+Units: 5.0
+(Same as Microbiology CM256.) Lecture, three hours; discussion, one hour. Requisites: Life Sciences 3, 4, and 23L, or 7A, 7B, and 7C. Application of genetic principles in human populations, with emphasis on genomics, family studies, positional cloning, Mendelian and common diseases, cancer genetics, animal models, cytogenetics, pharmacogenetics, population genetics, and genetic counseling. Lectures and readings in literature, with focus on current questions in fields of medical and human genetics and methodologies appropriate to answer such questions. Concurrently scheduled with course CM156. Independent research project required of graduate students. Letter grading.
+266A. Seminar: Development, Stem Cells, and Disease Mechanisms
+Units: 2.0
+Seminar, two hours. Limited to graduate students. Advanced course based on research papers on fundamental cellular mechanisms governing development and disease. Disease results from genetically determined or acquired deficits in cell and molecular processes; analysis of these processes in context of normal development indicates ways of dealing with corresponding disease. S/U grading.
+266B. Seminar: Development, Stem Cells, and Disease Mechanisms
+Units: 2.0
+Seminar, two hours. Limited to graduate students. Advanced course based on research papers on fundamental cellular mechanisms governing development and disease. Disease results from genetically determined or acquired deficits in cell and molecular processes; analysis of these processes in context of normal development indicates ways of dealing with corresponding disease. S/U grading.
+266C. Seminar: Development, Stem Cells, and Disease Mechanisms
+Units: 2.0
+Seminar, two hours. Limited to graduate students. Advanced course based on research papers on fundamental cellular mechanisms governing development and disease. Disease results from genetically determined or acquired deficits in cell and molecular processes; analysis of these processes in context of normal development indicates ways of dealing with corresponding disease. S/U grading.
+M272. Stem Cell Biology and Regenerative Medicine
+Units: 4.0
+(Same as Pathology M272.) Lecture, two hours; discussion, two hours. Designed for graduate students. Presentation of current knowledge of embryonic and adult stem cells and factors that regulate their growth and development. Major emphasis on how advances in cell and molecular biology and tissue engineering can be applied to use of stem cells in regenerative medicine. Bioethical and legal issues related to stem cell research. S/U or letter grading.
+276. Seminar: Molecular Genetics
+Units: 2.0
+Seminar, two hours. Topics vary each term. S/U or letter grading.
+277. Seminar: Genetics
+Units: 2.0
+Seminar, two hours. S/U or letter grading.
+278. Seminar: Molecular Genetics of Development
+Units: 2.0
+Seminar, two hours. Designed for graduate students. Topics vary from year to year, with focus on establishment of position and pattern during embryogenesis by interaction of signal transduction systems and transcription factors. S/U or letter grading.
+281. Seminar: Molecular Biology
+Units: 2.0
+Seminar, two hours. S/U or letter grading.
+283. Seminar: Topics in Cell Biology
+Units: 2.0
+Seminar, two hours. Discussion of various topics on biology of eukaryotic cells. Topics vary from year to year and include bioenergetics, motility, organelle DNA, membrane structure and function, oncogenic transformation, nuclear organization and function. S/U or letter grading.
+284. Seminar: Structural Macromolecules
+Units: 2.0
+Seminar, one hour; discussion, three hours. Presentation and discussion of current topics in extracellular active structural macromolecules--their synthesis, structure, and roles in cell and developmental biology. Letter grading.
+286. Seminar: Plant Development
+Units: 2.0
+Seminar, one hour; discussion, two hours. Preparation: one plant physiology course and at least one advanced undergraduate or graduate plant development or biochemistry course. Seminar on specific topics in plant development. Content varies each term. S/U grading.
+289. Current Topics in Plant Molecular Biology
+Units: 2.0
+Discussion, one hour. Recent research developments in field of plant molecular biology. Opportunities for graduate students to discuss individual research work. S/U grading.
+292. Seminar: Molecular Evolution
+Units: 2.0
+Seminar, three hours. Detailed analysis of current understanding of evolution of molecular sequences and structures. Letter grading.
+295. Seminar: Molecular, Cell, and Developmental Biology
+Units: 2.0
+Seminar, two hours. In-depth surveys of recent developments in molecular, cell, and developmental biology research. Reading and presentation of primary research articles to learn to critically evaluate research papers and to organize and present seminars on specific research topics. S/U or letter grading.
+296. Advanced Topics in Molecular, Cellular, and Developmental Biology
+Units: 2.0
+Discussion, three hours. Advanced study and analysis of current topics in cell, molecular, and developmental biology. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+297. Advances in Molecular Analysis of Plant Development and Plant/Microbe Interactions
+Units: 2.0
+Discussion, two hours. Recent advances in plant molecular biology, with emphasis on control of gene expression both during plant development and in plant/microbe interactions. S/U grading.
+375. Teaching Apprentice Practicum
+Units: 1.0 to 4.0
+Seminar, to be arranged. Preparation: apprentice personnel employment as teaching assistant, associate, or fellow. Teaching apprenticeship under active guidance and supervision of regular faculty member responsible for curriculum and instruction at UCLA. May be repeated for credit. S/U grading.
+495. Preparation for Teaching Molecular, Cell, and Developmental Biology in Higher Education
+Units: 2.0
+Seminar, two hours. Designed for graduate students. Study of problems and methodologies in teaching molecular, cell, and developmental biology, including workshops, seminars, apprentice teaching, and peer observation. S/U grading.
+596. Directed Individual (or Tutorial) Studies
+Units: 2.0 to 12.0
+Tutorial, to be arranged. S/U grading.
+597. Preparation for MA Comprehensive Examination or PhD Qualifying Examinations
+Units: 2.0 to 12.0
+Tutorial, to be arranged. May not be applied toward MA or PhD course requirements. S/U grading.
+598. MA Thesis Research and Writing
+Units: 2.0 to 12.0
+Tutorial, to be arranged. S/U grading.
+599. PhD Dissertation Research and Writing
+Units: 2.0 to 12.0
+Tutorial, to be arranged. S/U grading.

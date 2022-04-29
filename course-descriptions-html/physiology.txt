@@ -1,0 +1,45 @@
+Lower Division Courses (2)
+19. Fiat Lux Freshman Seminars
+Units: 1.0
+Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.
+99. Student Research Program
+Units: 1.0 to 2.0
+Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
+Upper Division Courses (4)
+188SA. Individual Studies for USIE Facilitators
+Units: 1.0
+Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.
+188SB. Individual Studies for USIE Facilitators
+Units: 1.0
+Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.
+188SC. Individual Studies for USIE Facilitators
+Units: 2.0
+Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading.
+199. Directed Research in Physiology
+Units: 2.0 to 4.0
+Tutorial, to be arranged. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit. Individual contract required. P/NP or letter grading.
+Graduate Courses (8)
+M210. Molecular and Cellular Mechanisms of Neural Integration
+Units: 5.0
+(Same as Neuroscience M230 and Physiological Science M210.) Lecture, four hours; discussion, one hour. Requisite: Neuroscience M202. Introduction to mechanisms of synaptic processing. Selected problems of current interest, including regulation and modulation of transmitter release, molecular biology and physiology of receptors, cellular basis of integration in sensory perception and learning, neural nets and oscillators, and molecular events in development and sexual differentiation. Letter grading.
+220. Methods in Cell Physiology
+Units: 6.0
+Linear circuit analysis, including admittance, transfer admittance, transfer function, and filters using transform methods. Application of these concepts to electronic analog circuits in lectures and laboratory, with emphasis on operational amplifiers. Applications to electrophysiology include microelectrode amplifiers, voltage clamp and patch clamp techniques, with circuit analysis and noise considerations. Digital electronics cover logic gates, sequential circuits, and A/D and D/A conversion, with introduction to sampling theory.
+221. Cell Physiology: Excitability
+Units: 6.0
+Prerequisite: course 220 or consent of instructor. In-depth coverage of general properties of excitable cells, linear cable properties, nonlinear conductance changes, and generation and propagation of the nerve impulse. Voltage gating and gating currents, as well as relationship between macroscopic conductance and single channel properties discussed in analytical detail using original publications.
+298. Current Topics in Physiology
+Units: 2.0 to 4.0
+Lecture, one hour; discussion, one hour. Designed for graduate students. Students read primary literature in a specified area and conduct or participate in discussions on these papers. May be repeated for credit. S/U or letter grading.
+596. Directed Individual Study or Research
+Units: 2.0 to 12.0
+Tutorial, to be arranged. S/U grading.
+597. Preparation for MS Comprehensive Examination or PhD Qualifying Examinations
+Units: 2.0 to 12.0
+Tutorial, to be arranged. S/U grading.
+598. Thesis Research for MS Candidates
+Units: 2.0 to 12.0
+Tutorial, to be arranged. S/U grading.
+599. Dissertation Research for PhD Candidates
+Units: 2.0 to 12.0
+Tutorial, to be arranged. S/U grading.

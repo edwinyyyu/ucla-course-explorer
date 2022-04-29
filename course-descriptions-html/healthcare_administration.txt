@@ -1,0 +1,33 @@
+Graduate Courses (11)
+401. Health Care Organization and Financing
+Units: 4.0
+Lecture, three hours; discussion, one hour. Limited to Master of Healthcare Administration students. In-depth analysis of organization of health services systems in U.S., using relevant theories, concepts, and models. Discussion of various mechanisms for payment and insurance schemes. Letter grading.
+402. Management and Organizational Behavior in Health Systems
+Units: 4.0
+Lecture, three hours; discussion, one hour. Application of contemporary management and organization behavioral theory to systems that provide personal health-care services. Environmental characteristics, decision-making, structure and culture, and processes of health services organizations. Letter grading.
+403. Health-Care Information Systems and Technology
+Units: 4.0
+Lecture, three hours; discussion, one hour. Provides strong foundation in health information technology (HIT) for those working in health care, with emphasis on development of knowledge and skill to plan, manage, and implement HIT systems in health-care delivery organizations with clinical and business partners and evolving HIT spaces. Background and evolution of HIT; how it is planned, implemented, and managed; and how it can be productively used by health-care delivery organizations, external research organizations, regulatory organizations, providers, and patients/consumers. Fundamentals of technology, electronic medical records (EMR), electronic health records (EHR), personal health records (PHR), meaningful use, interoperability, and health information exchanges (HIE). Letter grading.
+404. Health-Care Strategy
+Units: 4.0
+Lecture, three hours; discussion, one hour. Conceptual, analytical, and technical aspects of environmental assessment and strategy formulation in health delivery organizations, biopharma, and medical technology. Special attention to structure and dynamics of competitive markets, corporate-level strategic planning and marketing, managerial ethics and values, organizational creativity/innovation. Letter grading.
+411. Microeconomic Theory for Health Sector
+Units: 4.0
+Lecture, three hours; discussion, one hour. Microeconomic aspects of health-care system, including health manpower substitution, choice of efficient modes of treatment, market efficiency, and competition. Letter grading.
+412. Statistics for Health Management Decision-Making
+Units: 4.0
+Lecture, three hours; discussion, one hour. Sampling situations, with special attention to those occurring in biological and social sciences. Topics include distributions, tests of hypotheses, estimation, types of error, significance and confidence levels, and sample size. Letter grading.
+413. Health-Care Operations Management
+Units: 4.0
+Lecture, three hours; discussion, one hour. Development of skills in analyzing and improving health-care systems and processes by integrating systems analysis, quality management, operations research techniques, exploratory data analytics, and data visualization. Emphasis on use of organizational data, especially time-stamp data, to study processes and outcomes of care, particularly as it relates to flow analysis and improving flow. Hands-on use of computer-based modeling tools, including spreadsheets and spreadsheet add-ins focus on formulating, designing, and constructing models; drawing conclusions from model results; and translating results into written end-user reports to support process improvement and quality improvement efforts. Letter grading.
+414. Health-Care Financial Accounting
+Units: 4.0
+Lecture, three hours; discussion, one hour. Examination of purpose and methods of financial accounting (including for profit, not for profit, and governmental), function and organization of finance department, and special industry characteristics affecting financial management (to include third party payers, price or rate-setting and cost-shifting, taxation and health-care incentives, and emerging health-care organizations). Letter grading.
+415. Healthcare Financial Management
+Units: 4.0
+596. Directed Individual Study or Research
+Units: 1.0 to 4.0
+Tutorial, to be arranged with MHA program faculty member. Limited to graduate students. Professional development seminars and workshops. Only 1 unit may be applied toward MHA minimum total course requirement. S/U or letter grading.
+597. Preparation for Master's Comprehensive Capstone Project
+Units: 1.0 to 4.0
+Tutorial, to be arranged. Limited to graduate students. Reading and preparation for master's comprehensive capstone project. Mandatory and supplemental topic lists approved by student advisory committee. Only 1 unit may be applied toward MHA minimum total course requirement. May be repeated for credit. S/U and letter grading.

@@ -1,0 +1,84 @@
+Lower Division Courses (17)
+1. Elementary Zapotec
+Units: 4.0
+Lecture, five hours. Introduction to Zapotec language of Tlacolula Valley of Oaxaca. P/NP or letter grading.
+2. Elementary Zapotec
+Units: 4.0
+Lecture, five hours. Enforced requisite: course 1. Introduction to Zapotec language of Tlacolula Valley of Oaxaca. P/NP or letter grading.
+3. Elementary Zapotec
+Units: 4.0
+Lecture, five hours. Enforced requisite: course 2. Introduction to Zapotec language of Tlacolula Valley of Oaxaca. P/NP or letter grading.
+5A. Elementary Nahuatl
+Units: 4.0
+(Formerly numbered M5A.) Lecture, four hours. Course 5A is enforced requisite to 5B, which is enforced requisite to 5C. Introduction to Aztec language of central Mexico. Coverage of basic Nahuatl grammar, with equal emphasis on reading, writing, conversation, and comprehension. P/NP or letter grading.
+5B. Elementary Nahuatl
+Units: 4.0
+(Formerly numbered M5B.) Lecture, four hours. Enforced requisite: course 5A. Introduction to Aztec language of central Mexico. Coverage of basic Nahuatl grammar, with equal emphasis on reading, writing, conversation, and comprehension. P/NP or letter grading.
+5C. Elementary Nahuatl
+Units: 4.0
+(Formerly numbered M5C.) Lecture, four hours. Enforced requisite: course 5B. Introduction to Aztec language of central Mexico. Coverage of basic Nahuatl grammar, with equal emphasis on reading, writing, conversation, and comprehension. P/NP or letter grading.
+15A. Intermediate Nahuatl
+Units: 4.0
+(Formerly numbered M15A.) Lecture, four hours. Enforced requisites: courses 5A, 5B, 5C. Course 15A is enforced requisite to 15B, which is enforced requisite to 15C. Taught primarily in Nahuatl. Examination of Nahuatl (Aztec) language of central Mexico at intermediate level. Coverage of Nahuatl grammar, with equal emphasis on reading, writing, conversation, and comprehension. P/NP or letter grading.
+15B. Intermediate Nahuatl
+Units: 4.0
+(Formerly numbered M15B.) Lecture, four hours. Enforced requisite: course 15A. Taught primarily in Nahuatl. Examination of Nahuatl (Aztec) language of central Mexico at intermediate level. Coverage of Nahuatl grammar, with equal emphasis on reading, writing, conversation, and comprehension. P/NP or letter grading.
+15C. Intermediate Nahuatl
+Units: 4.0
+(Formerly numbered M15C.) Lecture, four hours. Enforced requisite: course 15B. Taught primarily in Nahuatl. Examination of Nahuatl (Aztec) language of central Mexico at intermediate level. Coverage of Nahuatl grammar, with equal emphasis on reading, writing, conversation, and comprehension. P/NP or letter grading.
+17. Intensive Elementary Quechua
+Units: 12.0
+Lecture, 15 hours; laboratory, five hours. Intensive course equivalent to courses 18A, 18B, 18C. Language of Incas and its present-day dialects, as spoken in Andean South America. Offered in summer only. Letter grading.
+18A. Elementary Quechua
+Units: 4.0
+Lecture, five hours. Course 18A is enforced requisite to 18B, which is enforced requisite to 18C. Language of Incas and present-day Quechua language, as spoken in Andean South America. P/NP or letter grading.
+18B. Elementary Quechua
+Units: 4.0
+Lecture, five hours. Enforced requisite: course 18A. Language of Incas and present-day Quechua language, as spoken in Andean South America. P/NP or letter grading.
+18C. Elementary Quechua
+Units: 4.0
+Lecture, five hours. Enforced requisite: course 18B. Language of Incas and present-day Quechua language, as spoken in Andean South America. P/NP or letter grading.
+19. Fiat Lux Freshman Seminars
+Units: 1.0
+Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.
+89. Honors Seminars
+Units: 1.0
+Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.
+89HC. Honors Contracts
+Units: 1.0
+Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.
+99. Student Research Program
+Units: 1.0 to 2.0
+Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
+Upper Division Courses (9)
+115A. Advanced Nahuatl
+Units: 4.0
+(Formerly numbered M115A.) Lecture, four hours. Requisites: courses 15A, 15B, 15C. Course 115A is requisite to 115B, which is requisite to 115C. Taught primarily in Nahuatl. Examination of Nahuatl (Aztec) language of central Mexico at intermediate level. Coverage of Nahuatl grammar, with equal emphasis on reading, writing, conversation, and comprehension. P/NP or letter grading.
+115B. Advanced Nahuatl
+Units: 4.0
+(Formerly numbered M115B.) Lecture, four hours. Requisite: course 115A. Taught primarily in Nahuatl. Examination of Nahuatl (Aztec) language of central Mexico at intermediate level. Coverage of Nahuatl grammar, with equal emphasis on reading, writing, conversation, and comprehension. P/NP or letter grading.
+115C. Advanced Nahuatl
+Units: 4.0
+(Formerly numbered M115C.) Lecture, four hours. Requisite: course 115B. Taught primarily in Nahuatl. Examination of Nahuatl (Aztec) language of central Mexico at intermediate level. Coverage of Nahuatl grammar, with equal emphasis on reading, writing, conversation, and comprehension. P/NP or letter grading.
+119A. Advanced Quechua
+Units: 4.0
+Lecture, five hours. Requisite: course 18C. Course 119A is requisite to 119B, which is requisite to 119C. Readings in Quechua. Dialectal and stylistic variation. Discussions mainly in Quechua. P/NP or letter grading.
+119B. Advanced Quechua
+Units: 4.0
+Lecture, five hours. Requisite: course 119A. Readings in Quechua. Dialectal and stylistic variation. Discussions mainly in Quechua. P/NP or letter grading.
+119C. Advanced Quechua
+Units: 4.0
+Lecture, five hours. Requisite: course 119B. Readings in Quechua. Dialectal and stylistic variation. Discussions mainly in Quechua. P/NP or letter grading.
+189. Advanced Honors Seminars
+Units: 1.0
+Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.
+189HC. Honors Contracts
+Units: 1.0
+Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.
+191. Variable Topics Research Seminars: Indigenous Languages
+Units: 2.0 or 4.0
+Seminar, three hours. Research seminars on selected topics on various indigenous languages. Reading, discussion, and development of culminating project. May be repeated for credit with topic change. P/NP or letter grading.
+Graduate Courses (1)
+596. Directed Studies in Quechua
+Units: 1.0 to 8.0
+Tutorial, to be arranged. Requisites: courses 119A, 119B, 119C. Directed individual study or research in Quechua. Four units may be applied toward MA course requirements. May be repeated for credit. S/U grading.

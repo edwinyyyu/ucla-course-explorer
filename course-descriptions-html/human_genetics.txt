@@ -1,0 +1,153 @@
+Lower Division Courses (2)
+19. Fiat Lux Freshman Seminars
+Units: 1.0
+Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.
+99. Student Research Program
+Units: 1.0 to 2.0
+Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
+Upper Division Courses (8)
+CM113. Ethical, Legal, and Societal Topics in Genetic Counseling
+Units: 2.0
+(Same as Society and Genetics M113.) Lecture, two hours. Discussion of social, cultural, ethical, and legal issues in genetics and genetic counseling. Concurrently scheduled with course C413. Letter grading.
+CM124. Machine Learning Applications in Genetics
+Units: 4.0
+(Same as Computer Science CM124.) Lecture, four hours; discussion, two hours; outside study, six hours. Requisites: Computer Science 32 or Program in Computing 10C with grade of C- or better, Mathematics 33A, and one course from Civil Engineering 110, Electrical and Computer Engineering 131A, Mathematics 170A, Mathematics 170E, or Statistics 100A. Designed for engineering students as well as students from biological sciences and medical school. Introduction to computational analysis of genetic variation and computational interdisciplinary research in genetics. Topics include introduction to genetics, identification of genes involved in disease, inferring human population history, technologies for obtaining genetic information, and genetic sequencing. Focus on formulating interdisciplinary problems as computational problems and then solving those problems using computational techniques from statistics and computer science. Concurrently scheduled with course CM224. Letter grading.
+C144. Genomic Technology
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisite: Life Sciences 4. Survey of key technologies that have led to successful application of genomics to biology, with focus on theory behind specific genome-wide technologies and their current applications. Concurrently scheduled with course C244. P/NP or letter grading.
+188SA. Individual Studies for USIE Facilitators
+Units: 1.0
+Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.
+188SB. Individual Studies for USIE Facilitators
+Units: 1.0
+Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.
+188SC. Individual Studies for USIE Facilitators
+Units: 2.0
+Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading.
+189. Advanced Honors Seminars
+Units: 1.0
+Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.
+199. Special Studies in Human Genetics
+Units: 2.0 to 8.0
+Tutorial, to be arranged. Students select instructor among eligible research faculty and carry out independent research project under instructor supervision. P/NP or letter grading.
+Graduate Courses (40)
+M203. Stochastic Models in Biology
+Units: 4.0
+(Same as Biomathematics M203.) Lecture, four hours. Requisite: Mathematics 170A or equivalent experience in probability. Mathematical description of biological relationships, with particular attention to areas where conditions for deterministic models are inadequate. Examples of stochastic models from genetics, physiology, ecology, and variety of other biological and medical disciplines. S/U or letter grading.
+M207A. Theoretical Genetic Modeling
+Units: 4.0
+(Same as Biomathematics M207A and Biostatistics M272.) Lecture, three hours; discussion, one hour. Requisites: Mathematics 115A, 131A, Statistics 100B. Mathematical models in statistical genetics. Topics include population genetics, genetic epidemiology, gene mapping, design of genetics experiments, DNA sequence analysis, and molecular phylogeny. S/U or letter grading.
+M207B. Applied Genetic Modeling
+Units: 4.0
+(Same as Biomathematics M207B and Biostatistics M237.) Lecture, three hours; laboratory, one hour. Requisites: Biostatistics 200B, 202B (may be taken concurrently) or equivalent coursework or consent of instructor. Covers basic genetic concepts (prior knowledge of human genetics not required). Topics include statistical methodology underlying genetic analysis of both quantitative and qualitative complex traits. Laboratory for hands-on computer analysis of genetic data; laboratory reports required. Course complements M207A; students may take either and are encouraged to take both. S/U or letter grading.
+210. Topics in Genomics
+Units: 2.0
+Seminar, two hours. Survey of current biological theory and technology used in genomic research. Topics include genomic technologies, functional genomics, proteomics, statistical genetics, bioinformatics, and ethical issues in human genetics. S/U grading.
+M211. Mathematical and Statistical Phylogenetics
+Units: 4.0
+(Same as Biomathematics M211 and Biostatistics M239.) Lecture, three hours; laboratory, one hour. Preparation: undergraduate course in statistics and probability. Theoretical models in molecular evolution focusing on phylogenetic techniques. Topics include evolutionary tree reconstruction methods, studies of viral evolution, phylogeography and coalescent approaches. Examples provided from evolutionary biology and evolutionary medicine, with unique focus on implications for human disease processes. Laboratory for hands-on computer analysis of sequence data. S/U or letter grading.
+CM224. Machine Learning Applications in Genetics
+Units: 4.0
+(Same as Bioinformatics M224 and Computer Science CM224.) Lecture, four hours; discussion, two hours; outside study, six hours. Requisites: Computer Science 32 or Program in Computing 10C with grade of C- or better, Mathematics 33A, and one course from Civil Engineering 110, Electrical and Computer Engineering 131A, Mathematics 170A, Mathematics 170E, or Statistics 100A. Designed for engineering students as well as students from biological sciences and medical school. Introduction to computational analysis of genetic variation and computational interdisciplinary research in genetics. Topics include introduction to genetics, identification of genes involved in disease, inferring human population history, technologies for obtaining genetic information, and genetic sequencing. Focus on formulating interdisciplinary problems as computational problems and then solving those problems using computational techniques from statistics and computer science. Concurrently scheduled with course CM124. Letter grading.
+M226. Machine Learning in Bioinformatics
+Units: 4.0
+(Same as Bioinformatics M226, Biomathematics M226, and Computer Science M226.) Lecture, four hours; outside study, eight hours. Enforced requisite: Computer Science 32 or Program in Computing 10C with grade of C- or better. Recommended: one course from Biostatistics 100A, 110A, Civil Engineering 110, Electrical and Computer Engineering 131A, Mathematics 170A, or Statistics 100A. Familiarity with probability, statistics, linear algebra, and algorithms expected. Designed for engineering students as well as students from biological sciences and medical school. Biology has become data-intensive science. Bottleneck in being able to make sense of biological processes has shifted from data generation to statistical models and inference algorithms that can analyze these datasets. Statistical machine learning provides important toolkit in this endeavor. Biological datasets offer new challenges to field of machine learning. Examination of statistical and computational aspects of machine learning techniques and their application to key biological questions. Letter grading.
+M229S. Seminar: Current Topics in Bioinformatics
+Units: 4.0
+(Same as Biological Chemistry M229S and Computer Science M229S.) Seminar, four hours; outside study, eight hours. Designed for graduate engineering students as well as students from biological sciences and medical school. Introduction to current topics in bioinformatics, genomics, and computational genetics and preparation for computational interdisciplinary research in genetics and genomics. Topics include genome analysis, regulatory genomics, association analysis, association study design, isolated and admixed populations, population substructure, human structural variation, model organisms, and genomic technologies. Computational techniques include those from statistics and computer science. May be repeated for credit with topic change. Letter grading.
+236A. Advanced Human Genetics A: Molecular Aspects
+Units: 4.0
+Lecture, three hours. Recommended preparation: prior knowledge of basic concepts in molecular biology and genetics. Advanced topics in human genetics related to molecular genetics and relevant technologies. Topics include genomic technologies, human genome, mapping and identification of disease-causing mutations, transcriptomics, proteomics, functional genomics, epigenetics, and stem cells. Reading materials include original research articles and reviews or book chapters. Letter grading.
+236B. Advanced Human Genetics B: Genetics and Genomics Aspects
+Units: 4.0
+Seminar, four hours; discussion, four hours. Human genetics is fundamental scientific field that studies inheritance in humans and therefore also has immediate practical value for human health and disease. Identification of genes and genetic variation involved in human diseases, traits, and behavior is one of main goals of human genetic studies. Genomic technologies are rapidly advancing and allow for comprehensive and in-depth analysis of human genome. Covers different themes in field of human genetics, including genetics of monogenic disorders, genetic mapping of complex traits, transcriptome analysis, and epigenomic studies of human disease. Overview of human genetics through examination of selection of papers that highlight each of these themes. Letter grading.
+C244. Genomic Technology
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisite: Life Sciences 4. Survey of key technologies that have led to successful application of genomics to biology, with focus on theory behind specific genome-wide technologies and their current applications. Concurrently scheduled with course C144. S/U or letter grading.
+M255. Mapping and Mining Human Genome
+Units: 3.0
+(Same as Pathology M255.) Lecture, three hours. Basic molecular genetic and cytogenetic techniques of gene mapping. Selected regions of human genomic map scrutinized in detail, particularly gene families and clusters of genes that have remained linked from mouse to human. Discussion of localizations of disease genes. S/U or letter grading.
+M260A. Introduction to Bioinformatics
+Units: 4.0
+(Same as Bioinformatics M221, Chemistry CM260A, and Computer Science CM221.) Lecture, four hours; discussion, two hours. Requisites: Computer Science 32 or Program in Computing 10C with grade of C- or better, and one course from Civil and Environmental Engineering 110, Electrical and Computer Engineering 131A, Mathematics 170A, Mathematics 170E, or Statistics 100A. Prior knowledge of biology not required. Designed for engineering students as well as students from biological sciences and medical school. Introduction to bioinformatics and methodologies, with emphasis on concepts and inventing new computational and statistical techniques to analyze biological data. Focus on sequence analysis and alignment algorithms. S/U or letter grading.
+M265. Computational Methods in Genomics
+Units: 4.0
+(Same as Bioinformatics M225 and Computer Science M225.) Lecture, two and one half hours; discussion, two and one half hours; outside study, seven hours. Introduction to computational approaches in bioinformatics, genomics, and computational genetics and preparation for computational interdisciplinary research in genetics and genomics. Topics include genome analysis, regulatory genomics, association analysis, association study design, isolated and admixed populations, population substructure, human structural variation, model organisms, and genomic technologies. Computational techniques and methods include those from statistics and computer science. Letter grading.
+282. Topics on Scientific Careers
+Units: 2.0
+Lecture, two hours. Limited to graduate students. Covers topics related to scientific careers such as scientific writing and presentation (including to non-scientific audiences), grant writing and reviewing, curricula vitae, hiring process, social media usage, developing short- and long-term goals, and balancing career and non-work life. Exploration of differences between industry, government, teaching-college, and research-college careers. Active participation and oral and written presentations required. S/U grading.
+400A. Principles and Practices in Medical Genetics 1
+Units: 3.0
+Lecture, three hours. Limited to Genetic Counseling students, and open to medical genetics, molecular and cytogenetics fellows with permission. First course in three-course series. Focus on medical approaches to clinical genetics. Topics include molecular basis of genetic disease, modes of inheritance, principles of cytogenetics and molecular technologies, disorders of chromosomes, and fundamentals of prenatal diagnosis and screening. Addresses application of medical and genetic information to genetic counseling. Includes lectures, problem-based learning scenarios, examinations, and written reflections. Grand Rounds/Seminar series attendance is required component. Letter grading.
+400B. Principles and Practices in Medical Genetics 2
+Units: 3.0
+Lecture, three hours. Limited to Genetic Counseling students, and open to medical genetics, molecular and cytogenetics fellows with permission. Second course in three-course series. Focus on medical approaches to clinical genetics. Topics include cancer genetics, principles of mathematical and population genetics, multifactorial inheritance, risk assessment, teratology and dysmorphology. Addresses application of medical and genetic information to genetic counseling. Includes lectures, problem-based learning scenarios, examinations, and written reflections. Grand Rounds/Seminar series attendance is required component. Letter grading.
+400C. Principles and Practices in Medical Genetics 3
+Units: 3.0
+Lecture, three hours. Limited to Genetic Counseling students, and open to medical genetics, molecular and cytogenetics fellows with permission. Third course in three-course series. Focus on medical approaches to clinical genetics. Topics include overview of various pediatrics, adult-onset and biochemical genetic disorders, newborn screening, and current treatments of genetic disorders. Addresses application of medical and genetic information to genetic counseling. Includes lectures, problem-based learning scenarios, examinations, and reflections. Grand Rounds/Seminar series attendance is required component. Letter grading.
+401. Fundamental Genetic Counseling Skills
+Units: 4.0
+Lecture, four hours. Limited to Genetic Counseling students. Introduction to profession of genetic counseling. Addresses fundamental genetic counseling skills and structure of genetic counseling session using didactic and active learning techniques, including role-plays, supplemented by activities in clinical settings. Topics include history of profession, theories of psychosocial counseling and its principles including reciprocal-engagement model of genetic counseling, active listening, verbal and non-verbal communication, empathy, how to ask questions, self-disclosure and self-involving skills, and structure of genetic counseling session. Practical exercises and supplementary activities address constructing genetic counseling session, contracting, obtaining family history, drawing and interpreting pedigrees, interviewing techniques, assessing level of patient and family understanding, case preparation, risk communication, development of educational materials, and referrals. General Genetics Case Conference attendance and clinic observations are required component. Letter grading.
+402. Reproductive Genetics in Practice
+Units: 4.0
+Lecture, four hours. Limited to Genetic Counseling students. Focus on reproductive genetic counseling. Reproductive topics include prenatal screening and prenatal diagnosis, invasive and non-invasive procedures, teratogens, ultrasound findings, carrier screening, infertility assessment, preimplantation genetic diagnosis, and in vitro fertilization, reproductive options. Practical exercises include case preparation, medical and family history analysis, risk assessment and counseling, differential diagnosis development, diagnostic testing selection (including analytic validity, clinical validity, and clinical utility of screening and diagnostic tests), results interpretation, patient education, and psychosocial counseling specific to perinatal setting. General Genetics Case Conference attendance and clinic observations are required component. Letter grading.
+403. Specialty Genetics in Practice
+Units: 4.0
+Lecture, four hours. Limited to Genetic Counseling students. Focus on specialty genetics topics including cancer, cardiogenetics, and neurogenetics. Exploration of aspects of these disciplines in context of genetic counseling. Discussion of impact of our growing knowledge of both common and rare genomic etiology on risk assessment, clinical management, and genetic counseling. Practical exercises include case preparation, medical and family history analysis, risk assessment and counseling, differential diagnosis development, diagnostic testing selection (including analytic validity, clinical validity, and clinical utility of diagnostic and predictive tests), results interpretation, patient education, and psychosocial counseling specific to cancer genetics, cardiogenetics, and neurogenetics. Patients as guest speaks offer patient perspective and experience. Letter grading.
+404. Advanced Genetic Counseling Skills
+Units: 4.0
+Lecture, four hours. Requisite: at least four hours visiting/observing/shadowing at least two resource clinics/centers and at least four hours observing bereavement group(s) in past year. Limited to Genetic Counseling students. Focus on advanced psychosocial topics in genetic counseling along with social and legal issues in genetics and genetic counseling. Topics include family dynamics, burden of disease, crisis intervention, dynamics of grief and bereavement, multicultural sensitivity, coping mechanisms, transference and countertransference, and disability organizations and advocacy. Practice exercises include role-playing in range of advanced psychosocial situations, shadowing support groups and families, simulating patient full session under different scenarios including with interpreters and group presentations. Letter grading.
+405. Professional Development in Genetic Counseling
+Units: 4.0
+Lecture, four hours. Limited to Genetic Counseling students. Focus on professional development as genetic counselor. Students are prepared to make transition to practicing professionals in areas of job search, billing/reimbursement/insurance coverage, service delivery, professional relationships and boundaries, clinical supervision, developing effective presentations for varied audiences, self-advocacy, and other relevant areas to help develop individualized plans for continuing professional development after graduate school. Includes lectures, discussion, interactive activities, projects, and oral presentations. Letter grading.
+406. Foundations of Genomic Medicine
+Units: 2.0
+Lecture, two hours. Limited to Genetic Counseling students. Focus on fundamental concepts in human biology, with emphasis on implications and relevance to human genetic disease and integration of biology with mechanisms underlying disease development. Letter grading.
+410. Translational Genomics
+Units: 3.0
+Lecture, two hours. Limited to Genetic Counseling students, and open to medical genetics, molecular and cytogenetics fellows with permission. Introduction to next generation sequencing (NGS) technologies, bioinformatics pipeline for analyzing NGS data, clinical interpretation of variants using ACMG guidelines, various databases used for variant interpretation, interpretation of exome clinical report, process of communicating results to patients and ethical, legal, and social implications (ELSI) of personal genomics. Offers hands-on laboratory-style experience to interpreting human exome/genome variants for genetics professionals and trainees. Students acquire necessary background to understand technical and analytical aspects of exome/genome test, make informed decisions about clinically relevant variants, and communicate results to patient or patient's family. Attendance at weekly Genome Data Board meeting is required. Letter grading.
+411. Foundations in Genetic Counseling Research
+Units: 2.0
+Lecture, two hours. Limited to Genetic Counseling students. First of two-course series. Overview of research process, including literature review, research design, measurement methods, qualitative methods, and quantitative methods. Includes theory and elements of statistical analysis, data coding, data analysis tools, and interpretation of statistical results. Introduction to necessary tools to understand published research in genetic counseling and foundations necessary for design, conduct, and interpretation of their capstone project. How to conduct human subjects research responsibly and understand informed consent process. Letter grading.
+412. Research Applications in Genetic Counseling
+Units: 2.0
+Lecture, two hours. Enforced requisite: course 411. Limited to Genetic Counseling students. Second of two-course series. Practical hands-on approach to conducting research. Offers more focused discussion on specific aspects of study design and sampling, elements of developing and using instruments to measure variables of interest, criteria for systematic literature review, appropriate univariate and multivariate analyses, and interpretation and report writing. Focus on skills students need to develop and conduct their capstone projects and research in genetic counseling. Students brainstorm ideas for their capstone project, develop research question, and submit research proposal for final project. Letter grading.
+413. Ethical, Legal, and Societal Topics in Genetic Counseling
+Units: 2.0
+Lecture, two hours. Limited to Genetic Counseling students. Discussion of Social, cultural, ethical, and legal issues in genetics and genetic counseling. Letter grading.
+C413. Ethical, Legal, and Societal Topics in Genetic Counseling
+Units: 2.0
+(Formerly numbered 413.) Lecture, two hours. Limited to Genetic Counseling students. Discussion of social, cultural, ethical, and legal issues in genetics and genetic counseling. Concurrently scheduled with course CM113. Letter grading.
+414. Genetic Counseling Communication Seminar
+Units: 1.0
+Seminar, one hour. Limited to Genetic Counseling students. Topics in communicating genetic counseling-related subject matter to diverse audiences using various communication modalities, with emphasis on crafting presentations for health care, public, and advocacy audiences. Includes critical reading, review, and discussion of literature in context of medical genetics, health care delivery, medical management, genetic counseling, and genetics laboratory testing. S/U grading.
+430. Clinical Applications of Cytogenetics and Molecular Techniques
+Units: 1.0
+Lecture, one hour. Cytogenetics and molecular laboratory techniques to diagnose human genetic disorders. Topics include types of abnormalities seen in human genetic disorders, phenotypic consequences associated with these abnormalities, recurrence risk, uses and limitations of common cytogenetic and molecular technologies in clinical testing, current nomenclature, and written components of laboratory reports. Includes laboratory tours. Letter grading.
+431A. Fieldwork
+Units: 1.0
+Fieldwork, three to four hours; discussion, one hour. Limited to Genetic Counseling Students. First fieldwork rotation to establish basic skills in genetic counseling. Students are supervised by certified genetic counselors and medical geneticists. In group discussion setting, students present cases along with relevant psychosocial, ethical, and professional issues to engage in active reflection of clinical supervision experiences, understand dynamics and responsibilities of supervisor/supervisee relationship, and identify personal growth opportunities and limitations in scope of patient practice. S/U grading.
+431B. Fieldwork
+Units: 3.0
+Fieldwork, 35 hours. Requisite: course 431A. Limited to Genetic Counseling Students. Students use intermediate genetic counseling skills with direct patient contact in different clinical settings. Students are supervised by certified genetic counselors and medical geneticists. S/U grading.
+431C. Fieldwork
+Units: 5.0
+Fieldwork, 15 to 20 hours; discussion, one hour. Requisite: course 431B. Limited to Genetic Counseling Students. Students use progressive genetic counseling skills with direct patient contact in different clinical settings. Students are supervised by certified genetic counselors and medical geneticists. In group discussion setting, students present cases along with relevant psychosocial, ethical, and professional issues to engage in active reflection of clinical supervision experiences, understand dynamics and responsibilities of supervisor/supervisee relationship, and identify personal growth opportunities and limitations in scope of patient practice. S/U grading.
+431D. Fieldwork
+Units: 5.0
+Clinical, 15 to 20 hours; discussion, one hour. Enforced requisite: course 431C. Limited to Genetic Counseling students. Students utilize progressive genetic counseling skills with direct patient contact in different clinical settings. Students are supervised by certified genetic counselors and medical geneticists. Students see complex cases, and activities include follow-up activities on genetic test orders, referrals, resources, explaining genetic test results to patients, presenting cases at relevant case conferences, follow-up of action items from case conference, and exploring and addressing psychosocial aspects of patient encounters. Responsibility for conducting genetic counseling session from beginning to end. In group discussion setting, students present cases along with relevant psychosocial, ethical, and professional issues to engage in active reflection of clinical supervision experiences, understand dynamics and responsibilities of supervisor/supervisee relationship, and identify personal growth opportunities and limitations in scope of patient practice. S/U grading.
+431E. Fieldwork
+Units: 5.0
+Clinical, 15 to 20 hours; discussion, one hour. Enforced requisite: course 431D. Limited to Genetic Counseling students. Students utilize progressive genetic counseling skills with direct patient contact in different clinical settings. Students are supervised by certified genetic counselors and medical geneticists. Students see complex cases, and activities include follow-up activities on genetic test orders, referrals, resources, explaining genetic test results to patients, presenting cases at relevant case conferences, follow-up of action items from case conference, and exploring and addressing psychosocial aspects of patient encounters. Responsibility for conducting genetic counseling session from beginning to end. In group discussion setting, students present cases along with relevant psychosocial, ethical, and professional issues to engage in active reflection of clinical supervision experiences, understand dynamics and responsibilities of supervisor/supervisee relationship, and identify personal growth opportunities and limitations in scope of patient practice. S/U grading.
+596. Directed Individual Study and Research
+Units: 2.0 to 12.0
+Tutorial, to be arranged. Individual study or research for graduate students. May be repeated for credit. S/U grading.
+597. Preparation for MS Comprehensive Examination or PhD Qualifying Examinations
+Units: 2.0 to 12.0
+Tutorial, to be arranged. Individual study for MS comprehensive examination or PhD qualifying examinations. May be repeated for credit. S/U grading.
+598. MS Thesis Research and Writing
+Units: 2.0 to 12.0
+Tutorial, to be arranged. Preparation of research data and writing of MS thesis. May be repeated for credit. S/U grading.
+599. PhD Dissertation Research and Writing
+Units: 2.0 to 12.0
+Tutorial, to be arranged. Preparation of research data and writing of PhD dissertation. May be repeated for credit. S/U grading.

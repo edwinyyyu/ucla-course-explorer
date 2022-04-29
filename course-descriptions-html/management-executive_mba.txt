@@ -1,0 +1,79 @@
+Graduate Courses (26)
+402. Data Analysis and Management Decisions under Uncertainty
+Units: 4.0
+(Formerly numbered Management 463.) Lecture, four hours. Limited to Executive MBA program students. Survey of statistical model building, with emphasis on managerial interpretation of statistical summary of data. Classical statistics covered through multiple regression to support courses in finance and marketing that follow. Fundamental approaches to decision making under uncertainty. S/U or letter grading.
+403. Financial Accounting
+Units: 4.0
+(Formerly numbered Management 464.) Lecture, six hours. Limited to Executive MBA program students. Familiarizes the manager with functions of accounting by focusing on use of external financial reports for evaluating corporate performance and use of accounting information for internal planning and control. S/U or letter grading.
+405. Economic Analysis for Managers
+Units: 4.0
+(Formerly numbered Management 462.) Limited to Executive MBA program students. Policy-oriented problems in antitrust, tax securities, and environmental regulation. Concepts of microeconomic theory illustrated. Topics include traditional antitrust regulations, new trends in antitrust, private versus government antitrust, securities regulation, environmental regulations, and a business firm's optimal response to regulation.
+408. Financial Policy for Managers
+Units: 4.0
+(Formerly numbered Management 466A.) Lecture, four hours. Limited to Executive MBA program students. Modern financial management deals with decision making under uncertainty for corporate financial management, portfolio investment decisions, financial institutions, and international financial management. Focus on learning sound theoretical tools and applying them in casework. S/U or letter grading.
+409. Organizational Behavior
+Units: 4.0
+(Formerly numbered Management 469.) Lecture, three hours. Limited to Executive MBA program students. Introduction to organizational behavior for executives, including but not limited to optimal decision making, fostering motivation, and other topics on psychology of leadership. Lecture, discussion, and experiential applications of course concepts. S/U or letter grading.
+410. Operations and Technology Management: Systems, Strategies, and Policies
+Units: 4.0
+(Formerly numbered Management 474.) Lecture, three hours. Limited to Executive MBA program students. Analysis of strategic and operating policies and decisions for systems that produce goods and services. Examination of role of comprehensive planning, inventories, scheduling of resources, distribution systems, and system location. Comprehensive operating problems.
+411. Marketing Strategy and Policy
+Units: 4.0
+(Formerly numbered Management 472A.) Lecture, four hours. Limited to Executive MBA program students. Strategic marketing decisions, including development of marketing objectives and strategies and implementation of these strategies through pricing, channel, promotion, and new product decisions. S/U or letter grading.
+414A. Leadership Foundations I
+Units: 2.0
+(Formerly numbered Management 461A.) Lecture, two hours. Limited to Executive MBA program students. Focus on individual problem-solving and decision-making skills. Alternative conceptual frameworks presented for augmenting diagnostic and decision-making skills of individuals. Use of readings, cases, decision simulations, and discussions to explore areas of charting job and career progress, working with others, and shaping work culture. S/U or letter grading.
+414B. Leadership Foundations II
+Units: 1.0
+(Formerly numbered Management 461B.) Lecture, one hour. Limited to Executive MBA program students. Continuation of course 414A, with focus on development of self-assessment and self-reflection skills. Facilitation of self-evaluation of leadership strengths and weaknesses, with emphasis on individual problem solving and decision making and team design and development. Readings, cases, decision simulations, peer coaching, and discussions. In Progress grading (credit to be given only on completion of course 414C).
+414C. Leadership Foundations II
+Units: 1.0
+(Formerly numbered Management 461C.) Lecture, one hour. Limited to Executive MBA program students. Continuation of course 414B. Further exploration of leadership strengths and weaknesses, with emphasis on individual peer coaching, conflict management, individual goal setting, and goal achievement. Readings, cases, decision simulations, peer coaching, and discussions. S/U grading.
+414D. Leadership Foundations III
+Units: 1.0
+(Formerly numbered Management 461D.) Lecture, one hour. Limited to Executive MBA program students. Continuation of course 414C. Facilitation of self-evaluation of leadership strengths and weaknesses, with emphasis on career development, social networks, and organizational design. Readings, cases, decision simulations, peer coaching, and discussions. In Progress grading (credit to be given only on completion of course 414E).
+414E. Leadership Foundations III
+Units: 1.0
+(Formerly numbered Management 461E.) Lecture, one hour. Limited to Executive MBA program students. Continuation of course 414D. Further exploration of leadership strengths and weaknesses, with emphasis on individual leadership and organizational change. Readings, cases, decision simulations, peer coaching, and discussions. S/U grading.
+420. Competitive Strategy and Business Policy
+Units: 4.0
+(Formerly numbered Management 476.) Limited to Executive MBA program students. Study of general management task of forging a corporate competitive strategy. Emphasis on economics of business rivalry within a variety of industrial settings and implications of changing environments on business strategy.
+421. International Business Residential
+Units: 4.0
+(Formerly numbered Management 470D.) Seminar, six hours. Limited to Executive MBA program students. Focuses on doing business globally. Includes on-campus sessions and intensive week of study in another country with lectures, guest speakers, panel discussions, and company site visits. Exposure to economic, legal and political environments, major industries and businesses, local culture, key historical events, and many aspects of conducting business internationally. Taught by school faculty members in conjunction with lectures by faculty members from top institutional partners, as well as local and regional government officials and ministers, local business executives, and influential leaders from country of focus. S/U or letter grading.
+422. Leadership in Practice
+Units: 4.0
+Lecture, six hours. Limited to Executive MBA program students. Addresses practical decision-making challenges leaders face when confronting decisions alone and in groups. Students learn to recognize cognitive biases in themselves and in others and gain skills to re-calibrate group dynamics in order to achieve better results. These skills are taught experientially through participatory simulations and post-hoc analyses. Letter grading.
+428A. Business Creation Capstone
+Units: 6.0
+Lecture, three hours; fieldwork, three hours. Limited to Executive MBA program students. Designed for students interested in launching their own business. Student teams work on business idea and develop comprehensive strategy for launching that business. Fulfills MBA comprehensive examination requirement. In Progress grading (credit to be given only on completion of course 428B).
+428B. Business Creation Capstone
+Units: 4.0
+Lecture, three hours; fieldwork, three hours. Limited to Executive MBA program students. Designed for students interested in launching their own business. Student teams work on business idea and develop comprehensive strategy for launching that business. Fulfills MBA comprehensive examination requirement. Letter grading.
+439. Selected Topics in Management
+Units: 4.0
+Seminar, six hours. Limited to Executive MBA program students. Examination of selected problems and issues in area of current concern in management. Letter grading.
+440. Selected Topics in Management
+Units: 2.0
+Seminar, three hours. Limited to Executive MBA program students. Examination of selected problems and issues in area of current concern in management. Letter grading.
+441. Selected Topics in Management
+Units: 1.0
+Seminar, two hours. Limited to Executive MBA program students. Examination of selected problems and issues in area of current concern in management. Letter grading.
+442. Selected Topics in Management
+Units: 4.0
+Seminar, six hours. Limited to Executive MBA program students. Examination of selected problems and issues in area of current concern in management. S/U grading.
+443. Selected Topics in Management
+Units: 2.0
+Seminar, three hours. Limited to Executive MBA program students. Examination of selected problems and issues in area of current concern in management. S/U grading.
+444. Selected Topics in Management
+Units: 1.0
+Seminar, two hours. Limited to Executive MBA program students. Examination of selected problems and issues in area of current concern in management. S/U grading.
+445A. Introduction to Strategic Management Research
+Units: 2.0
+(Formerly numbered Management 470A.) Fieldwork, two hours. Limited to Executive MBA program students. Methods of organizational and strategic analysis to determine relationship of organization with its environment. In Progress grading (credit to be given only on completion of courses 445B and 445C).
+445B. Strategic Management Research
+Units: 4.0
+(Formerly numbered Management 470B.) Fieldwork, four hours. Limited to Executive MBA program students. Preparation of strategic overview of selected company entailing collection and analysis of primary and secondary data, including (but not limited to) interviews of corporate executives, corporate financial and marketing data, industry reports, and customer and competitor interviews and/or surveys. In Progress grading (credit to be given only on completion of course 445C).
+445C. Strategic Managment Research
+Units: 4.0
+(Formerly numbered Management 470C.) Fieldwork, four hours. Limited to Executive MBA program students. Further research and analysis of one strategic issue facing selected company and identified in course 445B. Presentation of final reports and evaluation of student efforts by corporate personnel. S/U or letter grading.

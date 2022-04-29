@@ -1,0 +1,375 @@
+Lower Division Courses (11)
+3. Introduction to Human Physiology
+Units: 5.0
+Lecture, three hours; laboratory, two hours. Not open to Physiological Science majors. Courses 3 and 5 may be taken independently, concurrently, or in either sequence. Understanding of human body, its organization from molecular to cellular to tissues and organs, and how component parts function in integrated manner to permit life as we know it. P/NP or letter grading.
+5. Issues in Human Physiology: Diet and Exercise
+Units: 5.0
+Lecture, three hours; discussion, 30 minutes; laboratory, 90 minutes. Not open to Physiological Science majors. Basic introduction to principles of human biology, with special emphasis on roles that exercise and nutrition play in health, and prevention and management of such illnesses as hypertension, diabetes, and heart disease. P/NP or letter grading.
+6. The Human Machine: Physiological Processes
+Units: 4.0
+Not open to Physiological Science majors. General introduction to human musculoskeletal, cardiovascular, and respiratory systems and their function, with special emphasis on mechanical and physiological aspects of homeostasis and environmental interaction. Application of physical principles in selected areas of biomechanics, hemodynamics, ergonomics, orthopedics, and robotics. P/NP or letter grading.
+7. Science and Food: Physical and Molecular Origins of What We Eat
+Units: 5.0
+Lecture, three hours; laboratory, two and one half hours. Preparation: high school chemistry, mathematics, physics. What makes lettuce crispy and some cuts of meat chewier than others? Exploration of origins of food texture and flavor, using concepts in physical sciences to explain macroscopic properties such as elasticity and phase behavior, as well as physiological role of food molecules in plants and animals we eat. Letter grading.
+13. Introduction to Human Anatomy
+Units: 5.0
+Lecture, four hours; laboratory, five hours. Not open to Physiological Science majors. Structural survey of human body, including skeletomuscular, nervous, circulatory, respiratory, digestive, and genitourinary systems. Laboratory includes examination of human cadaver specimens. Letter grading.
+19. Fiat Lux Freshman Seminars
+Units: 1.0
+Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.
+89. Honors Seminars
+Units: 1.0
+Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.
+89HC. Honors Contracts
+Units: 1.0
+Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.
+90. Introduction to Physiological Science
+Units: 2.0
+Lecture, one hour; discussion, one hour. Limited to freshmen/sophomores. Introduction to current topics in physiological science by a team of departmental faculty members. P/NP grading.
+98TW. Sex, Gender, and Feeding? Intersections in Brain
+Units: 5.0
+Seminar, three hours. Requisite: English Composition 3. Freshmen/sophomores preferred. Using papers investigating sex and/or gender contributions to feeding, exploration of how (neuro)science benefits from interdisciplinary study. Students gain confidence interpreting data, appreciation for scientific process, and insight into how science and society impact one another. Satisfies Writing II requirement. Letter grading.
+99. Student Research Program
+Units: 1.0 to 2.0
+Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
+Upper Division Courses (67)
+100. Experimental Statistics
+Units: 4.0
+Lecture, four hours. Introduction to statistics with focus on computer simulation instead of formulas. Bootstrap and Monte Carlo methods used to analyze physiological data. P/NP or letter grading.
+M106. Neurobiology of Bias and Discrimination
+Units: 4.0
+(Same as Neuroscience M187 and Psychology M166.) Lecture, four hours. Limited to junior/senior neuroscience, physiological science, and psychology students. Exploration of aspects of mammalian brain function that generate preference, bias, and discrimination. Consideration of research at multiple levels of analysis from genetics to neural circuits to behavior. Discussion of societal implications of these research findings, including their relevance to public policies and criminal justice system. Letter grading.
+107. Systems Anatomy
+Units: 5.0
+Lecture, four hours; laboratory, three hours; tutorial, two hours. Requisites: Life Sciences 2 or 7C, and Physics 1A, 5A, or 6A. Students must receive grade of C or better to proceed to next course in series. Systems anatomy focused primarily on human anatomy. Topics include cardiorespiratory, reproductive, nervous, and skeletomuscular systems, with introduction to biomechanical principles. Letter grading.
+108. Head and Neck Anatomy: Evolutionary, Biomechanical, Developmental, and Clinical Approach
+Units: 4.0
+Lecture, three hours; laboratory, two hours. Requisite: course 107. Strongly recommended: course 153. Prior to first meeting, students must complete Bloodborne Pathogens training course through UCLA Environment, Health and Safety. Introduction to head and neck anatomy. Dissection of head and neck, with focus on vasculature, innervation, and musculature to put them in three-dimensional context. Coverage of evolutionary, developmental, physiological, and biomechanical aspects of skull, including comparative anatomy of other vertebrate skulls, dental evolution and mechanics, respiratory anatomy, and developmental origins of head structures. Letter grading.
+111A. Foundations in Physiological Science
+Units: 6.0
+Lecture, four hours; discussion, two hours. Requisites: course 107, Chemistry 14C or 30A, Life Sciences 7A, 7B, 7C, Physics 1B or 5C or 6B. Students must receive grade of C or better to proceed to next course in series. Introduction to principles of muscular and neural physiology, including factors controlling membrane excitability, neuronal circuits, sensorimotor regulation, special senses, cortical functions, and neuronal plasticity. Letter grading.
+111B. Foundations in Physiological Science
+Units: 6.0
+Lecture, four hours; discussion, two hours. Requisites: course 111A, Chemistry 14D or 30B. Students must receive grade of C or better to proceed to next course in series. Introduction to principles of systems physiology, including endocrinology, transport physiology, and cardiovascular and pulmonary physiology. Letter grading.
+111L. Physiological Science Laboratory
+Units: 3.0
+Laboratory, four hours. Requisites: courses 111A and 111B, with grades of C- or better. Required of Physiological Science majors. Designed to illustrate physiological principles studied in courses 111A, 111B. Letter grading.
+120. Kidney: Understanding It from Development to Disease to Therapy
+Units: 4.0
+Lecture, three hours. Enforced requisites: courses 111A, 111B. Review of knowledge of basic renal function, with emphasis on broad range of renal diseases and their molecular mechanisms. Introduction to research methods typically employed in studies of kidney and exploration of state-of-art research on kidney repair and regeneration. Letter grading.
+121. Disease Mechanisms and Therapies
+Units: 5.0
+Lecture, three hours; discussion, one hour. Requisites: Chemistry 153A, and Life Sciences 2, 3, and 4 or 7A, 7B, and 7C. Designed for junior/senior Biochemistry and life sciences majors. Use of disease mechanisms as pedagogical tools to develop higher-order knowledge of basic scientific concepts. Integration of concepts from genetics, molecular and cell biology, physiology, and biochemistry to create molecular solutions to problem of inherited neuromuscular disease. Letter grading.
+122. Biomedical Technology and Physiology
+Units: 4.0
+Lecture, four hours. Requisites: courses 111A, 111B, Life Sciences 2 or 7C, Physics 1A, 1B, and 1C, or 5A, 5B, and 5C, or 6A, 6B, and 6C. Developments in biotechnology and their impact on diagnosis and treatment of disease, basic engineering principles, and designs that lend themselves to deciphering physiological states, and application of new technologies in clinical practice and biomedical research. Letter grading.
+CM123. Neurobiology of Sleep
+Units: 4.0
+(Same as Neuroscience CM123.) Lecture, three hours; discussion, one hour. Requisites: courses M101A and M101B or 111A and 111B or consent of instructor. Detailed look into science of sleep. Cellular and molecular mechanisms of falling asleep, many discrete brain structures involved in control of sleep wakefulness, and homeostatic regulation of sleep. How our sleep needs shaped by our evolutionary history, age, and gender. Latest insights into question of function of sleep, critical role sleep plays in memory formation and, close association between sleep and metabolism. Sleep disorders are considered as they provide insights into mechanisms underlying sleep. For background on science of sleep and circadian rhythms, completion of course C126 is highly recommended. Concurrently scheduled with course CM223. Letter grading.
+124. Molecular Biology of Aging
+Units: 4.0
+Lecture, three hours. Requisites: Chemistry 153A, Life Sciences 1, 2, 3, 4, and 23L, or 7A, 7B, 7C, and 23L. Discoveries of new science of aging biology, with examination of aging as plastic trait modulated by genes and physiological processes. Discussion of how these findings integrate with both nutritional modulation of lifespan and complex and profound relationship between underlying aging process and diseases of aging. Topics include dietary restriction, mitochondria, insulin/IGF signaling, and link between tumor suppression and organismal aging. Letter grading.
+125. Molecular Systems Biology
+Units: 5.0
+Lecture, three hours; discussion, one hour. Requisites: Life Sciences 2, 3, 4, and 23L, or 7A, 7B, 7C, and 23L. Quantitative description of molecular systems that underlie myriad phenotypes in living cells. Topics include various -omics fields and high-throughput technologies, network biology, and synthetic biology. Introductory lectures on molecular biology, emerging bioinformatic approaches, and systems modeling integrated with discussions of their applications in disease-related research. Review of recent literature to gain overall perspectives about new science of systems biology. Letter grading.
+C126. Biological Clocks
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 111A and 111B, or M180A and M180B. Most organisms, including humans, exhibit daily rhythms in physiology and behavior. In many cases these rhythms are generated from within organisms and are called circadian rhythms. Biological basis of these daily rhythms or circadian oscillations. Exploration of molecular, cellular, and system-level organization of these timing systems. Temporal role of these variations in maintaining homeostatic mechanisms of body and impact on nervous system. Concurrently scheduled with course C226. Letter grading.
+C127. Neuroendocrinology of Reproduction
+Units: 4.0
+Lecture, three hours; discussion, one hour. Enforced requisite: course 111B. Understanding of reproductive neuroendocrinology throughout mammalian lifespan, with emphasis as appropriate on human condition. Discussion of general concepts of endocrine feedback and feed-forward loops, sexual differentiation, and structure and function for components of hypothalamo-pituitary gonadal axis. Exploration of sex differences in physiology and disease. Concurrently scheduled with course CM227. Letter grading.
+128. Me, Myself, and Microbes: The Microbiome in Health and Disease
+Units: 5.0
+Lecture, four hours; discussion, 90 minutes. Requisites: course 107 or Chemistry 153A, Life Sciences 2 and 3, or 7A, 7B, and 7C. Exploration of host-microbiome interactions in health and disease, drawing upon basic properties for microbial communities, intersections with immunology, metabolism, and neurobiology. Letter grading.
+C130. Sex Differences in Physiology and Disease
+Units: 4.0
+Lecture, three hours. Requisites: course 111B, Life Sciences 7A, 7B, 7C. Investigation of biological origins of sex differences in physiology (mostly vertebrate), and susceptibility to disease, including history of development of concepts to define sex, and interface between biological factors and effects of gendered environments. Topics include evolution of sex chromosomes, molecular and environmental determination of gonadal type, dosage compensation, gonadal steroid hormone effects on tissues, physiology of reproduction as it applies to sex differences, interaction of genetic and environmental factors in differentiation of two sexes, defining sex and gender, gendered environments and their influence on physiology, and politics of financial support for research of sex and gender differences in disease. Concurrently scheduled with course C230. Letter grading.
+M135. Dynamical Systems Modeling of Physiological Processes
+Units: 5.0
+(Formerly numbered 135.) (Same as Neuroscience M135.) Lecture, four hours; laboratory, two hours. Examination of art of making and evaluating dynamical models of physiological systems and of dynamical principles inherent in physiological systems. Letter grading.
+136. Pathophysiology of Cardiovascular Diseases
+Units: 5.0
+Lecture, four hours. Requisite: course 111B. Exploration of function of cardiovascular system and how cardiovascular disease develops during the lifespan. Emphasis on molecular and cellular mechanisms that mediate chronic diseases such as atherosclerosis, hypertension, diabetes, obesity, and metabolic syndrome. Includes current clinical interventions for treatment and prevention of cardiovascular disease emphasizing lifestyle modifications. Letter grading.
+138. Neuromuscular Physiology and Adaptation
+Units: 4.0
+Prerequisites: course 111B, Chemistry 153A. Cellular responses to acute and chronic exercise and environmental states of neuromuscular system.
+140. Hormones and Behavior in Humans and Other Animals
+Units: 4.0
+(Formerly numbered M140.) Lecture, three hours; discussion, one hour. Examination of hormones, and physiology and genetics involved in hormonal processes and function. Interactions among hormonal levels, environmental stimuli, and behavior. Sexual behavior, pregnancy, and lactation, parental behavior, development and emigration, stress, social behavior, dominance relationships, aggression, chemical communication, and reproductive suppression. Critique of primary literature on behavioral endocrinology about humans and other species. Consideration of spectrum of noninvasive to highly invasive endocrine sampling methods, and which types of questions can be answered in laboratory and field, as well as ethics of hormonal studies and their implications for humans and other animals. Letter grading.
+C144. Neural Control of Physiological Systems
+Units: 4.0
+Lecture, four hours. Requisite: course 111B or M180B. Role of central nervous system in control of respiration, circulation, sexual function, and bladder control. Material for each section to be developed by combination of lecture and open discussion. Concurrently scheduled with course C244. Letter grading.
+M145. Neural Mechanisms Controlling Movement
+Units: 5.0
+(Same as Neuroscience M145.) Lecture, four hours. Requisite: course 111A or M180A or Neuroscience M101A. Examination of central nervous system organization required for production of complex movements such as locomotion, mastication, and swallowing. Letter grading.
+146. Principles of Nervous System Development
+Units: 5.0
+Lecture, three hours; discussion, two hours. Requisites: courses 107 (or Neuroscience 102) and 111A (or M180A). Examination of construction of vertebrate nervous system as series of integrated steps beginning with several embryonic cells and culminating as complex highly ordered system. Topics include neurulation, regionalization, neurogenesis, migration, axonal outgrowth, and synapse formation. Letter grading.
+147. Neurobiology of Learning and Memory
+Units: 5.0
+Lecture, four hours; discussion, one hour. Requisite: course 111A or M180A. Changes in central nervous system that accompany learning, with emphasis on cellular mechanisms.
+148. Physiological Regulation of Metabolism and Nutrient Sensing
+Units: 4.0
+Lecture, two and one half hours; discussion, two hours. Requisite: course 111B. Study of energy metabolism and processing of macronutrients like carbohydrates, lipids, and proteins in mammals. Students gain tools and knowledge for synthesizing new information from advances in nutrition research to add to basic understanding of macronutrient metabolism. Use of clinical case studies to understand how human mutations in metabolic pathways lead to metabolic disorders. Discussion of diabetes, atherosclerosis, glycogen storage disease, inborn errors of metabolism, mitochondrial disorders, and lysosomal storage diseases. Study of how cells sense nutrients and adapt metabolism to unique needs of cells--for example, how cells respond to excess cholesterol. Discussion of mechanisms involved in import, export, and synthesis of nutrients. Use of primary literature to analyze primary research related to topics covered in lectures. Letter grading.
+149. Systems Biology and Mechanisms of Major Cardiometabolic Diseases
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: Life Sciences 7A, 7B, 7C. Strongly recommended: Chemistry 153A. Designed for juniors/seniors. Integration of principles gained through basic science curriculum with modern systems biology concepts, approaches, and presently understood mechanisms of selected human cardiovascular disease, diabetes, and obesity. Letter grading.
+C150. Musculoskeletal Mechanics
+Units: 5.0
+Lecture, three hours. Requisite: course 111B. Introduction to biomechanical analysis of human musculoskeletal system. Examination of cinematographic, force platform, and digital computer techniques to characterize and evaluate kinematic and kinetic components of movement. Topics include biostatics, biodynamics, and modeling. Concurrently scheduled with course C250B. Letter grading.
+C152. Musculoskeletal Anatomy, Physiology, and Biomechanics
+Units: 5.0
+Lecture, three hours. Requisite: course 111A. Anatomical, physiological, and mechanical characteristics of cartilaginous, fibrous, and bony tissues examined in normal and abnormal stress situations. Connective tissue growth processes, normal physiology, and repair mechanisms analyzed in conjunction with musculoskeletal injuries and effects of exercise. Concurrently scheduled with course C252.
+153. Dissection Anatomy
+Units: 5.0
+Lecture, two hours; laboratory, six hours. Requisite: course 107. Prior to first meeting, students must complete Bloodborne Pathogens training course through UCLA Environment, Health and Safety. Study and dissection of upper and lower extremities of human cadavers; dissection of thorax and abdomen limited to musculature and neurovascular supply. Letter grading.
+154. Cellular Communication and Regulation of Physiological Processes
+Units: 4.0
+Lecture, three hours. Limited to juniors/seniors. Signal transduction concepts, with focus on role of receptors, G proteins, and intracellular messengers such as cyclic AMP and calcium. Integration of these concepts with variety of physiological processes, including stimulus-secretion coupling, vascular smooth muscle contraction, and role of growth factors in cell proliferation. Contemporary scientific research articles used as basis for material presented. Students required to present journal article for discussion. Letter grading.
+155. Development and Structure of Musculoskeletal System
+Units: 4.0
+Requisite: course 111B. Development, histology, cell biology, and biochemistry of musculoskeletal soft tissues. Integration of knowledge of muscle and connective tissue structure and function on each of these levels to understand organization and physiological behavior of the intact system.
+156. Molecular Mechanisms and Therapies for Muscular Dystrophy
+Units: 4.0
+Lecture, three hours; discussion, one hour. Enforced requisites: course 111A (may be taken concurrently), Life Sciences 4 with grade of B or better. Causes and pathogenesis of Duchenne muscular dystrophy and some fundamental scientific findings using original scientific research. Exploration of therapies aimed at individual stages of pathogenetic disease as method to develop critical expert-like thinking skills. Lectures based on experiments from primary scientific literature, and students expected to understand genetic and phenotypic animal models of muscular dystrophy, to design experiments, and to predict outcomes from research data. Letter grading.
+165. Comparative Animal Physiology
+Units: 5.0
+Lecture, three hours; discussion, one hour. Requisites: Life Sciences 1, 2, 3, and 23L, or 7A, 7B, 7C, and 23L. Physiological response and function at molecular, cellular, system, and whole organism levels of variety of animals to range of environmental conditions. Major topics include neural and muscular structure and function, hormones, gas exchange, energetics, and thermoregulation. Examination of wide variety of vertebrates and invertebrates to understand how animals solve physiological challenges presented by physical environment. Letter grading.
+166. Animal Physiology
+Units: 6.0
+Lecture, three hours; laboratory, five hours. Requisites: Chemistry 14B and 14BL, or 20B and 30AL, 153A, Life Sciences 7A, 7B, 7C, Physics 1C and 4BL, or 5C. Not open for credit to students with credit for Ecology and Evolutionary Biology 170 or to Physiological Science majors. Introduction to physiological principles, with emphasis on organ systems and intact organisms. Letter grading.
+167. Physiology of Nutrition
+Units: 4.0
+Lecture, four hours. Enforced requisites: Chemistry 14A, 14B, 14C, and 14D, or 20A, 20B, 30A, and 30B. Limited to Physiological Science majors and Food Studies minors. Topics include physiological adaptation to starvation and physiological responses to oxidants/antioxidants, vitamins, minerals, photochemicals, and their relationship to common chronic diseases and physiology of fuel utilization during aerobic and anaerobic exercise. Letter grading.
+M171. Variable Topics Research Seminars: Contemporary Biology
+Units: 2.0
+(Same as Neurobiology M171.) Seminar, two hours. Limited to undergraduate fellows in Integrated and Interdisciplinary Undergraduate Research Program. Presentations of scientific data from primary research articles and from students' own research. May be repeated for credit. P/NP grading.
+173. Anatomy and Physiology of Sense Organs
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 111A, or M180A and M180B, or Molecular, Cell, and Developmental Biology M175A and M175B. Structure and function of sense organs. Adoption of quantitative and comparative approach to provide insight into evolution of sense organs in both invertebrates and vertebrates. Letter grading.
+174. Cell Biophysics in Physiology and Disease
+Units: 5.0
+Lecture, three hours; discussion, two hours. Requisites: Chemistry 153A, Life Sciences 2, 3, 4, and 23L, or 7A, 7B, 7C, and 23L, Physics 5A, 5B, and 5C, or 6A, 6B, and 6C. Search for information in biological research has traditionally focused on genes and biochemical pathways. While physical aspects of cell biology are critical in physiology and disease, they have received so much less attention in research. For example, mechanical properties of cells determine how physical forces alter gene expression and can signal transformation in physiological state of cells, such as in malignant transformation. Exploration of cell biophysics in health and disease from basic physical principles that underlie structure and organization of cytoskeleton to role of cell deformability in diseases such as cancer. Use of articles from primary literature regarding current research. Letter grading.
+175. Why Fido Can't Speak: Biological Evolution of Language
+Units: 5.0
+Lecture, three hours; discussion, one hour. Requisite: course 111A or Neuroscience M101A. "Homo sapiens" are only species currently on planet to possess language. Exploration of whether other species possess potential building blocks for language. Topics range from examination of how bees and ants signal about food sources to whether structured songs of birds, whales, and monkeys contain compositional meaning. Topics intersect with those in fields of anthropology, biopsychology, linguistics, molecular genetics, neuroscience, and physiology. Letter grading.
+M176. Auditory Neuroscience of Speech Perception and Vocal Communication
+Units: 4.0
+(Same as Neuroscience M176.) Lecture, two and one half hours; discussion, 90 minutes. Requisite: course 107 or Neuroscience M101A. Interdisciplinary approach to understanding how humans and other animals communicate emotion and meaning using sound. Weekly research topics in disciplines of systems neuroscience, cognitive neuroscience, psychophysics, and psycholinguistics. Emphasis on fundamental principles in neurophysiology, neuroanatomy, neuroimaging, psychology, and neurology. Letter grading.
+177. Neuroethology
+Units: 5.0
+Lecture, four hours; discussion, two hours. Requisite: course 111A or M180A. Physical properties of animal signals and physiological mechanisms underlying their generation. Topics include classical neuroethological models: acoustic and vibration communication in vertebrates, sound localization in owls, electrosensing and electrocommunication in electric fish, and neurobiology of birdsong. Letter grading.
+M178. Quantitative Regulatory Biology and Signal Transduction
+Units: 4.0
+(Formerly numbered 178.) (Same as Computational and Systems Biology M178 and Microbiology M178.) Lecture, three hours; laboratory, one hour. Requisites: Life Sciences 7A, 7B, 7C, 30A, 30B. Introduction to key biological regulatory circuit motifs and systems biology concepts that are critical to understanding how cellular responses are controlled. Letter grading.
+M180A. Neuroscience: From Molecules to Mind--Cellular and Systems Neuroscience
+Units: 5.0
+(Same as Molecular, Cell, and Developmental Biology M175A, Neuroscience M101A, and Psychology M117A.) Lecture, four hours; discussion, 90 minutes. Requisites: Chemistry 14C or 30A (14C may be taken concurrently), Life Sciences 7C, Physics 1B or 1BH or 5C or 6B. Students must receive grade of C- or better to proceed to next course in series. Cellular neurophysiology, membrane potential, action potentials, and synaptic transmission. Sensory systems and motor system; how assemblies of neurons process complex information and control movement. P/NP or letter grading.
+M180B. Neuroscience: From Molecules to Mind--Molecular and Developmental Neuroscience
+Units: 5.0
+(Same as Neuroscience M101B, Molecular, Cell, and Developmental Biology M175B, and Psychology M117B.) Lecture, four hours; discussion, 90 minutes. Requisites: course M180A (with grade of C- or better), Life Sciences 7C. Molecular biology of channels and receptors: focus on voltage dependent channels and neurotransitter receptors. Molecular biology of supramolecular mechanisms: synaptics transmission, axonal transport, cytoskeleton, and muscle. Classical experiments and modern molecular approaches in developmental neurobiology. P/NP or letter grading.
+M180C. Neuroscience: From Molecules to Mind--Behavioral and Cognitive Neuroscience
+Units: 5.0
+(Same as Neuroscience M101C, Molecular, Cell, and Developmental Biology M175C, and Psychology M117C.) Lecture, four hours; discussion, 90 minutes. Requisite: course M180A with grade of C- or better. Neural mechanisms underlying motivation, learning, and cognition. P/NP or letter grading.
+187A. Seeing Brain in Action
+Units: 2.0
+Seminar, two hours. Enforced requisites: courses 111A and 111B (or Neuroscience M101A and M101B). Introduction to latest technical approaches and conceptual advances in one preeminent subfield of neuroscience--live functional imaging. Students provided with critiqued scientific presentation experience and complete one exercise in scientific writing and peer review. Letter grading.
+187B. From Cell to Circuit
+Units: 2.0
+Seminar, two hours. Enforced requisites: courses 111A and 111B (or Neuroscience M101A and M101B), 187A. Introduction to latest technical approaches and conceptual advances in one preeminent subfield of neuroscience--specification of neural circuits. Students provided with critiqued scientific presentation experience and complete one exercise in scientific writing and peer review. Letter grading.
+188SA. Individual Studies for USIE Facilitators
+Units: 1.0
+Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.
+188SB. Individual Studies for USIE Facilitators
+Units: 1.0
+Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.
+188SC. Individual Studies for USIE Facilitators
+Units: 2.0
+Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading.
+189. Advanced Honors Seminars
+Units: 1.0
+Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.
+189HC. Honors Contracts
+Units: 1.0
+Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.
+191. Variable Topics Research Seminars: Physiology
+Units: 2.0
+Seminar, two hours. Enforced requisite: course 111A. Focused reading in single subdiscipline of physiology, with focus on critical analysis of primary research literature. Emphasis on understanding methods for research in physiology and interpretation of experimental results, and how they bear on concepts of physiology. Development of culminating paper. May be repeated for credit. Letter grading.
+191H. Honors Seminars: Current Topics in Physiology
+Units: 4.0
+Seminar, four hours. Requisites or corequisites: courses 198A, 198B. Limited to neuroscience and physiological science honors program students. Designed for juniors/seniors and required of departmental honors students. Presentation of primary paper from physiology literature. Reading and critical evaluation of current research literature. Presentation of student laboratory research hypothesis, approach, and results in form of oral and poster presentations. Letter grading.
+192. Practicum in Systems Anatomy for Undergraduate Assistants
+Units: 3.0
+Seminar, two hours; additional hours in laboratory setting, to be arranged. Requisite: course 107. Limited to juniors/seniors. Training and supervised practicum in systems anatomy for undergraduate assistants. Consult Undergraduate Office for further information. May not be applied toward elective requirements and may not be repeated for credit. Departmental application required. P/NP or letter grading.
+192A. Introduction to Collaborative Learning Theory and Practice
+Units: 1.0
+Seminar, one hour. Preparation: at least one term of prior experience in same course in which collaborative learning theory is practiced and refined under supervision of instructors. Training seminar for undergraduate students who are selected for learning assistant (LA) program. Exploration of current topics in pedagogy and education research focused on methods of learning and their practical application in small-group settings. Students practice communication skills with frequent assessment of and feedback on progress. Letter grading.
+192B. Methods and Application of Collaborative Learning Theory in Physical Sciences
+Units: 2.0 to 4.0
+Seminar, two hours; laboratory, six hours. Requisites: course (may be taken concurrently), and at least one term of prior experience in same course in which collaborative learning theory is practiced and refined under supervision of instructors. With instructor guidance, students apply pedagogical principles based on current education research, assist with development of innovative instructional materials, and receive frequent feedback on their progress. May be repeated four times for credit. Letter grading.
+193. Journal Club Seminars: Physiological Science
+Units: 1.0
+Seminar, one hour. Limited to undergraduate students. Discussion of readings selected from current literature in field. May be repeated for credit. P/NP grading.
+194A. Research Group Seminars: Physiological Science
+Units: 2.0
+Seminar, two hours. Required of undergraduate students in research traineeships such as MARC and UC Leads programs. Discussion of research methods and current literature in field or of research of faculty members or students. May be repeated for credit. Letter grading.
+194B. Research Group Seminars: Physiological Science
+Units: 1.0
+Seminar, two hours. Corequisite: course 198A or 198B or 198C or 199. Limited to juniors/seniors. Involvement in weekly laboratory research group meetings to encourage student participation in research and to stimulate progress in specific research areas. Discussion of use of specific research methods and current literature in field or of research of faculty members or students. May be repeated for credit. P/NP grading.
+195. Field Studies in Physiological Science
+Units: 4.0
+Tutorial, one hour; fieldwork, eight hours. Limited to seniors. Supervised field studies in specific careers related to physiological science. May not be repeated for credit and may not be applied toward elective requirements for major. Individual contract with supervising faculty member required. P/NP grading.
+196. Research Apprenticeship in Physiological Science
+Units: 2.0 to 4.0
+Tutorial, three hours per week per unit. Limited to juniors/seniors. Entry-level research apprenticeship for upper-division students under guidance of faculty mentor. May be repeated for credit; consult department. Individual contract required. P/NP grading.
+198A. Honors Research in Physiological Science
+Units: 4.0
+Tutorial, 12 hours. Requisites: courses 111A, 111B, 193 (193 may be taken concurrently). Limited to junior/senior physiological science honors program students. Directed independent research for departmental honors with faculty member, involving definition of research topic and extensive reading and research in field of proposed honors thesis. May be repeated for credit. Individual contract required. In Progress grading (credit to be given only on completion of course 198B).
+198B. Honors Research in Physiological Science
+Units: 4.0
+Tutorial, 12 hours. Requisites: courses 193 (may be taken concurrently), 198A. Limited to junior/senior physiological science honors program students. Continued reading and research that culminate in final honors thesis. May be repeated for credit. Individual contract required. Letter grading.
+198C. Advanced Studies for Honors Research in Physiological Science
+Units: 4.0
+Tutorial, 12 hours. Requisite: course 198B. Corequisite: course 193. Limited to junior/senior physiological science honors program students. Additional course to provide further research opportunities for departmental honors students. Development and completion of honors thesis or comprehensive research project under direct supervision of faculty member. May be repeated for credit. Individual contract required. Letter grading.
+199. Directed Research or Senior Project in Physiological Science
+Units: 2.0 to 4.0
+Tutorial, 12 hours. Requisites: courses 111A, 111B, 193 (193 may be taken concurrently). Limited to Physiological Science majors with advanced junior standing and 3.0 grade-point average in major, or seniors. Supervised individual research under guidance of faculty mentor. Culminating paper or project required. Course application must be submitted to undergraduate affairs chair during first week of classes. Eight units of course 199 may be applied toward elective requirements for major. May be repeated for credit. Individual contract required. P/NP or letter grading.
+Graduate Courses (46)
+200. Advanced Experimental Statistics
+Units: 4.0
+Lecture, four hours; laboratory, one hour. Introduction to statistics with focus on computer simulation instead of formulas. Bootstrap and Monte Carlo methods used to analyze physiological data. S/U or letter grading.
+M202. Cellular Neurophysiology
+Units: 4.0
+(Same as Neurobiology M200F and Neuroscience M202.) Lecture, three hours; discussion, two hours. Requisites: courses 111A (or M180A or Physics 5C), 166. Advanced course in cellular physiology of neurons. Action and membrane potentials, channels and channel blockers, gates, ion pumps and neuronal homeostasis, synaptic receptors, drug-receptor interactions, transmitter release, modulation by second messengers, and sensory transduction. Letter grading.
+M210. Molecular and Cellular Mechanisms of Neural Integration
+Units: 5.0
+(Same as Neuroscience M230 and Physiology M210.) Lecture, four hours; discussion, one hour. Requisite: Neuroscience M202. Introduction to mechanisms of synaptic processing. Selected problems of current interest, including regulation and modulation of transmitter release, molecular biology and physiology of receptors, cellular basis of integration in sensory perception and learning, neural nets and oscillators, and molecular events in development and sexual differentiation. Letter grading.
+211. Exercise Cardiovascular Physiology
+Units: 4.0
+Attention to cardiovascular adaptations to acute exercise as well as adaptations associated with regular exercise training.
+215. Molecular and Cellular Foundations of Physiology
+Units: 5.0
+Lecture, three hours; discussion, two hours. Application of molecular and cellular approaches to systems level questions. Basic foundation for study of major physiological systems, with emphasis on levels of organization from molecular to macroscopic. Letter grading.
+CM223. Neurobiology of Sleep
+Units: 4.0
+(Formerly numbered C223.) (Same as Neuroscience CM223.) Lecture, three hours; discussion, one hour. Detailed look into science of sleep. Cellular and molecular mechanisms of falling asleep, many discrete brain structures involved in control of sleep wakefulness, and homeostatic regulation of sleep. How our sleep needs shaped by our evolutionary history, age, and gender. Latest insights into question of function of sleep, critical role sleep plays in memory formation and, close association between sleep and metabolism. Sleep disorders are considered as they provide insights into mechanisms underlying sleep. For background on science of sleep and circadian rhythms, completion of course C126 is highly recommended. Concurrently scheduled with course CM123. Letter grading.
+C226. Biological Clocks
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 111A and 111B, or M180A and M180B. Most organisms, including humans, exhibit daily rhythms in physiology and behavior. In many cases these rhythms are generated from within organisms and are called circadian rhythms. Biological basis of these daily rhythms or circadian oscillations. Exploration of molecular, cellular, and system-level organization of these timing systems. Temporal role of these variations in maintaining homeostatic mechanisms of body and impact on nervous system. Concurrently scheduled with course C126. Letter grading.
+CM227. Neuroendocrinology of Reproduction
+Units: 4.0
+(Same as Neurobiology M227.) Lecture, three hours; discussion, one hour. Enforced requisite: course 111B. Understanding of reproductive neuroendocrinology throughout mammalian lifespan, with emphasis as appropriate on human condition. Discussion of general concepts of endocrine feedback and feed-forward loops, sexual differentiation, and structure and function for components of hypothalamo-pituitary gonadal axis. Exploration of sex differences in physiology and disease. Concurrently scheduled with course C127. Letter grading.
+C230. Sex Differences in Physiology and Disease
+Units: 4.0
+Lecture, three hours. Requisites: course 111B, Life Sciences 7A, 7B, 7C. Investigation of biological origins of sex differences in physiology (mostly vertebrate), and susceptibility to disease, including history of development of concepts to define sex, and interface between biological factors and effects of gendered environments. Topics include evolution of sex chromosomes, molecular and environmental determination of gonadal type, dosage compensation, gonadal steroid hormone effects on tissues, physiology of reproduction as it applies to sex differences, interaction of genetic and environmental factors in differentiation of two sexes, defining sex and gender, gendered environments and their influence on physiology, and politics of financial support for research of sex and gender differences in disease. Concurrently scheduled with course C130. Letter grading.
+235. Advanced Dynamical Systems Modeling of Physiological Processes
+Units: 5.0
+Lecture, four hours; laboratory, two hours. Examination of art of making and evaluating dynamical models of physiological systems and of dynamical principles inherent in physiological systems. Letter grading.
+241. Neural Plasticity and Repair
+Units: 4.0
+Lecture, four hours. Preparation: basic neuroscience background. Progress in basic and clinical neuroscience provides new insight to understand mechanisms of cell repair and strategies to promote neural healing. Focus on physiological, molecular, and anatomical basis governing repair processes in brain and spinal cord and their clinical implications. Letter grading.
+C244. Neural Control of Physiological Systems
+Units: 4.0
+Lecture, four hours. Requisite: course 111B or M180B. Role of central nervous system in control of respiration, circulation, sexual function, and bladder control. Material for each section to be developed by combination of lecture and open discussion. Concurrently scheduled with course C144. Letter grading.
+245. Neural Mechanisms Controlling Movement
+Units: 5.0
+Lecture, four hours. Requisite: course 111A or M180A or Neuroscience M101A. Examination of central nervous system organization required for production of complex movements such as locomotion, mastication, and swallowing. Letter grading.
+250A. Muscle Dynamics
+Units: 4.0
+Lecture, four hours. Integrated study of electrical and dynamic parameters of muscle-action, including topics in length-tension and force-velocity interrelationships; critical analysis of electromyographic and digital computer techniques. Letter grading.
+C250B. Musculoskeletal Mechanics
+Units: 5.0
+Lecture, three hours. Requisites: course 107, Physics 6A. Introduction to biomechanical analysis of human musculoskeletal system. Examination of cinematographic, force platform, and digital computer techniques to characterize and evaluate kinematic and kinetic components of movement. Topics include biostatics, biodynamics, and modeling. Concurrently scheduled with course C150. Letter grading.
+C252. Musculoskeletal Anatomy, Physiology, and Biomechanics
+Units: 5.0
+Lecture, three hours. Requisite: course 111A. Anatomical, physiological, and mechanical characteristics of cartilaginous, fibrous, and bony tissues examined in normal and abnormal stress situations. Connective tissue growth processes, normal physiology, and repair mechanisms analyzed in conjuction with musculoskeletal injuries and effects of exercise. Concurrently scheduled with course C152.
+M255. Seminar: Neural and Behavioral Endocrinology
+Units: 2.0
+(Same as Neurobiology M255 and Psychology M294.) Lecture, one hour; discussion, one hour. Topics include hormonal biochemistry and pharmacology. Hypothalamic/hypophyseal interactions, both hormonal and neural. Structure and function of hypothalamus. Hormonal control of reproductive and other behaviors. Sexual differentiation of brain and behavior. Stress: hormonal, behavioral, and neural aspects. Aging of reproductive behaviors and function. Letter grading.
+260. Neuromuscular Factors in Movement Regulation
+Units: 4.0
+Lecture, four hours. Requisite: course 138. Interaction of neural and muscular factors in regulation of muscle fiber properties and importance of these properties in neural strategies of movement regulation. S/U or letter grading.
+263. Neuronal Mechanisms Controlling Rhythmical Movements
+Units: 4.0
+Lecture, four hours. Requisite: course M145. Advanced topics on brainstem mechanisms responsible for controlling cyclic and stereotypic movements such as mastication and locomotion. Emphasis on cellular neurophysiology and interaction between neuronal networks. Introduction to primary literature and techniques used in these areas. Students expected to critically evaluate data and conclusions drawn. S/U or letter grading.
+270A. Modern Concepts in Physiology
+Units: 4.0
+Lecture, two hours; discussion, two hours. Highly recommended requisite or corequisite: course 111A. Study and evaluation of primary research literature. Study of foundations of modern techniques in physiology research, analysis of research design. Foundation for experimental study of principles of muscular and neural physiology and cellular and systems neuroscience, including factors controlling membrane excitability, neuronal circuits, sensorimotor regulation, special senses, cortical functions, and neural plasticity. Letter grading.
+270B. Modern Concepts in Physiology
+Units: 4.0
+Lecture, two hours; discussion, two hours. Highly recommended requisite or corequisite: course 111B. Study and evaluation of primary research literature. Study of foundations of modern techniques in physiology research, analysis of research design. Foundation for experimental study of principles of systems physiology, including endocrinology, transport physiology, and neural, cardiovascular, and pulmonary physiology. Letter grading.
+M272. Neuroimaging and Brain Mapping
+Units: 4.0
+(Same as Neuroscience CM272 and Psychology M213.) Lecture, three hours. Requisites: course M202, Neuroscience M201. Theory, methods, applications, assumptions, and limitations of neuroimaging. Techniques, biological questions, and results. Brain structure, brain function, and their relationship discussed with regard to imaging. Letter grading.
+289A. Honing Your Skills as Researcher in Integrative Biology and Physiology
+Units: 2.0
+Seminar, one hour. Limited to graduate students in Physiological Science master's program. Scientific method and analytical tools of research in physiology and biology; evaluation of research literature in physiology; scientific communication--written and oral presentations; scientific ethics; and professional development--writing curriculum vitae (CV) and cover letter. Letter grading.
+289B. Honing Your Skills as Researcher in Integrative Biology and Physiology
+Units: 3.0
+Seminar, one hour. Requisite: course 289A. Limited to graduate students in Physiological Science master's program. Scientific method and analytical tools of research in physiology and biology; evaluation of research literature in physiology; scientific communication--written and oral presentations; scientific ethics; and professional development--writing curriculum vitae (CV) and cover letter. Letter grading.
+M290. Seminar: Comparative Physiology
+Units: 2.0
+(Same as Ecology and Evolutionary Biology M290.) Seminar, two and one half hours. Discussion of specific topics in comparative physiology of animals. Topics vary from year to year, with emphasis on systems physiology, neuroethology, or behavioral physiology. S/U or letter grading.
+291A. Seminar: Cardiovascular Function and Adaptation
+Units: 2.0 to 4.0
+Seminar, two to four hours. Selected topics on cardiovascular function and adaptation. Students required to present two-hour seminar. Letter grading.
+291B. Seminar: Cardiovascular Function and Adaptation
+Units: 2.0 to 4.0
+Seminar, two to four hours. Selected topics on cardiovascular function and adaptation. Students required to present two-hour seminar. Letter grading.
+291C. Seminar: Cardiovascular Function and Adaptation
+Units: 2.0 to 4.0
+Seminar, two to four hours. Selected topics on cardiovascular function and adaptation. Students required to present two-hour seminar. Letter grading.
+292. Evolution and Development of Auditory System
+Units: 2.0 to 4.0
+Seminar, two hours. Discussion of specific topics related to evolution, embryology, morphogenesis, cytodifferentiation, and onset of function of auditory system, with special attention to centrifugal pathways. Emphasis on primary literature sources as well as current methodological approaches. Two-hour seminar presentation required for two units; seminar paper and two-hour seminar presentation required for four units. S/U or letter grading.
+293A. Seminar: Musculoskeletal Function and Adaptation
+Units: 2.0 to 4.0
+Seminar, one hour. Requisites: courses 138, 260. Selected topics on muscular determinants of movement, metabolic aspects of exercise, and mechanics of connective tissue. Students required to present two-hour seminar. S/U or letter grading.
+293B. Seminar: Musculoskeletal Function and Adaptation
+Units: 2.0 to 4.0
+Seminar, one hour. Requisites: courses 138, 260. Selected topics on muscular determinants of movement, metabolic aspects of exercise, and mechanics of connective tissue. Students required to present two-hour seminar. S/U or letter grading.
+293C. Seminar: Musculoskeletal Function and Adaptation
+Units: 2.0 to 4.0
+Seminar, one hour. Requisites: courses 138, 260. Selected topics on muscular determinants of movement, metabolic aspects of exercise, and mechanics of connective tissue. Students required to present two-hour seminar. S/U or letter grading.
+294. Recent Advances in Neurophysiology
+Units: 1.0
+Seminar, one hour. Requisite: Life Sciences 2 or undergraduate degree in science. Critical examination and discussion of recent data and publications that focus on synaptic function. Student presentations, readings, and participation in discussions required. S/U grading.
+295A. Seminar: Cellular Neuroscience
+Units: 2.0 to 4.0
+Seminar, two to four hours. Requisite: course M202. Selected topics in sensory transduction, cellular integration, synaptic processing, central nervous system function, and learning. Students required to present two-hour seminar. S/U or letter grading.
+295B. Seminar: Cellular Neuroscience
+Units: 2.0 to 4.0
+Seminar, two to four hours. Requisite: course M202. Selected topics in sensory transduction, cellular integration, synaptic processing, central nervous system function, and learning. Students required to present two-hour seminar. S/U or letter grading.
+295C. Seminar: Cellular Neuroscience
+Units: 2.0 to 4.0
+Seminar, two to four hours. Requisite: course M202. Selected topics in sensory transduction, cellular integration, synaptic processing, central nervous system function, and learning. Students required to present two-hour seminar. S/U or letter grading.
+296. Research Seminar: Physiological Science
+Units: 2.0
+Review of literature, discussion of original research, and analysis of current topics in physiological science. May not be applied toward MS or PhD course requirements. May be repeated for credit. S/U grading.
+297. Seminar: Muscle Cell Biology
+Units: 2.0 to 4.0
+Seminar, two hours. Selected topics in muscle cell biology. Students required to present two-hour seminar. May be repeated for credit.
+298. Seminar: Nervous System Development
+Units: 1.0 to 2.0
+Seminar, two hours. Selected topics in developmental neurobiology, such as neuronal migration, axonal guidance, gene expression, and synaptogenesis. Weekly primary literature student presentations. One-hour seminar presentation on assigned weekly reading required of all students; students enrolled for 2 units must also complete written analysis of additional primary literature papers. May be repeated for credit. S/U or letter grading.
+375. Teaching Apprentice Practicum
+Units: 1.0 to 4.0
+Seminar, to be arranged. Preparation: apprentice personnel employment as teaching assistant, associate, or fellow. Teaching apprenticeship under active guidance and supervision of regular faculty member responsible for curriculum and instruction at UCLA. May be repeated for credit. S/U grading.
+495. In-Service Practicum for Teaching Assistants in Physiological Science
+Units: 2.0
+Seminar, to be arranged. Required of all teaching assistants. Supervised practicum in teaching laboratory courses in physiological science; material preparation and use of teaching aids. May not be applied toward degree requirements. S/U grading.
+501. Cooperative Program
+Units: 2.0 to 8.0
+Preparation: consent of UCLA graduate adviser and graduate dean, and host campus instructor, department chair, and graduate dean. Used to record enrollment of UCLA students in courses taken under cooperative arrangements with USC. S/U grading.
+596. Individual Studies for Graduate Students
+Units: 2.0 to 8.0
+Tutorial, to be arranged. To enroll for letter grade, petition signed by faculty sponsor, graduate adviser, and graduate affairs committee chair must be submitted prior to end of second week of class. Eight units may be applied toward degree requirements for MS or PhD degree, provided that students enroll in two different 4-unit 596 courses in different laboratories under supervision of different mentors. Term paper required for letter grading. S/U or letter grading.
+597. Preparation for MS Comprehensive Examination or PhD Qualifying Examinations
+Units: 2.0 to 16.0
+Tutorial, to be arranged with faculty member serving as student's comprehensive examination chair or PhD committee chair. May not be applied toward MS or PhD course requirements. May be repeated as necessary. S/U grading.
+598. Research for and Preparation of MS Thesis
+Units: 2.0 to 16.0
+Tutorial, to be arranged with faculty member serving as student's thesis committee chair. May not be applied toward MS course requirements. May be repeated as necessary. S/U grading.
+599. Research for and/or Preparation of PhD Dissertation
+Units: 2.0 to 16.0
+Tutorial, to be arranged. May not be applied toward PhD course requirements. May be repeated as necessary. S/U grading.

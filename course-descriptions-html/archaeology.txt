@@ -1,0 +1,87 @@
+Lower Division Courses (5)
+19. Fiat Lux Freshman Seminars
+Units: 1.0
+Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.
+30. Science in Archaeology
+Units: 4.0
+Lecture, three hours; discussion, one hour. Archaeology is rapidly developing due to ongoing introduction of new hardware, software, and information dissemination technology. It is multidisciplinary field of study, combining its own research methods and technologies with elements from geology, history, ethnography, geography, material science, statistics, biology, biochemistry, medicine, and others, presenting opportunities not only to obtain new scholarly insights, but also to provide integrated instruction in science, technology, engineering, and mathematics (STEM) skills. Use of archaeological data as paradigm in STEM education. Instant practical application of mathematics during surveying, geology during ceramic analysis or geophysical research, biochemistry during archaeological residue analysis, or biology during zooarchaeological or paleoethnobotanical research offers point of departure for instructors as well as motivation to students. P/NP or letter grading.
+89. Honors Seminars
+Units: 1.0
+Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.
+89HC. Honors Contracts
+Units: 1.0
+Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.
+99. Student Research Program
+Units: 1.0 to 2.0
+Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
+Upper Division Courses (7)
+C110. Archaeological Materials Identification and Characterization
+Units: 4.0
+Lecture, one hour; laboratory, two hours. Laboratory-oriented introduction for archaeologists to identification and quantitative description of solid materials, especially metals, ceramics, and other inorganic and some organic substances. Concurrently scheduled with course C210. P/NP or letter grading.
+M112. Archaeology and Art of Christian and Islamic Egypt
+Units: 4.0
+(Same as Art History M119D, Islamic Studies M112, and Middle Eastern Studies M112.) Lecture, three hours. Culture of Egypt transformed gradually after Muslim conquest in mid-7th century CE. According to material evidence such as ceramics, textiles, architectural forms, and building techniques, it is functionally impossible to separate pre-Islamic Christian Egypt from early Islamic Egypt. Although population may have become largely Muslim by 10th century, Egypt remained Coptic in many senses even to 14th century and retains sizeable Christian minority to present. Survey of archaeological remains and standing architecture of Egypt from 6th to 19th century, charting changes and continuities in material culture and shifts in human geography and land use. P/NP or letter grading.
+C120. Special Topics in Archaeology
+Units: 2.0 or 4.0
+Lecture, three hours. Designed for juniors/seniors. Special topics on theoretical subjects in archaeology such as new strategies, regional synthesis, or current work by core program faculty or special visiting scholars. May be repeated for credit with topic change. Concurrently scheduled with course C220. Final project or paper required if taken for 4 units (P/NP or letter grading); 2-unit course has P/NP grading.
+C159. Fieldwork in Archaeology
+Units: 2.0 to 12.0
+Fieldwork, to be arranged. Participation in archaeological field excavations or museum research under supervision of staff archaeologists at UCLA. Minimum of one month of field time away from campus required. May be repeated for credit with consent of adviser. Concurrently scheduled with course C259. P/NP or letter grading.
+C180. Ancient and Historic Metals: Corrosion, Technology, and Microstructure
+Units: 6.0
+Seminar, four hours; laboratory, four hours. Overview of technology of ancient metals, aspects of extraction and alloying, corrosion that ancient metals undergo, and how this impacts their preservation. Exploration of knowledge and research work of last two decades that has substantially advanced understanding of processes of extraction, alloying, surface patination, metallic coatings, corrosion, and microstructure. Laboratory work in preparation and examination of metallic samples under microscope, as well as lectures on technology of metallic works of art. Discussion of phase and stability diagrams of common alloying systems and environments. Metallographic study samples represent Bronze Age Europe, Renaissance Europe, China from Warring States to Tang dynasty, Japanese swordmaking, Indian high-tin bronze alloys, bronzes, Peruvian, Colombian, Costa Rican, and Panamanian copper and gold-copper alloys. Concurrently scheduled with course C280. Letter grading.
+189. Advanced Honors Seminars
+Units: 1.0
+Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.
+189HC. Honors Contracts
+Units: 1.0
+Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.
+Graduate Courses (16)
+M201A. Graduate Core Seminar: Archaeology
+Units: 4.0
+(Same as Anthropology M201A.) Seminar, three hours. Required of all students. Seminar discussions based on carefully selected list of 25 major works related to development of archaeology in social sciences. Compulsory core seminars provide students with foundation in breadth of knowledge required of professional archaeologists. Archaeological historiography, survey of world archaeology, and archaeological techniques. Emphasis on appreciation of multidisciplinary background of modern archaeology and relevant interpretative strategies. May be repeated for credit with consent of adviser. S/U or letter grading.
+M201B. Graduate Core Seminar: Archaeology
+Units: 4.0
+(Same as Anthropology M201B.) Seminar, three hours. Required of all students. Seminar discussions based on carefully selected list of 25 major works related to development of archaeology in humanities. Compulsory core seminars provide students with foundation in breadth of knowledge required of professional archaeologists. Archaeological historiography, survey of world archaeology, and archaeological techniques. Emphasis on appreciation of multidisciplinary background of modern archaeology and relevant interpretative strategies. May be repeated for credit with consent of adviser. S/U or letter grading.
+M201C. Archaeological Research Design
+Units: 4.0
+(Same as Ancient Near East M201 and Anthropology M201C.) Seminar, three hours. Requisites: courses M201A, M201B. How to design archaeological projects in preparation for MA thesis or PhD phase. Students do exploratory research to select subject, then write research design that could form basis for extensive paper, grant application, or oral examination. Students work closely with faculty members and report weekly on their progress. Preparation of at least two oral progress-report presentations, one on theoretical framework and one on practical aspects of project. Final written research design that incorporates theoretical and practical aspects of research and formulates bridging arguments required. S/U or letter grading.
+M205A. Selected Laboratory Topics in Archaeology
+Units: 4.0
+(Same as Anthropology CM217.) Lecture, one hour; laboratory, two hours. Designed for graduate students in archaeology or in other departments. Specialized analysis of particular classes of cultural remains. Topic may be one of following: zooarchaeology, paleoethnobotany, ceramics, lithic analysis, rock art. Laboratory experience with collections and data. May be repeated for credit with topic change. S/U or letter grading.
+205B. Intensive Laboratory Training in Archaeology
+Units: 6.0
+Lecture, three hours; laboratory, two hours minimum. Advanced laboratory training for graduate students with extended laboratory hours. Special laboratory-based topics, including but not limited to lithic analysis, ceramic analysis, zooarchaeology, and paleoethnobotany. May be repeated for credit with topic change. S/U or letter grading.
+C210. Archaeological Materials Identification and Characterization
+Units: 4.0
+Lecture, one hour; laboratory, two hours. Laboratory-oriented introduction for archaeologists to identification and quantitative description of solid materials, especially metals, ceramics, and other inorganic and some organic substances. Concurrently scheduled with course C110. S/U or letter grading.
+C220. Special Topics in Archaeology
+Units: 2.0 or 4.0
+Lecture, three hours. Special topics on theoretical subjects in archaeology such as new strategies, regional synthesis, or current work by core program faculty or special visiting scholars. May be repeated for credit with topic change. Concurrently scheduled with course C120. Final project or paper required if taken for 4 units (S/U or letter grading); 2-unit course has S/U grading.
+C259. Fieldwork in Archaeology
+Units: 2.0 to 12.0
+Fieldwork, to be arranged. Participation in archaeological field excavations or museum research under supervision of staff archaeologists at UCLA. Minimum of one month of field time away from campus required. May be repeated for credit with consent of adviser. Concurrently scheduled with course C159. S/U or letter grading.
+M265. Depositional History and Stratigraphic Analysis
+Units: 4.0
+(Same as Ancient Near East M265.) Lecture, two hours. Theoretical understanding of depositional processes (laws) which lead to site formation and of stratigraphic procedures to be used in recovery of embedded cultural materials. Study of issues covered in literature, with specific test cases from actual excavations and site reports. Coverage of theoretical implications of such disciplines as surveying and pedology with help of specialists. S/U or letter grading.
+C280. Ancient and Historic Metals: Corrosion, Technology and Microstructure
+Units: 6.0
+Seminar, four hours; laboratory, four hours. Overview of technology of ancient metals, aspects of extraction and alloying, corrosion that ancient metals undergo, and how this impacts their preservation. Exploration of knowledge and research work of last two decades that has substantially advanced understanding of processes of extraction, alloying, surface patination, metallic coatings, corrosion, and microstructure. Laboratory work in preparation and examination of metallic samples under microscope, as well as lectures on technology of metallic works of art. Discussion of phase and stability diagrams of common alloying systems and environments. Metallographic study samples represent Bronze Age Europe, Renaissance Europe, China from Warring States to Tang dynasty, Japanese swordmaking, Indian high-tin bronze alloys, bronzes, Peruvian, Colombian, Costa Rican, and Panamanian copper and gold-copper alloys. Concurrently scheduled with course C180. Letter grading.
+375. Teaching Apprentice Practicum
+Units: 1.0 to 4.0
+Seminar, to be arranged. Preparation: apprentice personnel employment as teaching assistant, associate, or fellow. Teaching apprenticeship under active guidance and supervision of regular faculty member responsible for curriculum and instruction at UCLA. May be repeated for credit. S/U grading.
+501. Cooperative Program
+Units: 2.0 to 8.0
+Tutorial, to be arranged. Preparation: consent of UCLA graduate adviser and graduate dean, and host campus instructor, department chair, and graduate dean. Used to record enrollment of UCLA students in courses taken under cooperative arrangements with USC. S/U grading.
+596. Individual Studies for Graduate Students
+Units: 2.0 to 12.0
+Tutorial, to be arranged. May be repeated for credit with consent of adviser. S/U or letter grading.
+597. Preparation for PhD Qualifying Examination
+Units: 2.0 to 12.0
+Tutorial, to be arranged. Preparation: completion of formal coursework, passing of language examinations before enrollment. May be repeated for credit with consent of adviser. S/U grading.
+598. MA Paper Preparation
+Units: 2.0 to 12.0
+Tutorial, to be arranged. May be repeated for credit with consent of adviser. S/U grading.
+599. PhD Dissertation Research and Preparation
+Units: 2.0 to 12.0
+Tutorial, to be arranged. May be repeated for credit with consent of adviser. S/U grading.

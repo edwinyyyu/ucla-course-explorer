@@ -13,6 +13,7 @@ def get_html(url):
     driver.switch_to.new_window("tab")
     
     driver.get(url)
+    driver.refresh()
     time.sleep(1)
     html = driver.page_source
     
@@ -41,10 +42,20 @@ def scrape_courses(subject_area):
     soup = BeautifulSoup(html, "html.parser")
     
     path = "course-descriptions-html/"
-    filename = path + subject_area.replace(" ", "_").lower() + ".txt"
-    f = open(filename, "w+")
-    f.write(soup.prettify())
-    f.close()
+    filename = path + subject_area.replace(" ", "_").replace("/", "-").lower() + ".txt"
+    
+    text = soup.prettify()
+    
+    #start_str = subject_area
+    #start_index = text.find(start_str)
+    
+    #text = text[start_index:]
+    
+    with open(filename, "w") as f:
+        for line in text.splitlines():
+            stripped = line.strip()
+            if len(stripped) > 0 and stripped[0] != "<":
+                f.write(stripped + "\n")
     
     #course_substring
     #for course_substring in html
@@ -52,6 +63,9 @@ def scrape_courses(subject_area):
 # main
 driver = webdriver.Firefox()
 
-scrape_courses("Electrical and Computer Engineering")
+with open("subjects.txt", "r") as f:
+    lines = f.readlines()
+    for line in lines:
+        scrape_courses(line.strip())
 
 driver.quit()

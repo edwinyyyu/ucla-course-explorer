@@ -1,0 +1,813 @@
+Lower Division Courses (35)
+3. Material World
+Units: 5.0
+Lecture, three hours; laboratory, two hours. Focus on most important advances made by humans in developing new molecules and materials, and how these discoveries affect our everyday life. These include development of paints, polymers, metals, fuels, drugs, energetic materials, radioactive substances, poisons, and many more. Connections are made between interplay of science, history, arts, and socio-economic factors driving technological development. Laboratory sections focus on small-scale experiments relevant to everyday life and complimentary to lecture topics. P/NP or letter grading.
+4A. Chemistry and Your Health
+Units: 2.0
+Lecture, two hours. Recent health trends and how they are portrayed in pop culture and media. Examination of scientific explanations behind current health crazes and determination if there is validity to these claims. Discussion of chemical principles, such as basic arrow pushing mechanisms, radical oxidations, etc. Investigation of variety of topics including vitamins, health and beauty supplements, sugar alternatives, detox/cleanses, and traditional medicines. Relevant for students who have taken organic chemistry classes and those who are interested in learning basic organic chemistry concepts. No college-level chemistry is required. P/NP or letter grading.
+4B. What's Cooking Chemistry in the Kitchen
+Units: 4.0
+Lecture, three hours. What is difference between baking soda and baking powder? Why do some recipes call for butter, margarine, or shortening? Answers to these questions and more through dive into chemistry happening every day in your kitchen. Study of macromolecules that make up food (carbohydrates, proteins, and lipids), their chemical properties (hydrophobicity, pH, melting point, degree of saturation), and how to use these properties to control texture and taste in food. Chemical concepts are learned in fun, intuitive way, while use of scientific method in improving food preparations is also learned. Opportunities to participate in scientific process through weekly at home experiments in kitchen, and creative research project. P/NP or letter grading.
+7. Nanoscience and Nanotechnology Laboratory
+Units: 2.0
+Seminar, discussion, and laboratory, 32 hours. Limited to high school students. Key concepts of nanoscience and nanotechnology, including various approaches to nanofabrication (bottom-up and top-down). Fabrication of nanostructures and devices, collection of scientific data using those devices, analysis of data, and presentations of student results. Offered in summer only. P/NP grading.
+8. Applications of Nanoscience
+Units: 2.0 to 4.0
+Seminar, discussion, laboratory, and field trip, 30 to 60 hours. Limited to high school students. Introduction of advanced concepts of nanoscience and nanotechnology, with emphasis on applications of nanoscience and nanotechnology in other research fields and industries. Laboratories introduce students to research methods, experiment development, scientific writing, and presentation skills. Students devise and execute their own exploratory nanoscience experiments, and present them to technical audience. Offered only as part of Summer Institute. P/NP grading.
+14A. General Chemistry for Life Scientists I
+Units: 4.0
+Lecture, three hours; discussion, one hour. Preparation: high school chemistry or equivalent background and three and one half years of high school mathematics. Requisite: completion of Chemistry Diagnostic Test. Enforced corequisite: Life Sciences 30A or Mathematics 3A or 31A or score of 48 or better on Mathematics Diagnostic Test. Not open to students with credit for course 20A. Introduction to physical and general chemistry principles; atomic structure based on quantum mechanics; atomic properties; trends in periodic table; chemical bonding (Lewis structures, VSEPR theory, hybridization, and molecular orbital theory); coordination compounds; properties of inorganic and organic acids, bases, buffers. P/NP or letter grading.
+14AE. General Chemistry for Life Scientists I--Enhanced
+Units: 4.0
+Lecture, three hours; discussion, two hours. Preparation: high school chemistry or equivalent background and three and one half years of high school mathematics. Requisite: completion of Chemistry Diagnostic Test. Enforced corequisite: Life Sciences 30A or Mathematics 3A or 31A or score of 48 or better on Mathematics Diagnostic Test. Not open to students with credit for course 14A or 20A. Study of foundations of chemistry. Discussion of foundations of quantum mechanics and how these principles can be used to understand atomic and molecular structure and properties; how molecules interact; and properties of inorganic, organic, and biological acids, bases, and salts. Biological, environmental, and socially-relevant examples are used to illustrate central role that chemistry plays in our world. Emphasis on developing problem-solving skills and collaborative interaction and learning. P/NP or letter grading.
+14B. General Chemistry for Life Scientists II
+Units: 4.0
+Lecture, three hours; discussion, one hour. Enforced requisite: one course from 14A, 14AE, 20A, or 20AH with grade of C- or better. Enforced requisite or corequisite: Life Sciences 30B or Mathematics 3B or 31B with grade of C- or better. Not open to students with credit for course 14BE, 20B, or 20BH. Chemical equilibria in gases and liquids, acid-base equilibrium; phase changes; thermochemistry; first, second, and third laws of thermodynamics; free energy changes; electrochemistry and its role as energy source; chemical kinetics, including catalysis, and reaction mechanisms. P/NP or letter grading.
+14BE. General Chemistry for Life Scientists II--Enhanced
+Units: 4.0
+Lecture, three hours; discussion, two hours. Enforced requisite: one course from 14A, 14AE, 20A, or 20AH with grade of C- or better. Enforced requisite or corequisite: Life Sciences 30B or Mathematics 3B or 31B with grade of C- or better. Not open to students with credit for course 14B, 20B, or 20BH. Introduction to concepts in thermodynamics and kinetics that are critical for understanding of molecular basis of life. Chemical equilibria in gases and liquids, acid-base equilibrium; phase changes; thermochemistry; first, second, and third laws of thermodynamics; free energy changes; electrochemistry; chemical kinetics, including catalysis, and reaction mechanisms. Emphasis on developing problem-solving skills and collaborative interaction and learning. P/NP or letter grading.
+14BL. General and Organic Chemistry Laboratory I
+Units: 3.0
+Lecture, one hour; laboratory, three hours. Enforced requisite: course 14A or 20A or 20AH with grade of C- or better. Enforced corequisite: course 14B. Not open to students with credit for course 20L. Introduction to volumetric, spectrophotometric, and potentiometric analysis. Use and preparation of buffers and pH meters. Synthesis and kinetics techniques using compounds of interest to students in life sciences. P/NP or letter grading.
+14C. Structure of Organic Molecules
+Units: 4.0
+Lecture, three hours; discussion, one hour. Enforced requisite: course 14B with grade of C- or better. Not open to students with credit for course 30A. Continuing studies in structure of organic molecules, with emphasis on biological applications. Resonance, stereochemistry, conjugation, and aromaticity; spectroscopy (NMR, IR, and mass spectrometry); introduction to effects of structure on physical and chemical properties; survey of biomolecular structure. P/NP or letter grading.
+14CL. General and Organic Chemistry Laboratory II
+Units: 4.0
+Lecture, one hour; laboratory, six hours. Enforced requisites: courses 14B and 14BL, or 20B and 20L, with grades of C- or better. Enforced corequisite: course 14C. Synthesis and analysis of compounds; purification by extraction, chromatography, recrystallization, and sublimation; characterization by mass spectroscopy, UV, NMR, and IR spectroscopy, optical activity, electrochemistry, pH titration. P/NP or letter grading.
+14D. Organic Reactions and Pharmaceuticals
+Units: 4.0
+Lecture, three hours; discussion, one hour. Enforced requisite: course 14C with grade of C- or better. Organic reactions, nucleophilic and electrophilic substitutions and additions; electrophilic aromatic substitutions, carbonyl reactions, catalysis, molecular basis of drug action, and organic chemistry of pharmaceuticals. P/NP or letter grading.
+17. Chemical Principles
+Units: 4.0
+Lecture, three hours; discussion, one hour. Introduction to chemical principles: numbers, measurements, chemical calculations, gas laws, solutions, acids, bases, and salts, molecular structure, and nomenclature. Collaborative learning and problem solving; introduction to chemistry laboratory practice. P/NP or letter grading.
+19. Fiat Lux Freshman Seminars
+Units: 1.0
+Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.
+20A. Chemical Structure
+Units: 4.0
+Lecture, three hours; discussion, one hour. Preparation: high school chemistry or equivalent background and three and one half years of high school mathematics. Recommended preparation: high school physics. Requisite: completion of Chemistry Diagnostic Test. Enforced corequisite: Mathematics 31A. Not open to students with credit for course 14A. First term of general chemistry. Survey of chemical processes, quantum chemistry, atomic and molecular structure and bonding, molecular spectroscopy. P/NP or letter grading.
+20AH. Chemical Structure (Honors)
+Units: 4.0
+Lecture, three hours; discussion, one hour. Preparation: high school chemistry or equivalent background, high school physics, and three and one half years of high school mathematics. Enforced corequisite: Mathematics 31A. Honors course parallel to course 20A. P/NP or letter grading.
+20B. Chemical Energetics and Change
+Units: 4.0
+Lecture, three hours; discussion, one hour. Enforced requisites: course 20A or 20AH, and Mathematics 31A, with grades of C- or better. Enforced corequisite: Mathematics 31B. Second term of general chemistry. Intermolecular forces and organization, phase behavior, chemical thermodynamics, solutions, equilibria, reaction rates and laws. P/NP or letter grading.
+20BH. Chemical Energetics and Change (Honors)
+Units: 4.0
+Lecture, three hours; discussion, one hour. Enforced requisites: course 20A and Mathematics 31A with grades of B+ or better or 20AH with grade of B or better. Enforced corequisite: Mathematics 31B. Honors course parallel to course 20B. Letter grading.
+20L. General Chemistry Laboratory
+Units: 3.0
+Lecture, one hour; laboratory, three hours. Enforced requisite: course 14A or 20A with grade of C- or better. Enforced corequisite: course 14B or 20B. Use of balance, volumetric techniques, volumetric and potentiometric analysis; Beer's law, applications for environmental analysis and materials science. P/NP or letter grading.
+30A. Organic Chemistry I: Structure and Reactivity
+Units: 4.0
+Lecture, three hours; discussion, one hour. Enforced requisite: course 20B with grade of C- or better. First term of organic chemistry for Chemistry, Biochemistry, and engineering majors. Covalent bonding, shapes, stereochemistry, and acid/base properties of organic molecules. Properties, synthesis, and reactions of alkanes, cycloalkanes, alkenes, and alkynes. SN2, SN1, elimination, and radical reactions. P/NP or letter grading.
+30AL. General Chemistry Laboratory II
+Units: 4.0
+Lecture, one hour; laboratory, six hours. Enforced requisites: courses 20B (or 20BH), 20L, and 30A (or 30AH), with grades of C- or better. Qualitative and quantitative analysis of chemical reactions and compounds, kinetics, separations, and spectroscopy. P/NP or letter grading.
+30B. Organic Chemistry II: Reactivity, Synthesis, and Spectroscopy
+Units: 4.0
+Lecture, three hours; discussion, one hour. Enforced requisite: course 30A or 30AH, with grade of C- or better. Second term of organic chemistry for Chemistry, Biochemistry, and engineering majors. Properties, synthesis, and reactions of alcohols, ethers, sulfur compounds, aldehydes, ketones, carboxylic acids, and carboxylic acid derivatives. Organometallic compounds. Organic spectroscopy, including mass spectrometry, infrared spectroscopy, and proton and carbon nuclear magnetic resonance spectroscopy. P/NP or letter grading.
+30BL. Organic Chemistry Laboratory I
+Units: 3.0
+Lecture, one hour; laboratory, four hours. Requisites: courses 30A (or 30AH), 30AL and 30B, with grades of C- or better. Basic experimental techniques in organic synthesis (performing reactions, monitoring reactions, and conducting purifications) and spectroscopy (IR, NMR, mass spectrometry). Synthesis of known organic molecules on microscale level with focus on societal applications. P/NP or letter grading.
+30C. Organic Chemistry III: Reactivity, Synthesis, and Biomolecules
+Units: 4.0
+Lecture, three hours; discussion, one hour. Enforced requisite: course 30B with grade of C- or better. Third term of organic chemistry for Chemistry, Biochemistry, and engineering majors. Chemistry of enolates, enamines, dicarbonyl compounds, and amines. Molecular orbital theory and conjugated pi systems; UV/vis spectroscopy. Aromaticity and reactions of aromatic molecules. Heterocycles, pericyclic reactions, carbohydrates, and lipids. P/NP or letter grading.
+30CL. Organic Chemistry Laboratory II
+Units: 4.0
+Lecture, two hours; laboratory, six hours. Enforced requisites: courses 30B and 30BL, with grades of C- or better. Enforced corequisite: course 30C. Modern techniques in synthetic organic and analytical organic chemistry. Semi-preparative scale, multistep synthesis of organic and organometallic molecules, including asymmetric catalysts. One- and two-dimensional multinuclear NMR techniques. Written reports and proposals. P/NP or letter grading.
+50. Computational Tools for Materials Modeling and Discovery
+Units: 4.0
+Lecture, three hours. Enforced requisite: course 14A or 20A or 20AH, with grade of C- or better. Materials are central to many modern technologies, from industrial catalysis, to batteries, computer hard disks, and quantum computers. Computational modeling gains central stage in materials research and discovery, especially with emergence of artificial intelligence techniques and big data initiatives. Introduction to computational tools enabling materials modeling, analysis, predictions, and graphical visualization. Topics such as crystallography, solid state chemistry, and surface science are brought together to enable effective modeling of solid state. Basic concepts related to programming and scripting, and basis of computational chemistry included. P/NP or letter grading.
+88A. Lower-Division Seminar: Serendipity in Science
+Units: 2.0
+Seminar, two hours. Limited to 20 freshmen. Inquiry into unexpected discoveries in science that have had significant impact on society and analysis of circumstances that brought these about, beginning with discovery of helium in sun by Janssen in 1868 (using newly developed field of spectroscopy). Discovery of X rays by Röntgen in 1895 and of radioactivity by Becquerel in 1896. Other topics include discoveries important to medicine, such as penicillin by Fleming in 1928 and cis-platin by Rosenberg in 1969. P/NP or letter grading.
+88S. Elements of Life in Our Universe
+Units: 1.0
+Seminar, one hour. Demonstration of how core concepts from sciences from physics to chemistry to biology, meaningfully interact with each other to give rise to phenomena of life. Study focuses on three different phases of life in universe: Big Bang and formation of solar system and conditions conducive to life, elements most related to life, and end at "end" of universe. Throughout this journey simple atom acts as protagonist, showing how, from formation of that atom to its theoretical end, it is able to help or harm life in universe. P/NP grading. Facilitated by Amish Jain, with Hung V. Pham as faculty mentor.
+89. Honors Seminars
+Units: 1.0
+Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.
+89HC. Honors Contracts
+Units: 1.0
+Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.
+96. Special Courses in Chemistry
+Units: 1.0 to 4.0
+Tutorial, to be arranged. May be repeated for maximum of 8 units. P/NP or letter grading.
+98XA. PEERS Collaborative Learning Workshops for Life Sciences Majors
+Units: 1.0
+Laboratory, three hours. Corequisite: associated undergraduate lecture course in chemistry and biochemistry for life sciences majors. Limited to Program for Excellence in Education and Research in Science (PEERS) students. Development of intuition and problem-solving skills in collaborative learning environment. May be repeated four times, but only 1 unit may be applied toward graduation. P/NP grading.
+98XB. PEERS Collaborative Learning Workshops for Physical Sciences and Engineering Majors
+Units: 1.0
+Laboratory, three hours. Corequisite: associated undergraduate lecture course in chemistry and biochemistry for physical sciences and engineering majors. Limited to Program for Excellence in Education and Research in Science (PEERS) students. Development of intuition and problem-solving skills in collaborative learning environment. May be repeated four times, but only 1 unit may be applied toward graduation. P/NP grading.
+99. Student Research Program
+Units: 1.0 to 2.0
+Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
+Upper Division Courses (84)
+C100. Genomics and Computational Biology
+Units: 5.0
+Lecture, four hours; discussion, one hour. Introduction for biochemistry students of technologies and experimental data of genomics, as well as computational tools for analyzing them. Biochemistry and molecular biology dissected life into its component parts, one gene at time, but lacked integrative mechanisms for putting this information back together to predict what happens in complete organism (e.g., over 80 percent of drug candidates fail in clinical trials). High-throughput technologies such as sequencing, microarrays, mass-spec, and robotics have given biologists incredible new capabilities to analyze complete genomes, expression patterns, functions, and interactions across whole organisms, populations, and species. Use and analysis of such datasets becomes essential daily activity for biomedical scientists. Core principles and methodologies for analyzing genomics data to answer biological and medical questions, with focus on concepts that guide data analysis rather than algorithm details. Concurrently scheduled with course C200. P/NP or letter grading.
+101. Catalysis in Modern Drug Discovery
+Units: 4.0
+Lecture, three hours. Enforced requisite: course 14D or 30B with a grade of C- or better. Overview of drug discovery process with focus on transition metal catalysis in synthesis of medicines. Discussion of process by which drugs are discovered, from lead optimization to process development. Introduction to transition metal catalysis, area of critical importance in modern drug development. Study of fundamental concepts of transition metal catalysis and how catalysis has played transformative role in synthesis of modern medicines. Particular attention throughout to discussion of case studies that emphasize broad impact of medicinal chemistry and importance of catalysis in drug discovery. Highlights how organic chemistry can impact world around us, particularly in development of pharmaceuticals. P/NP or letter grading.
+103. Environmental Chemistry
+Units: 4.0
+Lecture, four hours; discussion, one hour. Requisites: courses 30B, 30BL, 110A, 153A (or 153AH), 153L. Chemical aspects of air and water pollution, solid waste disposal, energy resources, and pesticide effects. Chemical reactions in environment and effect of chemical processes on environment. P/NP or letter grading.
+C105. Introduction to Chemistry of Biology
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisite: course 153A with grade of C- or better. Introduction to chemical biology. Topics include computational chemical biology, utility of synthesis in biochemical research, peptidomimetics, designed reagents for cellular imaging, natural product biosynthesis, protein engineering and directed evolution, cell biology of metal ions, imaging metal ions in cells, metal-containing drugs. Concurrently scheduled with course CM205A. Letter grading.
+C107. Organometallic Chemistry
+Units: 4.0
+Lecture/discussion, three hours. Enforced requisite or corequisite: course 172. Survey of synthesis, structure, and reactivity (emphasizing mechanistic approach) of compounds containing carbon bonded to elements selected from main group metals, metalloids, and transition metals, including olefin complexes and metal carbonyls; applications in catalysis and organic synthesis. Concurrently scheduled with course C207. P/NP or letter grading.
+C108. Mass Spectrometry for Chemists and Biochemists
+Units: 2.0
+Lecture, one hour; laboratory, four hours. Requisite: course 153A. Introduction to principles and practice of organic and inorganic mass spectrometry. Topics include EI, CI, ICPMS, GC/MS, LC/MS, ESI, MALDI, MS/MS protein identification, and proteomics. Concurrently scheduled with course C208. P/NP or letter grading.
+110A. Physical Chemistry: Chemical Thermodynamics
+Units: 4.0
+Lecture, three hours; discussion, one hour; tutorial, one hour. Requisites: course 20B, Mathematics 32A or 3C (for life sciences majors), Physics 1A, 1B, and 1C (may be taken concurrently), or 1AH, 1BH, and 1CH (may be taken concurrently), or 5A, 5B, and 5C (may be taken concurrently), or 6A, 6B, and 6C (may be taken concurrently). Fundamentals of thermodynamics, chemical and phase equilibria, thermodynamics of solutions, electrochemistry. P/NP or letter grading.
+110B. Topics in Physical Chemistry
+Units: 4.0
+Lecture, three hours; discussion, one hour; tutorial, one hour. Requisites: courses 110A, 113A, Mathematics 32B, all with grades of C- or better. Kinetic theory of gases, principles of statistical mechanics, statistical thermodynamics, equilibrium structure and free energy, relaxation and transport phenomena, macroscopic chemical kinetics, molecular-level reaction dynamics. P/NP or letter grading.
+113A. Physical Chemistry: Introduction to Quantum Mechanics
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: course 20B, Mathematics 32A, 32B, 33A, Physics 1A, 1B, and 1C, or 1AH, 1BH, and 1CH, or 5A, 5B, and 5C, or 6A, 6B, and 6C, with grades of C- or better. Departure from classical mechanics: Schrödinger versus Newton equations; model systems: particle-in-box, harmonic oscillator, rigid rotor, and hydrogen atom; approximation methods: perturbation and variational methods; many-electron atoms, spin, and Pauli principle, chemical bonding. P/NP or letter grading.
+C113B. Quantum Chemistry Methods
+Units: 4.0
+Lecture, three hours; discussion, one hour; tutorial, one hour. Requisite: course 113A. Complete introduction to electronic structure theory methods used by general computational chemistry community, focusing primarily on ab initio methods. Students gain understanding of electronic structure methods and tools to identify which methods are suitable for which types of systems. Methods covered include Hartree Fock, density-functional theory, perturbative methods, and modern high-correlation methods; and highlight algorithms necessary to implement these methods efficiently. Concurrently scheduled with course C213B. P/NP or letter grading.
+114. Physical Chemistry Laboratory
+Units: 5.0
+Lecture, two hours; laboratory, eight hours. Enforced requisites: courses 30AL, 110A, and 113A, with grades of C- or better. Enforced corequisite: course 110B or C113B. Lectures include techniques of physical measurement, error analysis and statistics, special topics. Laboratory includes spectroscopy, thermodynamic measurements, and chemical dynamics. P/NP or letter grading.
+114. Physical Chemistry Laboratory (Effective Summer Sessions 2022 )
+Units: 5.0
+Lecture, two hours; laboratory, eight hours. Enforced requisites: courses 30AL, 110A, and 113A, with grades of C- or better. Enforced corequisite: course 110B. Lectures include techniques of physical measurement, error analysis and statistics, special topics. Laboratory includes spectroscopy, thermodynamic measurements, and chemical dynamics. P/NP or letter grading.
+114H. Physical Chemistry Laboratory (Honors)
+Units: 5.0
+Lecture, two hours; laboratory, eight hours. Enforced requisites: courses 30AL, 110A, and 113A, with grades of B or better. Enforced corequisite: course 110B or C113B. Lectures include techniques of physical measurement, error analysis and statistics, special topics. Laboratory includes topics in physical chemistry to be selected in consultation with instructor. P/NP or letter grading.
+C115A. Quantum Chemistry
+Units: 4.0
+Lecture, four hours; discussion, one hour. Requisites: course 113A, Mathematics 31A, 31B, 32A, 32B, 33A, with grades of C- or better. Recommended: knowledge of differential equations equivalent to Mathematics 134 or 135 or Physics 131 and of analytic mechanics equivalent to Physics 105A. Course C115A or Physics 115B with grade of C- or better is requisite to C115B. Students entering course C115A are normally expected to take course C115B in following term. Designed for chemistry students with serious interest in quantum chemistry. Postulates and systematic development of nonrelativistic quantum mechanics; expansion theorems; wells; oscillators; angular momentum; hydrogen atom; matrix techniques; approximation methods; time dependent problems; atoms; spectroscopy; magnetic resonance; chemical bonding. May be concurrently scheduled with course C215A. P/NP or letter grading.
+C115B. Quantum Chemistry
+Units: 4.0
+Lecture, four hours; discussion, one hour. Requisites: course 113A, C115A or Physics 115B, Mathematics 31A, 31B, 32A, 32B, 33A, with grades of C- or better. Recommended: knowledge of differential equations equivalent to Mathematics 134 or 135 or Physics 131 and of analytic mechanics equivalent to Physics 105A. Students entering course C115A are normally expected to take course C115B in following term. Designed for chemistry students with serious interest in quantum chemistry. Postulates and systematic development of nonrelativistic quantum mechanics; expansion theorems; wells; oscillators; angular momentum; hydrogen atom; matrix techniques; approximation methods; time dependent problems; atoms; spectroscopy; magnetic resonance; chemical bonding. May be concurrently scheduled with course C215B. P/NP or letter grading.
+C115C. Advanced Quantum Chemistry: Applications
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 113A, C115B. Topics in quantum chemistry selected from molecular structure, collision processes, theory of solids, symmetry and its applications, and theory of electromagnetic radiation. Concurrently scheduled with course C215C. P/NP or letter grading.
+M117. Structure, Patterns, and Polyhedra
+Units: 5.0
+(Same as Honors Collegium M180.) Lecture, four hours; laboratory, two hours. Exploration of structures and their geometric underpinnings, with examples and applications from architecture (space frames, domes), biology (enzyme complexes, viruses), chemistry (symmetry, molecular cages), design (tiling), engineering (space filling), and physics (crystal structures) to effect working knowledge of symmetry, two-dimensional patterns, and three-dimensional solids. P/NP or letter grading.
+118. Colloidal Dynamics Laboratory
+Units: 4.0
+Lecture, two hours; laboratory, eight hours. Requisites: courses 110A and 110B, with grades of B or better, or equivalent statistical mechanics courses from engineering, mathematics, or physics. One aspect of dispersions of microscale particles in viscous liquids is that such dispersions can be used as visual model systems for studying phases that chemistry undergraduate students typically learn about for nanoscale and molecular systems, yet they do not see. Temperature continuously excites molecules and causes rearrangements, giving dynamic views of macromolecules and particles in many fields, including cell and molecular biology, chemical engineering, chemistry, materials science, and physics. Letter grading.
+M120. Soft Matter Laboratory
+Units: 4.0
+(Same as Physics M180G.) Lecture, 90 minutes; laboratory, four hours. Requisites: Physics 110B, 115A. Students gain experience of conducting independent research in experimental biological physics. Construction of modern microscope. Use of microscope to image biological specimens. Students learn optics, diffraction, imaging, microscopy, computational physics, and/or fluorescent labeling. P/NP or letter grading.
+121. Special Topics in Physical Chemistry
+Units: 4.0
+Lecture, four hours. Requisite: course 110B. Recommended: course 113A. Topics of considerable research interest presented at level suitable for students who have completed junior-year courses in physical chemistry. P/NP or letter grading.
+C122. Mathematical Methods for Chemistry
+Units: 4.0
+Lecture, four hours. Enforced requisites: Mathematics 31A, 31B, 32A, 32B. Review of basic mathematics necessary to study physical chemistry at graduate level, with focus on review of vectors, linear algebra, elementary complex analysis, and solution of ordinary and partial differential equations. Development of problem-solving skills through homework based on these mathematical techniques, with examples from physical chemistry. Concurrently scheduled with course C222. P/NP or letter grading.
+C123A. Classical and Statistical Thermodynamics
+Units: 4.0
+Lecture, four hours; discussion, one hour. Requisite: course 110B or 156. Recommended: course 113A. Rigorous presentation of fundamentals of classical thermodynamics. Principles of statistical thermodynamics: probability, ensembles, partition functions, independent molecules, and perfect gas. Applications of classical and statistical thermodynamics selected from diatomic and polyatomic gases, solid and fluid states, phase equilibria, electric and magnetic effects, ortho-para hydrogen, chemical equilibria, reaction rates, imperfect gas, nonelectrolyte and electrolyte solutions, surface phenomena, high polymers, gravitation. May be concurrently scheduled with course C223A. P/NP or letter grading.
+C123B. Classical and Statistical Thermodynamics
+Units: 4.0
+Lecture, four hours; discussion, one hour. Requisite: course 110B or 156. Recommended: course 113A. Rigorous presentation of fundamentals of classical thermodynamics. Principles of statistical thermodynamics: probability, ensembles, partition functions, independent molecules, and perfect gas. Applications of classical and statistical thermodynamics selected from diatomic and polyatomic gases, solid and fluid states, phase equilibria, electric and magnetic effects, ortho-para hydrogen, chemical equilibria, reaction rates, imperfect gas, nonelectrolyte and electrolyte solutions, surface phenomena, high polymers, gravitation. May be concurrently scheduled with course C223B. P/NP or letter grading.
+125. Introduction to Python Programming and Machine Learning
+Units: 4.0
+Lecture, three hours; computer laboratory, one hour. Requisite: course 14C or 30A, with grade of C- or better. Introduction to programming in Python and to machine learning and its many applications within chemical sciences. Topics include fundamentals of Python programming, routine numerical procedures such as optimization and linear regression, and overview of machine learning, with special emphasis on neural networks and deep learning, including implementation. Exploration of mainstream applications of machine learning to problems of chemical interest, including molecular simulation, protein structure prediction, and computer-aided drug and material design/discovery. Particular topics to be covered and projects to be completed may be decided in part based on student interest and input. P/NP or letter grading.
+C126A. Computational Methods for Chemists
+Units: 4.0
+Lecture, one hour; laboratory, four hours. Requisites: courses 110A, 113A, Mathematics 33A. Covers some basics of scientific coding. Introduction to advanced applications provided through commercially available computational packages. Includes quantum mechanical techniques for chemistry, reactivity, spectroscopy, solid state calculations; statistical mechanical techniques for chemistry and biochemistry; python coding, basic algorithms, machine learning, and numerical techniques. Concurrently scheduled with course C226A. P/NP or letter grading.
+CM127. Synthetic Biology for Biofuels
+Units: 4.0
+(Same as Chemical Engineering CM127.) Lecture, four hours; discussion, one hour. Requisite: course 153A. Engineering microorganisms for complex phenotype is common goal of metabolic engineering and synthetic biology. Production of advanced biofuels involves designing and constructing novel metabolic networks in cells. Such efforts require profound understanding of biochemistry, protein structure, and biological regulations and are aided by tools in bioinformatics, systems biology, and molecular biology. Fundamentals of metabolic biochemistry, protein structure and function, and bioinformatics. Use of systems modeling for metabolic networks to design microorganisms for energy applications. Concurrently scheduled with course CM227. Letter grading.
+C132A. Core Principles in Cell and Molecular Biology
+Units: 4.0
+Lecture, four hours. Requisites: Life Sciences 7A, 7B, 7C, 23L. Students gain broad foundational knowledge and skills for rigorous research in emerging areas of cell and molecular biology. Focus on foundational knowledge of cell and molecular biology research areas including cell cycle, cell signaling, cell metabolism, cell communication, cell states and fates, genomes, and proteomes. Focus on skills development for cell and molecular biology research. Students are equipped with theory of modern experimental approaches, and acquire hands-on skills training in designing experiments and analyzing data using these approaches. Students meet with directors of shared core facilities that specialize in these approaches to facilitate use of these approaches in their research Continuation of in-depth analysis of rigorous experimental design and statistical analyses in cell and molecular biology. Concurrently scheduled with course C232A. P/NP or letter grading.
+136. Organic Structural Methods
+Units: 5.0
+Lecture, two hours; laboratory, eight hours. Requisites: courses 30C and 30CL, with grades of C- or better. Laboratory course in organic structure determination by chemical and spectroscopic methods; microtechniques. P/NP or letter grading.
+C138. Natural Product Biosynthesis: Chemical Logic and Enzymatic Machinery
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 30A, 30B, 30C, 153A. Covers fundamental chemical logic and enzyme mechanisms involved in biosynthesis of natural products. Discussion of major classes of natural product including polyketides, nonribosomal peptides, terpenes, alkaloids. Emphasis on biosynthetic logic used by nature to form complex molecules. Discussion of several important enzyme families in context of biosynthesis, including assembly-line megasynthases, group transferases, oxidoreductases, etc. Historical account of natural product isolation and characterization, as well as modern account of synthetic biology and genome based efforts that are used in discovery of new natural products. Includes extensive survey of scientific literature in format of presentations and discussions. Concurrently scheduled with course C238. Letter grading.
+C140. Bionanotechnology
+Units: 4.0
+Lecture, three hours. Requisites: courses 30C, 110A. Basic physical, chemical, and biological principles in bionanotechnology; materials and strategies for top-down and bottom-up fabrication of ordered biologically derived molecules, characterization and detection techniques, and biomimetic materials and applications at nanoscale. Concurrently scheduled with course C240. P/NP or letter grading.
+C143A. Structure and Mechanism in Organic Chemistry
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 30C and 30CL (may be taken concurrently), 110B, and 113A, with grades of C- or better. Mechanisms of organic reactions. Acidity and acid catalysis; linear free energy relationships; isotope effects. Molecular orbital theory; photochemistry; pericyclic reactions. May be concurrently scheduled with course C243A. P/NP or letter grading.
+C143B. Mechanism and Structure in Organic Chemistry
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisite: course C143A with grade of C- or better. Mechanisms of organic reactions; structure and detection of reactive intermediates. May be concurrently scheduled with course C243B. P/NP or letter grading.
+144. Practical and Theoretical Introductory Organic Synthesis
+Units: 5.0
+Lecture, two hours; laboratory, eight hours. Enforced requisites: courses 30C and 30CL, with grades of C- or better. Lectures on modern synthetic reactions and processes, with emphasis on stereospecific methods for carbon-carbon bond formation. Laboratory methods of synthetic organic chemistry, including reaction techniques, synthesis of natural products, and molecules of theoretical interest. P/NP or letter grading.
+C145. Theoretical and Computational Organic Chemistry
+Units: 4.0
+Lecture, two hours; discussion, one hour; computer laboratory, one hour. Requisites: courses 30C, 113A. Applications of quantum mechanical concepts and methods to understand and predict organic structures and reactivities. Computational modeling methods, including laboratory experience with force-field and quantum mechanical computer calculations. Concurrently scheduled with course C245. P/NP or letter grading.
+147. Careers in Chemistry and Biochemistry
+Units: 2.0
+Seminar, two hours. Exploration of employment and career opportunities available to students. Different speakers give short presentations to describe their career paths in areas such as industry, government, research and development, education, law, and healthcare, explain how their education in chemistry and biochemistry helped them become successful, and what actual chemistry was used in their particular professions. Students learn and understand real-life applications of chemical concepts found in their coursework. P/NP grading.
+C150. Research Methods and Integrity in Cellular and Molecular Biology
+Units: 4.0
+Lecture, two hours; discussion, two hours. Data analysis and management, statistical methods, use of antibody and kit reagents, figure preparation, authorship, mentoring, human subjects protection, animal subject protection, and conflict of interest. May be repeated for credit. Concurrently scheduled with course C250. Letter grading.
+151. Machine Learning for Chemistry
+Units: 4.0
+(Formerly numbered 51.) Lecture, three hours. Requisites: course 20B or 20BH, Mathematics 33A or 33AH. Introduction to machine learning and its many applications within chemical sciences. Topics include widely-used approaches for modeling large and complex data sets, including neural networks and deep learning, supervised and unsupervised learning, and dimensionality reduction. Exploration of mainstream applications of machine learning to problems of chemical interest, including molecular simulation and computer-aided drug and material design/discovery. Succinct introduction to linear algebra and programming in Python. Particular topics to be covered and projects to be completed may be decided in part based on student interest and input. P/NP or letter grading.
+153A. Biochemistry: Introduction to Structure, Enzymes, and Metabolism
+Units: 4.0
+Lecture, four hours; discussion, one hour. Requisite: course 14D or 30B, with grade of C- or better. Recommended: Life Sciences 2, 3, and 23L, or 7A. Structure of proteins, carbohydrates, and lipids; enzyme catalysis and principles of metabolism, including glycolysis, citric acid cycle, and oxidative phosphorylation. P/NP or letter grading.
+153AH. Biochemistry: Introduction to Structure, Enzymes, and Metabolism (Honors)
+Units: 4.0
+Lecture, three hours; discussion, one hour; tutorial, one hour. Requisite: course 14D or 30B, with grade of C- or better. Recommended: Life Sciences 2, 3, 23L. Honors course parallel to course 153A. P/NP or letter grading.
+153B. Biochemistry: DNA, RNA, and Protein Synthesis
+Units: 4.0
+Lecture, three hours; discussion, one hour; tutorial, one hour. Requisite: course 153A or 153AH. Recommended: Life Sciences 2, 3, and 23L, or 7A and 7B. Nucleotide metabolism; DNA replication; DNA repair; transcription machinery; regulation of transcription; RNA structure and processing; protein synthesis and processing. P/NP or letter grading.
+153BH. Biochemistry: DNA, RNA, and Protein Sythesis (Honors)
+Units: 4.0
+Lecture, three hours; discussion, one hour; tutorial, one hour. Enforced requisites: course 153A or 153AH, Life Sciences 2, 3, 23L. Honors course parallel to course 153B. P/NP or letter grading.
+153C. Biochemistry: Biosynthetic and Energy Metabolism and Its Regulation
+Units: 4.0
+Lecture, three hours; discussion, one hour; tutorial, one hour. Requisite: course 153A or 153AH. Metabolism of carbohydrates, fatty acids, amino acids, and lipids; photosynthetic metabolism and assimilation of inorganic nutrients; regulation of these processes. P/NP or letter grading.
+153CH. Biochemistry: Biosynthetic and Energy Metabolism and Its Regulation (Honors)
+Units: 4.0
+Lecture, three hours; discussion, two hours. Requisite: course 153A or 153AH. Honors course parallel to course 153C. P/NP or letter grading.
+153D. Introduction to Protein Structural Biology
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: course 153A, Life Sciences 3 or 7A. Proteins are diverse set of macromolecules that perform critical functions within cells, ranging from enzymes that catalyze metabolic reactions to proteins that enable pathogens to cause disease. Introduction to field of protein structural biology, that seeks to understand molecular basis of protein function through visualizing atomic structures and by investigating how alterations in protein structure affects function. Students gain fundamental understanding of protein structure and its relationship to function and learn how experimental and computational methods are used to determine three-dimensional structures of proteins. Hands-on training in computer graphics programs and online tools used to visualize and analyze protein structures. Letter grading.
+153L. Biochemical Methods I
+Units: 4.0
+Lecture, two hours; laboratory, four hours. Requisites: courses 14BL or 20L and 30AL, and 153A or 153AH (may be taken concurrently), with grades of C- or better. Integrated term-long project involving biofuel production in bacteria. Purification of key enzyme for alcohol production from bacteria via affinity chromatography. Assessment of protein amount, purity, and activity of enzyme. Techniques include protein determination by Bradford assay, polyacrylamide gel electrophoresis, immunoblotting, and enzyme activity assays to determine enzyme activity (Km, Vmax, inhibitor studies). P/NP or letter grading.
+154. Biochemical Methods II
+Units: 5.0
+Lecture, two hours; laboratory, eight hours. Enforced requisites: courses 153A or 153AH, 153B or 153BH, and 153L, with grades of C- or better. Recommended: course 156. Two to three major laboratory projects using biochemical laboratory techniques to investigate contemporary problems in biochemistry. Topics include transcription activation, molecular basis of DNA-protein interactions, biochemical basis of platelet activation, and initiation of blood clotting cascade. Experiments entail characterizing function of proteins, nucleic acids, and lipids involved in these processes. P/NP or letter grading.
+C155. Mitochondria in Medicine, Biology, and Chemistry
+Units: 1.0
+Seminar, two hours every other week. Open to undergraduate and graduate science majors considering or currently conducting research in areas related to mitochondria. Large number of physiological and pathophysiological processes involve mitochondrial function and dysfunction. Focus on understanding how mitochondria metabolism, form, and function impact health and disease. Physiology and cell biology of healthy and dysfunctional mitochondria critically assessed at subcellular, cellular, tissue, and organismal levels. Topics include in-depth analyses of literature and critical evaluation of experimental design and methods of current research. May be repeated for credit. Concurrently scheduled with course CM255. P/NP grading.
+156. Physical Biochemistry
+Units: 4.0
+Lecture, four hours; discussion, one hour. Requisites: courses 110A, 153A. Biochemical kinetics; solution thermodynamics of biochemical systems; multiple equilibria; hydrodynamics; energy levels, spectroscopy, and bonding; topics from structural, statistical, and electrochemical methods of biochemistry. P/NP or letter grading.
+M157. Food: Molecules, Microbes, Environment
+Units: 4.0
+(Same as Food Studies M157.) Lecture, three hours; discussion, one hour. Requisite: course 153A. Recommended requisites: Life Sciences 7A, 7B. Study of science of food. Study of food units physical, biological, environmental, social, and behavioral sciences. Use of scientific concepts to explain properties of food. Covers range of topics that focus on science of cooking, critical role of microbes in transformation of foods, genetic and environmental concerns related to acquisition of food, and impact of different dietary systems on metabolism and physiology. Comprises four major interrelated topics: molecules of food and their sources, science of cooking, acquisition of food, eating. P/NP or letter grading.
+C159. Mechanisms of Gene Regulation
+Units: 4.0
+Lecture, four hours. Requisite: course 153B. RNA polymerase structures and mechanisms; promoter recognition and transcription cycle; mechanisms of activation; transcriptional poising and elongation control; Mediator of transcription; chromatin remodeling and modification; epigenetic regulation; cotranscriptional and transcription-coupled RNA processing; impact of transcription on mRNA processing and stability; nuclear export of mRNA. Concurrently scheduled with course CM259. P/NP or letter grading.
+CM160A. Introduction to Bioinformatics
+Units: 4.0
+(Same as Computer Science CM121.) Lecture, four hours; discussion, two hours. Requisites: Computer Science 32 or Program in Computing 10C with grade of C- or better, and one course from Civil and Environmental Engineering 110, Electrical and Computer Engineering 131A, Mathematics 170A, Mathematics 170E, or Statistics 100A. Prior knowledge of biology not required. Designed for engineering students as well as students from biological sciences and medical school. Introduction to bioinformatics and methodologies, with emphasis on concepts and inventing new computational and statistical techniques to analyze biological data. Focus on sequence analysis and alignment algorithms. Concurrently scheduled with course CM260A. P/NP or letter grading.
+CM160B. Algorithms in Bioinformatics
+Units: 4.0
+(Same as Computer Science CM122.) Lecture, four hours; discussion, two hours. Requisites: Computer Science 32 or Program in Computing 10C with grade of C- or better, and one course from Civil Engineering 110, Electrical and Computer Engineering 131A, Mathematics 170A, Mathematics 170E, or Statistics 100A. Course CM160A is not requisite to CM160B. Designed for engineering students as well as students from biological sciences and medical school. Development and application of computational approaches to biological questions, with focus on formulating interdisciplinary problems as computational problems and then solving these problems using algorithmic techniques. Computational techniques include those from statistics and computer science. Concurrently scheduled with course CM260B. Letter grading.
+C164. Free Radicals in Biology and Medicine
+Units: 2.0 to 4.0
+Lecture, three hours. Enforced requisites: courses 153A and either 153B or 153C, with grades of C- or better. Biochemcial reactivity of dioxygen, its role in mitochondrial metabolism, neurodegenerative diseases, apoptosis, and aging. Discussion of radical reactions, how they are harnessed to achieve enzyme catalysis, and how free radicals contribute to or regulate essential biological processes. These same reactions run amok under certain types of stress and can contribute to wide variety of diseases, including neurodegenerative diseases (e.g., Huntington's, Parkinson's, and Alzheimer's diseases), mitochondrial diseases, atherosclerosis, and aging. Concurrently scheduled with course C264. P/NP or letter grading.
+C165. Metabolic Control by Protein Modification
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 153A, 153B, 153C. Biochemical basis of controlling metabolic pathways by posttranslational modification of proteins, including phosphorylation and methylation reactions. Concurrently scheduled with course C265. Letter grading.
+166. RNA Structure, Recognition, and Function
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 153A, 153B, Life Sciences 3 and 23L, or 7A. Recent years have seen explosion in biochemical characterization of diverse structures and functions of RNA molecules in metabolism of living systems. RNA has been shown to act both as catalyst in living systems and as potent modulator of gene expression control at every level of gene expression pathways (transcription, RNA processing, translation, degradation). RNA molecules now being used as therapeutic agents in gene therapy approaches. Coverage of these various aspects and in-depth analysis of RNA structure and function, using primary research literature and analysis of molecular structures of RNA and RNA-protein complexes. Letter grading.
+CM170. Biochemistry and Molecular Biology of Photosynthetic Apparatus
+Units: 2.0 to 4.0
+(Same as Molecular, Cell, and Developmental Biology M170.) Lecture, two to three hours; discussion, zero to two hours. Requisites: courses 153A and 153B, or Life Sciences 3 and 23L, and course 153L. Recommended: courses 153C, 154, Life Sciences 4. Light harvesting, photochemistry, electron transfer, carbon fixation, carbohydrate metabolism, pigment synthesis in chloroplasts and bacteria. Assembly of photosynthetic membranes and regulation of genes encoding those components. Emphasis on understanding of experimental approaches. Concurrently scheduled with course C270. P/NP or letter grading.
+171. Intermediate Inorganic Chemistry
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisite: course 30B with grade of C- or better. Chemical bonding; structure and bonding in solid state; main group, transition metal, lanthanide and actinide compounds and reactions; catalysis, spectroscopy, special topics. P/NP or letter grading.
+C172. Advanced Inorganic Chemistry
+Units: 4.0
+(Formerly numbered 172.) Lecture, three hours; discussion, one hour. Requisite: course 171 with grade of C- or better. Systematic approach to modern inorganic chemistry, structure and bonding of inorganic molecules and solids, structure/reactivity relationships, vibrational spectra of complexes, electronic structure and ligand-field theory, mechanisms of inorganic reactions, bonding and spectroscopy of organometallic compounds, transition metals in catalysis and biology. Concurrently scheduled with course C272. P/NP or letter grading.
+C173. Electrochemical Systems
+Units: 4.0
+Lecture, three hours; discussion, two hours. Requisites: course 110A, Mathematics 33B. Introduction to principles of electrochemical systems commonly applied in research of inorganic chemistry, materials sciences, and nanotechnology. With examples in recent literature and discussions of experimental practice, focus on qualitative and quantitative evaluation of information obtained from electrochemical characterization methods. Understanding of course contents helps appreciate research and technologies in catalysis, energy storage and conversion, and advanced environmental technologies. Concurrently scheduled with course C273. P/NP or letter grading.
+C174. Inorganic and Metalorganic Laboratory Methods
+Units: 5.0
+Lecture, two hours; laboratory, eight hours. Enforced requisites: courses 30CL and 171, with grades of C- or better. Synthesis of inorganic compounds, including air-sensitive materials; Schlenck techniques; chromatographic and ion exchange methods; spectroscopic characterization and literature applications. Concurrently scheduled with course C274. P/NP or letter grading.
+C175. Inorganic Reaction Mechanisms
+Units: 4.0
+Lecture, three hours. Requisites: courses 110A, 110B, 113A, and 172, with grades of C- or better. Survey of inorganic reactions; mechanistic principles; electronic structure of metal ions; transition-metal coordination chemistry; inner- and outer-sphere and chelate complexes; substitution, isomerization, and racemization reactions; stereochemistry; oxidation/reduction, free/radical, polymerization, and photochemical reactions of inorganic species. May be concurrently scheduled with course C275. P/NP or letter grading.
+C176. Group Theory and Applications to Inorganic Chemistry
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 113A and 172, with grades of C- or better. Group theoretical methods; molecular orbital theory; ligand-field theory; electronic spectroscopy; vibrational spectroscopy. May be concurrently scheduled with course C276A. P/NP or letter grading.
+C180. Solid-State Chemistry
+Units: 4.0
+Lecture, three hours. Requisite: course 172 with grade of C- or better. Survey of new materials and methods for their preparation and characterization, with emphasis on band theory and its relationship to chemical, optical, transport, and magnetic properties, leading to deeper understanding of these materials. Concurrently scheduled with course C280. P/NP or letter grading.
+C181. Polymer Chemistry
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 30B, 110A. Synthesis of organic and inorganic macromolecules, thermodynamic and statistical mechanical descriptions of unique properties of polymers, polymer characterization methods, and special topics such as conductive and biomedical polymers and polymeric reagents in synthesis. Concurrently scheduled with course C281. P/NP or letter grading.
+184. Chemical Instrumentation
+Units: 5.0
+Lecture, two hours; laboratory, eight hours. Enforced requisites: courses 30CL and 110A, with grades of C- or better. Theory and practice of instrumental techniques of chemical and structural analysis, including atomic absorption spectroscopy, gas chromatography, mass spectrometry, nuclear magnetic resonance, polarography, X-ray fluorescence, and other modern methods. P/NP or letter grading.
+185. Materials Chemistry Laboratory
+Units: 5.0
+Lecture, two hours; laboratory, eight hours. Requisites: courses 30AL, 110A, 113A, 171. Materials synthesis and physical properties of complex materials. Combines synthetic skills with fundamental physical understanding and characterization in approximately equal proportions to relate materials synthesis to materials function. Letter grading.
+M186. Stochastic Processes in Biochemical Systems
+Units: 4.0
+(Same as Computational and Systems Biology M175.) Lecture, three hours. Requisites: Life Sciences 1, 2, 3, and 4, or 7A, 7B, and 7C, Mathematics 33B, Electrical and Computer Engineering 131A or Mathematics 170A or Statistics 100A. Covers random and stochastic processes in play in biochemical systems, including ion channels, cytoskeleton, cell migration and mitosis, gene expression networks, and signal transduction. Covers mathematical tools such as continuous and discrete Markov processes, first passage, time escape problems, statistical mechanics, and information theory. Letter grading.
+188SA. Individual Studies for USIE Facilitators
+Units: 1.0
+Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.
+188SB. Individual Studies for USIE Facilitators
+Units: 1.0
+Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.
+188SC. Individual Studies for USIE Facilitators
+Units: 2.0
+Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading.
+189. Advanced Honors Seminars
+Units: 1.0
+Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.
+189HC. Honors Contracts
+Units: 1.0
+Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.
+192A. Undergraduate Practicum in Chemistry and Biochemistry
+Units: 4.0
+Lecture, one hour; laboratory, four hours; workshop, two hours. Enforced requisites: courses 14BL and 14CL, or 20L and 30AL, or Science Education 100SL. Intended for students who are planning careers in secondary science chemistry teaching. Complements service learning California Teach science courses that involve teaching field experiences in middle school and high school classrooms. Examination of chemistry issues such as chemical storage and use, waste management, laboratory organization, safety, and techniques. P/NP or letter grading.
+192B. Undergraduate Practicum in Chemistry and Biochemistry
+Units: 4.0
+Lecture, one hour; laboratory, four hours; workshop, two hours. Enforced requisites: courses 14BL and 14CL, or 20L and 30AL, or Science Education 100SL. Intended for students who are planning careers in secondary science chemistry teaching. Complements service learning California Teach science courses that involve teaching field experiences in middle school and high school classrooms. Examination of chemistry issues such as chemical storage and use, waste management, laboratory organization, safety, and techniques. P/NP or letter grading.
+192C. Undergraduate Assistant Education Practicum in Chemistry and Biochemistry
+Units: 4.0
+Seminar, one hour; assigned setting, six hours. Limited to juniors/seniors. Training and supervised practicum for advanced undergraduate students to assist in chemistry and biochemistry lectures. Students assist in preparation of materials and development of innovative programs under guidance of faculty members and teaching assistants. May not be applied toward course requirements for any departmental major. May be repeated for credit with consent of instructor. Individual contract required. Information and contracts may be obtained from department. P/NP grading.
+192D. Undergraduate Assistant Education Practicum in Chemistry and Biochemistry
+Units: 2.0
+Seminar, one hour; assigned setting, five hours. Limited to juniors/seniors. Training and supervised practicum for advanced undergraduate students to assist in chemistry and biochemistry lectures. Students assist in preparation of materials and development of innovative programs under guidance of faculty members and teaching assistants. May not be applied toward course requirements for any departmental major. May be repeated for credit with consent of instructor. Individual contract required. Information and contracts may be obtained from department. P/NP grading.
+M192E. Introduction to Collaborative Learning Theory and Practice
+Units: 1.0
+(Formerly numbered 192E.) (Same as Computer Science M192A, Life Sciences M192A, Mathematics M192A, and Physics M192S.) Seminar, one hour. Training seminar for undergraduate students who are selected for learning assistant (LA) program. Exploration of current topics in pedagogy and education research focused on methods of learning and their practical application in small-group settings. Students practice communication skills with frequent assessment of and feedback on progress. Letter grading.
+192F. Methods and Application of Collaborative Learning Theory and Practice
+Units: 2.0 to 4.0
+Seminar, one hour; clinic, one to eight hours. Requisite: course 192E or Life Sciences 192A or Physics 192S with grade of C- or better. With instructor guidance, students apply pedagogical principles based on current education research, assist with development of innovative instructional materials, and receive frequent feedback on their progress. May be repeated for four times for credit. Letter grading.
+193A. Journal Club Seminars: UC LEADS and MARC
+Units: 2.0
+Seminar, three hours. Designed for juniors/seniors in undergraduate research training programs such as UC LEADS and MARC or those who have strong commitment to pursue graduate studies in natural sciences, engineering, or mathematics. Weekly reading and oral presentations of research or research papers selected from current literature. May be repeated for credit. Letter grading.
+193B. Journal Club Seminars: Chemistry and Biochemistry
+Units: 2.0
+Seminar, three hours. Limited to undergraduate students. Discussion of readings selected from current literature in particular field. May be repeated for credit. P/NP grading.
+194. Research Group Seminars: Chemistry and Biochemistry
+Units: 1.0
+Seminar, three hours. Designed for undergraduate students who are part of research group. Advanced study and analysis of current topics in physical, organic, or inorganic chemistry or biochemistry. Discussion of current research and literature in research specialty of faculty member teaching course. May be repeated for credit. P/NP grading.
+196A. Research Apprenticeship in Chemistry and Biochemistry
+Units: 2.0 to 4.0
+Tutorial, three hours per week per unit. Limited to juniors/seniors. Entry-level research apprenticeship for upper-division students under guidance of faculty mentor. Consult department for additional information regarding requirements, enrollment petitions, and written proposal deadlines. May be repeated for maximum of 8 units. Individual contract required. P/NP grading.
+196B. Research Apprenticeship in Chemistry and Biochemistry
+Units: 2.0 to 4.0
+Tutorial, three hours per week per unit. Enforced requisite: course 196A (8 units). Limited to juniors/seniors. Research apprenticeship for upper-division students under guidance of faculty mentor. Consult department for additional information regarding requirements, enrollment petitions, and written proposal deadlines. May be taken for maximum of 4 units. Individual contract required. P/NP or letter grading.
+199. Directed Research in Chemistry and Biochemistry
+Units: 2.0 to 4.0
+Tutorial, three hours per week per unit. Enforced requisite: course 196A (8 units). Limited to juniors/seniors. Supervised individual research under guidance of faculty mentor. Culminating report required. May be repeated for maximum of 12 units. Individual contract required. P/NP or letter grading.
+Graduate Courses (151)
+C200. Genomics and Computational Biology
+Units: 5.0
+Lecture, four hours; discussion, one hour. Introduction for biochemistry students of technologies and experimental data of genomics, as well as computational tools for analyzing them. Biochemistry and molecular biology dissected life into its component parts, one gene at time, but lacked integrative mechanisms for putting this information back together to predict what happens in complete organism (e.g., over 80 percent of drug candidates fail in clinical trials). High-throughput technologies such as sequencing, microarrays, mass-spec, and robotics have given biologists incredible new capabilities to analyze complete genomes, expression patterns, functions, and interactions across whole organisms, populations, and species. Use and analysis of such datasets becomes essential daily activity for biomedical scientists. Core principles and methodologies for analyzing genomics data to answer biological and medical questions, with focus on concepts that guide data analysis rather than algorithm details. Concurrently scheduled with course C100. S/U or letter grading.
+201. Scientific Proposal Writing
+Units: 2.0
+Lecture, three hours. Designed for graduate biochemistry and molecular biology students. How to write scientific proposals to be submitted to funding agencies. How to develop curricula vitae, put together grant proposals, and critique proposals. Letter grading.
+203B. Ethics in Chemical Research
+Units: 2.0
+Seminar, one hour. Discussion of ethics in graduate education, teaching, and chemical research, including issues such as conflicts of interest, plagiarism, intellectual property, sexual harassment, and other topics related to ethical conduct of research. S/U grading.
+203C. Research Integrity and Ethics in Genetics Research
+Units: 2.0
+Lecture, 90 minutes. Data analysis and management, statistical methods, use of commercial reagents, microscopy data analysis, figure preparation, authorship, mentoring, human subjects protection, animal subject protection, and conflict of interest. May be repeated for credit. S/U grading.
+203D. Advanced Topics in Responsible Conduct in Cellular and Molecular Biology Research
+Units: 2.0
+Seminar, two hours. Enforced requisite: course 203A or 203B or 203C. Cellular and molecular biology PhD students continue to learn how to conduct research in field to reliably advance knowledge while maintaining ethical principles. Designed to be taken in fourth or fifth year of PhD work where students would have already been exposed to many challenges of performing and reporting experiments and who are in stage of their careers where they are beginning to think of applying for postdoctoral fellowships and research and teaching positions. Course helps fulfill training requirement in research integrity for NIH training grants and individual NRSA awards. S/U grading.
+204. Student Research Seminar
+Units: 2.0
+Seminar, one hour. Limited to students supported by UCLA program in Cellular and Molecular Biology Predoctoral Training. Research seminar presented by second- and third-year students. S/U grading.
+CM205A. Introduction to Chemistry of Biology
+Units: 4.0
+(Same as Pharmacology M205A.) Lecture, three hours; discussion, one hour. Introduction to chemical biology. Topics include computational chemical biology, utility of synthesis in biochemical research, peptidomimetics, designed reagents for cellular imaging, natural product biosynthesis, protein engineering and directed evolution, cell biology of metal ions, imaging metal ions in cells, metal-containing drugs. Concurrently scheduled with course C105. Letter grading.
+M205B. Issues on Chemistry/Biology Interface
+Units: 2.0
+(Same as Pharmacology M205B.) Seminar, one hour. Requisite: course CM205A. Selected talks and papers presented by training faculty on solving problems and utilizing tools in chemistry and molecular biology on chemistry/biology interface (CBI). S/U grading.
+206. Chemistry of Biology Seminar
+Units: 2.0
+Seminar, three hours. Limited to students supported by UCLA program in Chemistry/Biology Interface Predoctoral Training. Current research topics at interface of chemistry and biology. May be repeated for credit. S/U grading.
+C207. Organometallic Chemistry
+Units: 4.0
+Lecture/discussion, three hours. Requisite or corequisite: course 172. Survey of synthesis, structure, and reactivity (emphasizing mechanistic approach) of compounds containing carbon bonded to elements selected from main group metals, metalloids, and transition metals, including olefin complexes and metal carbonyls; applications in catalysis and organic synthesis. Concurrently scheduled with course C107. S/U or letter grading.
+C208. Mass Spectrometry for Chemists and Biochemists
+Units: 2.0
+Lecture, one hour; laboratory, four hours. Requisite: course 153A. Introduction to principles and practice of organic and inorganic mass spectrometry. Topics include EI, CI, ICPMS, GC/MS, LC/MS, ESI, MALDI, MS/MS protein identification, and proteomics. Concurrently scheduled with course C108. S/U or letter grading.
+209. Introduction to Chemistry Research
+Units: 2.0
+Seminar, two hours. Half-hour presentations each session by three different chemistry professors to introduce their research programs. S/U grading.
+210. Advanced Topics in Chemical Research
+Units: 2.0
+Seminar, one hour. Designed for second-year graduate students to help them engage contemporary challenges in chemical research and their own research projects. Building of critical thinking skills and proposal writing skills. S/U grading.
+C213B. Quantum Chemistry Methods
+Units: 4.0
+Lecture, three hours; discussion, one hour; tutorial, one hour. Requisite: course 113A. Complete introduction to electronic structure theory methods used by general computational chemistry community, focusing primarily on ab initio methods. Students gain understanding of electronic structure methods and tools to identify which methods are suitable for which types of systems. Methods covered include Hartree Fock, density-functional theory, perturbative methods, and modern high-correlation methods; and highlight algorithms necessary to implement these methods efficiently. Concurrently scheduled with course C113B. Independent study project required of graduate students. S/U or letter grading.
+C215A. Quantum Chemistry: Methods
+Units: 4.0
+Lecture, four hours; discussion, one hour. Requisites: course 113A, Mathematics 31A, 31B, 32A, 32B, 33A, with grades of C- or better. Recommended: knowledge of differential equations equivalent to Mathematics 134 or 135 or Physics 131 and of analytic mechanics equivalent to Physics 105A. Course C215A or Physics 115B with grade of C- or better is requisite to C215B. Students entering course C215A are normally expected to take course C215B in following term. Designed for chemistry students with serious interest in quantum chemistry. Postulates and systematic development of nonrelativistic quantum mechanics; expansion theorems; wells; oscillators; angular momentum; hydrogen atom; matrix techniques; approximation methods; time dependent problems; atoms; spectroscopy; magnetic resonance; chemical bonding. May be concurrently scheduled with course C115A. S/U or letter grading.
+C215B. Quantum Chemistry: Methods
+Units: 4.0
+Lecture, four hours; discussion, one hour. Requisites: course 113A, C215A or Physics 115B, Mathematics 31A, 31B, 32A, 32B, 33A, with grades of C- or better. Recommended: knowledge of differential equations equivalent to Mathematics 134 or 135 or Physics 131 and of analytic mechanics equivalent to Physics 105A. Students entering course C215A are normally expected to take course C215B in following term. Designed for chemistry students with serious interest in quantum chemistry. Postulates and systematic development of nonrelativistic quantum mechanics; expansion theorems; wells; oscillators; angular momentum; hydrogen atom; matrix techniques; approximation methods; time dependent problems; atoms; spectroscopy; magnetic resonance; chemical bonding. May be concurrently scheduled with course C115B. S/U or letter grading.
+C215C. Advanced Quantum Chemistry: Applications
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisite: course C215B. Topics in quantum chemistry selected from molecular structure, collision processes, theory of solids, symmetry and its applications, and theory of electromagnetic radiation. Concurrently scheduled with course C115C. S/U or letter grading.
+218. Chemistry Student Exit Seminar
+Units: 2.0
+Seminar, two hours. Seminars presented by staff, outside speakers, postdoctoral fellows, and graduate students. May be repeated for credit. S/U grading.
+219A. Seminars: Research in Physical Chemistry--Photon Resolved Spectroscopy of Materials (Physical Chemistry)
+Units: 2.0
+Seminar, three hours. Limited to chemistry graduate students. Discussion of recent progress in area of photon resolved spectroscopies, with focus on materials and biophysics applications. Literature discussion, discussion of recent results, safety procedures, and guest lectures. S/U grading.
+219E. Seminar: Research in Physical Chemistry--Dynamics of Molecule-Molecule and Molecule-Surface Reactions
+Units: 2.0
+Seminar, three hours. Advanced study and analysis of current topics in physical chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+219I. Seminar: Research in Physical Chemistry--Spectroscopy of Isolated Molecules, Complexes, and Clusters
+Units: 2.0
+Seminar, three hours. Advanced study and analysis of current topics in physical chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+219J. Seminar: Research in Physical Chemistry--Chemistry and Biophysics of Interfaces
+Units: 2.0
+Seminar, three hours. Advanced study and analysis of current topics in physical chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+219K. Seminar: Research in Physical Chemistry--Statistical Mechanics of Disordered Systems
+Units: 2.0
+Seminar, three hours. Advanced study and analysis of current topics in physical chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+219L. Seminar: Research in Physical Chemistry--Modern Methods for Molecular Reactions and Structure
+Units: 2.0
+Seminar, three hours. Advanced study and analysis of current topics in physical chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+219Q. Seminar: Research in Physical Chemistry--Ultrafast Studies of Chemical Reaction Dynamics in Condensed Phase
+Units: 2.0
+Seminar, three hours. Advanced study and analysis of current topics in physical chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+219R. Seminar: Research in Physical Chemistry--Kinetic, Thermodynamic, and Interfacial Effects in Materials
+Units: 2.0
+Seminar, three hours. Advanced study and analysis of current topics in physical chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+219S. Seminar: Research in Physical Chemistry--Nanoscience
+Units: 2.0
+Seminar, three hours. Advanced study and analysis of current topics in physical chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+219T. Seminar: Research in Physical Chemistry--Single-Molecule Spectroscopy in Biology
+Units: 2.0
+Seminar, three hours. Advanced study and analysis of current topics in physical chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+219U. Seminar: Research in Physical Chemistry--Theory and Applications of Magnetic Resonance Spectroscopy and Imaging
+Units: 2.0
+Seminar, three hours. Advanced study and analysis of current topics in physical chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+219V. Seminar: Research in Physical Chemistry--Complex Fluids: Composition, Structure, and Rheology
+Units: 2.0
+Seminar, three hours. Advanced study and analysis of current topics in physical chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+219W. Seminar: Research in Physical Chemistry--Biophysics and Statistical Mechanics of Soft Matter
+Units: 2.0
+Seminar, three hours. Advanced study and analysis of current topics in physical chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+219X. Seminar: Research in Physical Chemistry--Dynamic Processes in Chemically Reacting Flow Systems
+Units: 2.0
+Seminar, three hours. Advanced study and analysis of current topics in physical chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+219Y. Seminar: Research in Physical Chemistry--Theory and Computation for Materials
+Units: 2.0
+Seminar, three hours. Advanced study and analysis of current topics in physical chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+219Z. Seminar: Research in Physical Chemistry--Single-Cell Physiology
+Units: 2.0
+Seminar, three hours. Advanced study and analysis of current topics in physical chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+221A. Advanced Topics in Physical Chemistry
+Units: 2.0 to 4.0
+Lecture, two to four hours. Each course encompasses one recognized specialty in physical chemistry, generally taught by faculty members whose research interests embrace that specialty. S/U or letter grading.
+221B. Advanced Topics in Physical Chemistry
+Units: 2.0 to 4.0
+Lecture, two to four hours. Each course encompasses one recognized specialty in physical chemistry, generally taught by faculty members whose research interests embrace that specialty. S/U or letter grading.
+221C. Advanced Topics in Physical Chemistry
+Units: 2.0 to 4.0
+Lecture, two to four hours. Each course encompasses one recognized specialty in physical chemistry, generally taught by faculty members whose research interests embrace that specialty. S/U or letter grading.
+221D. Advanced Topics in Physical Chemistry
+Units: 2.0 to 4.0
+Lecture, two to four hours. Each course encompasses one recognized specialty in physical chemistry, generally taught by faculty members whose research interests embrace that specialty. S/U or letter grading.
+221G. Advanced Topics in Physical Chemistry
+Units: 2.0 to 4.0
+Lecture, two to four hours. Each course encompasses one recognized specialty in physical chemistry, generally taught by faculty members whose research interests embrace that specialty. S/U or letter grading.
+C222. Mathematical Methods for Chemistry
+Units: 4.0
+Lecture, four hours. Enforced requisites: Mathematics 31A, 31B, 32A, 32B. Review of basic mathematics necessary to study physical chemistry at graduate level, with focus on review of vectors, linear algebra, elementary complex analysis, and solution of ordinary and partial differential equations. Development of problem-solving skills through homework based on these mathematical techniques, with examples from physical chemistry. Concurrently scheduled with course C122. S/U or letter grading.
+C223A. Classical and Statistical Thermodynamics
+Units: 4.0
+Lecture, four hours; discussion, one hour. Requisite: course 110B or 156. Recommended: course 113A. Presentation of fundamentals of classical thermodynamics. Principles of statistical thermodynamics: probability, ensembles, partition functions, independent molecules, and perfect gas. Applications of classical and statistical thermodynamics selected from diatomic and polyatomic gases, solid and fluid states, phase equilibria, electric and magnetic effects, ortho-para hydrogen, chemical equilibria, reaction rates, imperfect gas, nonelectrolyte and electrolyte solutions, surface phenomena, high polymers, gravitation. May be concurrently scheduled with course C123A. S/U or letter grading.
+C223B. Classical and Statistical Thermodynamics
+Units: 4.0
+Lecture, four hours; discussion, one hour. Requisite: course 110B or 156. Recommended: course 113A. Presentation of fundamentals of classical thermodynamics. Principles of statistical thermodynamics: probability, ensembles, partition functions, independent molecules, and perfect gas. Applications of classical and statistical thermodynamics selected from diatomic and polyatomic gases, solid and fluid states, phase equilibria, electric and magnetic effects, ortho-para hydrogen, chemical equilibria, reaction rates, imperfect gas, nonelectrolyte and electrolyte solutions, surface phenomena, high polymers, gravitation. May be concurrently scheduled with course C123B. S/U or letter grading.
+M223C. Nonequilibrium Statistical Mechanics and Molecular Biophysics
+Units: 4.0
+(Same as Physics M215D.) Lecture, three hours. Requisites: courses C215B and C223B, or Physics 215A. Fundamentals of nonequilibrium thermodynamics and statistical mechanics applied to molecular biophysics. S/U or letter grading.
+C226A. Computational Methods for Chemists
+Units: 4.0
+Lecture, one hour; laboratory, four hours. Requisites: courses 110A, 113A, Mathematics 33A. Covers some basics of scientific coding. Introduction to advanced applications provided through commercially available computational packages. Includes quantum mechanical techniques for chemistry, reactivity, spectroscopy, solid state calculations; statistical mechanical techniques for chemistry and biochemistry; python coding, basic algorithms, machine learning, and numerical techniques. Concurrently scheduled with course C126A. S/U or letter grading.
+CM227. Synthetic Biology for Biofuels
+Units: 4.0
+(Same as Chemical Engineering CM227.) Lecture, four hours; discussion, one hour. Requisite: course 153A. Engineering microorganisms for complex phenotype is common goal of metabolic engineering and synthetic biology. Production of advanced biofuels involves designing and constructing novel metabolic networks in cells. Such efforts require profound understanding of biochemistry, protein structure, and biological regulations and are aided by tools in bioinformatics, systems biology, and molecular biology. Fundamentals of metabolic biochemistry, protein structure and function, and bioinformatics. Use of systems modeling for metabolic networks to design microorganisms for energy applications. Concurrently scheduled with course CM127. S/U or letter grading.
+228. Chemical Physics Seminar
+Units: 2.0
+Seminar, two hours. Seminars presented by staff, outside speakers, postdoctoral fellows, and graduate students. May be repeated for credit. S/U or letter grading.
+229. Introduction to Physical Chemistry Research
+Units: 2.0
+Lecture, 90 minutes. Designed primarily for entering graduate physical chemistry students. S/U grading.
+M230B. Structural Molecular Biology
+Units: 4.0
+(Same as Molecular, Cell, and Developmental Biology M230B.) Lecture, three hours; discussion, one hour. Requisites: Mathematics 3C, Physics 6C. Selected topics from principles of biological structure; structures of globular proteins and RNAs; structures of fibrous proteins, nucleic acids, and polysaccharides; harmonic analysis and Fourier transforms; principles of electron, neutron, and X-ray diffraction; optical and computer filtering; three-dimensional reconstruction. S/U or letter grading.
+M230D. Structural Molecular Biology Laboratory
+Units: 2.0
+(Same as Molecular, Cell, and Developmental Biology M230D.) Laboratory, 10 hours. Corequisite: course M230B. Methods in structural molecular biology, including experiments utilizing single crystal X-ray diffraction, low angle X-ray diffraction, electron diffraction, optical diffraction, optical filtering, three-dimensional reconstruction from electron micrographs, and model building. S/U or letter grading.
+C232A. Core Principles in Cell and Molecular Biology
+Units: 4.0
+Lecture, four hours. Requisites: Life Sciences 7A, 7B, 7C, 23L. Students gain broad foundational knowledge and skills for rigorous research in emerging areas of cell and molecular biology. Focus on foundational knowledge of cell and molecular biology research areas including cell cycle, cell signaling, cell metabolism, cell communication, cell states and fates, genomes, and proteomes. Focus on skills development for cell and molecular biology research. Students are equipped with theory of modern experimental approaches, and acquire hands-on skills training in designing experiments and analyzing data using these approaches. Students meet with directors of shared core facilities that specialize in these approaches to facilitate use of these approaches in their research Continuation of in-depth analysis of rigorous experimental design and statistical analyses in cell and molecular biology. Concurrently scheduled with course C132A. Letter grading.
+232B. Skills Development for Cell and Molecular Biologists
+Units: 2.0
+Seminar, two hours. Students are trained to develop skills necessary to persist and thrive as researchers and scholars in cellular and molecular biology. Topics include resilience in science, balancing work/life, organizing research and career goals, writing impactful abstracts, and presenting great talks. S/U grading.
+232C. Advanced Topics and Approaches in Cell and Molecular Biology Research
+Units: 2.0
+Seminar, two hours. Students are trained in current research problems in cellular and molecular biology, and how modern approaches are being used to address these problems. Topics vary based on topical questions and emerging methods/technologies in cellular and molecular biology research. S/U grading.
+232D. Career Development for Cell and Molecular Biologists
+Units: 2.0
+Seminar, two hours. Provides career training to prepare cellular and molecular biologist trainees for biomedical careers. Topics include exploring careers in academia, industry, non-traditional paths, and building start-ups; creating professional resumes, cover letters, and job opportunity networks; and connecting to internships on and off campus. S/U grading.
+235E. Seminar: Research in Organic Chemistry--Theoretical and Physical Organic Chemistry
+Units: 2.0
+Seminar/research group meeting, three hours. Advanced study and analysis of current topics in organic chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+235F. Seminar: Research in Organic Chemistry--Synthetic Methods and Synthesis of Natural Products
+Units: 2.0
+Seminar/research group meeting, three hours. Advanced study and analysis of current topics in organic chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+235G. Seminar: Research in Organic Chemistry--Organometallic Chemistry and Organic Synthesis
+Units: 2.0
+Seminar/research group meeting, three hours. Advanced study and analysis of current topics in organic chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+235I. Seminar: Research in Organic Chemistry--Fullerene Chemistry and Materials Science
+Units: 2.0
+Seminar/research group meeting, three hours. Advanced study and analysis of current topics in organic chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+235K. Seminar: Research in Organic Chemistry--Organic Chemistry in Organized and Restricted Media
+Units: 2.0
+Seminar/research group meeting, three hours. Advanced study and analysis of current topics in organic chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+235N. Seminar: Research in Organic Chemistry--Target- and Diversity-Oriented Synthesis of Natural Products and Product-Like Molecules
+Units: 2.0
+Seminar/research group meeting, three hours. Advanced study and analysis of current topics in organic chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+235O. Seminar: Research in Organic Chemistry--Polymer Chemistry and Biomaterials
+Units: 2.0
+Seminar/research group meeting, three hours. Advanced study and analysis of current topics in organic chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+235P. Seminar: Research in Organic Chemistry--Reaction Discovery and total Synthesis of Complex Molecules
+Units: 2.0
+Seminar/research group meeting, three hours. Advanced study and analysis of current topics in organic chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+235Q. Seminar: Research in Organic Chemistry--Synthetic Organic Chemistry Research
+Units: 2.0
+Seminar/research group meeting, three hours. Advanced study and analysis of current topics in organic chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+235R. Seminar: Research in Organic Chemistry--Fluorous Materials, Synthetic Chemistry, and Supermolecular Assembly
+Units: 2.0
+Seminar/research group meeting, three hours. Advanced study and analysis of current topics in organic chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+235S. Seminar: Research in Organic Chemistry--Synthetic Methods Development and Mechanistic Study
+Units: 2.0
+Seminar/research group meeting, three hours. Advanced study and analysis of current topics in organic chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+236. Spectroscopic Methods of Organic Chemistry
+Units: 4.0
+Lecture, three hours. Requisite or corequisite: course C243A. Problem solving using proton and carbon 13 nuclear magnetic resonance, infrared spectroscopy, and mass spectrometry; new techniques in NMR, IR, and MS, with emphasis on Fourier transform NMR. S/U or letter grading.
+C238. Natural Product Biosynthesis: Chemical Logic and Enzymatic Machinery
+Units: 4.0
+Lecture, three hours; discussion, one hour. Covers fundamental chemical logic and enzyme mechanisms involved in biosynthesis of natural products. Discussion of major classes of natural product including polyketides, nonribosomal peptides, terpenes, alkaloids. Emphasis on biosynthetic logic used by nature to form complex molecules. Discussion of several important enzyme families in context of biosynthesis, including assembly-line megasynthases, group transferases, oxidoreductases, etc. Historical account of natural product isolation and characterization, as well as modern account of synthetic biology and genome based efforts that are used in discovery of new natural products. Includes extensive survey of scientific literature in format of presentations and discussions. Concurrently scheduled with course C138. Letter grading.
+C240. Bionanotechnology
+Units: 4.0
+Lecture, three hours. Requisites: courses 30C, 110A. Basic physical, chemical, and biological principles in bionanotechnology; materials and strategies for top-down and bottom-up fabrication of ordered biologically derived molecules, characterization and detection techniques, and biomimetic materials and applications at nanoscale. Concurrently scheduled with course C140. S/U or letter grading.
+241A. Special Topics in Organic Chemistry
+Units: 2.0 to 4.0
+Lecture, two to four hours. Requisite or corequisite: course C243A. Each course encompasses one recognized specialty in organic chemistry, generally taught by faculty members whose research interests embrace that specialty. S/U or letter grading.
+241B. Special Topics in Organic Chemistry
+Units: 2.0 to 4.0
+Lecture, two to four hours. Requisite or corequisite: course C243A. Each course encompasses one recognized specialty in organic chemistry, generally taught by faculty members whose research interests embrace that specialty. S/U or letter grading.
+241D. Special Topics in Organic Chemistry
+Units: 2.0 to 4.0
+Lecture, two to four hours. Requisite or corequisite: course C243A. Each course encompasses one recognized specialty in organic chemistry, generally taught by faculty members whose research interests embrace that specialty. S/U or letter grading.
+241F. Special Topics in Organic Chemistry
+Units: 2.0 to 4.0
+Lecture, two to four hours. Requisite or corequisite: course C243A. Each course encompasses one recognized specialty in organic chemistry, generally taught by faculty members whose research interests embrace that specialty. S/U or letter grading.
+C243A. Structure and Mechanism in Organic Chemistry
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 30C and 30CL (may be taken concurrently), 110B, and 113A, with grades of C- or better. Mechanisms of organic reactions. Acidity and acid catalysis; linear free energy relationships; isotope effects. Molecular orbital theory; photochemistry; pericyclic reactions. May be concurrently scheduled with course C143A. S/U or letter grading.
+C243B. Organic Chemistry: Mechanism and Structure
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisite: course C243A. Mechanisms of organic reactions; structure and detection of reactive intermediates. May be concurrently scheduled with course C143B. S/U or letter grading.
+244A. Organic Synthesis: Methodology and Stereochemistry
+Units: 4.0
+Lecture, three hours; discussion, one hour. Modern synthetic reactions and transformations involving organic substrates. Special emphasis on regents useful in asymmetric induction and stereoselective synthesis of structurally complex target molecules. S/U or letter grading.
+244B. Strategy and Design in Organic Synthesis
+Units: 4.0
+Lecture, three hours. Requisite or corequisite: course C243A. Theory behind planning of syntheses of complex molecules from simpler ones. Organic reactions and their use in synthetic process. Reasoning and art involved in organic synthesis. S/U or letter grading.
+C245. Theoretical and Computational Organic Chemistry
+Units: 4.0
+Lecture, two hours; discussion, one hour; computer laboratory, one hour. Requisites: courses 30C, 113A. Applications of quantum mechanical concepts and methods to understand and predict organic structures and reactivities. Computational modeling methods, including laboratory experience with force-field and quantum mechanical computer calculations. Concurrently scheduled with course C145. S/U or letter grading.
+247. Organic Colloquium
+Units: 2.0
+Seminar, two hours. Seminars in organic chemistry and related areas presented by staff, outside speakers, postdoctoral fellows, and graduate students. May be repeated for credit. S/U or letter grading.
+248. Organic Chemistry Student Seminar
+Units: 2.0
+Seminar, two hours. Seminars presented by staff, outside speakers, postdoctoral fellows, and graduate students. Strongly recommended for first- and second-year organic chemistry graduate students. Presentation required if taken for letter grade. S/U or letter grading.
+249A. Methods of Materials Chemistry: Synthesis, Characterization, Physical Properties, Applications, and Devices
+Units: 2.0
+Seminar, two hours. Designed for first-year graduate students to teach advanced problem-solving skills and critical thinking, with focus on problems and recent literature pertaining to materials chemistry. How materials are synthesized and characterized. Discussion of important physical properties, as well as broad range of applications and behavior in devices. S/U grading.
+249B. Methods of Chemical Synthesis:cvdganic/Inorganic/Organometallic
+Units: 2.0
+Seminar, two hours. Designed for first-year graduate students to teach advanced problem-solving skills and critical thinking, with focus on problems and recent literature pertaining to chemical synthesis of organic, inorganic, and organometallic compounds. S/U grading.
+249C. Methods of Physical/Theoretical/Biophysical Chemistry
+Units: 2.0
+Seminar, two hours. Designed for first-year graduate students to teach advanced problem-solving skills and critical thinking, with focus on problems and recent literature pertaining to physical, theoretical, and biophysical chemistry. S/U grading.
+C250. Research Methods and Integrity in Cellular and Molecular Biology
+Units: 4.0
+Lecture, two hours; discussion, two hours. Data analysis and management, statistical methods, use of antibody and kit reagents, figure preparation, authorship, mentoring, human subjects protection, animal subject protection, and conflict of interest. May be repeated for credit. Concurrently scheduled with course C150. Letter grading.
+CM255. Mitochondria in Medicine, Biology, and Chemistry
+Units: 1.0
+(Same as Biological Chemistry M255.) Seminar, two hours every other week. Open to undergraduate and graduate science majors considering or currently conducting research in areas related to mitochondria. Large number of physiological and pathophysiological processes involve mitochondrial function and dysfunction. Focus on understanding how mitochondria metabolism, form, and function impact health and disease. Physiology and cell biology of healthy and dysfunctional mitochondria critically assessed at subcellular, cellular, tissue, and organismal levels. Topics include in-depth analyses of literature and critical evaluation of experimental design and methods of current research. May be repeated for credit. Concurrently scheduled with course C155. S/U grading.
+256B. Seminar: Research in Biochemistry--Biochemistry of Protein Function
+Units: 2.0
+Seminar, three hours. Advanced study and analysis of current topics in biochemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+256D. Seminar: Research in Biochemistry--Transcriptional Control Mechanisms in Drosophila Embryogenesis
+Units: 2.0
+Seminar, three hours. Advanced study and analysis of current topics in biochemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+256F. Seminar: Research in Biochemistry--Current Topics in Prokaryotic Development
+Units: 2.0
+Seminar, three hours. Advanced study and analysis of current topics in biochemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+256G. Seminar: Research in Biochemistry--Nucleic Acid Structure Determination by NMR
+Units: 2.0
+Seminar, three hours. Advanced study and analysis of current topics in biochemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+256J. Seminar: Research in Biochemistry--Contractile Proteins in Muscle Contraction and Cell Motility
+Units: 2.0
+Seminar, three hours. Advanced study and analysis of current topics in biochemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+256K. Seminar: Research in Biochemistry--Biochemistry and Molecular Biology of Chlamydomonas
+Units: 2.0
+Seminar, three hours. Advanced study and analysis of current topics in biochemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+256L. Seminar: Research in Biochemistry--Literature of Structural Biology
+Units: 2.0
+Seminar, three hours. Advanced study and analysis of current topics in biochemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+256N. Seminar: Research in Biochemistry--Advanced Topics in Structural Biology
+Units: 2.0
+Seminar, three hours. Advanced study and analysis of current topics in biochemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+256O. Seminar: Research in Biochemistry--Membrane Biophysics
+Units: 2.0
+Seminar, three hours. Advanced study and analysis of current topics in biochemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+256P. Seminar: Research in Biochemistry--Analysis of Protein Structure
+Units: 2.0
+Seminar, three hours. Advanced study and analysis of current topics in biochemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+256Q. Seminar: Research in Biochemistry--Biochemistry and Function of Ubiquinone in Yeast and Higher Eukaryotes
+Units: 2.0
+Seminar, three hours. Advanced study and analysis of current topics in biochemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+256R. Seminar: Research in Biochemistry--Biomolecular Nuclear Magnetic Resonance Spectroscopy and Protein Structure
+Units: 2.0
+Seminar, three hours. Advanced study and analysis of current topics in biochemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+256S. Seminar: Research in Biochemistry--Proteome Bioinformatics
+Units: 2.0
+Seminar, three hours. Advanced study and analysis of current topics in biochemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+256T. Seminar: Research in Biochemistry--RNA Processing and RNA Genomics
+Units: 2.0
+Seminar, three hours. Advanced study and analysis of current topics in biochemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+256U. Seminar: Research in Biochemistry--Mitochondrial Biogenesis and Link to Disease
+Units: 2.0
+Seminar, three hours. Advanced study and analysis of current topics in biochemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+256V. Seminar: Research in Biochemistry--Proteomics and Mass Spectrometry
+Units: 2.0
+Seminar, three hours. Advanced study and analysis of current topics in biochemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+256W. Seminar: Research in Biochemistry--Cytoskeletal Dynamics during Drosophila Oogenesis
+Units: 2.0
+Seminar, three hours. Advanced study and analysis of current topics in biochemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+256X. Seminar: Research in Biochemistry--Microtubule-Based Structures and Human Diseases
+Units: 2.0
+Seminar, three hours. Advanced study and analysis of current topics in biochemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+256Y. Seminar: Research in Biochemistry--Research in Genomics: Biochemistry, Synthetic Biology, and Genomics
+Units: 2.0
+Seminar, three hours. Advanced study and analysis of current topics in biochemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+256Z. Seminar: Research in Biochemistry--Information Processing in Intracellular and Intercellular Signaling Networks
+Units: 2.0
+Seminar, three hours. Advanced study and analysis of current topics in biochemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+257. Physical Chemistry of Biological Macromolecules
+Units: 4.0
+Lecture, one hour; discussion, one hour; laboratory, four hours. Requisite: course 153A. Theory of hydrodynamic, thermodynamic, and optical techniques used to study structure and function of biological macromolecules. S/U or letter grading.
+258. Advanced Topics in Biochemistry and Molecular Biology
+Units: 2.0
+Lecture, two hours. Critical analysis of experimental design and methods in biochemistry and molecular biology. In-depth analysis of literature in one or more areas of current research. May be repeated for credit. S/U or letter grading.
+CM259. Mechanisms of Gene Regulation
+Units: 4.0
+(Same as Biological Chemistry M259.) Lecture, four hours. Requisite: course 153B. RNA polymerase structures and mechanisms; promoter recognition and transcription cycle; mechanisms of activation; transcriptional poising and elongation control; Mediator of transcription; chromatin remodeling and modification; epigenetic regulation; cotranscriptional and transcription-coupled RNA processing; impact of transcription on mRNA processing and stability; nuclear export of mRNA. Concurrently scheduled with course C159. S/U or letter grading.
+CM260A. Introduction to Bioinformatics
+Units: 4.0
+(Same as Bioinformatics M221, Computer Science CM221, and Human Genetics M260A.) Lecture, four hours; discussion, two hours. Requisites: Computer Science 32 or Program in Computing 10C with grade of C- or better, and one course from Civil and Environmental Engineering 110, Electrical and Computer Engineering 131A, Mathematics 170A, Mathematics 170E, or Statistics 100A. Prior knowledge of biology not required. Designed for engineering students as well as students from biological sciences and medical school. Introduction to bioinformatics and methodologies, with emphasis on concepts and inventing new computational and statistical techniques to analyze biological data. Focus on sequence analysis and alignment algorithms. Concurrently scheduled with course CM160A. S/U or letter grading.
+CM260B. Algorithms in Bioinformatics
+Units: 4.0
+(Same as Bioinformatics M222 and Computer Science CM222.) Lecture, four hours; discussion, two hours. Requisites: Computer Science 32 or Program in Computing 10C with grade of C- or better, and one course from Civil Engineering 110, Electrical and Computer Engineering 131A, Mathematics 170A, Mathematics 170E, or Statistics 100A. Course CM260A is not requisite to CM260B. Designed for engineering students as well as students from biological sciences and medical school. Development and application of computational approaches to biological questions, with focus on formulating interdisciplinary problems as computational problems and then solving these problems using algorithmic techniques. Computational techniques include those from statistics and computer science. Concurrently scheduled with course CM160B. Letter grading.
+260BL. Advanced Bioinformatics Computational Laboratory
+Units: 2.0
+Laboratory, four hours. Enforced requisite: course CM260A. Corequisite: course CM260B. Development and application of computational approaches to ask and answer biological questions by implementing variety of bioinformatics and systems biology algorithms. Advantages and disadvantages of different algorithmic methods for studying biological questions and preliminary understanding of how to compute statistical significance of results. Development of conceptual understanding of implementation of bioinformatics algorithms and foundation for how to do innovative work in these fields. Experience in observing impact of computational complexity of algorithms in computing solutions. S/U or letter grading.
+262. Biochemistry and Molecular Biology of Protein Translocation Systems
+Units: 3.0
+Lecture, two hours; discussion, two hours. Requisites: courses 269A through 269D. Protein translocation into nucleus, mitochondrion, peroxisome, chloroplast, endoplasmic reticulum, and protein export in bacteria. Letter grading.
+263. Seminars in Chemical Biology
+Units: 2.0
+Seminar, two hours. Seminars in chemical biology (broadly defined) presented by outside speakers, graduate students, postdoctoral fellows, and faculty/staff from diverse scientists. May be repeated for credit. S/U or letter grading.
+C264. Free Radicals in Biology and Medicine
+Units: 2.0 to 4.0
+Lecture, three hours. Enforced requisites: courses 153A and either 153B or 153C, with grades of C- or better. Biochemcial reactivity of dioxygen, its role in mitochondrial metabolism, neurodegenerative diseases, apoptosis, and aging. Discussion of radical reactions, how they are harnessed to achieve enzyme catalysis, and how free radicals contribute to or regulate essential biological processes. These same reactions run amok under certain types of stress and can contribute to wide variety of diseases, including neurodegenerative diseases (e.g., Huntington's, Parkinson's, and Alzheimer's diseases), mitochondrial diseases, atherosclerosis, and aging. Concurrently scheduled with course C164. S/U or letter grading.
+C265. Metabolic Control by Protein Modification
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 153A, 153B, 153C. Biochemical basis of controlling metabolic pathways by posttranslational modification of proteins, including phosphorylation and methylation reactions. Concurrently scheduled with course C165. Letter grading.
+266. Proteomics and Protein Mass Spectrometry
+Units: 4.0
+Lecture, four hours. Essential technologies and concepts practiced in proteomics-based research, including methods for protein separation and display, protein quantitation, and protein identification. Emphasis on fundamentals of protein mass spectrometry. S/U or letter grading.
+267. Nanoscience and Chemistry
+Units: 4.0
+Lecture, four hours. Enforced requisites: courses 110A, 113A, 171, 172. Designed for advanced undergraduate and graduate students. Why nanoscience is important and interesting and critical role of chemistry in nanoscience. Chemistry and physics of variety of synthetic inorganic nanostructures, including metallic nanostructures (nanocrystals, nanorods, nanowires), semiconductor nanostructures (quantum dots/rods, nanowires, plates), and carbon nanostructures (fullerene, nanotubes, graphene). Discussion of synthetic approaches, structures, and physical properties, as well as potential technological opportunities of each. Letter grading.
+268. Biochemistry Research Seminar
+Units: 2.0
+Seminar, two hours. Seminars presented by staff, outside speakers, postdoctoral fellows, and graduate students on topics of current biochemical research interest. May be repeated for credit. S/U or letter grading.
+269A. Protein Structure
+Units: 2.0
+Lecture, five hours; discussion, two hours. Requisites: courses 153A, 153B, 153C, 156. Three-dimensional structure of proteins. Forces that stabilize structure of soluble and membrane proteins. Kinetics of protein folding and role of chaperones. Prediction of protein structure from sequence. Letter grading.
+269B. Biocatalysis and Bioenergetics
+Units: 2.0
+Lecture, five hours; discussion, two hours. Requisites: courses 153A, 153B, 153C, 156. Mechanisms and regulation of protein-mediated catalysis. Proteomics and metabolomics. Concepts in electron, proton, and energy transfer. Energy transducing membranes in chloroplasts and mitochondria. Letter grading.
+269C. Nucleic Acid Structure and Catalysis
+Units: 2.0
+Lecture, five hours; discussion, two hours. Requisites: courses 153A, 153B, 153C, 156. Three-dimensional structure of DNA and RNA. Sequence-specific recognition of DNA and RNA. RNA-catalyzed processes, including self-splicing and peptide bond formation. Letter grading.
+269D. Mechanism and Regulation of Gene Expression
+Units: 2.0
+Lecture, five hours; discussion, two hours. Requisites: courses 153A, 153B, 153C, 156. Mechanism and regulation of transcription in prokaryotes and eukaryotes. Mechanism and regulation of mRNA processing; mRNA export and degradation. Letter grading.
+269E. Biomolecular Structure, Catalysis, and Regulation
+Units: 2.0
+Lecture, five hours; discussion, two hours. Requisites: courses 153A, 153B, 153C, 156. Protein-protein interactions, proteomics, protein networks, regulatory circuits, cellular dynamics, imaging of cellular processes. Letter grading.
+C270. Biochemistry and Molecular Biology of Photosynthetic Apparatus
+Units: 2.0 to 4.0
+Lecture, two to three hours; discussion, zero to two hours. Requisites: courses 153A and 153B, or Life Sciences 3 and 23L, and course 153L. Recommended: courses 153C, 154, Life Sciences 4. Light harvesting, photochemistry, electron transfer, carbon fixation, carbohydrate metabolism, pigment synthesis in chloroplasts and bacteria. Assembly of photosynthetic membranes and regulation of genes encoding those components. Emphasis on understanding of experimental approaches. Concurrently scheduled with course CM170. S/U or letter grading.
+271. Advanced Topics in Inorganic Chemistry
+Units: 2.0 to 4.0
+Lecture, two to four hours. Each offering encompasses one recognized specialty in inorganic chemistry, generally taught by faculty members whose research interests embrace that specialty. S/U or letter grading.
+C272. Advanced Inorganic Chemistry
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisite: course 171 with grade of C- or better. Systematic approach to modern inorganic chemistry, structure and bonding of inorganic molecules and solids, structure/reactivity relationships, vibrational spectra of complexes, electronic structure and ligand-field theory, mechanisms of inorganic reactions, bonding and spectroscopy of organometallic compounds, transition metals in catalysis and biology. Concurrently scheduled with course C172. S/U or letter grading.
+272A. Seminar: Research in Inorganic Chemistry--Chemistry of Materials
+Units: 2.0
+Seminar, three hours. Advanced study and analysis of current topics in inorganic chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+272C. Seminar: Research in Inorganic Chemistry--Inorganic Spectroscopy
+Units: 2.0
+Seminar, three hours. Advanced study and analysis of current topics in inorganic chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+272G. Seminar: Research in Inorganic Chemistry--Issues in Chemical Education
+Units: 2.0
+Seminar, three hours. Advanced study and analysis of current topics in inorganic chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+272I. Seminar: Research in Inorganic Chemistry--Organometallic Chemistry
+Units: 2.0
+Seminar, three hours. Advanced study and analysis of current topics in inorganic chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+272K. Seminar: Research in Inorganic Chemistry--Inorganic Nanostructures: Synthesis, Properties, and Functions
+Units: 2.0
+Seminar, three hours. Advanced study and analysis of current topics in inorganic chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+272L. Seminar: Research in Inorganic Chemistry--Molecular Materials
+Units: 2.0
+Seminar, three hours. Advanced study and analysis of current topics in inorganic chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+272M. Seminar: Research in Inorganic Chemistry--Methodology for Chemical Synthesis of Complex Molecules
+Units: 2.0
+Seminar, three hours. Advanced study and analysis of current topics in inorganic chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+272N. Seminar: Research in Inorganic Chemistry--Electrochemical Materials and Interfaces
+Units: 2.0
+Seminar, three hours. Advanced study and analysis of current topics in inorganic chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+C273. Electrochemical Systems
+Units: 4.0
+Lecture, three hours; discussion, two hours. Introduction to principles of electrochemical systems commonly applied in research of inorganic chemistry, materials sciences, and nanotechnology. With examples in recent literature and discussions of experimental practice, focus on qualitative and quantitative evaluation of information obtained from electrochemical characterization methods. Understanding of course contents helps appreciate research and technologies in catalysis, energy storage and conversion, and advanced environmental technologies. Concurrently scheduled with course C173. S/U or letter grading.
+C274. Inorganic and Metalorganic Laboratory Methods
+Units: 5.0
+Lecture, two hours; laboratory, eight hours. Enforced requisites: courses 30CL and 171, with grades of C- or better. Synthesis of inorganic compounds, including air-sensitive materials; Schlenck techniques; chromatographic and ion exchange methods; spectroscopic characterization and literature applications. Concurrently scheduled with course C174. S/U or letter grading.
+C275. Inorganic Reaction Mechanisms
+Units: 4.0
+Lecture, three hours. Requisites: courses 110A, 110B, 113A, and 172, with grades of C- or better. Survey of inorganic reactions; mechanistic principles; electronic structure of metal ions; transition-metal coordination chemistry; inner- and outer-sphere and chelate complexes; substitution, isomerization, and racemization reactions; stereochemistry; oxidation/reduction, free/radical, polymerization, and photochemical reactions of inorganic species. May be concurrently scheduled with course C175. S/U or letter grading.
+C276A. Group Theory and Applications to Inorganic Chemistry
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 113A and 172, with grades of C- or better. Group theoretical methods; molecular orbital theory; ligand-field theory; electronic spectroscopy; vibrational spectroscopy. May be concurrently scheduled with course C176. S/U or letter grading.
+276B. Physical Methods in Inorganic Chemistry
+Units: 4.0
+Lecture, three hours. Requisite: course C276A. Theory and applications of spectroscopic techniques, including magnetic resonance and vibrational and surface science methods, to inorganic compounds and materials. S/U or letter grading.
+277. Crystal Structure Analysis
+Units: 4.0
+Lecture, three hours. Theory and practice of modern crystallography, with emphasis on practical experience in structure determination. Topics include crystallographic symmetry, scattering theory, data collection, Fourier analysis, heavy atom techniques, direct methods, isomorphous replacement, crystallographic refinement, error analysis, and common pitfalls. S/U or letter grading.
+278. Inorganic Chemistry Student Seminar
+Units: 2.0
+Seminar, two hours. Seminars presented by staff, outside speakers, postdoctoral fellows, and graduate students. May be repeated for credit. S/U or letter grading.
+C280. Solid-State Chemistry
+Units: 4.0
+Lecture, three hours. Requisite: course 172 with grade of C- or better. Survey of new materials and methods for their preparation and characterization, with emphasis on band theory and its relationship to chemical, optical, transport, and magnetic properties, leading to deeper understanding of these materials. Concurrently scheduled with course C180. S/U or letter grading.
+C281. Polymer Chemistry
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 30B, 110A. Synthesis of organic and inorganic macromolecules, thermodynamic and statistical mechanical descriptions of unique properties of polymers, polymer characterization methods, and special topics such as conductive and biomedical polymers and polymeric reagents in synthesis. Concurrently scheduled with course C181. S/U or letter grading.
+282. Introduction to Inorganic Chemistry Research
+Units: 2.0
+Lecture, 90 minutes. Discussion of current research in inorganic chemistry, designed primarily for entering graduate inorganic chemistry students. S/U grading.
+283. Evolution of Devices from Concept to Product
+Units: 2.0
+Seminar, 90 minutes. Required of students in Materials Creation Training Program. Training in fundamental science and engineering to fabricate electrical, photonic, and microelectromechanical devices. Discussion of intellectual property issues and development of business plan. May be repeated for credit. S/U or letter grading.
+285. Materials Chemistry Laboratory
+Units: 5.0
+Lecture, two hours; laboratory, eight hours. Requisites: courses 30AL, 110A, 113A, 171. Materials synthesis and physical properties of complex materials. Combines synthetic skills with fundamental physical understanding and characterization in approximately equal proportions to relate materials synthesis to materials function. Letter grading.
+375. Teaching Apprentice Practicum
+Units: 1.0 to 4.0
+Seminar, to be arranged. Preparation: apprentice personnel employment as teaching assistant, associate, or fellow. Teaching apprenticeship under active guidance and supervision of regular faculty member responsible for curriculum and instruction at UCLA. May be repeated for credit. S/U grading.
+400. Safety in Chemical and Biochemical Research
+Units: 2.0
+Lecture, two hours. Survey of safe laboratory practices for experimental research in organic, inorganic, and physical chemistry and biochemistry. Topics include laser safety, cryogenic hazards, high- and low-pressure experimentation, gas and carcinogen handling, chemical spills, fire extinguishing, and chemical disposal. S/U grading.
+495. Teaching College Chemistry
+Units: 2.0
+Seminar, two hours; discussion, two hours; 20 hours training during week prior to Fall Quarter. Course for teaching assistants designed to deal with problems and techniques of teaching college chemistry. S/U grading.                        
+596. Directed Individual Study or Research
+Units: 2.0 to 16.0
+Tutorial, to be arranged with faculty member who directs study or research. May be repeated for credit. S/U or letter grading.
+597. Preparation for MS Comprehensive Examination or PhD Qualifying Examinations
+Units: 2.0 to 4.0
+Tutorial, to be arranged. May be taken for maximum of 8 units. S/U grading.
+598. Research for and Preparation of MS Thesis
+Units: 2.0 to 16.0
+Tutorial, to be arranged. Each faculty member supervises research of MS students and holds research group meetings, seminars, and discussions with students. May be repeated for credit. S/U or letter grading.
+599. Research for and Preparation of PhD Dissertation
+Units: 2.0 to 16.0
+Tutorial, to be arranged. Each faculty member supervises research of PhD students and holds research group meetings, seminars, and discussions with students. May be repeated for credit. S/U or letter grading.

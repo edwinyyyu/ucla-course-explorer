@@ -1,0 +1,78 @@
+Lower Division Courses (5)
+19. Fiat Lux Freshman Seminars
+Units: 1.0
+Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.
+30. Los Angeles Tech City: Digital Technologies and Spatial Justice
+Units: 5.0
+Lecture, two and one half hours; studio, two hours. Investigation of spatial justice and injustice in multi-ethnic city of Los Angeles through Lens of three thematic technologies that built and transformed Los Angeles into global metropolis: cars and highways, networking technologies culminating in Internet and World Wide Web, and film and broadcast media. Use of innovative forms of investigation and communication, from digital mapping to video-sensing, to integrate interpretative and historical approaches of humanities with material and projective practices of design. Letter grading.
+89. Honors Seminars
+Units: 1.0
+Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.
+89HC. Honors Contracts
+Units: 1.0
+Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.
+99. Student Research Program
+Units: 1.0 to 2.0
+Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
+Upper Division Courses (16)
+101. Introduction to Digital Humanities
+Units: 4.0
+Lecture, 75 minutes; discussion, 75 minutes. Foundation course for students in Digital Humanities minor, providing theoretical and conceptual framework for understanding genesis of digital world. Use of contemporary cultural-historical methodology to focus on rise of new media and information technologies in 19th, 20th, and 21st centuries, such as photography, film, radio, television, Internet, and World Wide Web and their impact on how individuals, groups, and cultures experienced their worlds. Letter grading.
+110. User Experience and Design
+Units: 4.0
+Seminar, three hours. Requisite: course 101. Introduction to fields of user experience (UX) research and design. Covers UX design methods and process, including ethnographic field research, persona-scenario development, information architecture, prototyping, and usability testing. Students learn by hands-on practice in human-centered process: how to understand users, how to design interface and interaction for users, and how to evaluate and communicate user experience design with users. Letter grading.
+120. Social Media Data Analytics
+Units: 4.0
+Seminar, three hours. Requisite: course 101 or consent of instructor. Social media data analytics, with focus on questions of power, privilege, identity, whose voices count and in what spaces, as well as how data science and digital humanities may be used to challenge power structures. Study of how social media has been used both to undermine and to support social justice and political change movements, ways in which social media data is currently used by corporate entities, and ethical data usage. Students learn digital research methods including quantitative and qualitative data analytics, statistics, as well as data visualization to examine social media data. Letter grading.
+125. Data Analysis for Social and Cultural Research
+Units: 4.0
+Seminar, three hours. Requisite: course 101 or consent of instructor. Data analysis and statistical methods tailored for students in humanities and social sciences, with focus on topics and issues related to social justice. Study of descriptive and inferential statistics as applied in humanistic research. Consideration of how to generate evidence-based, statistically sound arguments, applying methods learned throughout the course to a collaborative project. Students learn statistical methods, R Studio environment and language, and how to communicate their arguments in cogent narratives supported by evidence. Letter grading.
+131. Digital Mapping and Critical Geographic Information Systems
+Units: 4.0
+Seminar, three hours. Requisite: course 101 or consent of instructor. Introduction to digital mapping and critical geographic information systems. Study of basic data types including geographic, structured, and unstructured. Students engage with fundamental mapping practices such as geolocating structured data, working with open data through web mapping technologies, georeferencing historical maps, and creating location-based narratives and visualizations. Through project-based learning, students discover how to manage and apply data to wide range of digital mapping technologies. Consideration of how to incorporate these concepts into humanities and social sciences research. Letter grading.
+140. Coding for Humanities
+Units: 4.0
+Seminar, three hours. Requisites: course 101. Introduction to coding, with focus on Python. Study of basic structural elements such as lists, if statements, dictionaries, loops, functions, and classes. Consideration of how to apply these concepts to research in humanities and social sciences, and project-based learning. Students discover how to manage and display data with added impact. Content and goals are guided by freedom to research more effectively and freedom of speech. Letter grading.
+M145. Literary Texts and Literary Languages: Strategies of Analysis and Digital Tools
+Units: 4.0
+(Same as Russian M145.) Lecture, three hours. Lectures and readings in English. Non-obligatory additional materials in Russian. Formal, quantitative, and computational methods for analysis of poetry and prose. Digital tools for analysis. P/NP or letter grading.
+150. Advanced Topics in Digital Humanities
+Units: 4.0
+Seminar, three hours. Requisite: course 101. Introduction to advanced research methods or thematic issues in digital humanities such as database and visualization technologies, social media technologies, application programming interfaces, and digital mapping to acquire familiarity with particular set of technologies by learning practical research methods and theoretical issues to carry out advanced research in this area. Consult Schedule of Classes for topics to be offered in specific term. May be repeated for credit with topic change. Letter grading.
+151. Advanced Topics in Urban Humanities
+Units: 4.0
+Seminar, three hours. Introduction to advanced research topics in urban humanities. Looking at specific subject matters related to notion of spatial equity in context of Los Angeles, exploration of how certain spatial technologies such as geographic information systems (GIS) cartography, mobile telephony, real-time data collection, social media, digital databases, and interactive web platforms can be deployed to research and document urban experience. Familiarization with digital tools used to study urban issues, from affordable housing to access to public space and employment, to civic participation. Letter grading.
+187. Capstone Seminar in Digital Humanities
+Units: 4.0
+Seminar, three hours. Requisite: course 101. Students are guided in development and realization of collaborative digital humanities research project. Students learn to develop and refine research question, carry out advanced research in digital humanities, and present results of their research to their peers. Students participate in structured trainings, work with classmates to select suitable research topics, give weekly updates about their research process, and develop presentation of project. Librarians and members of Digital Research Consortium introduce students to available digital collections, archives, and other resources at UCLA. Letter grading.
+189. Advanced Honors Seminars
+Units: 1.0
+Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.
+189HC. Honors Contracts
+Units: 1.0
+Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.
+195. Community or Corporate Internships in Digital Humanities
+Units: 4.0
+Tutorial, two hours; fieldwork, eight hours. Limited to juniors/seniors. Internship in supervised setting in community agency or business. Placements to be arranged by instructor. Students meet on regular basis with instructor and provide periodic reports of their experience. May be repeated for credit. Individual contract with supervising faculty member required. Letter grading.
+196. Research Apprenticeship in Digital Humanities
+Units: 4.0
+Tutorial, three hours per week per unit. Limited to juniors/seniors. Entry-level research apprenticeship for upper-division students under guidance of faculty mentor. May be repeated for credit. Individual contract required. P/NP grading.
+198. Honors Research in Digital Humanities
+Units: 4.0
+Tutorial, one hour. Requisite: course 101. Limited to juniors/seniors. Development and completion of significant research project under direct supervision of faculty member. May be repeated for credit. Individual contract required. Letter grading.
+199. Directed Research in Digital Humanities
+Units: 2.0 to 4.0
+Tutorial, one hour. Requisite: course 101. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit. Individual contract required. Letter grading.
+Graduate Courses (4)
+201. Introduction to Digital Humanities
+Units: 5.0
+Seminar, three hours; laboratory, one hour. Introduction to field of digital humanities. Historical overview of field from its beginning in post-World War II era to present, highlighting major intellectual problems, disciplinary paradigms, and institutional challenges that are posed by digital humanities. Examination of major epistemological, methodological, technological, and institutional challenges posed by digital humanities through number of specific projects that address fundamental problems in creating, interpreting, preserving, and transmitting human cultural record. How digital technologies and tools, ranging from map visualizations and modeling environments to database structures and interface design, are arguments that make certain assumptions about, and even transform, objects of study. Letter grading.
+250. Special Topics in Digital Humanities
+Units: 4.0
+Seminar, three hours. Enforced requisite: course 201. Introduction to advanced research method or thematic issue in digital humanities, such as digital textual analysis, digital mapping database and visualization technologies, or social media technologies. Acquisition of familiarity with particular set of technologies by learning practical research methods and theoretical issues to carry out advanced research in this area. Examination of critiques of theoretical underpinnings of such technologies and issues that they raise. May be repeated for credit with topic change. Letter grading.
+299. Special Projects in Digital Humanities
+Units: 2.0 to 4.0
+Tutorial, one hour. Enforced requisite: course 201. Limited to and required of graduate students in Digital Humanities Graduate Certificate Program. Supervised research and investigation under guidance of faculty mentor. Culminating project required. May be repeated for maximum of 12 units. Letter grading.
+596. Directed Individual Study or Research
+Units: 2.0 to 12.0
+Tutorial, three hours. To be arranged with faculty member who directs study or research. S/U or letter grading.

@@ -1,0 +1,935 @@
+Lower Division Courses (32)
+1. Precalculus
+Units: 4.0
+Lecture, three hours; discussion, one hour. Preparation: three years of high school mathematics. Requisite: successful completion of Mathematics Diagnostic Test. Function concept. Linear and polynomial functions and their graphs, applications to optimization. Inverse, exponential, and logarithmic functions. Trigonometric functions. P/NP or letter grading.
+3A. Calculus for Life Sciences Students
+Units: 4.0
+Lecture, three hours; discussion, one hour. Preparation: three and one half years of high school mathematics (including trigonometry). Enforced requisite: successful completion of Mathematics Diagnostic Test (score of 48 or better) or course 1 with grade of C- or better. Not open for credit to students with credit in another calculus sequence. Modeling with functions, limits, and derivatives, decisions and optimization in biology, derivative rules and tools. P/NP or letter grading.
+3B. Calculus for Life Sciences Students
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisite: course 3A with grade of C- or better. Not open for credit to students with credit for course 31B. Applications of differentiation, integration, differential equations, linear models in biology, phase lines and classifying equilibrium values, bifurcations. P/NP or letter grading.
+3C. Ordinary Differential Equations with Linear Algebra for Life Sciences Students
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisite: course 3B with grade of C- or better. Multivariable modeling, matrices and vectors, eigenvalues and eigenvectors, linear and nonlinear systems of differential equations, probabilistic applications of integration. P/NP or letter grading.
+11N. Gateway to Mathematics: Number Theory
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 31A, 31B. Introductory number theory course for freshmen and sophomores. Topics include prime number theory and cryptographic applications, factorization theory (in integers and Gaussian integers), Pythagorean triples, Fermat descent (for sums of squares and Fermat quartic), Pell's equation, and Diophantine approximation. P/NP or letter grading.
+19. Fiat Lux Freshman Seminars
+Units: 1.0
+Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.
+31A. Differential and Integral Calculus
+Units: 4.0
+Lecture, three hours; discussion, one hour. Preparation: at least three and one half years of high school mathematics (including some coordinate geometry and trigonometry). Requisite: successful completion of Mathematics Diagnostic Test or course 1 with grade of C- or better. Differential calculus and applications; introduction to integration. P/NP or letter grading.
+31AL. Differential and Integral Calculus Laboratory
+Units: 5.0
+Lecture, three hours; discussion, one hour; laboratory, one hour. Preparation: at least three and one-half years of high school mathematics (including some coordinate geometry and trigonometry). Requisite: successful completion of Mathematics Diagnostic Test or course 1 with grade of C- or better. Not open for credit to students with credit for course 31A. Intended for students who still need to review precalculus material (laboratory) while starting calculus. Differential calculus and applications; introduction to integration. P/NP or letter grading.
+31B. Integration and Infinite Series
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisite: course 31A with grade of C- or better. Not open for credit to students with credit for course 3B. Transcendental functions; methods and applications of integration; sequences and series. P/NP or letter grading.
+31BH. Integration and Infinite Series (Honors)
+Units: 4.0
+Lecture, three hours; discussion, one hour. Enforced requisite: course 31A with grade of B or better. Honors course parallel to course 31B. P/NP or letter grading.
+31E. Calculus for Economics Students
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisite: course 31A with grade of C- or better. Not open for credit to students with credit for course 3B, 3C, or 31B. Calculus for applications to economics. Partial differentiation, implicit functions, exponential and logarithmic functions, extrema, optimization, constrained optimization. P/NP or letter grading.
+32A. Calculus of Several Variables
+Units: 4.0
+Lecture, three hours; discussion, one hour. Enforced requisite: course 31A with grade of C- or better. Introduction to differential calculus of several variables, vector field theory. P/NP or letter grading.
+32AH. Calculus of Several Variables (Honors)
+Units: 4.0
+Lecture, three hours; discussion, one hour. Enforced requisite: course 31A with grade of B or better. Honors course parallel to course 32A. P/NP or letter grading.
+32B. Calculus of Several Variables
+Units: 4.0
+Lecture, three hours; discussion, one hour. Enforced requisites: courses 31B and 32A, with grades of C- or better. Introduction to integral calculus of several variables, line and surface integrals. P/NP or letter grading.
+32BH. Calculus of Several Variables (Honors)
+Units: 4.0
+Lecture, three hours; discussion, one hour. Enforced requisites: courses 31B and 32A, with grades of B or better. Honors course parallel to course 32B. P/NP or letter grading.
+M32T. Essential Calculus for Mathematical Biologists
+Units: 4.0
+(Same as Computational and Systems Biology M32 and Life Sciences M32.) Lecture, three hours; discussion, one hour. Requisites: Life Sciences 30A, 30B. Not open to students with credit for course 31A, 31B, 32A, or 32B. Designed for life sciences students. Methods and results of single and multivariable calculus essential for quantitative training in biology. Limits, differentiation (single and several variables), optimization, integration and methods of integration, Taylor polynomials and applications to approximation, Taylor and other power series, vector valued functions, gradients, and Lagrange multipliers. P/NP or letter grading.
+33A. Linear Algebra and Applications
+Units: 4.0
+Lecture, three hours; discussion, one hour. Enforced requisite: course 3B or 31B or 32A with grade of C- or better. Introduction to linear algebra: systems of linear equations, matrix algebra, linear independence, subspaces, bases and dimension, orthogonality, least-squares methods, determinants, eigenvalues and eigenvectors, matrix diagonalization, and symmetric matrices. P/NP or letter grading.
+33AH. Linear Algebra and Applications (Honors)
+Units: 4.0
+Lecture, three hours; discussion, one hour. Enforced requisite: course 3B or 31B or 32A with grade of B or better. Honors course parallel to course 33A. P/NP or letter grading.
+33B. Differential Equations
+Units: 4.0
+Lecture, three hours; discussion, one hour. Enforced requisite: course 31B with grade of C- or better. Highly recommended: course 33A. First-order, linear differential equations; second-order, linear differential equations with constant coefficients; power series solutions; linear systems. P/NP or letter grading.
+42. Introduction to Data-Driven Mathematical Modeling: Life, Universe, and Everything
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 31A, 31B, 32A, 32B, 33A, one statistics course from Statistics 10, 12, 13, one programming course from Computer Science 31, Program in Computing 10A, Statistics 20. Introduction to data-driven mathematical modeling combing data analysis with mechanistic modeling of phenomena from various applications. Topics include model formulation, data visualization, nondimensionalization and order-of-magnitude physics, introduction to discrete and continuous dynamical systems, and introduction to discrete and continuous stochastic models. Examples drawn from many fields and practice problems from Mathematical Contest in Modeling. P/NP or letter grading.
+61. Introduction to Discrete Structures
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 31A, 31B. Not open for credit to students with credit for course 180 or 184. Discrete structures commonly used in computer science and mathematics, including sets and relations, permutations and combinations, graphs and trees, induction. P/NP or letter grading.
+70. Introduction to Probability
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 31A, 31B. Introduction to probability through applications and examples. Topics include laws of large numbers, statistics, chance trees, conditional probability, Bayes' rule, continuous and discrete random variables, jointly distributed random variables, multivariate normal and conditional distributions. In-depth discussion of betting schemes in gambling, occurrence of rare events, coincidences, and statistical predictions. P/NP or letter grading.
+73XP. Key Issues in K-12 Mathematics
+Units: 3.0
+(Formerly numbered 73SL.) Seminar, two hours; fieldwork, two hours. Introduction to K-12 mathematics activity in U.S. Cultivation of interest in teaching through exploration of sequences of mathematical content and habits of mind taught in K-12. Analysis of sequences of topics in current California State Standards in Mathematics (CCSS-M), mathematical structures that underlie these sequences, and cognitive aspects of learning mathematics. Experience with professional mathematician's habits of mind outlined in CCSS-M (including proof and mathematical modeling), and effective strategies for teaching mathematics to diverse student groups. Fieldwork in local mathematics classroom arranged by Cal Teach program. P/NP grading.
+74XP. Mathematics and Pedagogy for Teaching Elementary Mathematics
+Units: 3.0
+(Formerly numbered 74SL.) Seminar, two hours; fieldwork, two hours. Development of professional mathematical and pedagogical understandings required to teach California's K-5 mathematics curriculum. Exploration of K-5 mathematics, practice of effective teaching strategies for all learners, and discussion of current research and standards in mathematics education. Fieldwork in local mathematics classrooms (observation and presenting lesson plan) arranged by Cal Teach program. P/NP grading.
+75XP. Mathematics and Pedagogy for Teaching Middle School Mathematics
+Units: 3.0
+Seminar, two hours; fieldwork, two hours. Facilitates development of professional mathematical and pedagogical understandings required to teach California middle school mathematics curriculum. Exploration of topics in grades six through eight mathematics from professional perspective, practice with effective teaching strategies for all learnings,and discussion of current research and st andards in mathematics education. Clinical practice in local mathematics classrooms arranged by Cal Teach program. P/NP grading.
+89. Honors Seminars
+Units: 1.0
+Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.
+89HC. Honors Contracts
+Units: 1.0
+Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.
+95. Transition to Upper-Division Mathematics
+Units: 4.0
+Lecture, three hours; discussion, one hour. Enforced requisites: courses 32A, 32B. Not open for credit to students with credit for course 131A or 132. Introduction to rigorous methods of proof-based upper-division mathematics courses. Basic logic; structure of mathematical proofs; sets, functions, and cardinality; natural numbers and induction; construction of real numbers; topology of real numbers; sequences and convergence; continuity. May not be applied toward major requirements. P/NP or letter grading.
+97. Variable Topics in Mathematics
+Units: 4.0
+Lecture, three hours; discussion, one hour. Study of selected topics in mathematics at introductory level. P/NP or letter grading.
+98XA. PEERS Collaborative Learning Workshops for Life Sciences Majors
+Units: 1.0
+Laboratory, three hours. Corequisite: associated undergraduate lecture course in mathematics for life sciences majors. Limited to Program for Excellence in Education and Research in Science (PEERS) students. Development of intuition and problem-solving skills in collaborative learning environment. May be repeated four times, but only 1 unit may be applied toward graduation. P/NP grading.
+98XB. PEERS Collaborative Learning Workshops for Physical Sciences and Engineering Majors
+Units: 1.0
+Laboratory, three hours. Corequisite: associated undergraduate lecture course in mathematics for physical sciences and engineering majors. Limited to Program for Excellence in Education and Research in Science (PEERS) students. Development of intuition and problem-solving skills in collaborative learning environment. May be repeated four times, but only 1 unit may be applied toward graduation. P/NP grading.
+99. Student Research Program
+Units: 1.0 to 2.0
+Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
+Upper Division Courses (92)
+100. Problem Solving
+Units: 4.0
+Lecture, three hours. Requisite: course 31A with grade of C- or better. Problem-solving techniques and mathematical topics useful as preparation for Putnam Examination and similar competitions. Continued fractions, inequalities, modular arithmetic, closed form evaluation of sums and products, problems in geometry, rational functions and polynomials, other nonroutine problems. Participants expected to take Putnam Examination. P/NP grading.
+101. Advanced Problem Solving
+Units: 4.0
+Lecture, three hours. Requisite: course 100 or significant experience with mathematical competitions. Enrollment based on one selection test or past Putnam results. Advanced problem solving techniques and mathematical topics useful as preparation for Putnam competition. Problems in abstract algebra, linear algebra, number theory, combinatorics, probability, real and complex analysis, differential, equations, Fourier analysis. Regular practice tests given, similar in difficulty to Putnam competition. May be repeated for maximum of 12 units. P/NP or letter grading.
+103A. Mathematics and Pedagogy for Teaching Middle School Mathematics
+Units: 2.0
+Seminar, one hour; fieldwork (classroom observation and participation), two hours. Requisite: course 115A. Course 103A is enforced requisite to 103B, which is enforced requisite to 103C. Facilitates student development in mathematical and pedagogical understandings required to teach middle school mathematics curriculum. Exploration of California's grades 6 through 8 mathematics from professional perspective, practice with effective teaching strategies for all learners, and discussion of current research and standards in mathematics education with fieldwork in local mathematics classrooms. P/NP (undergraduates) or S/U (graduates) grading.
+103B. Observation and Participation: Mathematics Instruction
+Units: 2.0
+Seminar, one hour; fieldwork (classroom observation and participation), two hours. Enforced requisite: course 103A. Observation, participation, or tutoring in mathematics classes at middle school and secondary levels. May be repeated for credit. P/NP (undergraduates) or S/U (graduates) grading.
+103C. Observation and Participation: Mathematics Instruction
+Units: 2.0
+Seminar, one hour; fieldwork (classroom observation and participation), two hours. Enforced requisite: course 103B. Observation, participation, or tutoring in mathematics classes at middle school and secondary levels. May be repeated for credit. P/NP (undergraduates) or S/U (graduates) grading.
+105A. Mathematics and Pedagogy for Teaching Secondary School Mathematics
+Units: 4.0
+Lecture, four hours; fieldwork, 30 minutes. Requisites: courses 110A (or 117), 120A (or 123), and 131A, with grades of C- or better. Course 105A is requisite to 105B, which is requisite to 105C. Mathematical knowledge and research-based pedagogy needed for teaching key geometry topics in secondary school, including axiomatic systems, measure, and geometric transformations. Introduction to professional standards and current research for teaching secondary school mathematics. Letter grading.
+105B. Mathematics and Pedagogy for Teaching Secondary School Mathematics
+Units: 4.0
+Lecture, four hours; fieldwork, 30 minutes. Requisites: courses 105A, 110A (or 117), 120A (or 123), and 131A, with grades of C- or better. Mathematical knowledge and research-based pedagogy needed for teaching key polynomial, rational, and transcendental functions and related equations in secondary school; professional standards and current research for teaching secondary school mathematics. Letter grading.
+105C. Mathematics and Pedagogy for Teaching Secondary School Mathematics
+Units: 4.0
+Lecture, four hours; fieldwork, 30 minutes. Requisites: courses 105A, 105B, 110A (or 117), 120A (or 123), and 131A, with grades of C- or better. Mathematical knowledge and research-based pedagogy needed for teaching key analysis, probability, and statistics topics in secondary school; professional standards and current research for teaching secondary school mathematics. Letter grading.
+106. History of Mathematics
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 31A, 31B, 32A. Roots of modern mathematics in ancient Babylonia and Greece, including place value number systems and proof. Development of algebra through Middle Ages to Fermat and Abel, invention of analytic geometry and calculus. Selected topics. P/NP or letter grading.
+110A. Algebra
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisite: course 115A. Not open for credit to students with credit for course 117. Ring of integers, integral domains, fields, polynomial domains, unique factorization. P/NP or letter grading.
+110AH. Algebra (Honors)
+Units: 4.0
+Lecture, three hours; discussion, one hour. Honors course parallel to course 110A.
+110B. Algebra
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisite: course 110A or 117. Groups, structure of finite groups. P/NP or letter grading.
+110BH. Algebra (Honors)
+Units: 4.0
+Lecture, three hours; discussion, one hour. Honors course parallel to course 110B.
+110C. Algebra
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 110A, 110B. Field extensions, Galois theory, applications to geometric constructions, and solvability by radicals.
+111. Theory of Numbers
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisite: courses 110A. Algebraic number theory (including prime ideal theory), cyclotomic fields and reciprocity laws, Diophantine equations (especially quadratic forms, elliptic curves), equations over finite fields, topics in theory of primes, including prime number theorem and Dirichlet's theorem. P/NP or letter grading.
+114C. Computability Theory
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisite: course 110A or 131A or Philosophy 135. Effectively calculable, Turing computable, and recursive functions; Church/Turing thesis. Normal form theorem; universal functions; unsolvability and undecidability results. Recursive and recursively enumerable sets; relative recursiveness, polynomial-time computability. Arithmetical hierarchy. P/NP or letter grading.
+114L. Mathematical Logic
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisite: course 110A or 131A or Philosophy 135. Introduction to mathematical logic, aiming primarily at completeness and incompleteness theorems of Gödel. Propositional and predicate logic; syntax and semantics; formal deduction; completeness, compactness, and Lowenheim/Skolem theorems. Formal number theory: nonstandard models; Gödel incompleteness theorem. P/NP or letter grading.
+M114S. Introduction to Set Theory
+Units: 4.0
+(Same as Philosophy M134.) Lecture, three hours; discussion, one hour. Requisite: course 110A or 131A or Philosophy 135. Axiomatic set theory as framework for mathematical concepts; relations and functions, numbers, cardinality, axiom of choice, transfinite numbers. P/NP or letter grading.
+115A. Linear Algebra
+Units: 5.0
+Lecture, three hours; discussion, two hours. Requisite: course 33A. Techniques of proof, abstract vector spaces, linear transformations, and matrices; determinants; inner product spaces; eigenvector theory. P/NP or letter grading.
+115AH. Linear Algebra (Honors)
+Units: 5.0
+Lecture, three hours; discussion, two hours. Requisite: course 33A with grade of B or better. Honors course parallel to course 115A. P/NP or letter grading.
+115B. Linear Algebra
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisite: course 115A. Linear transformations, conjugate spaces, duality; theory of a single linear transformation, Jordan normal form; bilinear forms, quadratic forms; Euclidean and unitary spaces, symmetric skew and orthogonal linear transformations, polar decomposition. P/NP or letter grading.
+116. Mathematical Cryptology
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisite: course 115A. Not open for credit to students with credit for Program in Computing 130. Introduction to mathematical cryptology using methods of number theory, algebra, probability. Topics include symmetric and public-key cryptosystems, one-way functions, signatures, key exchange, groups, primes, pseudoprimes, primality tests, quadratic reciprocity, factoring, rho method, RSA, discrete logs. P/NP or letter grading.
+117. Algebra for Applications
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisite: course 115A. Not open for credit to students with credit for course 110A. Integers, congruences; fields, applications of finite fields; polynomials; permutations, introduction to groups.
+118. Mathematical Methods of Data Theory
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 42, 115A. Introduction to computational methods for data problems with focus on linear algebra and optimization. Matrix and tensor factorization, PageRank, assorted other topics in matrices, linear programming, unconstrained optimization, constrained optimization, integer optimization, dynamic programming, and stochastic optimization. P/NP or letter grading.
+120A. Differential Geometry
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 32B, 33B, 115A, 131A. Course 120A is requisite to 120B. Curves in 3-space, Frenet formulas, surfaces in 3-space, normal curvature, Gaussian curvature, congruence of curves and surfaces, intrinsic geometry of surfaces, isometries, geodesics, Gauss/Bonnet theorem. P/NP or letter grading.
+120B. Differential Geometry
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 32B, 33B, 115A, 120A, 131A. Curves in 3-space, Frenet formulas, surfaces in 3-space, normal curvature, Gaussian curvature, congruence of curves and surfaces, intrinsic geometry of surfaces, isometries, geodesics, Gauss/Bonnet theorem. P/NP or letter grading.
+121. Introduction to Topology
+Units: 4.0
+Requisite: course 131A. Metric and topological spaces, completeness, compactness, connectedness, functions, continuity, homeomorphisms, topological properties.
+123. Foundations of Geometry
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisite: course 115A. Axioms and models, Euclidean geometry, Hilbert axioms, neutral (absolute) geometry, hyperbolic geometry, Poincaré model, independence of parallel postulate.
+131A. Analysis
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 32B, 33B. Recommended: course 115A. Rigorous introduction to foundations of real analysis; real numbers, point set topology in Euclidean space, functions, continuity. P/NP or letter grading.
+131AH. Analysis (Honors)
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 32B and 33B, with grades of B or better. Recommended: course 115A. Honors course parallel to course 131A. P/NP or letter grading.
+131B. Analysis
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 33B, 115A, 131A. Derivatives, Riemann integral, sequences and series of functions, power series, Fourier series. P/NP or letter grading.
+131BH. Analysis (Honors)
+Units: 4.0
+Lecture, three hours; discussion, one hour. Honors course parallel to course 131B. P/NP or letter grading.
+131C. Topics in Analysis
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 131A-131B. Advanced topics in analysis, such as Lebesgue integral, integration on manifolds, harmonic analysis. Content varies from year to year. May be repeated for credit by petition.
+132. Complex Analysis for Applications
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 32B, 33B. Introduction to basic formulas and calculation procedures of complex analysis of one variable relevant to applications. Topics include Cauchy/Riemann equations, Cauchy integral formula, power series expansion, contour integrals, residue calculus.
+132H. Complex Analysis (Honors)
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 32B, 33B, and 131A, with grades of B or better. Specifically designed for students who have strong commitment to pursue graduate studies in mathematics. Introduction to complex analysis, with more emphasis on proofs. Honors course parallel to course 132. P/NP or letter grading.
+133. Introduction to Fourier Analysis
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 33A, 33B, 131A. Fourier series, Fourier transform in one and several variables, finite Fourier transform. Applications, in particular, to solving differential equations. Fourier inversion formula, Plancherel theorem, convergence of Fourier series, convolution. P/NP or letter grading.
+134. Linear and Nonlinear Systems of Differential Equations
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisite: course 33B. Dynamical systems analysis of nonlinear systems of differential equations. One- and two- dimensional flows. Fixed points, limit cycles, and stability analysis. Bifurcations and normal forms. Elementary geometrical and topological results. Applications to problems in biology, chemistry, physics, and other fields. P/NP or letter grading.
+135. Ordinary Differential Equations
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 33A, 33B. Selected topics in differential equations. Laplace transforms, existence and uniqueness theorems, Fourier series, separation of variable solutions to partial differential equations, Sturm/Liouville theory, calculus of variations, two-point boundary value problems, Green's functions. P/NP or letter grading.
+136. Partial Differential Equations
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 33A, 33B. Linear partial differential equations, boundary and initial value problems; wave equation, heat equation, and Laplace equation; separation of variables, eigenfunction expansions; selected topics, as method of characteristics for nonlinear equations.
+142. Mathematical Modeling
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 32B, 33B. Introduction to fundamental principles and spirit of applied mathematics. Emphasis on manner in which mathematical models are constructed for physical problems. Illustrations from many fields of endeavor, such as physical sciences, biology, economics, and traffic dynamics.
+146. Methods of Applied Mathematics
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 32B, 33B. Integral equations, Green's function, and calculus of variations. Selected applications from control theory, optics, dynamical systems, and other engineering problems.
+M148. Experience of Data Science
+Units: 4.0
+(Same as Statistics M148.) Lecture, four hours. Requisites: courses 118, 131A, 156 or Statistics 101C, 170S or Statistics 100B, Statistics 101A. Students solve real data science problems for community- or campus-based clients. Students work in small groups with faculty member and client to frame client's question in data science terms, create mathematical models, analyze data, and report results. Students may elect to undertake research on foundations of data science, studying advanced topics and writing senior thesis with discussion of findings or survey of literature on chosen foundational topic. Development of collaborative skills, communication principles, and discussion of ethical issues. Letter grading.
+151A. Applied Numerical Methods
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 32B, 33B, 115A, Program in Computing 10A or Computer Science 31. Introduction to numerical methods with emphasis on algorithms, analysis of algorithms, and computer implementation issues. Solution of nonlinear equations. Numerical differentiation, integration, and interpolation. Direct methods for solving linear systems. Letter grading.
+151AH. Numerical Analysis Part 1 (Honors)
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 32B, 33B, 115A, 131A, Computer Science 31 or Programming in Computing 10A or equivalent, with grades of B or better. Not open for credit to students with credit for course 151A. Rigorous introduction to numerical algorithms including necessary skills to apply algorithms in statistics, imaging, data science, engineering, and related fields. Root finding, solving linear systems, interpolation, quadrature, and finding eigenvalues. MatLab programming. P/NP or letter grading.
+151B. Applied Numerical Methods
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisite: course 151A. Introduction to numerical methods with emphasis on algorithms, analysis of algorithms, and computer implementation issues. Solution of nonlinear equations. Numerical differentiation, integration, and interpolation. Direct methods for solving linear systems. Letter grading.
+151BH. Numerical Analysis Part 2 (Honors)
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 115A or 115AH, 131A or 131AH, 151A or 151AH, Computer Science 31 or Programming in Computing 10A, with grades of B or better. Rigorous introduction to numerical algorithms including necessary skills to apply algorithms in statistics, imaging, data science, engineering and related fields. Finding eigenvalues, finding numerical solutions to ordinary differential equations, the least squares problem and the fast Fourier transform. MatLab programming. Honors course parallel to course 151B. P/NP or letter grading.
+155. Mathematical Imaging
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 32B, 33B, 115A, Program in Computing 10A or Computer Science 31. Imaging geometry. Image transforms. Enhancement, restoration, and segmentation. Descriptors. Morphology. P/NP or letter grading.
+156. Machine Learning
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 115A, 164, 170A or 170E or Statistics 100A, and Computer Science 31 or Program in Computing 10A. Strongly recommended requisite: Program in Computing 16A or Statistics 21. Introductory course on mathematical models for pattern recognition and machine learning. Topics include parametric and nonparametric probability distributions, curse of dimensionality, correlation analysis and dimensionality reduction, and concepts of decision theory. Advanced machine learning and pattern recognition problems, including data classification and clustering, regression, kernel methods, artificial neural networks, hidden Markov models, and Markov random fields. Projects in MATLAB to be part of final project presented in class. P/NP or letter grading.
+164. Optimization
+Units: 4.0
+Lecture, three hours; discussion, one hour. Enforced requisites: courses 115A, 131A. Not open for credit to students with credit for former Electrical Engineering 136. Fundamentals of optimization. Linear programming: basic solutions, simplex method, duality theory. Unconstrained optimization, Newton method for minimization. Nonlinear programming, optimality conditions for constrained problems. Additional topics from linear and nonlinear programming. P/NP or letter grading.
+167. Mathematical Game Theory
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisite: course 115A. Quantitative modeling of strategic interaction. Topics include extensive and normal form games, background probability, lotteries, mixed strategies, pure and mixed Nash equilibria and refinements, bargaining; emphasis on economic examples. Optional topics include repeated games and evolutionary game theory. P/NP or letter grading.
+168. Introduction to Networks
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 115A, 170E (or 170A or Electrical and Computer Engineering 131A or Statistics 100A). Introduction to network science (including theory, computation, and applications), which can be used to study complex systems of interacting agents. Study of networks in technology, social, information, biological, and mathematics involving basic structural features of networks, generative models of networks, network summary statistics, centrality, random graphs, clustering, and dynamical processes on networks. Introduction to advanced topics as time permits. P/NP or letter grading.
+170A. Probability Theory I
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 32B, 33A, 131A. Not open to students with credit for course 170E, Electrical and Computer Engineering 131A, or Statistics 100A. Rigorous presentation of probability theory based on real analysis. Probability space, probability and conditional probability, independence, Bayes' rule, discrete and continuous random variables and their distributions, expectation, moments and variance, conditional distribution and expectation, weak law of large numbers. P/NP or letter grading.
+170B. Probability Theory II
+Units: 4.0
+Lecture, three hours; discussion, one hour. Enforced requisites: courses 131A, 170A. Continuation of rigorous presentation of probability theory based on real analysis. Moments and generating functions; laws of large numbers, central limit theorem, and convergence in distribution; branching processes; random walks; Poisson and other random processes in continuous time. Advance topics in probability theory. P/NP or letter grading.
+170E. Introduction to Probability and Statistics 1: Probability
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 31A, 31B. Not open to students with credit for course 170A, Electrical and Computer Engineering 131A, or Statistics 100A. Introduction to probability theory with emphasis on topics relevant to applications. Topics include discrete (binomial, Poisson, etc.) and continuous (exponential, gamma, chi-square, normal) distributions, bivariate distributions, distributions of functions of random variables (including moment generating functions and central limit theorem). P/NP or letter grading.
+170S. Introduction to Probability and Statistics 2: Statistics
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 31A, 31B, and 170A or 170E or Statistics 100A. Not open to students with credit for Statistics 100B. Introduction to statistics. Topics include sampling, estimation (maximum likelihood and Bayesian), properties of estimators, regression, confidence intervals, hypotheses testing, analysis of variance. P/NP or letter grading.
+171. Stochastic Processes
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 33A, 170E (or 170A or Statistics 100A). Discrete Markov chains, continuous-time Markov chains, renewal theory. P/NP or letter grading.
+174E. Mathematics of Finance for Mathematics/Economics Students
+Units: 4.0
+Lecture, three hours; discussion, one hour. Enforced requisites: courses 33A, and 170A or 170E or Statistics 100A. Not open for credit to students with credit for course 174A, Economics 141, or Statistics C183/C283. Mathematical modeling of financial securities in discrete and continuous time. Forwards, futures, hedging, swaps, uses and pricing (tree models and Black-Scholes) of European and American options, Greeks and numerical methods. P/NP or letter grading.
+177. Theory of Interest and Applications
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisite: course 32B. Types of interest, time value of money, annuities and similar contracts, loans, bonds, portfolios and general cash flows, rate of return, term structure of interest rates, duration, convexity and immunization, interest rate swaps, financial derivatives, forwards, futures, and options. Letter grading.
+178A. Foundations of Actuarial Mathematics: Life Insurance and Annuities
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 32B, 170A or 170E (or Statistics 100A), 175 or 177. Introduction to mathematics associated with long-term insurance coverages. Single- and multiple-life survival models, annuities, premium calculations and policy values, reserves, pension plans and retirement benefits. Letter grading.
+178B. Foundations of Actuarial Mathematics: Additional Topics in Long-Term Actuarial Mathematics
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 170B or 170S (or Statistics 100B), 178A. Multistate models, covers pensions, health insurances, and profit-testing. Study of probability distributions employed most commonly in actuarial theory. Beginning study of short-term actuarial mathematics. Letter grading.
+178C. Foundations of Actuarial Mathematics: Loss Models
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisite: course 178B. Study of loss models associated with actuarial problems. Covers severity, frequency, and aggregate loss models, parameter estimation (frequentist, Bayesian), model selection, and credibility. Letter grading.
+179. Advanced Topic in Financial Mathematics
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisite: course 174E. Continuation of course 174E. In-depth study of risk measures and instruments of risk management in investment portfolios and corporate financial structure. Exotic and real options, value at risk, mean-variance analysis, portfolio optimization, risk analysis, capital asset pricing model, market efficiency, and Modigliani-Miller theory. P/NP or letter grading.
+180. Graph Theory
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 31A, 31B, 61. Strongly recommended: course 115A. Designed for mathematics and computer science and engineering students. Graphs and trees. Planarity, graph colorings. Set systems. Ramsey theory. Random graphs. Linear algebra methods. P/NP or letter grading.
+182. Algorithms
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisite: course 3C or 32A, and 61. Not open for credit to students with credit for Computer Science 180. Graphs, greedy algorithms, divide and conquer algorithms, dynamic programming, network flow. Emphasis on designing efficient algorithms useful in diverse areas such as bioinformatics and allocation of resources. P/NP or letter grading.
+184. Enumerative Combinatorics
+Units: 4.0
+Lecture, three hours; discussion, one hour. Enforced requisites: courses 31A, 31B, 61, 115A. Designed for mathematics and physics students. Permutations and combinations, counting principles, recurrence relations, and generating functions. Application to asymptotic and probabilistic enumeration. P/NP or letter grading.
+188SA. Individual Studies for USIE Facilitators
+Units: 1.0
+Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.
+188SB. Individual Studies for USIE Facilitators
+Units: 1.0
+Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.
+188SC. Individual Studies for USIE Facilitators
+Units: 2.0
+Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading.
+189. Advanced Honors Seminars
+Units: 1.0
+Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.
+189HC. Honors Contracts
+Units: 1.0
+Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.
+190A. Seminar: Current Literature in History and Development of Mathematics
+Units: 1.0
+Seminar, one hour. Designed for undergraduate students. Readings and presentations of papers in mathematical literature under supervision of staff member. One-hour presentation required. P/NP grading.
+190B. Seminar: Current Literature in Number Theory
+Units: 1.0
+Seminar, one hour. Designed for undergraduate students. Readings and presentations of papers in mathematical literature under supervision of staff member. One-hour presentation required. P/NP grading.
+190C. Seminar: Current Literature in Algebra
+Units: 1.0
+Seminar, one hour. Designed for undergraduate students. Readings and presentations of papers in mathematical literature under supervision of staff member. One-hour presentation required. P/NP grading.
+190D. Seminar: Current Literature in Logic
+Units: 1.0
+Seminar, one hour. Designed for undergraduate students. Readings and presentations of papers in mathematical literature under supervision of staff member. One-hour presentation required. P/NP grading.
+190E. Seminar: Current Literature in Geometry
+Units: 1.0
+Seminar, one hour. Designed for undergraduate students. Readings and presentations of papers in mathematical literature under supervision of staff member. One-hour presentation required. P/NP grading.
+190F. Seminar: Current Literature in Topology
+Units: 1.0
+Seminar, one hour. Designed for undergraduate students. Readings and presentations of papers in mathematical literature under supervision of staff member. One-hour presentation required. P/NP grading.
+190G. Seminar: Current Literature in Analysis
+Units: 1.0
+Seminar, one hour. Designed for undergraduate students. Readings and presentations of papers in mathematical literature under supervision of staff member. One-hour presentation required. P/NP grading.
+190H. Seminar: Current Literature in Differential Equations
+Units: 1.0
+Seminar, one hour. Designed for undergraduate students. Readings and presentations of papers in mathematical literature under supervision of staff member. One-hour presentation required. P/NP grading.
+190I. Seminar: Current Literature in Functional Analysis
+Units: 1.0
+Seminar, one hour. Designed for undergraduate students. Readings and presentations of papers in mathematical literature under supervision of staff member. One-hour presentation required. P/NP grading.
+190J. Seminar: Current Literature in Applied Mathematics
+Units: 1.0
+Seminar, one hour. Designed for undergraduate students. Readings and presentations of papers in mathematical literature under supervision of staff member. One-hour presentation required. P/NP grading.
+190K. Seminar: Current Literature in Probability
+Units: 1.0
+Seminar, one hour. Designed for undergraduate students. Readings and presentations of papers in mathematical literature under supervision of staff member. One-hour presentation required. P/NP grading.
+190L. Seminar: Current Literature in Dynamical Systems
+Units: 1.0
+Seminar, one hour. Designed for undergraduate students. Readings and presentations of papers in mathematical literature under supervision of staff member. One-hour presentation required. P/NP grading.
+190M. Seminar: Current Literature in Mathematics
+Units: 1.0
+Seminar, one hour. Designed for undergraduate students. Readings and presentations of papers in mathematical literature under supervision of staff member. One-hour presentation required. P/NP grading.
+190N. Seminar: Current Literature in Combinatorics
+Units: 1.0
+Seminar, one hour. Designed for undergraduate students. Readings and presentations of papers in mathematical literature under supervision of staff member. One-hour presentation required. P/NP grading.
+190O. Seminar: Current Literature in Cryptography
+Units: 1.0
+Seminar, one hour. Designed for undergraduate students. Readings and presentations of papers in mathematical literature under supervision of staff member. One-hour presentation required. P/NP grading.
+191. Variable Topics Research Seminars: Mathematics
+Units: 4.0
+Seminar, three hours. Variable topics research course in mathematics that covers material not covered in regular mathematics upper-division curriculum. Reading, discussion, and development of culminating project. May be repeated for credit with topic and/or instructor change. P/NP or letter grading.
+191H. Honors Research Seminars: Mathematics
+Units: 4.0
+Seminar, three hours. Participating seminar on advanced topics in mathematics. Content varies from year to year. May be repeated for credit by petition. P/NP or letter grading.
+M192A. Introduction to Collaborative Learning Theory and Practice
+Units: 1.0
+(Formerly numbered 192A.) (Same as Chemistry M192E, Computer Science M192A, Life Sciences M192A, and Physics M192S.) Seminar, one hour. Training seminar for undergraduate students who are selected for learning assistant (LA) program. Exploration of current topics in pedagogy and education research focused on methods of learning and their practical application in small-group settings. Students practice communication skills with frequent assessment of and feedback on progress. Letter grading.
+192B. Collaborative Learning Theory and Practice
+Units: 2.0 to 4.0
+195. Community Internships in Mathematics Education
+Units: 4.0
+Tutorial, to be arranged. Limited to juniors/seniors. Internship to be supervised by Center for Community Learning and Mathematics Department. Students meet on regular basis with instructor, provide periodic reports of their experience, have assigned readings on mathematics education, and complete final paper. May not be repeated and may not be applied toward major requirements. Individual contract with supervising faculty member required. P/NP grading.
+197. Individual Studies in Mathematics
+Units: 2.0 to 4.0
+Tutorial, three hours per week per unit. Limited to juniors/seniors. At discretion of chair and subject to availability of staff, individual intensive study of topics suitable for undergraduate course credit but not specifically offered as separate courses. Scheduled meetings to be arranged between faculty member and student. Assigned reading and tangible evidence of mastery of subject matter required. May be repeated for maximum of 12 units, but no more than one 197 or 199 course may be applied toward upper-division courses required for majors offered by Mathematics Department. Individual contract required. P/NP or letter grading.
+199. Directed Research or Senior Project in Mathematics
+Units: 2.0 or 4.0
+Tutorial, three hours per week per unit. Limited to juniors/seniors. Supervised individual research under guidance of faculty mentor. Scheduled meetings to be arranged between faculty member and student. Culminating report required. May be repeated for maximum of 12 units, but no more than one 197 or 199 course may be applied toward upper-division courses required for majors offered by Mathematics Department. Individual contract required. P/NP or letter grading.
+Graduate Courses (187)
+201A. Topics in Algebra and Analysis
+Units: 4.0
+Prerequisite: bachelor's degree in mathematics or equivalent. Designed for students in mathematics/education program. Important ideas of algebra, geometry, and calculus leading effectively from elementary to modern mathematics. Approaches to number system, point sets, geometric interpretations of algebra and analysis, integration, differentiation, series and analytic functions. May not be applied toward MA degree requirements.
+201B. Topics in Algebra and Analysis
+Units: 4.0
+Prerequisite: bachelor's degree in mathematics or equivalent. Designed for students in mathematics/education program. Important ideas of algebra, geometry, and calculus leading effectively from elementary to modern mathematics. Approaches to number system, point sets, geometric interpretations of algebra and analysis, integration, differentiation, series and analytic functions. May not be applied toward MA degree requirements.
+201C. Topics in Algebra and Analysis
+Units: 4.0
+Prerequisite: bachelor's degree in mathematics or equivalent. Designed for students in mathematics/education program. Important ideas of algebra, geometry, and calculus leading effectively from elementary to modern mathematics. Approaches to number system, point sets, geometric interpretations of algebra and analysis, integration, differentiation, series and analytic functions. May not be applied toward MA degree requirements.
+202A. Mathematical Models and Applications
+Units: 4.0
+Prerequisite: bachelor's degree in mathematics or equivalent. Designed for students in mathematics/education program. Development of mathematical theories describing various empirical situations. Basic characterizing postulates; development of a logical structure of theorems. Modern topics such as operations research, linear programming, game theory, learning models, models in social and life sciences. May not be applied toward MA degree requirements.
+202B. Mathematical Models and Applications
+Units: 4.0
+Prerequisite: bachelor's degree in mathematics or equivalent. Designed for students in mathematics/education program. Development of mathematical theories describing various empirical situations. Basic characterizing postulates; development of a logical structure of theorems. Modern topics such as operations research, linear programming, game theory, learning models, models in social and life sciences. May not be applied toward MA degree requirements.
+203. Master's Linear Algebra
+Units: 4.0
+Lecture, four hours; discussion, one hour. Rigorous treatment of fundamental results of pure and applied linear algebra over fields. Applications to contemporary research. Preparation for linear algebra portion of UCLA Mathematics Basic Examination that is required of MA and PhD students. S/U or letter grading.
+204. Master's Analysis
+Units: 4.0
+Lecture, four hours; discussion, one hour. Rigorous treatment of fundamental results of analysis. Applications to contemporary research. Preparation for analysis portion of UCLA Mathematics Basic Examination that is required of MA and PhD students. S/U or letter grading.
+205A. Number Theory
+Units: 4.0
+Lecture, three hours. Requisites: courses 210A, 246A. Algebraic number theory, including ideal theory, valuations, local fields, cyclotomic fields. Introduction to class-field theory, analytic number theory, L-functions and class number formulas, and modular forms. S/U or letter grading.
+205B. Number Theory
+Units: 4.0
+Lecture, three hours. Requisites: courses 210A, 246A. Algebraic number theory, including ideal theory, valuations, local fields, cyclotomic fields. Introduction to class-field theory, analytic number theory, L-functions and class number formulas, and modular forms. S/U or letter grading.
+205C. Number Theory
+Units: 4.0
+Lecture, three hours. Requisites: courses 210A, 246A. Algebraic number theory, including ideal theory, valuations, local fields, cyclotomic fields. Introduction to class-field theory, analytic number theory, L-functions and class number formulas, and modular forms. S/U or letter grading.
+206A. Combinatorial Theory
+Units: 4.0
+Generating functions. Probabilistic methods. Polya theorem. Enumerative graph theory. Partition theory. Number theoretical applications. Structure of graphs, matching theory, duality theorems. Packings, pavings, coverings, statistical designs, difference sets, triple systems, finite planes. Configurations, polyhedra. Ramsey theory, finite and transfinite, and applications.
+206B. Combinatorial Theory
+Units: 4.0
+Generating functions. Probabilistic methods. Polya theorem. Enumerative graph theory. Partition theory. Number theoretical applications. Structure of graphs, matching theory, duality theorems. Packings, pavings, coverings, statistical designs, difference sets, triple systems, finite planes. Configurations, polyhedra. Ramsey theory, finite and transfinite, and applications.
+207A. Topics in Number Theory
+Units: 4.0
+Lecture, three hours. Adelic analysis on GL(1) and GL(2), especially Tate thesis and Hecke theory, automorphic representations. Special values of L-functions and p-adic L-functions, arithmetic theory of modular forms, advanced topics in analytic number theory. Arithmetic geometry, especially of modular curves. S/U or letter grading.
+207B. Topics in Number Theory
+Units: 4.0
+Lecture, three hours. Adelic analysis on GL(1) and GL(2), especially Tate thesis and Hecke theory, automorphic representations. Special values of L-functions and p-adic L-functions, arithmetic theory of modular forms, advanced topics in analytic number theory. Arithmetic geometry, especially of modular curves. S/U or letter grading.
+207C. Topics in Number Theory
+Units: 4.0
+Lecture, three hours. Adelic analysis on GL(1) and GL(2), especially Tate thesis and Hecke theory, automorphic representations. Special values of L-functions and p-adic L-functions, arithmetic theory of modular forms, advanced topics in analytic number theory. Arithmetic geometry, especially of modular curves. S/U or letter grading.
+M208A. Topics in Applied Number Theory
+Units: 4.0
+(Same as Computer Science M283A.) Lecture, three hours. Basic number theory, including congruences and prime numbers. Cryptography: public-key and discrete log cryptosystems. Attacks on cryptosystems. Primality testing and factorization methods. Elliptic curve methods. Topics from coding theory: Hamming codes, cyclic codes, Gilbert/Varshamov bounds, Shannon theorem. S/U or letter grading.
+M208B. Topics in Applied Number Theory
+Units: 4.0
+(Same as Computer Science M283B.) Lecture, three hours. Basic number theory, including congruences and prime numbers. Cryptography: public-key and discrete log cryptosystems. Attacks on cryptosystems. Primality testing and factorization methods. Elliptic curve methods. Topics from coding theory: Hamming codes, cyclic codes, Gilbert/Varshamov bounds, Shannon theorem. S/U or letter grading.
+M209A. Cryptography
+Units: 4.0
+(Same as Computer Science M282A.) Lecture, four hours; outside study, eight hours. Introduction to theory of cryptography, stressing rigorous definitions and proofs of security. Topics include notions of hardness, one-way functions, hard-core bits, pseudorandom generators, pseudorandom functions and pseudorandom permutations, semantic security, public-key and private-key encryption, secret-sharing, message authentication, digital signatures, interactive proofs, zero-knowledge proofs, collision-resistant hash functions, commitment protocols, key-agreement, contract signing, and two-party secure computation with static security. Letter grading.
+M209B. Cryptographic Protocols
+Units: 4.0
+(Same as Computer Science M282B.) Lecture, four hours. Requisite: course M209A. Consideration of advanced cryptographic protocol design and analysis. Topics include noninteractive zero-knowledge proofs; zero-knowledge arguments; concurrent and non-black-box zero-knowledge; IP=PSPACE proof, stronger notions of security for public-key encryption, including chosen-ciphertext security; secure multiparty computation; dealing with dynamic adversary; nonmalleability and composability of secure protocols; software protection; threshold cryptography; identity-based cryptography; private information retrieval; protection against man-in-middle attacks; voting protocols; identification protocols; digital cash schemes; lower bounds on use of cryptographic primitives, software obfuscation. May be repeated for credit with topic change. Letter grading.
+210A. Algebra
+Units: 4.0
+Requisites: courses 110A, 110B, 110C. Students with credit for courses 110B and/or 110C cannot receive MA degree credit for courses 210B and/or 210C. Group theory, including theorems of Sylow and Jordan/Holder/Schreier; rings and ideals, factorization theory in integral domains, modules over principal ideal rings, Galois theory of fields, multilinear algebra, structure of algebras.
+210B. Algebra
+Units: 4.0
+Requisites: courses 110A, 110B, 110C. Students with credit for courses 110B and/or 110C cannot receive MA degree credit for courses 210B and/or 210C. Group theory, including theorems of Sylow and Jordan/Holder/Schreier; rings and ideals, factorization theory in integral domains, modules over principal ideal rings, Galois theory of fields, multilinear algebra, structure of algebras.
+210C. Algebra
+Units: 4.0
+Requisites: courses 110A, 110B, 110C. Students with credit for courses 110B and/or 110C cannot receive MA degree credit for courses 210B and/or 210C. Group theory, including theorems of Sylow and Jordan/Holder/Schreier; rings and ideals, factorization theory in integral domains, modules over principal ideal rings, Galois theory of fields, multilinear algebra, structure of algebras.
+211. Structure of Rings
+Units: 4.0
+Requisite: course 210A. Radical, irreducible modules and primitive rings, rings and algebras with minimum condition.
+212A. Homological Algebra
+Units: 4.0
+Lecture, three hours. Enforced requisite: course 210A. Modules over rings, homomorphisms and tensor products of modules, functors and derived functors, homological dimension of rings and modules. S/U or letter grading.
+212B. Homological Algebra
+Units: 4.0
+Lecture, three hours. Requisites: courses 210A, 210B, 210C, 212A. Advanced topics in modern homological algebra, such as triangulated categories, differential graded algebras as dg-categories, tilting theory and applications of group cohomology to representation theory, stable categories and modular representation theory, and other current topics. S/U or letter grading.
+213A. Theory of Groups
+Units: 4.0
+Requisite: course 210A. Topics include representation theory, transfer theory, infinite Abelian groups, free products and presentations of groups, solvable and nilpotent groups, classical groups, algebraic groups.
+213B. Theory of Groups
+Units: 4.0
+Requisite: course 210A. Topics include representation theory, transfer theory, infinite Abelian groups, free products and presentations of groups, solvable and nilpotent groups, classical groups, algebraic groups.
+214A. Introduction to Algebraic Geometry
+Units: 4.0
+Lecture, three hours. Requisite: course 215A (or 210A, 210B, and 210C with consent of instructor). Affine and projective varieties. Irreducibility, dimension, singular and smooth points. Rational maps, curves, intersections in projective space. Schemes. Proper and finite morphisms. Coherent and quasi-coherent sheaves. Divisors, line bundles, ampleness. S/U or letter grading.
+214B. Introduction to Algebraic Geometry
+Units: 4.0
+Lecture, three hours. Requisite: course 214A. Cohomology of coherent sheaves. Flat morphisms, smooth morphisms. Riemann-Roch theorem for curves. Projective embeddings of curves, elliptic curves, canonical embedding. Introduction to birational geometry in higher dimensions. S/U or letter grading.
+215A. Commutative Algebra
+Units: 4.0
+Prerequisite: course 210A or consent of instructor. Topics from commutative ring theory, including techniques of localization, prime ideal structure in commutative Noetherian rings, principal ideal theorem, Dedekind rings, modules, projective modules, Serre conjecture, regular local rings.
+215B. Commutative Algebra
+Units: 4.0
+Prerequisite: course 210A or consent of instructor. Topics from commutative ring theory, including techniques of localization, prime ideal structure in commutative Noetherian rings, principal ideal theorem, Dedekind rings, modules, projective modules, Serre conjecture, regular local rings.
+216A. Further Topics in Algebra
+Units: 4.0
+Lecture, three hours. Requisites: courses 210A, 210B, 210C. Closer examination of areas of current research in algebra, including algebraic geometry and K-theory. Variable content may include Abelian varieties, invariant theory, Hodge theory, geometry over finite fields, K-theory, homotopical algebra, and derived algebraic geometry. May be repeated for credit by petition. S/U or letter grading.
+216B. Further Topics in Algebra
+Units: 4.0
+Lecture, three hours. Requisites: courses 210A, 210B, 210C. Closer examination of areas of current research in algebra, including algebraic geometry and K-theory. Variable content may include Abelian varieties, invariant theory, Hodge theory, geometry over finite fields, K-theory, homotopical algebra, and derived algebraic geometry. May be repeated for credit by petition. S/U or letter grading.
+216C. Further Topics in Algebra
+Units: 4.0
+Lecture, three hours. Requisites: courses 210A, 210B, 210C. Closer examination of areas of current research in algebra, including algebraic geometry and K-theory. Variable content may include Abelian varieties, invariant theory, Hodge theory, geometry over finite fields, K-theory, homotopical algebra, and derived algebraic geometry. May be repeated for credit by petition. S/U or letter grading.
+M217. Geometry and Physics
+Units: 4.0
+(Same as Physics M236.) Lecture, three hours. Interdisciplinary course on topics at interface between physics quantum fields and superstrings and mathematics of differential and algebraic geometry. Topics include supersymmetry, Seiberg/Witten theory, conformal field theory, Calabi/Yau manifolds, mirror symmetry and duality, integrable systems. S/U grading.
+218A. Discrete Mathematics: Probabilistic Methods
+Units: 4.0
+Lecture, three hours. Linearity of expectation, second movement method, local lemma, correlation inequalities, martingales, large deviation inequalities, Janson and Talagrand inequalities, and pseudo-randomness. S/U or letter grading.
+218B. Discrete Mathematics: Algebraic Methods
+Units: 4.0
+Lecture, three hours. Basic dimension arguments, spaces of polynomials and tensor product methods, eigenvalues of graphs and their application, combinatorial Nullstellensatz and Chevalley/Warning theorem. Counterexample to Borsuk conjecture, chromatic number of unit distance graph of Euclidean space, explicit constructions of Ramsey graphs, other topics. S/U or letter grading.
+218C. Topics in Discrete Mathematics
+Units: 4.0
+Lecture, three hours. Examination of variety of methods, approaches, and techniques that were developed in last 30 years in discrete mathematics. Topics may include extremal problems for graphs and set systems, Ramsey theory, additive number theory combinatorial geometry, topological methods in combinatorics, entropy and other tools from information theory, discrete harmonic analysis and its applications to combinatorics and theoretical computer science. Topics vary from year to year. May be repeated for credit with consent of instructor. S/U or letter grading.
+220A. Mathematical Logic
+Units: 4.0
+Lecture, three hours. Requisite: course M114S. Fundamental methods and results in mathematical logic, using mathematical methods to reason about existence or nonexistence of proofs and computations in many different settings. Topics include compactness theorem, saturation of models, completeness and incompleteness theorems of Gödel, Turing computability and degrees of unsolvability, recursion in Baire space, Zermelo/Fraenkel axioms, universe of constructible sets, and related equiconsistency results in set theory. S/U or letter grading.
+220B. Mathematical Logic
+Units: 4.0
+Lecture, three hours. Requisite: course M114S. Fundamental methods and results in mathematical logic, using mathematical methods to reason about existence or nonexistence of proofs and computations in many different settings. Topics include compactness theorem, saturation of models, completeness and incompleteness theorems of Gödel, Turing computability and degrees of unsolvability, recursion in Baire space, Zermelo/Fraenkel axioms, universe of constructible sets, and related equiconsistency results in set theory. S/U or letter grading.
+220C. Mathematical Logic
+Units: 4.0
+Lecture, three hours. Requisite: course M114S. Fundamental methods and results in mathematical logic, using mathematical methods to reason about existence or nonexistence of proofs and computations in many different settings. Topics include compactness theorem, saturation of models, completeness and incompleteness theorems of Gödel, Turing computability and degrees of unsolvability, recursion in Baire space, Zermelo/Fraenkel axioms, universe of constructible sets, and related equiconsistency results in set theory. S/U or letter grading.
+222A. Lattice Theory and Algebraic Systems
+Units: 4.0
+Lecture, three hours. Requisite: course 210A. Partially ordered sets, lattices, distributivity, modularity; completeness, interaction with combinatorics, topology, and logic; algebraic systems, congruence lattices, subdirect decomposition, congruence laws, equational bases, applications to lattices.
+222B. Lattice Theory and Algebraic Systems
+Units: 4.0
+Lecture, three hours. Requisite: course 210A. Partially ordered sets, lattices, distributivity, modularity; completeness, interaction with combinatorics, topology, and logic; algebraic systems, congruence lattices, subdirect decomposition, congruence laws, equational bases, applications to lattices.
+223C. Topics in Computability Theory
+Units: 4.0
+Lecture, three hours. Requisites: courses 220A, 220B. Degrees of unsolvability, recursively enumerable sets, undecidable theories; inductive definitions, admissible sets and ordinals; recursion in higher types; recursion and complexity. Topics vary from year to year. May be repeated for credit with consent of instructor. S/U or letter grading.
+223D. Topics in Descriptive Set Theory
+Units: 4.0
+Lecture, three hours. Requisites: courses 220A, 220B. Classical and effective results on Borel and projective sets; infinite games of perfect information and principle of determinacy; consequences of determinacy, including periodicity, structure theory of pointclasses, and partition properties. Topics vary from year to year. May be repeated for credit with consent of instructor. S/U or letter grading.
+223M. Topics in Model Theory
+Units: 4.0
+Lecture, three hours. Requisites: courses 220A, 220B. Ultraproducts, preservation theorems, interpolation theorems, saturated models, omitting types, categoricity, two cardinal theorems, enriched languages, soft model theory, and applied model theory. Topics vary from year to year. May be repeated for credit with consent of instructor. S/U or letter grading.
+223S. Topics in Set Theory
+Units: 4.0
+Lecture, three hours. Requisites: courses 220A, 220B, 220C. Forcing and independence results, including independence of continuum hypothesis and independence of axion of choice; inner model theory; large cardinals; proofs of determinacy; combinatorial set theory. Topics vary from year to year. May be repeated for credit with consent of instructor. S/U or letter grading.
+225A. Differential Topology
+Units: 4.0
+Lecture, three hours; discussion, one hour. Manifolds, tangent vectors, smooth maps, tangent bundles and vector bundles in general, vector fields and integral curves, Sard theorem on measure of critical values, embedding theorem, transversality, degree theory, Lefshetz fixed-point theorem, Euler characteristic, Ehresmann theorem that proper submersions are locally trivial fibrations. S/U or letter grading.
+225B. Differential Geometry
+Units: 4.0
+Lecture, three hours; discussion, one hour. Lie derivatives, integrable distributions and Frobenius theorem, differential forms, integration and Stokes theorem, de Rham cohomology, including Mayer/Vietoris sequence, Poincaré duality, Thom classes, degree theory and Euler characteristic revisited from viewpoint of de Rham cohomology, Riemannian metrics, gradients, volume forms, and interpretation of classical integral theorems as aspects of Stokes theorem for differential forms. S/U or letter grading.
+225C. Algebraic Topology
+Units: 4.0
+Lecture, three hours; discussion, one hour. Basic concepts of homotopy theory, fundamental group and covering spaces, singular homology and cohomology theory, axions of homology theory, Mayer/Vietoris sequence, calculation of homology and cohomology of standard spaces, cell complexes and cellular homology, de Rham theorem on isomorphism of de Rham differential-form cohomology and singular cohomology with real coefficients. S/U or letter grading.
+226A. Differential Geometry
+Units: 4.0
+Lecture, three hours. Requisite: course 225A. Manifold theory; connections, curvature, torsion, and parallelism. Riemannian manifolds; completeness, submanifolds, constant curvature. Geodesics; conjugate points, variational methods, Myers theorem, nonpositive curvature. Further topics such as pinched manifolds, integral geometry, Kahler manifolds, symmetric spaces.
+226B. Differential Geometry
+Units: 4.0
+Lecture, three hours. Requisite: course 225A. Manifold theory; connections, curvature, torsion, and parallelism. Riemannian manifolds; completeness, submanifolds, constant curvature. Geodesics; conjugate points, variational methods, Myers theorem, nonpositive curvature. Further topics such as pinched manifolds, integral geometry, Kahler manifolds, symmetric spaces.
+226C. Differential Geometry
+Units: 4.0
+Lecture, three hours. Requisite: course 225A. Manifold theory; connections, curvature, torsion, and parallelism. Riemannian manifolds; completeness, submanifolds, constant curvature. Geodesics; conjugate points, variational methods, Myers theorem, nonpositive curvature. Further topics such as pinched manifolds, integral geometry, Kahler manifolds, symmetric spaces.
+227A. Algebraic Topology
+Units: 4.0
+Lecture, three hours. Requisite: course 225B. CW complexes, fiber bundles, homotopy theory, cohomology theory, spectral sequences.
+227B. Algebraic Topology
+Units: 4.0
+Lecture, three hours. Requisite: course 225B. CW complexes, fiber bundles, homotopy theory, cohomology theory, spectral sequences.
+229A. Lie Groups and Lie Algebras
+Units: 4.0
+Preparation: knowledge of basic theory of topological groups and differentiable manifolds. Lie groups, Lie algebras, subgroups, subalgebras. Exponential map. Universal enveloping algebra. Campbell/Hausdorff formula. Nilpotent and solvable Lie algebras. Cohomology of Lie algebras. Theorems of Weyl, Levi-Mal'cev. Semi-simple Lie algebras. Classification of simple Lie algebras. Representations. Compact groups. Weyl character formula.
+229B. Lie Groups and Lie Algebras
+Units: 4.0
+Preparation: knowledge of basic theory of topological groups and differentiable manifolds. Lie groups, Lie algebras, subgroups, subalgebras. Exponential map. Universal enveloping algebra. Campbell/Hausdorff formula. Nilpotent and solvable Lie algebras. Cohomology of Lie algebras. Theorems of Weyl, Levi-Mal'cev. Semi-simple Lie algebras. Classification of simple Lie algebras. Representations. Compact groups. Weyl character formula.
+229C. Lie Groups and Lie Algebras
+Units: 4.0
+Preparation: knowledge of basic theory of topological groups and differentiable manifolds. Lie groups, Lie algebras, subgroups, subalgebras. Exponential map. Universal enveloping algebra. Campbell/Hausdorff formula. Nilpotent and solvable Lie algebras. Cohomology of Lie algebras. Theorems of Weyl, Levi-Mal'cev. Semi-simple Lie algebras. Classification of simple Lie algebras. Representations. Compact groups. Weyl character formula.
+233. Partial Differential Equations on Manifolds
+Units: 4.0
+Lecture, three hours. Requisites: courses 226A, 251A. Topics may include Laplacian operator on a Riemannian manifold, eigenvalues, Atiyah/Singer index theorem, isoperimetric inequalities, elliptic estimates, harmonic functions, function theory on manifolds, Green's function, heat equation, minimal hypersurfaces, prescribed curvature equations, harmonic maps, Yang/Mills equation, Monge/Ampere equations.
+234. Topics in Differential Geometry
+Units: 4.0
+Lecture, three hours. Requisites: courses 226A, 226B. Complex and Kahler geometry, Hodge theory, homogeneous manifolds and symmetric spaces, finiteness and convergence theorems for Riemannian manifolds, almost flat manifolds, closed geodesics, manifolds of positive scalar curvature, manifolds of constant curvature. Topics vary from year to year. May be repeated for credit by petition.
+235. Topics in Manifold Theory
+Units: 4.0
+Lecture, three hours. Requisites: courses 225A, 225B. Emphasis on low-dimensional manifolds. Structure and classification of manifolds, automorphisms of manifolds, submanifolds (e.g., knots and links). Topics vary from year to year. May be repeated for credit by petition.
+236. Topics in Geometric Topology
+Units: 4.0
+Lecture, three hours. Requisites: courses 225A, 225B. Decomposition spaces, surgery theory, group actions, dimension theory, infinite dimensional topology. Topics vary from year to year. May be repeated for credit by petition.
+237. Topics in Algebraic Topology
+Units: 4.0
+Lecture, three hours. Requisites: courses 227A, 227B. Fixed-point theory, fiber spaces and classifying spaces, characteristic classes, generalized homology and cohomology theories. Topics vary from year to year. May be repeated for credit by petition.
+238A. Dynamical Systems
+Units: 4.0
+Lecture, three hours. Recommended preparation: first-year analysis courses. Topics include qualitative theory of differential equations, bifurcation theory, and Hamiltonian systems; differential dynamics, including hyperbolic theory and quasiperiodic dynamics; ergodic theory; low-dimensional dynamics. S/U or letter grading.
+238B. Dynamical Systems
+Units: 4.0
+Lecture, three hours. Recommended preparation: first-year analysis courses. Topics include qualitative theory of differential equations, bifurcation theory, and Hamiltonian systems; differential dynamics, including hyperbolic theory and quasiperiodic dynamics; ergodic theory; low-dimensional dynamics. S/U or letter grading.
+240. Methods of Set Theory
+Units: 4.0
+Lecture, three hours. Requisites: courses 110A, 110B, 121, 131A, 131B. Naive, axiomatic set theory, axiom of choice and its equivalents, well-orderings, transfinite induction, ordinal and cardinal arithmetic. Applications to algebra: Hamel bases, Stone representation theorem. Applications to analysis and topology: Cantor/Bendixson theorem, counterexamples in measure theory, Borel and analytic sets, Choquet theorem.
+245A. Real Analysis
+Units: 4.0
+Lecture, three hours. Requisites: courses 121, 131A, 131B. Basic measure theory. Measure theory on locally compact spaces. Fubini theorem. Elementary aspects of Banach and Hilbert spaces and linear operators. Function spaces. Radon/Nikodym theorem. Fourier transform and Plancherel on Rn and Tn.
+245B. Real Analysis
+Units: 4.0
+Lecture, three hours. Requisites: courses 121, 131A, 131B. Basic measure theory. Measure theory on locally compact spaces. Fubini theorem. Elementary aspects of Banach and Hilbert spaces and linear operators. Function spaces. Radon/Nikodym theorem. Fourier transform and Plancherel on Rn and Tn.
+245C. Real Analysis
+Units: 4.0
+Lecture, three hours. Requisites: courses 121, 131A, 131B. Basic measure theory. Measure theory on locally compact spaces. Fubini theorem. Elementary aspects of Banach and Hilbert spaces and linear operators. Function spaces. Radon/Nikodym theorem. Fourier transform and Plancherel on Rn and Tn.
+246A. Complex Analysis
+Units: 4.0
+Requisites: courses 131A, 131B. Students with credit for course 132 cannot receive MA degree credit for course 246A. Cauchy/Riemann equations. Cauchy theorem. Cauchy integral formula and residue calculus. Power series. Normal families. Harmonic functions. Linear fractional transformations. Conformal mappings. Analytic continuation. Examples of Riemann surfaces. Infinite products. Partial fractions. Classical transcendental functions. Elliptic functions.
+246B. Complex Analysis
+Units: 4.0
+Requisites: courses 131A, 131B. Cauchy/Riemann equations. Cauchy theorem. Cauchy integral formula and residue calculus. Power series. Normal families. Harmonic functions. Linear fractional transformations. Conformal mappings. Analytic continuation. Examples of Riemann surfaces. Infinite products. Partial fractions. Classical transcendental functions. Elliptic functions.
+246C. Complex Analysis
+Units: 4.0
+Requisites: courses 131A, 131B. Cauchy/Riemann equations. Cauchy theorem. Cauchy integral formula and residue calculus. Power series. Normal families. Harmonic functions. Linear fractional transformations. Conformal mappings. Analytic continuation. Examples of Riemann surfaces. Infinite products. Partial fractions. Classical transcendental functions. Elliptic functions.
+247A. Classical Fourier Analysis
+Units: 4.0
+Lecture, three hours. Requisites: courses 245A, 245B, 246A. Distribution on Rn and Tn. Principal values; other examples. Distributions with submanifolds as supports. Kernel theorem. Convolution; examples of singular integrals. Tempered distributions and Fourier transform theory on Rn. Distributions with compact or one-sided supports and their complex Fourier transforms.
+247B. Classical Fourier Analysis
+Units: 4.0
+Lecture, three hours. Requisites: courses 245A, 245B, 246A. Distribution on Rn and Tn. Principal values; other examples. Distributions with submanifolds as supports. Kernel theorem. Convolution; examples of singular integrals. Tempered distributions and Fourier transform theory on Rn. Distributions with compact or one-sided supports and their complex Fourier transforms.
+250A. Ordinary Differential Equations
+Units: 4.0
+Requisite: course 246A. Basic theory of ordinary differential equations. Existence and uniqueness of solutions. Continuity with respect to initial conditions and parameters. Linear systems and nth order equations. Analytic systems with isolated singularities. Self-adjoint boundary value problems on finite intervals.
+250B. Nonlinear Ordinary Differential Equations
+Units: 4.0
+Requisite: course 250A. Asymptotic behavior of nonlinear systems. Stability. Existence of periodic solutions. Perturbation theory of two-dimensional real autonomous systems. Poincaré/Bendixson theory.
+250C. Advanced Topics in Ordinary Differential Equations
+Units: 4.0
+Requisites: courses 250A, 250B. Selected topics, such as spectral theory or ordinary differential operators, nonlinear boundary value problems, celestial mechanics, approximation of solutions, and Volterra equations.
+251A. Introductory Partial Differential Equations
+Units: 4.0
+Classical theory of heat, wave, and potential equations; fundamental solutions, characteristics and Huygens principle, properties of harmonic functions. Classification of second-order differential operators. Maximum principles, energy methods, uniqueness theorems. Additional topics as time permits.
+251B. Topics in Partial Differential Equations
+Units: 4.0
+In-depth introduction to topics of current interest in partial differential equations or their applications.
+251C. Topics in Partial Differential Equations
+Units: 4.0
+In-depth introduction to topics of current interest in partial differential equations or their applications.
+252A. Topics in Complex Analysis
+Units: 4.0
+Lecture, three hours. Requisites: courses 245A, 245B, 245C, 246A, 246B, 246C. Potential theory, subharmonic functions, harmonic measure; Hardy spaces; entire functions; univalent functions; Riemann surfaces; extremal length, variational methods, quasi-conformal mappings. Topics vary from year to year. S/U or letter grading.
+252B. Topics in Complex Analysis
+Units: 4.0
+Lecture, three hours. Requisites: courses 245A, 245B, 245C, 246A, 246B, 246C. Potential theory, subharmonic functions, harmonic measure; Hardy spaces; entire functions; univalent functions; Riemann surfaces; extremal length, variational methods, quasi-conformal mappings. Topics vary from year to year. S/U or letter grading.
+253A. Several Complex Variables
+Units: 4.0
+Requisites: courses 245A, 245B, 245C, 246A, 246B, 246C. Introduction to analytic functions of several complex variables. The d-bar problem, Cousin problems, domains of holomorphy, complex manifolds.
+253B. Several Complex Variables
+Units: 4.0
+Requisites: courses 245A, 245B, 245C, 246A, 246B, 246C. Introduction to analytic functions of several complex variables. The d-bar problem, Cousin problems, domains of holomorphy, complex manifolds.
+254A. Topics in Real Analysis
+Units: 4.0
+Requisites: courses 245A, 245B, 245C, 246A, 246B, 246C. Selected topics in analysis and its applications to geometry and differential equations. Topics may vary from year to year. May be repeated for credit by petition.
+254B. Topics in Real Analysis
+Units: 4.0
+Requisites: courses 245A, 245B, 245C, 246A, 246B, 246C. Selected topics in analysis and its applications to geometry and differential equations. Topics may vary from year to year. May be repeated for credit by petition.
+255A. Functional Analysis
+Units: 4.0
+Requisites: courses 245A and 245B, or 265A and 265B, and 246A. Banach spaces, basic principles. Weak topologies. Compact operators. Fredholm operators. Special spaces including Hilbert spaces and C(X).
+255B. Topics in Functional Analysis
+Units: 4.0
+Requisite: course 255A. Topics include Banach algebras, operators on Banach spaces and Hilbert space, semi-groups of operators, linear topological vector spaces, and other related areas.
+255C. Topics in Functional Analysis
+Units: 4.0
+Requisite: course 255A. Topics include Banach algebras, operators on Banach spaces and Hilbert space, semi-groups of operators, linear topological vector spaces, and other related areas.
+256A. Topological Groups and Their Representations
+Units: 4.0
+Lecture, three hours. Requisite: course 255A. Topological groups and their basic properties. Haar measure. Compact groups and their representations. Duality and Fourier analysis on locally compact abelian groups. Induced representations, Frobenius reciprocity. Representations of special groups (Lorentz, Galilean, etc.). Projective representations. Representations of totally disconnected groups. S/U or letter grading.
+256B. Topological Groups and Their Representations
+Units: 4.0
+Lecture, three hours. Requisite: course 255A. Topological groups and their basic properties. Haar measure. Compact groups and their representations. Duality and Fourier analysis on locally compact abelian groups. Induced representations, Frobenius reciprocity. Representations of special groups (Lorentz, Galilean, etc.). Projective representations. Representations of totally disconnected groups. S/U or letter grading.
+259A. Operator Algebras in Hilbert Space
+Units: 4.0
+Requisites: courses 255A, 255B, 255C. Selected topics from theories of C* and von Neumann algebras. Applications.
+259B. Operator Algebras in Hilbert Space
+Units: 4.0
+Requisites: courses 255A, 255B, 255C. Selected topics from theories of C* and von Neumann algebras. Applications.
+260. Introduction to Applied Mathematics
+Units: 4.0
+Requisite: course 142. Construction, analysis, and interpretation of mathematical models of problems which arise outside of mathematics.
+261. Game Theory
+Units: 4.0
+Lecture, three hours. Designed for graduate mathematics students. Bargaining theory, core, value, other solution concepts. Applications to oligopoly, general exchange and production economies, and allocation of joint costs. S/U or letter grading.
+264. Applied Complex Analysis
+Units: 4.0
+Requisite: course 246A. Topics include contour integration conformal mapping, differential equations in complex plane, special functions, asymptotic series, Fourier and Laplace transforms, singular integral equations.
+265A. Real Analysis for Applications
+Units: 4.0
+Requisites: courses 131A, 131B. Not open for credit to students with credit for courses 245A, 245B, 245C. Lebesgue measure and integration on real line, absolutely continuous functions, functions of bounded variation, L2- and Lp-spaces. Fourier series. General measure and integrations, Fubini and Radon/Nikodym theorems, representation of functionals, Fourier integrals.
+265B. Real Analysis for Applications
+Units: 4.0
+Requisites: courses 131A, 131B. Not open for credit to students with credit for courses 245A, 245B, 245C. Lebesgue measure and integration on real line, absolutely continuous functions, functions of bounded variation, L2- and Lp-spaces. Fourier series. General measure and integrations, Fubini and Radon/Nikodym theorems, representation of functionals, Fourier integrals.
+266A. Applied Ordinary Differential Equations
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 131A, 131B, 132, and 134 and 135, or 146. Spectral theory of regular boundary value problems and examples of singular Sturm/Liouville problems, related integral equations, phase/plane analysis of nonlinear equations. S/U or letter grading.
+266B. Applied Partial Differential Equations
+Units: 4.0
+Prerequisite: course 266A or consent of instructor. Classification of equations, classical potential theory, Dirichlet and Neumann problems. Green's functions, spectral theory of Laplace equation in bounded domains, first-order equations, wave equations, Cauchy problem, energy conservation, heat equation, fundamental solution, equations of fluid mechanics and magnetohydrodynamics.
+266C. Applied Partial Differential Equations
+Units: 4.0
+Prerequisite: course 266A or consent of instructor. Classification of equations, classical potential theory, Dirichlet and Neumann problems. Green's functions, spectral theory of Laplace equation in bounded domains, first-order equations, wave equations, Cauchy problem, energy conservation, heat equation, fundamental solution, equations of fluid mechanics and magnetohydrodynamics.
+266D. Applied Differential Equations
+Units: 4.0
+Requisites: courses 266A, 266B, 266C. Advanced topics in linear and nonlinear partial differential equations, with emphasis on energy estimates, numerical methods, and applications to fluid mechanics. Additional topics include dispersive waves, systems with multiple time scales, and applications to fluid mechanics.
+266E. Applied Differential Equations
+Units: 4.0
+Requisites: courses 266A, 266B, 266C. Advanced topics in linear and nonlinear partial differential equations, with emphasis on energy estimates, numerical methods, and applications to fluid mechanics. Additional topics include dispersive waves, systems with multiple time scales, and applications to fluid mechanics.
+M268A. Functional Analysis for Applied Mathematics and Engineering
+Units: 4.0
+(Same as Electrical and Computer Engineering M208B.) Lecture, four hours. Requisites: courses 115A and 115B (or Electrical and Computer Engineering 208A), 131A, 131B, 132. Topics may include L^{p} spaces, Hilbert, Banach, and separable spaces; Fourier transforms; linear functionals. Riesz representation theory, linear operators and their adjoints; self-adjoint and compact operators. Spectral theory. Differential operators such as Laplacian and eigenvalue problems. Resolvent distributions and Green's functions. Semigroups. Applications. S/U or letter grading.
+M268B. Topics in Functional Analysis for Applied Mathematics and Engineering
+Units: 4.0
+(Same as Electrical and Computer Engineering M208C.) Lecture, four hours. Requisite: course M268A. Semigroups of linear operators over Hilbert spaces; generator and resolvent, generation theorems, Laplace inversion formula. Dissipative operators and contraction semigroups. Analytic semigroups and spectral representation. Semigroups with compact resolvents. Parabolic and hyperbolic systems. Controllability and stabilizability. Spectral theory of differential operators, PDEs, generalized functions. S/U or letter grading.
+268C. Topics in Applied Functional Analysis
+Units: 4.0
+Lecture, three hours. Requisite: course 255A. Topics include spectral theory with applications to ordinary differential operators, eigenvalue problems for differential equations, generalized functions, and partial differential equations. S/U or letter grading.
+269A. Advanced Numerical Analysis
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 115A, 151A, 151B. Numerical solution for systems of ordinary differential equations; initial and boundary value problems. Numerical solution for elliptic, parabolic, and hyperbolic partial differential equations. Topics in computational linear algebra. S/U or letter grading.
+269B. Advanced Numerical Analysis
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 115A, 151A, 151B. Numerical solution for systems of ordinary differential equations; initial and boundary value problems. Numerical solution for elliptic, parabolic, and hyperbolic partial differential equations. Topics in computational linear algebra. S/U or letter grading.
+269C. Advanced Numerical Analysis
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 115A, 151A, 151B. Numerical solution for systems of ordinary differential equations; initial and boundary value problems. Numerical solution for elliptic, parabolic, and hyperbolic partial differential equations. Topics in computational linear algebra. S/U or letter grading.
+270A. Mathematical Aspects of Scientific Computing: Techniques of Scientific Computing
+Units: 4.0
+Lecture, three hours. Requisites: courses 115A, 151A, 151B, Program in Computing 10A. Mathematical modeling for computer applications, scientific programming languages, software development, graphics, implementation of numerical algorithms on different architectures, case studies. S/U or letter grading.
+270B. Mathematical Aspects of Scientific Computing: Computational Linear Algebra
+Units: 4.0
+Lecture, three hours. Requisites: courses 115A, 151A, 151B, Program in Computing 10A. Direct, fast, and iterative algorithms, overdetermined systems; singular value decomposition, regularization, sparse systems, algebraic eigenvalue problem. S/U or letter grading.
+270C. Mathematical Aspects of Scientific Computing: Computational Linear Algebra
+Units: 4.0
+Lecture, three hours. Requisites: courses 115A, 151A, 151B, Program in Computing 10A. Direct, fast, and iterative algorithms, overdetermined systems; singular value decomposition, regularization, sparse systems, algebraic eigenvalue problem. S/U or letter grading.
+270D. Mathematical Aspects of Scientific Computing: Computational Fluid Dynamics
+Units: 4.0
+Lecture, three hours. Requisites: courses 115A, 151A, 151B, Program in Computing 10A. Basic equations, finite difference, finite element, pseudo-spectral, and vortex methods; stability, accuracy, shock capturing, and boundary approximations. S/U or letter grading.
+270E. Mathematical Aspects of Scientific Computing: Computational Fluid Dynamics
+Units: 4.0
+Lecture, three hours. Requisites: courses 115A, 151A, 151B, Program in Computing 10A. Basic equations, finite difference, finite element, pseudo-spectral, and vortex methods; stability, accuracy, shock capturing, and boundary approximations. S/U or letter grading.
+270F. Mathematical Aspects of Scientific Computing: Parallel Numerical Algorithms
+Units: 4.0
+Lecture, three hours. Requisites: courses 115A, 151A, 151B, 270B, 270C, Program in Computing 10A. Recommended: courses 270A, 270D, 270E. Design, analysis, and implementation of numerical algorithms on modern vector and parallel computers. Discussion of classical numerical algorithms and novel parallel algorithms. Emphasis on applications to PDEs. S/U or letter grading.
+271A. Tensor Analysis
+Units: 4.0
+Requisite: course 131A. Algebra and calculus of tensors on n-dimensional manifolds. Curvilinear coordinates and coordinate-free methods. Covariant differentiation. Green/Stokes theorem for differential forms. Applications to topics such as continuum and particle mechanics.
+271B. Analytical Mechanics
+Units: 4.0
+Prerequisites: course 271A, prior knowledge of mechanics. Newtonian and Lagrangian equations. Hamilton principle. Principle of least action. Holonomic and nonholonomic systems. Hamilton canonical equations, contact transformations, applications.
+271C. Introduction to Relativity
+Units: 4.0
+Prerequisites: course 271A, prior knowledge of mechanics. Restricted theory of relativity. Extensions to general theory. Relativistic theory of gravitation.
+271D. Wave Mechanics
+Units: 4.0
+General concepts of mechanical systems (states, space-time, logics, etc.). Classical and quantum examples. Correspondence principle. Spinors.
+272A. Foundations of Continuum Mechanics
+Units: 4.0
+Lecture, three hours. Kinematic preliminaries, conservation laws for mass, momentum and energy, entropy production, constitutive laws. Linear elasticity, inviscid fluid, viscous fluid. Basic theorems of fluid mechanics. Simple solutions. Low Reynolds number flow, Stokes drag. High Reynolds number flow, boundary layers. Two-dimensional potential flow, simple aerofoil. Compressible flow, shocks.
+272B. Mathematical Aspects of Fluid Mechanics
+Units: 4.0
+Lecture, three hours. Requisite: course 272A. Review of basic theory of moving continua, fluid equations, integral theorems. Simple solutions, flow created by slowly moving bodies, flows where viscosity is negligible, vortices, boundary layers and their separation, water waves, ship waves, compressional waves, shock waves, turbulence theory (overview).
+272C. Magnetohydrodynamics
+Units: 4.0
+Lecture, three hours. Requisite: course 272A. Basic electromagnetism. Steady flows, Hartmann layers. Alfvén theorem and waves. Compressible media. Magnetostatic equilibria and stability.
+272D. Rotating Fluids and Geophysical Fluid Dynamics
+Units: 4.0
+Lecture, three hours. Effects of Coriolis forces on fluid behavior. Inviscid flows, Taylor/Proudman theorem, Taylor columns, motions of bodies, inertial waves in spheres and spherical shells, Rossby waves. Ekman layers, spin-up. Shallow-water theory, wind-driven ocean circulation. Effects of stratification, Benard convection. Baroclinic instability, Eady model. S/U or letter grading.
+273A. Optimization and Calculus of Variations: Basic Optimization Theory
+Units: 4.0
+Lecture, three hours. Introduction to basic optimization theory, recognition of solutions, and geometry of optimization. Some convex analysis, separation hyperplane, and duality theory. Basic optimization algorithms and their rates of convergence. S/U or letter grading.
+273B. Optimization and Calculus of Variations: Calculus of Variations
+Units: 4.0
+Lecture, three hours. Abstract convex analysis and variational problems. Convexity, differentiability, existence, and characterization of minimizers. Polar functions, Lagrangians, saddle points, and duality techniques. Application of abstract mathematical theory to optimization problems of calculus of variations on Sobolev spaces. S/U or letter grading.
+273C. Optimization and Calculus of Variations: Numerical Optimization
+Units: 4.0
+Lecture, three hours. Derivation, analysis, and implementation of numerical methods for constrained and unconstrained optimization problems of variety of types and with data at different scales. S/U or letter grading.
+274A. Asymptotic Methods
+Units: 4.0
+Lecture, three hours. Requisite: course 132. Fundamental mathematics of asymptotic analysis, asymptotic expansions of Fourier integrals, method of stationary phase. Watson lemma, method of steepest descent, uniform asymptotic expansions, elementary perturbation problems. S/U or letter grading.
+274B. Perturbation Methods
+Units: 4.0
+Lecture, three hours. Prerequisite: course 266A or equivalent. Boundary layer theory, matched asymptotic expansions, WKB theory. Problems with several time scales: Poincaré method, averaging techniques, multiple-scale analysis. Application to eigenvalue problems, nonlinear oscillations, wave propagation, and bifurcation problems. Examples from various fields of science and engineering.
+274C. Perturbation Methods
+Units: 4.0
+Lecture, three hours. Prerequisite: course 266A or equivalent. Boundary layer theory, matched asymptotic expansions, WKB theory. Problems with several time scales: Poincaré method, averaging techniques, multiple-scale analysis. Application to eigenvalue problems, nonlinear oscillations, wave propagation, and bifurcation problems. Examples from various fields of science and engineering.
+275A. Probability Theory
+Units: 4.0
+Lecture, three hours; discussion, one hour. Connection between probability theory and real analysis. Weak and strong laws of large numbers, central limit theorem, conditioning, ergodic theory, martingale theory. S/U or letter grading.
+275B. Probability Theory
+Units: 4.0
+Lecture, three hours; discussion, one hour. Connection between probability theory and real analysis. Weak and strong laws of large numbers, central limit theorem, conditioning, ergodic theory, martingale theory. S/U or letter grading.
+275C. Stochastic Processes
+Units: 4.0
+Lecture, three hours. Requisite: course 275B. Brownian motion, continuous-time martingales, Markov processes, potential theory. S/U or letter grading.
+275D. Stochastic Calculus
+Units: 4.0
+Lecture, three hours. Requisite: course 275C. Stochastic integration, stochastic differential equations, Ito formula and its applications. S/U or letter grading.
+275E. Stochastic Particle Systems
+Units: 4.0
+Lecture, three hours. Requisite: course 275C. Interacting particle systems, including contact process, stochastic Ising model, and exclusion processes; percolation theory. S/U or letter grading.
+276. Topics in Network Science
+Units: 4.0
+Lecture, three hours. Requisites: courses 115A, 170A. Interesting and popular areas of network science. Topics vary from year to year and may include dynamical processes on networks, mesoscale structures in networks, time-dependent networks, multilayer networks, applications of networks, data analysis in networks, spatial networks, and others. Discussion of recent review articles and research papers. Some presentations by students. Joint project on topic in network science possibly leading to publication. S/U or letter grading.
+280. Programming++ for Mathematics Graduate Students
+Units: 4.0
+Lecture, three hours. Preparation: programming experience in at least one programming language. Limited to graduate students. Students gain knowledge of core programming language concepts, core operating system constructs, and core computational hardware constructs in order to become proficient in object oriented software construction and design in compiled language, and be able to rapidly learn new programming language for future activities. Students go beyond writing short programs or scripts that invoke preexisting high-level functionality to capability of creating any high-level functionality using object oriented software constructs and techniques. Emphasis on practice of programming rather than problem solving or fundamental algorithms. Emphasis on programming environment details, both software and hardware. S/U grading.
+285A. Seminar: History and Development of Mathematics
+Units: 4.0
+Seminar, three hours. No more than two 285 courses may be applied toward MA degree requirements except by prior consent of graduate vice chair. Topics in various branches of mathematics and their applications by means of lectures and informal conferences with staff members. S/U or letter grading.
+285B. Seminar: Number Theory
+Units: 4.0
+Seminar, three hours. No more than two 285 courses may be applied toward MA degree requirements except by prior consent of graduate vice chair. Topics in various branches of mathematics and their applications by means of lectures and informal conferences with staff members. S/U or letter grading.
+285C. Seminar: Algebra
+Units: 4.0
+Seminar, three hours. No more than two 285 courses may be applied toward MA degree requirements except by prior consent of graduate vice chair. Topics in various branches of mathematics and their applications by means of lectures and informal conferences with staff members. S/U or letter grading.
+285D. Seminar: Logic
+Units: 4.0
+Seminar, three hours. No more than two 285 courses may be applied toward MA degree requirements except by prior consent of graduate vice chair. Topics in various branches of mathematics and their applications by means of lectures and informal conferences with staff members. S/U or letter grading.
+285E. Seminar: Geometry
+Units: 4.0
+Seminar, three hours. No more than two 285 courses may be applied toward MA degree requirements except by prior consent of graduate vice chair. Topics in various branches of mathematics and their applications by means of lectures and informal conferences with staff members. S/U or letter grading.
+285F. Seminar: Topology
+Units: 4.0
+Seminar, three hours. No more than two 285 courses may be applied toward MA degree requirements except by prior consent of graduate vice chair. Topics in various branches of mathematics and their applications by means of lectures and informal conferences with staff members. S/U or letter grading.
+285G. Seminar: Analysis
+Units: 4.0
+Seminar, three hours. No more than two 285 courses may be applied toward MA degree requirements except by prior consent of graduate vice chair. Topics in various branches of mathematics and their applications by means of lectures and informal conferences with staff members. S/U or letter grading.
+285H. Seminar: Differential Equations
+Units: 4.0
+Seminar, three hours. No more than two 285 courses may be applied toward MA degree requirements except by prior consent of graduate vice chair. Topics in various branches of mathematics and their applications by means of lectures and informal conferences with staff members. S/U or letter grading.
+285I. Seminar: Functional Analysis
+Units: 4.0
+Seminar, three hours. No more than two 285 courses may be applied toward MA degree requirements except by prior consent of graduate vice chair. Topics in various branches of mathematics and their applications by means of lectures and informal conferences with staff members. S/U or letter grading.
+285J. Seminar: Applied Mathematics
+Units: 4.0
+Seminar, three hours. No more than two 285 courses may be applied toward MA degree requirements except by prior consent of graduate vice chair. Topics in various branches of mathematics and their applications by means of lectures and informal conferences with staff members. S/U or letter grading.
+285K. Seminar: Probability
+Units: 4.0
+Seminar, three hours. No more than two 285 courses may be applied toward MA degree requirements except by prior consent of graduate vice chair. Topics in various branches of mathematics and their applications by means of lectures and informal conferences with staff members. S/U or letter grading.
+285L. Seminar: Dynamical Systems
+Units: 4.0
+Seminar, three hours. No more than two 285 courses may be applied toward MA degree requirements except by prior consent of graduate vice chair. Topics in various branches of mathematics and their applications by means of lectures and informal conferences with staff members. S/U or letter grading.
+285N. Seminar: Combinatorics
+Units: 4.0
+Seminar, three hours. No more than two 285 courses may be applied toward MA degree requirements except by prior consent of graduate vice chair. Topics in various branches of mathematics and their applications by means of lectures and informal conferences with staff members. S/U or letter grading.
+285P. Seminar: Representation Theory
+Units: 4.0
+Seminar, three hours. No more than two 285 courses may be applied toward MA degree requirements except by prior consent of graduate vice chair. Topics in various branches of mathematics and their applications by means of lectures and informal conferences with staff members. S/U or letter grading.
+290A. Participating Seminar: Current Literature in History and Development of Mathematics
+Units: 4.0
+Seminar, three hours. Designed for PhD students. Readings and presentations of papers in mathematical literature under supervision of staff member. Two-hour presentation required. S/U grading.
+290B. Participating Seminar: Current Literature in Number Theory
+Units: 4.0
+Seminar, three hours. Designed for PhD students. Readings and presentations of papers in mathematical literature under supervision of staff member. Two-hour presentation required. S/U grading.
+290C. Participating Seminar: Current Literature in Algebra
+Units: 4.0
+Seminar, three hours. Designed for PhD students. Readings and presentations of papers in mathematical literature under supervision of staff member. Two-hour presentation required. S/U grading.
+290D. Participating Seminar: Current Literature in Logic
+Units: 4.0
+Seminar, three hours. Designed for PhD students. Readings and presentations of papers in mathematical literature under supervision of staff member. Two-hour presentation required. S/U grading.
+290E. Participating Seminar: Current Literature in Geometry
+Units: 4.0
+Seminar, three hours. Designed for PhD students. Readings and presentations of papers in mathematical literature under supervision of staff member. Two-hour presentation required. S/U grading.
+290F. Participating Seminar: Current Literature in Topology
+Units: 4.0
+Seminar, three hours. Designed for PhD students. Readings and presentations of papers in mathematical literature under supervision of staff member. Two-hour presentation required. S/U grading.
+290G. Participating Seminar: Current Literature in Analysis
+Units: 4.0
+Seminar, three hours. Designed for PhD students. Readings and presentations of papers in mathematical literature under supervision of staff member. Two-hour presentation required. S/U grading.
+290H. Participating Seminar: Current Literature in Differential Equations
+Units: 4.0
+Seminar, three hours. Designed for PhD students. Readings and presentations of papers in mathematical literature under supervision of staff member. Two-hour presentation required. S/U grading.
+290I. Participating Seminar: Current Literature in Functional Analysis
+Units: 4.0
+Seminar, three hours. Designed for PhD students. Readings and presentations of papers in mathematical literature under supervision of staff member. Two-hour presentation required. S/U grading.
+290J. Participating Seminar: Current Literature in Applied Mathematics
+Units: 4.0
+Seminar, three hours. Designed for PhD students. Readings and presentations of papers in mathematical literature under supervision of staff member. Two-hour presentation required. S/U grading.
+290K. Participating Seminar: Current Literature in Probability
+Units: 4.0
+Seminar, three hours. Designed for PhD students. Readings and presentations of papers in mathematical literature under supervision of staff member. Two-hour presentation required. S/U grading.
+290L. Participating Seminar: Current Literature in Dynamical Systems
+Units: 4.0
+Seminar, three hours. Designed for PhD students. Readings and presentations of papers in mathematical literature under supervision of staff member. Two-hour presentation required. S/U grading.
+290M. Participating Seminar: Current Literature in Mathematics
+Units: 4.0
+Seminar, three hours. Designed for PhD students. Readings and presentations of papers in mathematical literature under supervision of staff member. Two-hour presentation required. S/U grading.
+290N. Participating Seminar: Current Literature in Combinatorics
+Units: 4.0
+Seminar, three hours. Designed for PhD students. Readings and presentations of papers in mathematical literature under supervision of staff member. Two-hour presentation required. S/U grading.
+290O. Participating Seminar: Current Literature in Cryptography
+Units: 4.0
+Seminar, three hours. Designed for PhD students. Readings and presentations of papers in mathematical literature under supervision of staff member. Two-hour presentation required. S/U grading.
+296A. Research Seminar: History and Development of Mathematics
+Units: 1.0
+Seminar, two hours. Seminars and discussion by staff and students. May be repeated for credit. S/U grading.
+296B. Research Seminar: Number Theory
+Units: 1.0
+Seminar, two hours. Seminars and discussion by staff and students. May be repeated for credit. S/U grading.
+296C. Research Seminar: Algebra
+Units: 1.0
+Seminar, two hours. Seminars and discussion by staff and students. May be repeated for credit. S/U grading.
+296D. Research Seminar: Logic
+Units: 1.0
+Seminar, two hours. Seminars and discussion by staff and students. May be repeated for credit. S/U grading.
+296E. Research Seminar: Geometry
+Units: 1.0
+Seminar, two hours. Seminars and discussion by staff and students. May be repeated for credit. S/U grading.
+296F. Research Seminar: Topology
+Units: 1.0
+Seminar, two hours. Seminars and discussion by staff and students. May be repeated for credit. S/U grading.
+296G. Research Seminar: Analysis
+Units: 1.0
+Seminar, two hours. Seminars and discussion by staff and students. May be repeated for credit. S/U grading.
+296H. Research Seminar: Differential Equations
+Units: 1.0
+Seminar, two hours. Seminars and discussion by staff and students. May be repeated for credit. S/U grading.
+296I. Research Seminar: Functional Analysis
+Units: 1.0
+Seminar, two hours. Seminars and discussion by staff and students. May be repeated for credit. S/U grading.
+296J. Research Seminar: Applied Mathematics
+Units: 1.0
+Seminar, two hours. Seminars and discussion by staff and students. May be repeated for credit. S/U grading.
+296K. Research Seminar: Probability
+Units: 1.0
+Seminar, two hours. Seminars and discussion by staff and students. May be repeated for credit. S/U grading.
+296L. Research Seminar: Dynamical Systems
+Units: 1.0
+Seminar, two hours. Seminars and discussion by staff and students. May be repeated for credit. S/U grading.
+296M. Research Seminar: Mathematics
+Units: 1.0
+Seminar, two hours. Seminars and discussion by staff and students. May be repeated for credit. S/U grading.
+296N. Research Seminar: Combinatorics
+Units: 1.0
+Seminar, two hours. Seminars and discussion by staff and students. May be repeated for credit. S/U grading.
+370A. Teaching of Mathematics
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisite: course 33B. Limited to senior Mathematics Department majors. Course 370A is requisite to 370B. Topics in geometry, algebra, number theory, discrete mathematics, and functions presented from a problem-solving and student participation point of view, with emphasis on historical context and appropriate role of proof. S/U or letter grading.
+370B. Teaching of Mathematics
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 33B, 370A. Limited to senior Mathematics Department majors. Topics in geometry, algebra, number theory, discrete mathematics, and functions presented from a problem-solving and student participation point of view, with emphasis on historical context and appropriate role of proof. S/U or letter grading.
+375. Teaching Apprentice Practicum
+Units: 1.0 to 4.0
+Seminar, to be arranged. Preparation: apprentice personnel employment as teaching assistant, associate, or fellow. Teaching apprenticeship under active guidance and supervision of regular faculty member responsible for curriculum and instruction at UCLA. May be repeated for credit. S/U grading.
+495. Teaching College Mathematics
+Units: 2.0
+Seminar, one hour; two-day intensive training at beginning of Fall Quarter. Required of all new teaching assistants and new PhD students. Special course for teaching assistants designed to deal with problems and techniques of teaching college mathematics. S/U grading.
+495B. Technology and Teaching
+Units: 2.0 to 4.0
+Seminar, two hours; laboratory, one hour (optional). Requisite: course 495. Focus on undergraduate mathematics instruction. Web-based electronic communication, using technology for class organization, use of presentation software packages, and creation of electronic teaching portfolio. Provides mechanics of technology and forum for evaluation and comparison of technology in undergraduate mathematics teaching. S/U grading.
+501. Cooperative Program
+Units: 2.0 to 8.0
+Preparation: consent of UCLA department chair and graduate dean, and host campus instructor, department chair, and graduate dean. Used to record enrollment of UCLA students in courses taken under cooperative arrangements with USC. S/U grading.
+596. Directed Individual Study or Research
+Units: 2.0 to 8.0
+Tutorial, to be arranged. Supervised individual reading and study on project approved by a faculty member, which may be preparation for MA examination. May be repeated for credit, but only two 596 courses (8 units) may be applied toward MA degree unless departmental consent is obtained. S/U or letter grading.
+599. Research in Mathematics
+Units: 2.0 to 12.0
+Tutorial, to be arranged. Preparation: advancement to PhD candidacy. Study and research for PhD dissertation. May be repeated for credit. S/U grading.

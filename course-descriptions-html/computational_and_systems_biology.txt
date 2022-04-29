@@ -1,0 +1,62 @@
+Lower Division Courses (6)
+10. Preparation for Research in Computational Biology
+Units: 3.0
+Lecture, two and one half hours. Provides students with basic understanding of several computational tools used in molecular biology research. Focus on practical application of these tools rather than deep theoretical understanding. Creates more inclusive and accessible experience for learners. Students are introduced to computational tools for carrying out research in computational biology, including basic statistics, Python, R, and UNIX. P/NP or letter grading.
+19. Fiat Lux Freshman Seminars
+Units: 1.0
+Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.
+M32. Essential Calculus for Mathematical Biologists
+Units: 4.0
+(Same as Mathematics M32T and Life Sciences M32.) Lecture, three hours; discussion, one hour. Requisites: Life Sciences 30A, 30B. Not open to students with credit for Mathematics 31A, 31B, 32A, or 32B. Designed for life sciences students. Methods and results of single and multivariable calculus essential for quantitative training in biology. Limits, differentiation (single and several variables), optimization, integration and methods of integration, Taylor polynomials and applications to approximation, Taylor and other power series, vector valued functions, gradients, and Lagrange multipliers. P/NP or letter grading.
+89. Honors Seminars
+Units: 1.0
+Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.
+89HC. Honors Contracts
+Units: 1.0
+Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.
+99. Student Research Program
+Units: 1.0 to 2.0
+Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
+Upper Division Courses (14)
+M130. Fundamentals of Digital Imaging and Image Processing
+Units: 5.0
+(Same as Molecular, Cell, and Developmental Biology M130.) Lecture, three hours; laboratory, two hours. Requisites: Life Sciences 7A, 7B, 7C, and Life Sciences 30A, 30B, and 40 or Statistics 13, or Mathematics 3A, 3B, and 3C, or Mathematics 31A, 31B, and 32A or 33A. Digital imaging has become integral tool to our everyday lives and to nearly every field of life sciences. Quantitative approach to learning about basic properties of digital signals and surveying fundamental methods for processing and analyzing images. Letter grading.
+M150. Biological Modeling: Mathematical and Computational Approaches
+Units: 5.0
+(Formerly numbered 150.) (Same as Ecology and Evolutionary Biology M159.) Lecture, four hours; laboratory, three hours. Requisites: Life Sciences 7A, 7B, 7C, Mathematics 33A and 33B, with grades of C or better. Recommended Requisites: Physics 1A, 1B, and 1C, or 5A, 5B, and 5C, with grades of C or better. Students learn how to translate their biological knowledge and intuition into mathematical equations and computer simulations, and how to interpret and glean biological insights from quantitative results and predictions. Review and integration of core mathematical and computational approaches in novel ways. Students gain experience translating and intuition about systems through many examples across range of biological levels, such as predator-prey, disease transmission, cancer initiation, cell migration, neural systems, vascular networks, sleep, drug interactions, gene expression, and more. Students learn how to manipulate data, basics of coding, and how to instantiate their mathematical models and biological intuition through numerical solutions and simulations. Letter grading.
+M175. Stochastic Processes in Biochemical Systems
+Units: 4.0
+(Same as Chemistry M186.) Lecture, three hours. Requisites: Life Sciences 1, 2, 3, and 4, or 7A, 7B, and 7C, Mathematics 33B, Electrical and Computer Engineering 131A or Mathematics 170A or Statistics 100A. Covers random and stochastic processes in play in biochemical systems, including ion channels, cytoskeleton, cell migration and mitosis, gene expression networks, and signal transduction. Covers mathematical tools such as continuous and discrete Markov processes, first passage, time escape problems, statistical mechanics, and information theory. Letter grading.
+M178. Quantitative Regulatory Biology and Signal Transduction
+Units: 4.0
+(Same as Microbiology M178 and Physiological Science M178.) Lecture, three hours; laboratory, one hour. Requisites: Life Sciences 7A, 7B, 7C, 30A, 30B. Introduction to key biological regulatory circuit motifs and systems biology concepts that are critical to understanding how cellular responses are controlled. Letter grading.
+M184. Introduction to Computational and Systems Biology
+Units: 2.0
+(Same as Bioengineering M184 and Computer Science M184.) Lecture, two hours; outside study, four hours. Enforced requisites: one course from Civil Engineering M20, Computer Science 31, Mechanical and Aerospace Engineering M20, or Program in Computing 10A; and Life Sciences 30B or Mathematics 3B or 31B. Survey course designed to introduce students to computational and systems modeling and computation in biology and medicine, providing motivation, flavor, culture, and cutting-edge contributions in computational biosciences and aiming for more informed basis for focused studies by students with computational and systems biology interests. Presentations by individual UCLA researchers discussing their active computational and systems biology research. P/NP grading.
+185. Thesis Research Opportunities in Computational and Systems Biology
+Units: 4.0
+(Formerly numbered M185.) Lecture, two hours; discussion, two hours. Requisites: course M184, Life Sciences 7C, Mathematics 33A, 33B. Introduction to interdisciplinary laboratory research methods and research opportunities in computational and systems biology to prepare and initiate students for active engagement in research. Presentation of potential projects by faculty members and student visits to individual laboratories and participation in ongoing projects. P/NP or letter grading.
+M186. Computational Systems Biology: Modeling and Simulation of Biological Systems
+Units: 5.0
+(Same as Bioengineering CM186, Computer Science CM186, and Ecology and Evolutionary Biology M178.) Lecture, four hours; laboratory, two hours; discussion, one hour. Requisites: Life Sciences 30A, 30B, Mathematics 32A or M32T, 33A, and 33B; or Mathematics 31A, 31B, 32A or M32T, 33A, and 33B. Dynamic biosystem modeling and computer simulation methods for studying biological/biomedical processes and systems at multiple levels of organization. Intermediate linear and nonlinear control system, multicompartmental, epidemiological, pharmacokinetic, and other biomodeling methods applied to life sciences problems at molecular, cellular, organ, and population levels. Both theory- and data-driven modeling, with focus on translating biomodeling goals and data into dynamical mathematical models, and implementing them for simulation, quantification, and analysis. Numerical simulation, optimization, and parameter identifiability and search algorithms, with model discrimination and analysis and software exercises in PC laboratory assignments. Letter grading.
+M187. Research Communication in Computational and Systems Biology
+Units: 4.0
+(Same as Bioengineering CM187 and Computer Science CM187.) Lecture, four hours; outside study, eight hours. Requisites: course M150 or M186 or Computer Science M182; and research experience (course 199, Bioengineering, Computer Science 199, or equivalent). Closely directed, interactive, and real research experience in active quantitative systems biology research laboratory. Direction on how to focus on topics of current interest in scientific community, appropriate to student interests and capabilities. Critiques of oral presentations and written progress reports explain how to proceed with search for research results. Major emphasis on effective research reporting, both oral and written. Letter grading.
+189. Advanced Honors Seminars
+Units: 1.0
+Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.
+189HC. Honors Contracts
+Units: 1.0
+Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.
+195. Community or Corporate Internships in Computational and Systems Biology
+Units: 4.0
+Tutorial, eight hours. Limited to juniors/seniors. Supervised internship under guidance of faculty mentor. Further supervision to be provided by organization for which students are doing internship. Students may be required to meet on regular basis with instructor and provide periodic reports of their experience. Culminating report/project required. May be repeated for credit. A maximum of 4 units of 195 can be applied toward major. Individual contract required. P/NP grading.
+198A. Honors Research in Computational and Systems Biology
+Units: 4.0
+Tutorial, 12 hours. Requisite: course M150. Limited to Computational and Systems Biology students. Supervised individual research involving extensive reading and development of honors thesis or comprehensive project under guidance of faculty mentor. Maximum of 8 units of courses 198A and 198B may be applied toward major. Individual contract required. In Progress grading (credit to be given on completion of course 198B).
+198B. Honors Research in Computational and Systems Biology
+Units: 4.0
+Tutorial, 12 hours. Requisite: course 198A. Continued reading and research culminating in honors thesis under direct supervision of faculty member. Maximum of 8 units of courses 198A and 198B may be applied toward major. Individual contact required. Letter grading.
+199. Directed Research in Computational and Systems Biology
+Units: 4.0
+Tutorial, 12 hours. Limited to juniors/seniors. Supervised individual research under guidance of faculty mentor. Culminating report/thesis required. May be repeated for credit. Four units may be applied toward major requirements. Individual contract required. Letter grading.

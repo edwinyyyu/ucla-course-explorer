@@ -1,0 +1,258 @@
+Lower Division Courses (6)
+10. Freshman Seminar: New Materials
+Units: 1.0
+Seminar, one hour; outside study, two hours. Preparation: high school chemistry and physics. Not open to students with credit for course 104. Introduction to basic concepts of materials science and new materials vital to advanced technology. Microstructural analysis and various material properties discussed in conjunction with such applications as biomedical sensors, pollution control, and microelectronics. Letter grading.
+13L. Cultural (Materials) Science Investigations in Art and Archaeology
+Units: 5.0
+Laboratory, four hours; discussion, two hours; site visits, four hours; outside study, five hours. Focus on portable X-ray fluorescence (XRF) and ultraviolet, visible, near infrared (UV/Vis/NIR) spectroscopy and forensic imaging, with emphasis on fundamentals of techniques, data collection and interpretation, and effects of weathering and post depositional and taphonomic processes to help answer questions related to ancient materials manufacturing technologies, materials variability, and human interaction with environment. Experimental techniques and analysis of materials through: X-ray fluorescence spectroscopy (XRF); fiber optic reflectance spectroscopy (FORS); and forensic multispectral imaging. Letter grading.
+19. Fiat Lux Freshman Seminars
+Units: 1.0
+Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.
+33W. Materials Structure and Technology in Archaeology and Architecture
+Units: 5.0
+(Formerly numbered 33.) Seminar, three hours; laboratory, two hours; discussion, one hour; outside study, nine hours. Requisite: English Composition 3. Exploration of three classes of materials and composites, and relationships that exist between structural elements of materials and their properties: vitreous materials, building material binders, and pigments and colorants. Through study of ancient materials and technology in archaeology and architecture, exploration of relationships among processing, structure, properties, and performance for: vitreous materials--ceramics, frits, and glass; building material binders--aerial lime-based mortars, natural and artificial hydraulic lime/cements and concretes; and pigments and colorants (natural and synthetic organic, inorganic, and organic/inorganic hybrids). Through reverse engineering processing, exploration of ancient engineering materials (their micro/nano structure and physical, chemical, and mechanical properties), and their durability and sustainability as time-proven examples of technology innovation and/or invention. Letter grading.
+90L. Physical Measurement in Materials Engineering
+Units: 2.0
+Laboratory, four hours; outside study, two hours. Various physical measurement methods used in materials science and engineering. Mechanical, thermal, electrical, magnetic, and optical techniques. Letter grading.
+99. Student Research Program
+Units: 1.0 to 2.0
+Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
+Upper Division Courses (33)
+104. Science of Engineering Materials
+Units: 4.0
+Lecture, three hours; discussion, one hour; outside study, eight hours. Requisites: Chemistry 20A, 20B, 20L, Physics 1A. Corequisite: Physics 1B. General introduction to different types of materials used in engineering designs: metals, ceramics, plastics, and composites, relationship between structure (crystals and microstructure) and properties of technological materials. Illustration of their fundamental differences and their applications in engineering. Letter grading.
+105. Principles of Nanoscience and Nanotechnology
+Units: 4.0
+(Formerly numbered M105.) Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced requisites: Chemistry 20A, 20B, Physics 1C. Introduction to underlying science encompassing structure, properties, and fabrication of technologically important nanoscale systems. New phenomena that emerge in very small systems (typically with feature sizes below few hundred nanometers) explained using basic concepts from physics and chemistry. Chemical, optical, and electronic properties, electron transport, structural stability, self-assembly, templated assembly and applications of various nanostructures such as quantum dots, nanoparticles, quantum wires, quantum wells and multilayers, carbon nanotubes. Letter grading.
+110. Introduction to Materials Characterization A (Crystal Structure, Nanostructures, and X-Ray Scattering)
+Units: 4.0
+Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced requisite: course 104. Modern methods of materials characterization; fundamentals of crystallography, properties of X rays, X-ray scattering; powder method, Laue method; determination of crystal structures; phase diagram determination; high-resolution X-ray diffraction methods; X-ray spectroscopy; design of materials characterization procedures. Letter grading.
+110L. Introduction to Materials Characterization A Laboratory
+Units: 2.0
+Laboratory, four hours; outside study, two hours. Enforced requisite: course 104. Experimental techniques and analysis of materials through X-ray scattering techniques; powder method, crystal structure determination, high-resolution X-ray diffraction methods, and special projects. Letter grading.
+C111. Introduction to Materials Characterization B (Electron Microscopy)
+Units: 4.0
+(Formerly numbered 111.) Lecture, four hours; outside study, eight hours. Characterization of microstructure and microchemistry of materials; transmission electron microscopy; reciprocal lattice, electron diffraction, stereographic projection, direct observation of defects in crystals, replicas; scanning electron microscopy: emissive and reflective modes; chemical analysis; electron optics of both instruments. Concurrently scheduled with course C211. Letter grading.
+111L. Introduction to Materials Characterization B Laboratory
+Units: 2.0
+Laboratory, four hours; outside study, two hours. Enforced requisite: course 111. Experimental techniques and analysis of materials through electron microscopy. Determination of morphology, microstructure, and crystallinity of samples. Letter grading.
+C112. Cultural Materials Science II: Characterization Methods in Conservation of Materials
+Units: 4.0
+Lecture, four hours. Preparation: general chemistry, inorganic and organic chemistry, materials science. Principles and methods of materials characterization in conservation: optical and electron microscopy, X-ray and electron spectroscopy, X-ray diffraction, infrared spectroscopy, reflectance spectroscopy and multispectral imaging spectroscopy, chromatography, design of archaeological and ethnographic materials characterization procedures. Concurrently scheduled with course C212. Letter grading.
+120. Physics of Materials
+Units: 4.0
+Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced requisites: courses 104, 110 (or Chemistry 113A). Introduction to electrical, optical, and magnetic properties of solids. Free electron model, introduction to band theory and Schrödinger wave equation. Crystal bonding and lattice vibrations. Mechanisms and characterization of electrical conductivity, optical absorption, magnetic behavior, dielectrical properties, and p-n junctions. Letter grading.
+121. Materials Science of Semiconductors
+Units: 4.0
+Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced requisite: course 120. Structure and properties of elemental and compound semiconductors. Electrical and optical properties, defect chemistry, and doping. Electronic materials analysis and characterization, including electrical, optical, and ion-beam techniques. Heterostructures, band-gap engineering, development of new materials for optoelectronic applications. Letter grading.
+121L. Materials Science of Semiconductors Laboratory
+Units: 2.0
+Lecture, 30 minutes; discussion, 30 minutes; laboratory, two hours; outside study, three hours. Enforced corequisite: course 121. Experiments conducted on materials characterization, including measurements of contact resistance, dielectric constant, and thin film biaxial modulus and CTE. Letter grading.
+122. Principles of Electronic Materials Processing
+Units: 4.0
+Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced requisite: course 104. Description of basic semiconductor materials for device processing; preparation and characterization of silicon, III-V compounds, and films. Discussion of principles of CVD, MOCVD, LPE, and MBE; metals and dielectrics. Letter grading.
+130. Phase Relations in Solids
+Units: 4.0
+Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced requisite: course 104. Summary of thermodynamic laws, equilibrium criteria, solution thermodynamics, mass-action law, binary and ternary phase diagrams, glass transitions. Letter grading.
+131. Diffusion and Diffusion-Controlled Reactions
+Units: 4.0
+Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced requisite: course 130 or Chemistry 110A. Diffusion in metals and ionic solids, nucleation and growth theory; precipitation from solid solution, eutectoid decomposition, design of heat treatment processes of alloys, growth of intermediate phases, gas-solid reactions, design of oxidation-resistant alloys, recrystallization, and grain growth. Letter grading.
+131L. Diffusion and Diffusion-Controlled Reactions Laboratory
+Units: 2.0
+Laboratory, two hours; outside study, four hours. Enforced corequisite: course 131. Design of heat-treating cycles and performing experiments to study interdiffusion, growth of intermediate phases, recrystallization, and grain growth in metals. Analysis of data. Comparison of results with theory. Letter grading.
+132. Structure and Properties of Metallic Alloys
+Units: 4.0
+Lecture, four hours; outside study, eight hours. Enforced requisite: course 131. Physical metallurgy of steels, lightweight alloys (Al and Ti), and superalloys. Strengthening mechanisms, microstructural control methods for strength and toughness improvement. Grain boundary segregation. Letter grading.
+140A. Materials Selection and Engineering Design A
+Units: 3.0
+Lecture, two hours; laboratory, two hours; outside study, five hours. Enforced requisites: two courses from 132, 150, 160. Explicit guidance among myriad materials available for design in engineering. Properties and applications of steels, nonferrous alloys, polymeric, ceramic, and composite materials, coatings. Materials selection, treatment, and serviceability emphasized as part of successful design. Design projects. Letter grading.
+140B. Materials Selection and Engineering Design B
+Units: 3.0
+(Formerly numbered 140.) Lecture, two hours; laboratory, two hours; outside study, five hours. Enforced requisite: course 140A. Explicit guidance among myriad materials available for design in engineering. Properties and applications of steels, nonferrous alloys, polymeric, ceramic, and composite materials, coatings. Materials selection, treatment, and serviceability emphasized as part of successful design. Design projects. Letter grading.
+141L. Computer Methods and Instrumentation in Materials Science
+Units: 2.0
+Laboratory, four hours. Preparation: knowledge of BASIC or C or assembly language. Limited to junior/senior Materials Science and Engineering majors. Interface and control techniques, real-time data acquisition and processing, computer-aided testing. Letter grading.
+143A. Mechanical Behavior of Materials
+Units: 4.0
+Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced requisites: course 104, Mechanical and Aerospace Engineering 101. Plastic flow of metals under simple and combined loading, strain rate and temperature effects, dislocations, fracture, microstructural effects, mechanical and thermal treatment of steel for engineering applications. Letter grading.
+143L. Mechanical Behavior Laboratory
+Units: 2.0
+Laboratory, four hours. Requisites: courses 90L, 143A (may be taken concurrently). Methods of characterizing mechanical behavior of various materials; elastic and plastic deformation, fracture toughness, fatigue, and creep. Letter grading.
+150. Introduction to Polymers
+Units: 4.0
+Lecture, four hours; discussion, one hour; outside study, seven hours. Polymerization mechanisms, molecular weight and distribution, chemical structure and bonding, structure crystallinity, and morphology and their effects on physical properties. Glassy polymers, springy polymers, elastomers, adhesives. Fiber forming polymers, polymer processing technology, plasticiation. Letter grading.
+151. Structure and Properties of Composite Materials
+Units: 4.0
+Lecture, four hours; outside study, eight hours. Preparation: at least two courses from 132, 143A, 150, 160. Requisite: course 104. Relationship between structure and mechanical properties of composite materials with fiber and particulate reinforcement. Properties of fiber, matrix, and interfaces. Selection of macrostructures and material systems. Letter grading.
+160. Introduction to Ceramics and Glasses
+Units: 4.0
+Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced requisites: courses 104, 130. Introduction to ceramics and glasses being used as important materials of engineering, processing techniques, and unique properties. Examples of design and control of properties for certain specific applications in engineering. Letter grading.
+161. Processing of Ceramics and Glasses
+Units: 4.0
+Lecture, four hours; discussion, one hour. Requisite: course 160. Study of processes used in fabrication of ceramics and glasses for structural applications, optics, and electronics. Processing operations, including modern techniques of powder synthesis, greenware forming, sintering, glass melting. Microstructure properties relations in ceramics. Fracture analysis and design with ceramics. Letter grading.
+161L. Laboratory in Ceramics
+Units: 2.0
+Laboratory, four hours. Requisite: course 160. Recommended corequisite: course 161. Processing of common ceramics and glasses. Attainment of specific properties through process control for engineering applications. Quantitative characterization and selection of raw materials. Slip casting and extrusion of clay bodies. Sintering of powders. Glass melting and fabrication. Determination of chemical and physical properties. Letter grading.
+162. Electronic Ceramics
+Units: 4.0
+Lecture, four hours; outside study, eight hours. Requisites: course 104, Physics 1C. Utilization of ceramics in microelectronics; thick film and thin film resistors, capacitors, and substrates; design and processing of electronic ceramics and packaging; magnetic ceramics; ferroelectric ceramics and electro-optic devices; optical wave guide applications and designs. Letter grading.
+CM163. Electrochemical Processes
+Units: 4.0
+(Same as Chemical Engineering CM114.) Lecture, four hours; discussion, one hour; outside study, seven hours. Requisites: course 130 (or Mechanical and Aerospace Engineering 105A), Chemical Engineering 102B. Fundamentals of electrochemistry and engineering applications to industrial electrochemical processes. Primary emphasis on fundamental approach to analyze electrochemical processes. Specific topics include electrochemical reactions on metal and semiconductor surfaces, electrodeposition, electroless deposition, electrosynthesis, fuel cells, aqueous and non-aqueous batteries, solid-state electrochemistry. May be concurrently scheduled with course CM263. Letter grading.
+170. Engaging Elements of Communication: Oral Communication
+Units: 2.0
+Lecture, one hour; discussion, one hour; outside study, four hours. Comprehensive oral presentation and communication skills provided by building on strengths of individual personal styles in creation of positive interpersonal relations. Skill set prepares students for different types of academic and professional presentations for wide range of audiences. Learning environment is highly supportive and interactive as it helps students creatively develop and greatly expand effectiveness of their communication and presentation skills. Letter grading.
+171. Engaging Elements of Communication: Writing for Technical Community
+Units: 2.0
+Lecture, one hour; discussion, one hour; outside study, four hours. Comprehensive technical writing skills on subjects specific to field of materials science and engineering. Students write review term paper in selected subject field of materials science and engineering from given set of journal publications. Instruction leads students through several crucial steps, including brainstorming, choosing title, coming up with outline, concise writing of abstract, conclusion, and final polishing. Other subjects include writing style, word choices, and grammar. Letter grading.
+CM180. Introduction to Biomaterials
+Units: 4.0
+(Same as Bioengineering CM178.) Lecture, three hours; discussion, two hours; outside study, seven hours. Requisites: course 104, or Chemistry 20A, 20B, and 20L. Engineering materials used in medicine and dentistry for repair and/or restoration of damaged natural tissues. Topics include relationships between material properties, suitability to task, surface chemistry, processing and treatment methods, and biocompatibility. Concurrently scheduled with course CM280. Letter grading.
+188. Special Courses in Materials Science and Engineering
+Units: 4.0
+Seminar, four hours; outside study, eight hours. Special topics in materials science and engineering for undergraduate students taught on experimental or temporary basis, such as those taught by resident and visiting faculty members. May be repeated once for credit with topic or instructor change. Letter grading.
+194. Research Group Seminars: Materials Science and Engineering
+Units: 4.0
+Seminar, four hours; outside study, eight hours. Designed for undergraduate students who are part of research group. Discussion of research methods and current literature in field or of research of faculty members or students. May be repeated for credit. Letter grading.
+199. Directed Research in Materials Science and Engineering
+Units: 2.0 to 8.0
+Tutorial, to be arranged. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. Occasional field trips may be arranged. May be repeated for credit with school approval. Individual contract required; enrollment petitions available in Office of Academic and Student Affairs. Letter grading.
+Graduate Courses (46)
+200. Principles of Materials Science I
+Units: 4.0
+Lecture, four hours; discussion, one hour; outside study, seven hours. Requisite: course 120. Lattice dynamics and thermal properties of solids, classical and quantized free electron theory, electrons in a periodic potential, transport in semiconductors, dielectric and magnetic properties of solids. Letter grading.
+201. Principles of Materials Science II
+Units: 4.0
+Lecture, four hours; discussion, one hour; outside study, seven hours. Requisite: course 131. Kinetics of diffusional transformations in solids. Precipitation in solids. Nucleation theory. Theory of precipitate growth. Ostwald ripening. Spinodal decomposition. Cellular reactions. Letter grading.
+202. Thermodynamics of Materials
+Units: 4.0
+Lecture, four hours; discussion, one hour; outside study, seven hours. Principles of thermodynamics and statistical mechanics and their application to physical and chemical phenomena in materials. Finite-temperature properties of single-component and multicomponent systems, equations of state, thermodynamic potentials and their derivatives, phase diagrams, and other equilibrium properties. First-order and second-order phase transitions in liquids and solids. Introduction to classical and modern theories of critical phenomena. Thermodynamic description of irreversible processes and entropy generation. Letter grading.
+210. Diffraction Methods in Science of Materials
+Units: 4.0
+Lecture, four hours; recitation, one hour; outside study, seven hours. Requisite: course 110. Theory of diffraction of waves (X rays, electrons, and neutrons) in crystalline and noncrystalline materials. Long- and short-range order in crystals, structural effects of plastic deformation, solid-state transformations, arrangements of atoms in liquids and amorphous solids. Letter grading.
+C211. Introduction to Materials Characterization B (Electron Microscopy)
+Units: 4.0
+(Formerly numbered 211.) Lecture, four hours; outside study, eight hours. Characterization of microstructure and microchemistry of materials; transmission electron microscopy; reciprocal lattice, electron diffraction, stereographic projection, direct observation of defects in crystals, replicas; scanning electron microscopy: emissive and reflective modes; chemical analysis; electron optics of both instruments. Concurrently scheduled with course C111. Letter grading.
+C212. Cultural Materials Science II: Characterization Methods in Conservation of Materials
+Units: 4.0
+(Formerly numbered CM212.) Lecture, four hours. Preparation: general chemistry, inorganic and organic chemistry, materials science. Principles and methods of materials characterization in conservation: optical and electron microscopy, X-ray and electron spectroscopy, X-ray diffraction, infrared spectroscopy, reflectance spectroscopy and multispectral imaging spectroscopy, chromatography, design of archaeological and ethnographic materials characterization procedures. Concurrently scheduled with course C112. Letter grading.
+M213. Cultural Materials Science I: Analytical Imaging and Documentation in Conservation of Materials
+Units: 4.0
+(Same as Conservation M215.) Lecture, two hours; laboratory, two hours. Basic and advanced techniques on digital photography, computer-aided recording tools, and scientific imaging to determine and document condition (defects) and technological features of archaeological and ethnographic materials. Development of basic theoretical knowledge on imaging and photonics technology and practical skills on conservation photo-documentation, analytical (forensic) photography, and advanced new imaging technologies. Letter grading.
+213L. Cultural Materials Science Laboratory: Technical Study
+Units: 4.0
+(Formerly numbered M213L.) Laboratory, four hours. Requisites: courses M213 (or 216) and 214 or one course from Conservation 260 through 263. Corequisite: course C212. Research-based laboratory through object-based problem-solving approach in conservation materials science. Experimental techniques, characterization, and analysis of archaeological and ethnographic materials (using materials science principles and reverse engineering processes) to determine technological features, defects, and products of alteration. Hands-on experience with noninvasive imaging and spectroscopic techniques, sampling and sample preparation methods, analysis of microsamples. Letter grading.
+214. Structure, Properties, and Deterioration of Materials: Rock Art, Wall Paintings, Mosaics
+Units: 2.0
+(Formerly numbered M214.) Lecture, three hours. Recommended preparation: basic knowledge of general chemistry and materials science. Introduction to materials and techniques of rock art, wall paintings (including painted surfaces on cement and composite decorative architectural surfaces), and mosaics. Archaeological and ethnographic context, techniques, and materials. Pigments, colorants, and binding media. Chemical, optical, and structural properties. Relationship between composition (chemistry), structure (crystals, molecular arrangement, and microstructure), and properties explained using basic concepts from physics and chemistry. Intrinsic attributes and resistance to weathering. Causes, sources, and mechanisms of deterioration (physical, chemical, and biochemical). Letter grading.
+M215. Conservation Laboratory: Rock Art, Wall Paintings, and Mosaics
+Units: 4.0
+(Same as Conservation M250.) Laboratory, four hours. Requisites: courses 214, 216 (or C112 or C212), Conservation 210L. Recommended: course M213. Research-based laboratory on conservation of rock art, wall paintings (archaeological and modern composites on cements), mosaics, and decorated architectural surfaces. Experimental techniques and analysis of materials (using materials science and reverse engineering processes) for characterization of technology, constituent materials, and alteration products; development of conservation treatment proposals, testing of conservation products, and methods and conservation treatment. Letter grading.
+216. Science of Conservation Materials and Methods I
+Units: 4.0
+(Formerly numbered M216.) Lecture, two hours; laboratory, two hours. Recommended requisite: laboratory safety fundamental concepts course by Office of Environment, Health, and Safety. Introduction to physical, chemical, and mechanical properties of conservation materials (employed for preservation of archaeological and cultural materials) and their aging characteristics. Science and application methods of traditional organic and inorganic systems and introduction of novel technology based on biomineralization processes and nanostructured materials. Letter grading.
+221. Science of Electronic Materials
+Units: 4.0
+Lecture, four hours; discussion, one hour; outside study, seven hours. Requisite: course 120. Study of major physical and chemical principles affecting properties and performance of semiconductor materials. Topics include bonding, carrier statistics, band-gap engineering, optical and transport properties, novel materials systems, and characterization. Letter grading.
+222. Growth and Processing of Electronic Materials
+Units: 4.0
+Lecture, four hours; discussion, one hour; outside study, seven hours. Requisites: courses 120, 130, 131. Thermodynamics and kinetics that affect semiconductor growth and device processing. Particular emphasis on fundamentals of growth (bulk and epitaxial), heteroepitaxy, implantation, oxidation. Letter grading.
+223. Materials Science of Thin Films
+Units: 4.0
+Lecture, four hours; discussion, one hour; outside study, seven hours. Requisites: courses 120, 131. Fabrication, structure, and property correlations of thin films used in microelectronics for data and information processing. Topics include film deposition, interfacial properties, stress and strain, electromigration, phase changes and kinetics, reliability. Letter grading.
+224. Deposition Technologies and Their Applications
+Units: 4.0
+Lecture, four hours; discussion, one hour; outside study, seven hours. Examination of physics behind majority of modern thin film deposition technologies based on vapor phase transport. Basic vacuum technology and gas kinetics. Deposition methods used in high-technology applications. Theory and experimental details of physical vapor deposition (PVD), chemical vapor deposition (CVD), plasma-enhanced chemical vapor deposition processes. Letter grading.
+225. Materials Science of Surfaces
+Units: 4.0
+Lecture, four hours; discussion, one hour; outside study, seven hours. Requisites: course 120, Chemistry 113A. Introduction to atomic and electronic structure of surfaces. Survey of methods for determining composition and structure of surfaces and near-surface layers of solid-state materials. Emphasis on scanning probe microscopy, Auger electron spectroscopy, X-ray photoelectron spectroscopy, ultraviolet photoelectron spectroscopy, secondary ion mass spectrometry, ion scattering spectroscopy, and Rutherford backscattering spectrometry. Applications in microelectronics, optoelectronics, metallurgy, polymers, biological and biocompatible materials, and catalysis. Letter grading.
+226. Si-CMOS Technology: Selected Topics in Materials Science
+Units: 4.0
+Lecture, three hours; discussion, one hour; outside study, eight hours. Recommended preparation: Electrical Engineering 221B. Requisites: courses 130, 131, 200, 221, 222. Selected topics in materials science from modern Si-CMOS technology, including technological challenges in high k/metal gate stacks, strained Si FETs, SOI and three-dimensional FETs, source/drain engineering including transient-enhanced diffusion, nonvolatile memory, and metallization for ohmic contacts. Letter grading.
+243A. Fracture of Structural Materials
+Units: 4.0
+Lecture, four hours; laboratory, two hours; outside study, four hours. Requisite: course 143A. Engineering and scientific aspects of crack nucleation, slow crack growth, and unstable fracture. Fracture mechanics, dislocation models, fatigue, fracture in reactive environments, alloy development, fracture-safe design. Letter grading.
+243C. Dislocations and Strengthening Mechanisms in Solids
+Units: 4.0
+Lecture, four hours; discussion, one hour; outside study, seven hours. Requisite: course 143A. Elastic and plastic behavior of crystals, geometry, mechanics, and interaction of dislocations, mechanisms of yielding, work hardening, and other strengthening. Letter grading.
+246A. Mechanical Properties of Nonmetallic Crystalline Solids
+Units: 4.0
+Lecture, four hours; discussion, one hour; outside study, seven hours. Requisite: course 160. Materials and environmental factors affecting mechanical properties of nonmetallic crystalline solids, including atomic bonding and structure, atomic-scale defects, microstructural features, residual stresses, temperature, stress state, strain rate, size and surface conditions. Letter grading.
+246B. Structure and Properties of Glass
+Units: 4.0
+Lecture, four hours; discussion, one hour; outside study, seven hours. Requisite: course 160. Structure of amorphous solids and glasses. Conditions of glass formation and theories of glass structure. Mechanical, electrical, and optical properties of glass and relationship to structure. Letter grading.
+246D. Electronic and Optical Properties of Ceramics
+Units: 4.0
+Lecture, four hours; discussion, one hour; outside study, seven hours. Requisite: course 160. Principles governing electronic properties of ceramic single crystals and glasses and effects of processing and microstructure on these properties. Electronic conduction, ferroelectricity, and photochromism. Magnetic ceramics. Infrared, visible, and ultraviolet transmission. Unique application of ceramics. Letter grading.
+247. Nanoscale Materials: Challenges and Opportunities
+Units: 4.0
+Lecture, four hours; discussion, eight hours. Limited to graduate students. Literature studies of up-to-date subjects in novel materials and their potential applications, including nanoscale materials and biomaterials. Letter grading.
+248. Materials and Physics of Solar Cells
+Units: 4.0
+Lecture, four hours; discussion, one hour; outside study, seven hours. Comprehensive introduction to materials and physics of photovoltaic cell, covering basic physics of semiconductors in photovoltaic devices, physical models of cell operation, characteristics and design of common types of solar cells, and approaches to increasing solar cell efficiency. Recent progress in solar cells, such as organic solar cell, thin-film solar cells, and multiple junction solar cells provided to increase student knowledge. Tour of research laboratory included. Letter grading.
+250B. Advanced Composite Materials
+Units: 4.0
+Lecture, four hours; outside study, eight hours. Preparation: BS in Materials Science and Engineering. Requisite: course 151. Fabrication methods, structure and properties of advanced composite materials. Fibers; resin-, metal-, and ceramic-matrix composites. Physical, mechanical, and nondestructive characterization techniques. Letter grading.
+251. Chemistry of Soft Materials
+Units: 4.0
+Lecture, four hours. Introduction to organic soft materials, including essential basic organic chemistry and polymer chemistry. Topics include three main categories of soft materials: organic molecules, synthetic polymers, and biomolecules and biomaterials. Extensive description and discussion of structure-property relationship, spectroscopic and experimental techniques, and preparation methods for various soft materials. Letter grading.
+252. Organic Polymer Electronic Materials
+Units: 4.0
+Lecture, four hours; discussion, one hour; outside study, seven hours. Preparation: knowledge of introductory organic chemistry and polymer science. Introduction to organic electronic materials with emphasis on materials chemistry and processing. Topics include conjugated polymers; heavily doped, highly conducting polymers; applications as processable metals and in various electrical, optical, and electrochemical devices. Synthesis of semiconductor polymers for organic light-emitting diodes, solar cells, thin-film transistors. Introduction to emerging field of organic electronics. Letter grading.
+253. Bioinspired Materials
+Units: 4.0
+Lecture, four hours; discussion, one hour; outside study, seven hours. Broad overview of most recent advances in bioinspired materials and biomaterials, covering natural materials, biomimicry, and bioinspired artificial materials, with emphasis on synthesis, processing, hierarchical design, and assembly from nano- to macro-scale, properties and characterizations, and real-life applications. Letter grading.
+261. Risk Analysis for Engineers and Scientists
+Units: 4.0
+Lecture, four hours; discussion, one hour; outside study, seven hours. Topics include definition and fundamental concepts of risk, sociotechnical context of risk assessment and risk management, perception and reality of risk, risk-informed decision-making, domains of application (safety, health, security, economy, and environment), principal methods of risk assessment, including overview of probability and statistics, how to identify risk scenarios, techniques modeling failures of complex systems (e.g., fault tree and event tree analysis), data collection and analysis, model integration and computational algorithms for risk calculation and identification of risk drivers, simulation approach to risk modeling, uncertainty analysis, examples of risk assessment of engineered systems (e.g., space and aviation, nuclear power, petrochemical plants), other applications (risk of medical procedures, financial risk, natural hazards risk). Letter grading.
+CM263. Electrochemical Processes
+Units: 4.0
+(Same as Chemical Engineering CM214.) Lecture, four hours; discussion, one hour; outside study, seven hours. Requisites: course 130 (or Mechanical and Aerospace Engineering 105A), Chemical Engineering 102B. Fundamentals of electrochemistry and engineering applications to industrial electrochemical processes. Primary emphasis on fundamental approach to analyze electrochemical processes. Specific topics include electrochemical reactions on metal and semiconductor surfaces, electrodeposition, electroless deposition, electrosynthesis, fuel cells, aqueous and non-aqueous batteries, solid-state electrochemistry. May be concurrently scheduled with course CM163. Letter grading.
+270. Computer Simulations of Materials
+Units: 4.0
+Lecture, four hours; outside study, eight hours. Introduction to modern methods of computational modeling in materials science. Topics include basic statistical mechanics, classical molecular dynamics, and Monte Carlo methods, with emphasis on understanding basic physical ideas and learning to design, run, and analyze computer simulations of materials. Use of examples from current literature to show how these methods can be used to study interesting phenomena in materials science. Hands-on computer experiments. Letter grading.
+271. Electronic Structure of Materials
+Units: 4.0
+Lecture, four hours; outside study, eight hours. Preparation: basic knowledge of quantum mechanics. Recommended requisite: course 200. Introduction to modern first-principles electronic structure calculations for various types of modern materials. Properties of electrons and interatomic bonding in molecules, crystals, and liquids, with emphasis on practical methods for solving Schrödinger equation and using it to calculate physical properties such as elastic constants, equilibrium structures, binding energies, vibrational frequencies, electronic band gaps and band structures, properties of defects, surfaces, interfaces, and magnetism. Extensive hands-on experience with modern density-functional theory code. Letter grading.
+272. Theory of Nanomaterials
+Units: 4.0
+Lecture, four hours; outside study, eight hours. Strongly recommended requisite: course 200. Introduction to properties and applications of nanoscale materials, with emphasis on understanding of basic principles that distinguish nanostructures (with feature size below 100 nm) from more common microstructured materials. Explanation of new phenomena that emerge only in very small systems, using simple concepts from quantum mechanics and thermodynamics. Topics include structure and electronic properties of quantum dots, wires, nanotubes, and multilayers, self-assembly on surfaces and in liquid solutions, mechanical properties of nanostructured metamaterials, molecular electronics, spin-based electronics, and proposed realizations of quantum computing. Discussion of current and future directions of this rapidly growing field using examples from modern scientific literature. Letter grading.
+CM280. Introduction to Biomaterials
+Units: 4.0
+(Same as Bioengineering CM278.) Lecture, three hours; discussion, two hours; outside study, seven hours. Requisites: course 104, or Chemistry 20A, 20B, and 20L. Engineering materials used in medicine and dentistry for repair and/or restoration of damaged natural tissues. Topics include relationships between material properties, suitability to task, surface chemistry, processing and treatment methods, and biocompatibility. Concurrently scheduled with course CM180. Letter grading.
+282. Exploration of Advanced Topics in Materials Science and Engineering
+Units: 2.0
+Lecture, one hour; discussion, one hour; outside study, four hours. Researchers from leading research institutions around world deliver lectures on advanced research topics in materials science and engineering. Student groups present summary previews of topics prior to lecture. Class discussions follow each presentation. May be repeated for credit. S/U grading.
+296. Seminar: Advanced Topics in Materials Science and Engineering
+Units: 2.0
+Seminar, two hours; outside study, four hours. Advanced study and analysis of current topics in materials science and engineering. Discussion of current research and literature in research specialty of faculty members teaching course. May be repeated for credit. S/U grading.
+M297B. Material Processing in Manufacturing
+Units: 4.0
+(Same as Mechanical and Aerospace Engineering M297B.) Lecture, four hours; outside study, eight hours. Enforced requisite: Mechanical and Aerospace Engineering 183A. Thermodynamics, principles of material processing: phase equilibria and transitions, transport mechanisms of heat and mass, nucleation and growth of microstructure. Applications in casting/solidification, welding, consolidation, chemical vapor deposition, infiltration, composites. Letter grading.
+M297C. Composites Manufacturing
+Units: 4.0
+(Same as Mechanical and Aerospace Engineering M297C.) Lecture, four hours; outside study, eight hours. Requisites: course 151, Mechanical and Aerospace Engineering 166C. Matrix materials, fibers, fiber preforms, elements of processing, autoclave/compression molding, filament winding, pultrusion, resin transfer molding, automation, material removal and assembly, metal and ceramic matrix composites, quality assurance. Letter grading.
+298. Seminar: Engineering
+Units: 2.0 to 4.0
+Seminar, to be arranged. Limited to graduate materials science and engineering students. Seminars may be organized in advanced technical fields. If appropriate, field trips may be arranged. May be repeated with topic change. Letter grading.
+375. Teaching Apprentice Practicum
+Units: 1.0 to 4.0
+Seminar, to be arranged. Preparation: apprentice personnel employment as teaching assistant, associate, or fellow. Teaching apprenticeship under active guidance and supervision of regular faculty member responsible for curriculum and instruction at UCLA. May be repeated for credit. S/U grading.
+596. Directed Individual or Tutorial Studies
+Units: 2.0 to 8.0
+Tutorial, to be arranged. Limited to graduate materials science and engineering students. Petition forms to request enrollment may be obtained from assistant dean, Graduate Studies. Supervised investigation of advanced technical problems. S/U grading.
+597A. Preparation for MS Comprehensive Examination
+Units: 2.0 to 12.0
+Tutorial, to be arranged. Limited to graduate materials science and engineering students. Reading and preparation for MS comprehensive examination. S/U grading.
+597B. Preparation for PhD Preliminary Examinations
+Units: 2.0 to 16.0
+Tutorial, to be arranged. Limited to graduate materials science and engineering students. S/U grading.
+597C. Preparation for PhD Oral Qualifying Examination
+Units: 2.0 to 16.0
+Tutorial, to be arranged. Limited to graduate materials science and engineering students. Preparation for oral qualifying examination, including preliminary research on dissertation. S/U grading.
+598. Research for and Preparation of MS Thesis
+Units: 2.0 to 12.0
+Tutorial, to be arranged. Limited to graduate materials science and engineering students. Supervised independent research for MS candidates, including thesis prospectus. S/U grading.
+599. Research for and Preparation of PhD Dissertation
+Units: 2.0 to 16.0
+Tutorial, to be arranged. Limited to graduate materials science and engineering students. Usually taken after students have been advanced to candidacy. S/U grading.

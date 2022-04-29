@@ -1,0 +1,464 @@
+Lower Division Courses (16)
+1. Climate Change: From Puzzles to Policy
+Units: 4.0
+Lecture, three hours; discussion, one hour. Overview of fundamentals of Earth's climate, including greenhouse effect, water and chemical cycles, outstanding features of atmospheric and ocean circulation, and feedback between different system components. Exciting and contentious scientific puzzles of climate system, including causes of ice ages, greenhouse warming, and el niño. Importance of climate science and prediction to society, with emphasis on science's role in identifying, qualifying, and solving environmental problems such as ozone hole and greenhouse warming. P/NP or letter grading.
+1L. Climate Change: From Puzzles to Policy--Laboratory
+Units: 1.0
+Laboratory, one hour. Enforced corequisite: course 1. Investigations and demonstrations supporting material in course 1, including greenhouse effect, atmosphere and ocean circulation, past, present, and future climates, and role of science in climate change politics. P/NP or letter grading.
+2. Air Pollution
+Units: 4.0
+Lecture, three hours; discussion, one hour. Causes and effects of high concentrations of pollution in atmosphere. Topics include nature and sources of gaseous and particulate pollutants, their transport, dispersion, modification, and removal, with emphasis on atmospheric processes on scales ranging from individual sources to global effects; interaction with biosphere and oceans; stratospheric pollution. P/NP or letter grading.
+2L. Air Pollution Laboratory
+Units: 1.0
+Laboratory, one hour. Enforced corequisite: course 2. Investigations and demonstrations supporting material in course 2, including box model simulation, dose responses, air parcel motion and pollution dispersion, daily and seasonal variation of smog pollutants, and smog transport. P/NP or letter grading.
+3. Introduction to Atmospheric Environment
+Units: 4.0
+Lecture, three hours; discussion, one hour. Nature and causes of weather phenomena, including atmospheric circulation, clouds and storms, lightning and precipitation, fronts and cyclones, and tornadoes and hurricanes. Atmospheric radiation, global warming, and greenhouse effect. P/NP or letter grading.
+3L. Introduction to Atmospheric Environment Laboratory
+Units: 1.0
+Laboratory, one hour. Enforced corequisite: course 3. Investigations and demonstrations supporting material in course 3, including causes and effects of seasons, remote sensing and satellite picture interpretation, atmospheric stability, and weather systems (fronts and cyclones). P/NP or letter grading.
+5. Climates of Other Worlds
+Units: 4.0
+Lecture, three hours; discussion, one hour. Introduction to atmospheres of planets and their satellites in solar system using information obtained during recent planetary exploration program. Elementary description of origin and evolution of atmospheres on planets. Climates on planets, conditions necessary for evolution of life, and its resulting effect on planetary environment. P/NP or letter grading.
+M7. Perils of Space: Introduction to Space Weather
+Units: 4.0
+(Same as Earth, Planetary, and Space Sciences M7.) Lecture, four hours. Concepts of plasma physics. Dynamic sun, solar wind, and Earth's magnetosphere and ionosphere. Space storms and substorms and their impacts on astronauts, spacecraft, and surface power and communication grids. P/NP or letter grading.
+19. Fiat Lux Freshman Seminars
+Units: 1.0
+Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.
+51. Fundamentals of Climate Science
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: Mathematics 3B or 32A, Physics 1B or 5B or 5C or 6B, with grades of C or better. Development of fundamental understanding of climate science. Topics include global energy balance, atmospheric radiation and greenhouse effect, surface and boundary layer dynamics, atmospheric and oceanic circulation, global hydrologic cycle, modes of climate sensitivity, climate modeling, and climate change. P/NP or letter grading.
+M71. Introduction to Computing for Geoscientists
+Units: 4.0
+(Same as Earth, Planetary, and Space Sciences M71.) Lecture, three hours; laboratory, 90 minutes; outside computing study, six to 10 hours. Introduction to writing programs, visualization of geoscience data, and comparison with models. P/NP or letter grading.
+88. Lower-Division Seminar
+Units: 4.0
+Seminar, three hours. Variable topics; consult Schedule of Classes or department for topics to be offered in specific term. P/NP or letter grading.
+89. Honors Seminars
+Units: 1.0
+Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.
+89HC. Honors Contracts
+Units: 1.0
+Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.
+90. Introduction to Undergraduate Research in Atmospheric and Oceanic Sciences
+Units: 4.0
+Lecture, two hours; laboratory, two hours. Requisites: course M71 (or Program in Computing 10A); Life Sciences 30A and 30B, or Mathematics 3A and 3B, or 31A and 31B. Students gain basic ability to understand, conduct, and communicate scientific research in atmospheric and oceanic sciences. Univariate and bivariate statistical data analysis, scientific computer programming, basics of scientific process, finding and reading scientific literature, basic experimental techniques, Earth system data analysis and visualization, and communication of scientific findings in oral and written form. Skills taught in context of projects from atmospheric and oceanic sciences. P/NP or letter grading.
+99. Student Research Program
+Units: 1.0 to 2.0
+Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
+Upper Division Courses (40)
+M100. Earth and Its Environment
+Units: 4.0
+(Same as Environment M111.) Lecture, three hours. Overview of Earth as system of distinct, yet intimately related, physical and biological elements. Origins and characteristics of atmosphere, oceans, and land masses. Survey of history of Earth and of life on Earth, particularly in relation to evolution of physical world. Consideration of possibility of technological solutions to global environmental problems using knowledge gained during course. Letter grading.
+101. Fundamentals of Atmospheric Dynamics and Thermodynamics
+Units: 5.0
+Lecture, four hours; discussion, one hour. Requisites: Mathematics 3B or 31B or Life Sciences 30B, Physics 1B or 5B or 5C or 6B. Introduction to thermodynamics (flows of heat, energy, and work) and dynamics (winds) of atmosphere. Topics covered include hydrostatic balance, first law of thermodynamics, dry and moist adiabatic processes, atmospheric stability, and fundamental equations of motion of atmosphere, with applications to geostrophic, gradient, and thermal winds. Letter grading.
+102. Climate Change and Climate Modeling
+Units: 4.0
+Lecture, three hours; discussion, one hour. Enforced requisites: Mathematics 3C or 32A, Physics 1B or 6C, with grades of C or better. Global environmental issues in climate change due to human activities or natural climate variations. Quantitative introduction to new science of climate modeling to understand and predict these changes. Physical processes in climate system. Atmospheric and oceanic circulation. El niño and year-to-year climate prediction. Greenhouse effect and global warming. P/NP or letter grading.
+103. Physical Oceanography
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisite: Mathematics 3B or 31B. Introductory course for physical sciences, life sciences, or engineering majors interested in environmental issues. Observations of temperature, salinity, density, and currents. Methods. Wind-driven and geostrophic currents. California Current and Gulf Stream. Internal waves. Surface waves and tides. Air/sea interactions. Coastal upwelling. Biological/physical interactions. El niño. Role of ocean in climate and global change. Santa Monica Bay field trip. Letter grading.
+104. Fundamentals of Air and Water Pollution
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisite: Chemistry 14B or 20B. Chemistry and physics of air and water pollution, including photochemistry, acid rain, air pollution meteorology and dispersion, groundwater and surface water pollution, chemical cycling, air/water interface, global atmospheric change. Letter grading.
+M105. Introduction to Chemical Oceanography
+Units: 4.0
+(Same as Ecology and Evolutionary Biology M139.) Lecture, three hours; discussion, one hour. Introductory course for physical sciences, life sciences, and engineering majors interested in oceanic environment. Chemical composition of oceans and nature of physical, chemical, and biological processes governing this composition in past and present. Cycles of major and minor oceanic constituents, with focus on those that are most important for life (i.e., carbon, nitrogen, phosphorus, silicon, and oxygen). Investigation of primary production, export production, remineralization, diagenesis, air-sea gas exchange processes. Letter grading.
+M106. Applied Climatology: Principles of Climate Impact on Natural Environment
+Units: 4.0
+(Same as Geography M118.) Lecture, three hours; discussion, one hour. Designed for juniors/seniors. Exploration of knowledge and tools to solve complex problems in contemporary applied climatology, including current practices, influence of climate on environment, and human influence on changing climates. P/NP or letter grading.
+107. Biological Oceanography
+Units: 4.0
+Lecture, three hours; discussion, one hour. Introductory course for physical sciences, life sciences, and engineering majors interested in oceanic environment. Review of how biological processes are intrinsically tied to physical and chemical processes in oceans. Examination of processes that control distribution, abundance, and production of marine organisms and their spatial and temporal variability. Letter grading.
+C110. Advanced Dynamic and Synoptic Meteorology
+Units: 4.0
+Lecture, three and one half hours. Requisite: course 101. Weather map analysis, thermodynamic diagrams, satellite interpretation, severe weather forecasting, isentropic analysis, frontogenesis, quasi-geostrophic omega equation. Concurrently scheduled with course C227. P/NP or letter grading.
+C110L. Advanced Dynamic and Synoptic Meteorology Laboratory
+Units: 2.0
+Laboratory, two hours. Comprehensive weather forecasting exercises and map discussions led by meteorologist. Concurrently scheduled with course C227L. P/NP or letter grading.
+C111. Introduction to Machine Learning for Physical Sciences
+Units: 4.0
+Lecture, 90 minutes; laboratory, 90 minutes. Designed for physical sciences students. Practical, hands-on introduction to seven of most popular algorithms of machine learning (ML). Students gain most practical skills to start working in industry or research immediately, using popular Python programming language, together with SciKitLearn ML library, and covering essential theory to understand what algorithms do. Focus on solving typical problems that arise in physical sciences. Covers algorithms in broad areas of ML, including supervised learning (regression and classification) and unsupervised learning (clustering and dimensionality reduction). Lectures and programming exercises. Concurrently scheduled with course C204. P/NP or letter grading.
+112. Climate Change Assessment
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisite: one course from Life Sciences 30B, 40, Mathematics 3B, 31B, Statistics 10, 12, or 13. Recommended requisite: one course from 51, 101, 102, 103, 104, 105, M106, 107, Environment 175, or equivalent background for reading quantitative scientific literature in climate change. Projections of future anthropogenic climate change and understanding of natural climate variability depend on international climate model intercomparison projects, on large observing systems coordinating space and ground observations, and on multi-scientist climate assessments. Lectures, readings and projects with presentations address current issues in the scientific literature on assessment of climate change for students with prior background in the atmospheric, oceanic and environmental sciences. P/NP or letter grading.
+CM114. Aquatic Geomicrobiology
+Units: 4.0
+(Same as Earth, Planetary, and Space Sciences CM114.) Lecture, three hours; discussion, one hour. Recommended requisite: course M105 or Earth, Planetary, and Space Sciences C107. Fundamental geomicrobiological metabolisms and biogeochemical reactions occurring in aquatic systems, how they impact their environment, and how they interact in complex ecosystems such as methane seeps, hydrothermal vents, coral reefs, microbial mats, or deep biosphere. Metabolisms include different photoautotrophic, heterotrophic, and chemoautotrophic pathways. Interpretation of geochemical profiles and understanding of how microorganisms govern mineralization and element cycling in aquatic systems. Concurrently scheduled with course CM237. P/NP or letter grading.
+CM114A. Aquatic Geomicrobiology: Metabolisms
+Units: 4.0
+(Formerly numbered CM114.) (Same as Earth, Planetary, and Space Sciences CM114A.) Lecture, three hours. Recommended requisite: course M105 or Earth, Planetary, and Space Sciences C107. Study of fundamental geomicrobiological metabolisms and biogeochemical reactions occurring in aquatic systems and how these processes interact with environment. Metabolisms include photoautotrophic (anoxygenic and oxygenic photosynthesis), chemoheterotrophic (fermentation and respiration of organic matter), photoheterotrophic (organic matter degradation with light), and chemoautotrophic (iron, nitrogen, manganese, methane, and sulfur oxidation) pathways. Introduction of principals of bioenergetics (adenosine triphosphate production, Gibbs free energy, chemiosmosis, thermodynamic calculations) and biological isotope fractionation. Concurrently scheduled with course CM237A. P/NP or letter grading.
+CM114B. Aquatic Geomicrobiology: Environments
+Units: 4.0
+(Same as Earth, Planetary, and Space Sciences CM114B.) Lecture, three hours. Recommended requisite: course CM114A. Broad overview of aquatic geomicrobiological processes in diverse environmental settings (e.g., sediments, microbial mats, water column, wetlands, cold seeps, hydrothermal vents, deep biosphere), and how these processes drive element cycling on Earth. Concurrently scheduled with course CM237B. P/NP or letter grading.
+C115. Mesometeorology
+Units: 4.0
+Lecture, three hours. Requisite: course 101. Observations of phenomena with length scales ranging from 20 km to 2,000 km. Topics include polar lows, airmass thunderstorms, multicell storms, supercell tornadoes, gust fronts, downbursts, microbursts, and dry line. Discussions on design of field project. Concurrently scheduled with course C228. P/NP or letter grading.
+M120. Introduction to Fluid Dynamics
+Units: 4.0
+(Same as Earth, Planetary, and Space Sciences M140.) Lecture, three hours; discussion, one hour. Corequisite: Physics 131. Fluid statics and thermodynamics. Kinematics. Conservation laws and equations of fluid motion. Circulation theorems and vorticity dynamics. Rotating frame. Irrotational flow. Letter grading.
+121. Climate Mitigation Solutions
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisite: one course from course 1, 2, 3, 51, M100, 102, or 112. Critical survey of potential strategies to address climate change, including solutions in infrastructure, transportation, energy, waste, and agricultural sectors, as well as geoengineering. Exploration of roles of communication, equity, religion, social change, and education in mitigating climate change. P/NP or letter grading.
+123. Climate Adaptation Solutions
+Units: 4.0
+Lecture, three hours; discussion, one hour. Recommended requisites: courses 1, 51, Environment 10. Development of fundamental understanding of climate change adaptation challenges facing humanity. Such challenges stem from changes in physical climate system, such as warming and increases in heat extremes, loss of snow and ice, sea level rise, increases in extreme precipitation, deepening drought, increases in wildfire, deteriorating air quality, changes in ocean circulation, and ocean acidification. Examination of all these challenges, as well as associated stresses on human and natural systems. Examination of these issues from local, regional, and global perspectives, emphasizing intersections with other deep sustainability challenges. P/NP or letter grading.
+130. California's Ocean
+Units: 4.0
+Lecture, four hours. Recommended requisite: course 103 or M105. Circulation, biogeochemistry, biota, water quality, measurement techniques, computational modeling, conservation, and management for California's coastal ocean, including coastal measurement cruise and term project (paper and presentation). Letter grading.
+135. Ocean Change in the Anthropocene
+Units: 4.0
+Lecture, 90 minutes; laboratory, 90 minutes. Requisites: courses 103, 105. Review of main impacts of human activities on ocean, from warming and acidification to overfishing, pollution, and exploitation of marine resources. Discussion of concepts of governance and sustainability. Introduction to global ocean datasets and IPCC-class model output. Student-led presentation to review significant papers from scientific literature. Letter grading.
+141. Introduction to Atmospheric Chemistry and Air Pollution
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: Chemistry 14B or 20B, Mathematics 3A or 31A, Physics 1B or 6B. Physical and chemical processes that determine composition of atmosphere and its implications for climate, ecosystems, and human welfare. Origin of atmosphere. Nitrogen, oxygen, carbon, sulfur, trace metal cycles. Climate and greenhouse effect. Atmospheric transport and turbulence. Stratospheric ozone. Oxidizing power of atmosphere. Regional air pollution: aerosols, smog, mercury, and acid rain. Letter grading.
+C144. Atmospheric Boundary Layer
+Units: 4.0
+Lecture, three hours. Enforced requisite: course 101 with grade of B+ or better. Atmospheric boundary layer is lowest portion of atmosphere, representing interface between Earth's surface and atmosphere, is strongly affected by turbulence, and plays important role in exchange of heat, momentum, trace gases, and aerosols between Earth's surface and free troposphere. Investigation of properties of atmospheric boundary layer and processes that determine them. Concurrently scheduled with course C222. P/NP or letter grading.
+145. Atmospheric Physics: Radiation, Clouds, and Aerosols
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: Physics 1A, 1B, and 1C, or 6A, 6B, and 6C. Theory and application of atmospheric radiation, aerosol, and cloud processes. Topics include radiative transport, cloud and rain formation, aerosol properties, impact of aerosol and clouds on climate. Letter grading.
+150. Atmospheric and Oceanic Sciences Laboratory
+Units: 5.0
+Lecture, one hour; laboratory, six hours. Requisites: Mathematics 3B or 31B, Physics 1B and 1C (or 6B and 6C). Many of today's environmental problems, such as stratospheric ozone hole, current rise of greenhouse gas concentrations, and various severe weather phenomena, were first discovered and investigated using accurate observational techniques. Direct experimental observations remain crucial component in today's efforts to better understand weather, climate, and pollution of atmosphere and ocean. Introduction to experimental/observational approach in atmospheric and oceanic sciences. Students work in small groups to gain hands-on experience in setup, performance, analysis, and reporting of different experiments. Introduction to underlying principles of these experimental methods and basic data analysis tools. P/NP or letter grading.
+150. Atmospheric and Oceanic Sciences Laboratory (Effective Fall 2022 )
+Units: 5.0
+155. Introduction to Ecosystem-Atmosphere Interactions
+Units: 4.0
+Lecture, three hours; discussion, one hour. Exchanges of energy, moisture, atmospheric trace gases, and momentum between terrestrial ecosystems and atmosphere. Interactions and feedbacks between physical environment and physiological status of plants and soils. Topics include canopy structure and function, leaf energy balance, and carbon and water fluxes between plants, soils, and atmosphere. Letter grading.
+C160. Remote Sensing of Atmosphere and Oceans
+Units: 4.0
+Lecture, three hours. Requisite: Physics 1C or 6B. Theory and techniques of remote sensing; atmospheric spectroscopy, scattering, and polarization; passive and active techniques; relevant satellite systems; inversion methods; remote sensing of clouds, aerosols, temperature, precipitation, and trace constituents; remote sensing of oceans and biosphere. Concurrently scheduled with course C240B. P/NP or letter grading.
+C170. Introduction to Solar System Plasmas
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: Mathematics 33A, Physics 1C. Introduction to basic plasma physical processes occurring in sun, solar wind, magnetospheres, and ionospheres of planets, using simple fluid (magnetohydrodynamic) models as well as individual particle (radiation belt dynamics) approach. Solar-planetary coupling processes, geomagnetic phenomena, aurora. Concurrently scheduled with course C205A. Letter grading.
+180. Numerical Methods in Atmospheric Sciences
+Units: 4.0
+Lecture, three hours; discussion, one hour. Preparation: one course in programming (C/C++, Fortran, Matlab, or Python). Requisite: Mathematics 33B. Introduction to numerical methods employed in atmospheric and oceanic sciences: theory, application, programming, and visualization tools. Students build their own numerical model of atmospheric/oceanic circulation. Term project. Letter grading.
+181. Analysis and Prediction of Weather Systems
+Units: 3.0
+Laboratory, three hours. Requisite: course C110. Limited to junior/senior Atmospheric and Oceanic Sciences majors. Introduction to collection, display, and application of weather observations and numerical forecasts used by operational meteorologists. Includes daily weather map discussions, and analysis and interpretation of numerical weather prediction model outputs. Letter grading.
+C182. Data Analysis in Atmospheric and Oceanic Sciences
+Units: 4.0
+Lecture, three hours; laboratory, one hour. Enforced requisite: one course from 101 through M105. Recommended: one probability course. Overview of data analytic methods in common use in atmospheric and oceanic research. Linear models, principal component analysis (empirical orthogonal function), time-series analysis, and clustering methods. Model validation and evaluation, significance tests, error analysis, bias detection. Emphasis on practical applications, with specific examples from atmospheric and oceanic sciences. Concurrently scheduled with course C260. P/NP or letter grading.
+186. Operational Meteorology
+Units: 2.0
+Laboratory, six hours. Requisite: course C110. Limited to junior/senior Atmospheric, Oceanic, and Environmental Sciences majors. Daily contact with weather data and forecasting, satellite and radar data. Introduction to weather forecasting for aviation, air pollution, marine weather, fire weather, and public use. Includes daily weather map discussions and visits to observing, radiosonde, and radar installations. Letter grading.
+M187. Careers in Earth System, Environment, and Space Sciences
+Units: 1.0
+(Same as Earth, Planetary, and Space Sciences M187 and Environment M187.) Seminar, one hour. Examination of central role of science in understanding and addressing grand challenges in climate, earth and environment, and space exploration through seminars given by scientists, engineers, managers, and entrepreneurs from national laboratories and industry. Includes tour of National Aeronautics and Space Administration (NASA) Jet Propulsion Laboratory (JPL). Students engage speakers on science, career preparation, opportunities for undergraduate internships, and building fulfilling careers. P/NP grading.
+188. Special Topics in Atmospheric and Oceanic Sciences
+Units: 4.0
+Lecture, three hours; discussion, one hour. Departmentally-sponsored experimental or temporary courses, such as those taught by visiting faculty members. May be repeated for credit with topic change. P/NP or letter grading.
+189. Advanced Honors Seminars
+Units: 1.0
+Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.
+189HC. Honors Contracts
+Units: 1.0
+Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.
+190. Research Colloquia in Atmospheric and Oceanic Sciences
+Units: 2.0
+Seminar, two hours. Preparation: basic knowledge of meteorology (equivalent to course 3) and lower-division calculus, chemistry, and physics; course 101 strongly recommended. Limited to departmental majors and minors. Survey of current research projects presented by faculty members and research staff in seminar and/or panel discussion format. May be repeated for credit. P/NP grading.
+197. Individual Studies in Atmospheric and Oceanic Sciences
+Units: 2.0 to 4.0
+Tutorial, to be arranged. Limited to juniors/seniors. Individual intensive study, with scheduled meetings to be arranged between faculty member and student. Assigned reading and tangible evidence of mastery of subject matter required. May be repeated for credit. Individual contract required. P/NP or letter grading.
+199. Directed Research in Atmospheric and Oceanic Sciences
+Units: 2.0 to 4.0
+Tutorial, to be arranged. Limited to juniors/seniors and required for Mathematics/Atmospheric and Oceanic Sciences majors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit. Individual contract required. P/NP or letter grading.
+Graduate Courses (98)
+200A. Introduction to Atmospheric and Oceanic Fluid
+Units: 4.0
+Lecture, three hours; discussion, one hour. Recommended requisite: Physics 131. Thermodynamics of two component (moist/salty) fluids. Thermodynamic diagrams and stability. Saturation and moist processes. Hydrostatics. Equations of fluid motion in rotating coordinate systems. Scales of motion and dominant balances: geostrophic, gradient, and thermal wind. Circulation and vorticity. Boundary layers and turbulence. Elementary waves. S/U or letter grading.
+200B. Introduction to Dynamics of Earth System
+Units: 4.0
+Lecture, three hours. Overview of general circulation of atmosphere and ocean; global energy balances; coupled circulations (such as el niño); mesoscale, synoptic, and tropical phenomena; boundary layers, clouds, and convection; biogeochemical cycles; climate variability and change. S/U or letter grading.
+200B. Introduction to Dynamics of Earth System (Effective Fall 2022 )
+Units: 4.0
+Lecture, three hours. Overview of processes that determine dynamics of Earth system and contribute to its change including global and meridional energy balance; radiative-convective equilibrium; surface processes; planetary boundary layers; global atmospheric circulation; hydrological cycle; global ocean circulation; El Niño--Southern Oscillation and other climate variability modes; paleoclimate; climate sensitivity; climate variability and change; Earth's carbon cycle (atmosphere, ocean, land), and space physics. S/U or letter grading.
+200D. Scientific Communication for Atmospheric and Oceanic Scientists
+Units: 4.0
+Lecture, three hours; discussion, one hour. Basics of scientific communication. How to efficiently survey literature and read scientific papers. Philosophy of scientific writing. Writing literature review, identifying and articulating gap in scientific literature, writing effective introduction that places scientific question in broader context, and crafting proposal. How to give effective presentation. S/U or letter grading.
+201A. Geophysical Fluid Dynamics I
+Units: 4.0
+Lecture, three hours. Fundamental equations of motion. Atmospheric and oceanic approximations. Rotating reference frame. Density stratification. Geostrophic adjustment and balance. Potential vorticity conservation. Vortex dynamics. Acoustic, gravity, inertial, Rossby, and Kelvin waves. Barotropic and baroclinic instability. Ekman boundary layers. Oceanic wind gyres: Sverdrup balance and western boundary currents. Letter grading.
+201B. Geophysical Fluid Dynamics II
+Units: 4.0
+Lecture, three hours. Enforced requisite: course 201A. Anelastic approximation. Small-scale gravity waves in atmosphere. Critical levels. Kelvin/Helmholtz instability. Quasi-static oscillations of planetary atmosphere. Equatorial Kelvin and mixed Rossby-gravity (Yanai) waves. Baroclinic and barotropic instabilities in continuously stratified system. General circulation of atmosphere. Jet streams, eddies, storm tracks. Propagation of planetary waves. Wave-mean flow interactions. Noninteraction theorems. Letter grading.
+201C. Atmospheric and Oceanic Turbulence
+Units: 4.0
+Lecture, three hours. Requisite: course 200A. Recommended: course 201A. Turbulent flows that occur on relatively small scales (&lt;~10 km) in both atmosphere and ocean. Classical homogeneous, shear, convective, and boundary-layer turbulence and its geophysical modification due to stratification, Earth's rotation, and water phase changes. S/U or letter grading.
+202. Introduction to Ocean Science
+Units: 4.0
+Lecture, three hours. Fundamentals of ocean physics, chemistry, and biology. Equations of motion, dynamical balances, conservation laws. Ocean circulation and material transport from small-scale eddies and waves to global circulation of thermocline and deep ocean; influences on ecosystem processes, biogeographic provinces, and chemical cycles; implications for global heat transport, sea ice, and climate. S/U or letter grading.
+M203A. Introduction to Atmospheric Chemistry
+Units: 4.0
+(Same as Civil Engineering M262A.) Lecture, three hours. Requisite for undergraduates: Chemistry 20B. Principles of chemical kinetics, thermochemistry, spectroscopy, and photochemistry; chemical composition and history of Earth's atmosphere; biogeochemical cycles of key atmospheric constituents; basic photochemistry of troposphere and stratosphere, upper atmosphere chemical processes; air pollution; chemistry and climate. S/U or letter grading.
+203B. Introduction to Atmospheric Physics
+Units: 4.0
+Lecture, three hours; discussion, one hour. Principles of radiative transfer; absorption, emission, and scattering of solar and infrared radiation; radiation budget consideration; aerosols in atmosphere; principles of water droplet and ice crystal formation; diffusion and accretion; precipitation processes; radiative forcings of clouds/aerosols and climate feedback. S/U or letter grading.
+C204. Introduction to Machine Learning for Physical Sciences
+Units: 4.0
+Lecture, 90 minutes; laboratory, 90 minutes. Designed for physical sciences students. Practical, hands-on introduction to seven of most popular algorithms of machine learning (ML). Students gain most practical skills to start working in industry or research immediately, using popular Python programming language, together with SciKitLearn ML library, and covering essential theory to understand what algorithms do. Focus on solving typical problems that arise in physical sciences. Covers algorithms in broad areas of ML, including supervised learning (regression and classification) and unsupervised learning (clustering and dimensionality reduction). Lectures and programming exercises. Concurrently scheduled with course C111. S/U or letter grading.
+C205A. Introduction to Solar System Plasmas
+Units: 4.0
+Lecture, three hours; discussion, one hour. Introduction to basic plasma physical processes occurring in sun, solar wind, magnetospheres, and ionospheres of planets, using simple fluid (magnetohydrodynamic) models as well as individual particle (radiation belt dynamics) approach. Solar-planetary coupling processes, geomagnetic phenomena, aurora. Concurrently scheduled with course C170. S/U (for majors with consent of instructor after successful completion of written and oral comprehensive examination and for nonmajors at discretion of major department) or letter grading.
+205B. Introduction to Solar-Terrestrial Physics
+Units: 4.0
+Lecture, three hours; discussion, one hour. Solar, interplanetary, magnetospheric, ionospheric, auroral, geomagnetic phenomenological and theoretical background for studies in space physics. Contextual understanding and literacy in space physics terminology provided. S/U (for majors with consent of instructor after successful completion of written and oral comprehensive examination and for nonmajors at discretion of major department) or letter grading.
+205C. Planetary Upper Atmospheres
+Units: 4.0
+Lecture, three hours; discussion, one hour. Aeronomy of upper atmospheres of Earth and other planets and some of their satellites--thermospheric structure and morphology, circulations, and disturbances; ionospheres as collisional and magnetized (unmagnetized) plasmas: currents, drifts, and instabilities. Examples of upper atmospheric interaction with lower atmosphere and magnetosphere. S/U (for majors with consent of instructor after successful completion of written and oral comprehensive examination and for nonmajors at discretion of major department) or letter grading.
+M206. Introduction to Biophysical Modeling of Land Surface Processes and Land/Atmosphere Interactions
+Units: 4.0
+(Same as Geography M206.) Lecture, two hours; laboratory, one hour; reading period, one hour. Designed for graduate students. Presentation of introductory knowledge for graduate students to understand nature, principles, and scope of biophysical modeling of land surface processes, including ideal canopy model, radiation, heat and CO2 fluxes transfer, and satellite data application. Laboratory sessions included. S/U or letter grading.
+209. Climate Change Assessment
+Units: 4.0
+Lecture, three hours; discussion, one hour. Corequisites: graduate atmospheric, oceanic, hydrological, or climate science courses. Lectures, readings, and projects on current issues in projections of future anthropogenic climate change; design and use of resources from Coupled Model Intercomparison Projects (CMIPs), topics from large multiscientist climate assessments, including Intergovernmental Panel on Climate Change (IPCC). Issues in modeling current climate, including natural climate variability, paleoclimate, and global change under standardized scenarios for future anthropogenic greenhouse gases and aerosols. May be repeated for credit. S/U (for majors with consent of instructor after successful completion of written and oral comprehensive examination and for nonmajors at discretion of major department) or letter grading.
+M210. Planetary Atmospheres and Climates
+Units: 4.0
+(Same as Earth, Planetary, and Space Sciences M229.) Lecture, three hours. Enforced requisite: Physics 1C. Planetary atmospheric structure and composition, radiative transfer, and climate dynamics. Topics include origin and evolution of atmospheres, paleoclimate of Earth and Mars, atmospheric thermodynamics, plane-parallel radiative transfer, climate dynamics, climate forcings/feedbacks, bifurcation, and climate hysteresis. S/U or letter grading.
+211. Planetary Wave Dynamics and Teleconnections in Atmosphere/Ocean
+Units: 4.0
+Lecture, three hours. Requisite: course 201B. Dynamics of stationary and low-frequency waves in Earth's atmosphere and ocean with applications to remote impacts of climate variability. Propagation of barotropic and baroclinic Rossby waves in spatially varying flow. Interactions with storm tracks and mean flow. Teleconnection patterns. S/U (for majors with consent of instructor after successful completion of written and oral comprehensive examination and for nonmajors at discretion of major department) or letter grading.
+212A. Numerical Methods in Geophysical Fluid Dynamics
+Units: 4.0
+Lecture, three hours. Requisite or corequisite: course 201A. Basic numerical methods for initial-boundary value problems in fluid dynamics, with emphasis on applications to atmospheric and oceanographic problems. Finite-difference methods and truncation error. Linear and nonlinear computational instability. Computational modes and computational boundary conditions. Nonlinear shallow-water equation model. Spectral methods. S/U (for majors with consent of instructor after successful completion of written and oral comprehensive examination and for nonmajors at discretion of major department) or letter grading.
+212B. Numerical Modeling of Atmosphere I
+Units: 4.0
+Lecture, three hours. Requisites: courses 201B, 212A. Dynamics of numerical weather prediction and climate models and their computational design. Basic governing equations. Vertical and horizontal coordinates. Quasi-geostrophic and balanced models. Shallow-water equation model. Three-dimensional primitive equation models. Limited-area modeling. S/U (for majors with consent of instructor after successful completion of written and oral comprehensive examination and for nonmajors at discretion of major department) or letter grading.
+212C. Numerical Modeling of Atmosphere II
+Units: 4.0
+Lecture, three hours. Requisite: course 201C. Formulation of physical processes in numerical weather prediction and climate models. Planetary boundary layer processes. Turbulence closure models. Condensation processes. Parameterization of moist-convective processes. Cloudiness parameterization. Parameterization of gravity wave drag. S/U grading.
+213. Global Circulation of Atmosphere
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisite: course 200B. Global atmospheric circulation and its variability in changing climate. Topics include theory of Rossby waves and application to global circulation of atmosphere, dynamics of Hadley cell and monsoon circulations, wave-mean interaction and application to jets/storm tracks, energetics of eddies and available potential energy in atmosphere, and coupling among circulation, moisture, and clouds. S/U or letter grading.
+214. Theoretical Climatic Dynamics
+Units: 4.0
+Lecture, three hours. Radiative transfer and energy-balance models (EBMs). Multiple equilibrium climates and their stability. Coupled EBMs of atmosphere and oceans. Climatic history of our planet. Continuum mechanics of ice sheets and mantle. Oscillatory models of Quaternary glaciation cycles. Transitions from equilibrium to periodic and aperiodic climate behavior. Climatic predictability. S/U (for majors with consent of instructor after successful completion of written and oral comprehensive examination and for nonmajors at discretion of major department) or letter grading.
+215. Ocean Circulation
+Units: 4.0
+Lecture, three hours. Requisites: courses 200A, 202. Phenomena, theory, and modeling of ocean circulations with global to regional scope. Circulation types include thermohaline and wind-driven currents. Examination of relationships between ocean circulations and smaller-scale motions, atmospheric climate, and biogeochemical transport. S/U (for majors with consent of instructor after successful completion of written and oral comprehensive examination and for nonmajors at discretion of major department) or letter grading.
+216A. Tropical Motions with Moist Processes
+Units: 4.0
+Lecture, three hours. Requisite: course 201C. Cumulus convection and the boundary layer in tropics. Cloud clusters and mesoscale convection systems. Interaction of cumulus convection with large-scale environment. Tropical cyclones. Monsoon meteorology. S/U (for majors with consent of instructor after successful completion of written and oral comprehensive examination and for nonmajors at discretion of major department) or letter grading.
+216B. Wave Motions in Tropical Atmosphere
+Units: 4.0
+Lecture, three hours. Requisite: course 201B. Basic theory of equatorially trapped waves. Observations of tropical wave disturbances. Generation mechanisms of tropical waves. Tropical 30-50 day oscillation. Quasi-biennial and semiannual oscillations. S/U (for majors with consent of instructor after successful completion of written and oral comprehensive examination and for nonmajors at discretion of major department) or letter grading.
+217. Regional Climate Dynamics
+Units: 4.0
+Lecture, three hours; discussion, one hour. Global distribution of climate regimes with spatial scales smaller than 100 km. Mechanisms maintaining regional climate variation against larger-scale atmospheric and climate gradients. Regional climate/ecosystem/human system interactions. S/U or letter grading.
+218. Dynamics of Atmosphere/Ocean System
+Units: 4.0
+Lecture, three hours. Transfer of properties between atmosphere and ocean; wind-driven ocean currents; coastal upwelling. Air/sea interactions. Effects of oceans on climate. S/U (for majors with consent of instructor after successful completion of written and oral comprehensive examination and for nonmajors at discretion of major department) or letter grading.
+219. Statistical Analysis and Visual Explanation of Large Climate Data
+Units: 4.0
+Lecture, three hours; discussion, one hour. Introduction to statistical methods to analyze climate data and principles of visual presentation of quantitative information. Review of basic statistical concepts. Principles of visual display of quantitative information. Parametric and non-parametric tests for auto-correlated and non-stationary data, multiplicity, and field significance. Spatial-tempo pattern analyses including cross-spectral analysis, spatio-temporary spectral analysis, empirical orthogonal function (EOF) and extension of EOFs (complex EOF, multivariate EOF, extended EOF). Spatial-temporal canonical correlation analysis (CCA), time-lagged CCA, maximum correlation analysis (or singular value decomposition). Self-organizing map. S/U or letter grading.
+C222. Atmospheric Boundary Layer
+Units: 4.0
+Lecture, three hours. Atmospheric boundary layer is lowest portion of atmosphere, representing interface between Earth's surface and atmosphere, is strongly affected by turbulence, and plays important role in exchange of heat, momentum, trace gases, and aerosols between Earth's surface and free troposphere. Investigation of properties of atmospheric boundary layer and processes that determine them. Concurrently scheduled with course C144. S/U or letter grading.
+224A. Atmospheric Turbulence
+Units: 4.0
+Lecture, three hours. Kinematics of homogeneous and shear flow turbulence. Surface and planetary boundary layers, including heat transfer and turbulent convection. Survey of field and laboratory observations and their interpretation by theory. S/U (for majors with consent of instructor after successful completion of written and oral comprehensive examination and for nonmajors at discretion of major department) or letter grading.
+M224B. Atmospheric Diffusion and Air Pollution
+Units: 4.0
+(Same as Civil Engineering M262B.) Lecture, three hours. Nature and sources of atmospheric pollution; diffusion from point, line, and area sources; pollution dispersion in urban complexes; meteorological factors and air pollution potential; meteorological aspects of air pollution. S/U (for majors with consent of instructor after successful completion of written and oral comprehensive examination and for nonmajors at discretion of major department) or letter grading.
+225. Advanced Topics in Aerosol Chemistry and Physics
+Units: 4.0
+Lecture, three hours. Requisites: courses M203A, 203B (may be taken concurrently). Study of advanced aerosol processes, including emission processes, optical properties, secondary organic aerosol formation and heterogenous chemistry, and methods for aerosol measurements. Each student performs class project looking in detail at one aspect covered. May be repeated for credit. S/U or letter grading.
+C227. Advanced Dynamic and Synoptic Meteorology
+Units: 4.0
+Lecture, three and one half hours. Weather map analysis, thermodynamic diagrams, satellite interpretation, severe weather forecasting, isentropic analysis, frontogenesis, quasi-geostrophic omega equation. Concurrently scheduled with course C110. S/U (for majors with consent of instructor after successful completion of written and oral comprehensive examination and for nonmajors at discretion of major department) or letter grading.
+C227L. Advanced Dynamic and Synoptic Meteorology Laboratory
+Units: 2.0
+Laboratory, two hours. Comprehensive weather forecasting exercises and map discussions led by meteorologist. Concurrently scheduled with course C110L. S/U or letter grading.
+C228. Mesometeorology
+Units: 4.0
+Lecture, three hours. Requisite: course 101. Observations of phenomena with length scales ranging from 20 km to 2,000 km. Topics include polar lows, airmass thunderstorms, multicell storms, supercell tornadoes, gust fronts, downbursts, microbursts, and dry line. Discussions on design of field project. Concurrently scheduled with course C115. S/U (for majors with consent of instructor after successful completion of written and oral comprehensive examination and for nonmajors at discretion of major department) or letter grading.
+229. Mesoscale Modeling
+Units: 4.0
+Lecture, three hours. Requisites: courses 201C, C228. Numerical and analytical modeling of convective and mesoscale motions, from shallow heat sources to large complex systems. Model frameworks, assumptions, parameterizations, and solution techniques. Role of modeling efforts in understanding dynamic structure and behavior of systems. S/U (for majors with consent of instructor after successful completion of written and oral comprehensive examination and for nonmajors at discretion of major department) or letter grading.
+230A. Atmospheric Chemistry I
+Units: 4.0
+Lecture, three hours. Requisite: course M203A. Photochemistry of troposphere; physical chemistry of surfaces and solutions; precipitation chemistry and acid rain; atmospheric organic chemistry; regional and global biogeochemical cycles; current issues in global change. S/U (for majors with consent of instructor after successful completion of written and oral comprehensive examination and for nonmajors at discretion of major department) or letter grading.
+230B. Atmospheric Chemistry II
+Units: 4.0
+Lecture, three hours. Requisite: course M203A. Photochemistry of stratosphere and mesosphere; basic ionospheric processes; stratospheric pollution and ozone layer; physical chemistry of upper atmosphere clouds and aerosols; comparative photochemistry of planetary atmospheres; observational techniques and results. S/U (for majors with consent of instructor after successful completion of written and oral comprehensive examination and for nonmajors at discretion of major department) or letter grading.
+232. Chemical Transport Modeling
+Units: 4.0
+Lecture, three hours. Requisites: courses M203A, 230A, 230B. Equations of tracer transport and chemical kinetics modeling in three dimensions; numerical techniques; coupled simulations of gas-phase and aerosol microphysics and chemistry; computational versus observational results; current problems in tracer modeling. S/U (for majors with consent of instructor after successful completion of written and oral comprehensive examination and for nonmajors at discretion of major department) or letter grading.
+M235. Ocean Biogeochemical Dynamics and Climate
+Units: 4.0
+(Same as Ecology and Evolutionary Biology M238.) Lecture, three hours. Interaction of ocean biogeochemical cycles with physical climate system. Biogeochemical processes controlling carbon dioxide and oxygen in oceans and atmosphere over time-scales from few million years to several years. Anthropogenic perturbation of global carbon cycle and climate. Response of ocean ecosystems to past and future global changes. Use of isotopes to study ocean biogeochemical cycles and climate. Interactions between biogeochemical cycles on land and in ocean. S/U or letter grading.
+236. Terrestrial Biogeochemical Dynamics and Climate
+Units: 4.0
+Lecture, three hours. Corequisites: graduate atmospheric, oceanic, hydrological, and climate science courses. Biogeochemical cycles in terrestrial biosphere. Carbon/water/energy/nutrient dynamics. Observational techniques and results. Interactions of terrestrial biogeochemical cycles with climate system on timescales of seconds to centuries. Use of isotopes to study land biogeochemical cycles and climate. Anthropogenic perturbations of global terrestrial biogeochemical cycles and climate feedbacks. Response of land ecosystems to past and future global changes. S/U or letter grading.
+CM237. Aquatic Geomicrobiology
+Units: 4.0
+(Same as Earth, Planetary, and Space Sciences CM214.) Lecture, three hours; discussion, one hour. Recommended requisite: course M105 or Earth, Planetary, and Space Sciences C107. Fundamental geomicrobiological metabolisms and biogeochemical reactions occurring in aquatic systems, how they impact their environment, and how they interact in complex ecosystems such as methane seeps, hydrothermal vents, coral reefs, microbial mats, or deep biosphere. Metabolisms include different photoautotrophic, heterotrophic, and chemoautotrophic pathways. Interpretation of geochemical profiles and understanding of how microorganisms govern mineralization and element cycling in aquatic systems. Concurrently scheduled with course CM114. S/U or letter grading.
+CM237A. Aquatic Geomicrobiology: Metabolisms
+Units: 4.0
+(Formerly numbered CM237.) (Same as Earth, Planetary, and Space Sciences CM214A.) Lecture, three hours. Recommended requisite: course M105 or Earth, Planetary, and Space Sciences C107. Study of fundamental geomicrobiological metabolisms and biogeochemical reactions occurring in aquatic systems and how these processes interact with environment. Metabolisms include photoautotrophic (anoxygenic and oxygenic photosynthesis), chemoheterotrophic (fermentation and respiration of organic matter), photoheterotrophic (organic matter degradation with light), and chemoautotrophic (iron, nitrogen, manganese, methane, and sulfur oxidation) pathways. Introduction of principals of bioenergetics (adenosine triphosphate production, Gibbs free energy, chemiosmosis, thermodynamic calculations) and biological isotope fractionation. Concurrently scheduled with course CM114A. S/U or letter grading.
+CM237B. Aquatic Geomicrobiology - Environments
+Units: 4.0
+(Same as Earth, Planetary, and Space Sciences CM214B.) Lecture, three hours. Recommended requisite: course CM237A. Broad overview of aquatic geomicrobiological processes in diverse environmental settings (e.g., sediments, microbial mats, water column, wetlands, cold seeps, hydrothermal vents, deep biosphere), and how these processes drive element cycling on Earth. Concurrently scheduled with course CM114B. S/U or letter grading.
+M238. How to Write and Publish Scientific Papers
+Units: 4.0
+(Formerly numbered 238.) (Same as Earth, Planetary, and Space Sciences M237.) Lecture, three hours. Recommended preparation: planning to prepare or in the process of preparing manuscripts. Introduction to process of scientific manuscript writing and publishing. Offers insights into fun and frustration of manuscript writing, important rules for manuscript structuring and scientific language, and advice on how to deal with review process. Students gain familiarity with general principles of successful publishing process. Addresses different stages of manuscript writing and publishing by answering when are data ready for publishing, where to publish, how to structure manuscript, best way to present data, how to properly get out message, which writing ethics to consider, how to effectively use citation program, how to communicate with reviewers and editors, and efficient ways to manage coauthors. S/U or letter grading.
+240A. Radar Meteorology
+Units: 4.0
+Lecture, three hours. Radar detection of spherical and nonspherical particles; use of radar in studying size distributions of cloud and precipitation particles, precipitation intensity and amount, updraft velocities, horizontal wind speed, and turbulence; radar observations of convective clouds, thunderstorms, tornadoes, hurricanes, squall lines, and fronts; clear air echoes. S/U (for majors with consent of instructor after successful completion of written and oral comprehensive examination and for nonmajors at discretion of major department) or letter grading.
+C240B. Remote Sensing of Atmosphere and Oceans
+Units: 4.0
+Lecture, three hours. Requisite: Physics 1C or 6B. Theory and techniques of remote sensing; atmospheric spectroscopy, scattering, and polarization; passive and active techniques; relevant satellite systems; inversion methods; remote sensing of clouds, aerosols, temperature, precipitation, and trace constituents; remote sensing of oceans and biosphere. Concurrently scheduled with course C160. S/U (for majors with consent of instructor after successful completion of written and oral comprehensive examination and for nonmajors at discretion of major department) or letter grading.
+244A. Atmospheric Radiation
+Units: 4.0
+Lecture, three hours. Requisite: course 203B. Presentation of computational methods for solar and thermal infrared radiative fluxes and heating rates in clear, aerosol, and cloudy atmospheres for climate studies. Topics include line-by-line and correlated k-distribution methods for treating gaseous absorption, simplified methods for radiative transfer in Rayleigh and Lorenz/Mie atmospheres, and global radiative equilibrium. Use of user-friendly computer code required to perform calculations of radiative fluxes and heating rates in various atmospheric conditions for climate applications. S/U or letter grading.
+244B. Radiation and Climate
+Units: 4.0
+Lecture, three hours; laboratory, one hour. Requisite: course 203B. Radiation budget of Earth/atmosphere system observed from satellites. Introduction to one-dimensional radiative-convective and energy-balance climate models. Climatic impact of increases in greenhouse gases and anthropogenic aerosols. Climatic impact of changes in solar constant, solar insolation, and volcanic eruption. Radiative forcing in global climate models: clouds and aerosols. Role of radiation in numerical simulation of interannual variability. S/U or letter grading.
+245. Aerosol-Climate Interactions
+Units: 4.0
+Lecture, three hours. Requisite: course 203B. Recommended requisite: course 203A. Study of how aerosols can affect weather and climate by interacting with clouds through their potential to act as cloud condensation or ice nuclei and with radiation through their ability to scatter and absorb solar and terrestrial radiation. Origin of large uncertainty estimates attributed to aerosol-cloud and aerosol-radiation interactions in climate change assessments. Structured around reading and discussion of scientific publications. S/U or letter grading.
+M250A. Solar System Magnetohydrodynamics
+Units: 4.0
+(Same as Earth, Planetary, and Space Sciences M263A.) Lecture, three hours. Requisite: course C205A. Derivation of MHD equations with two fluid aspects, generalized Ohm's law, small amplitude waves, discontinuities, shock waves, and instabilities. Applications to statics and dynamics of solar wind and planetary magnetospheres and to solar wind/magnetosphere/ionosphere coupling. S/U (for majors with consent of instructor after successful completion of written and oral comprehensive examination and for nonmajors at discretion of major department) or letter grading.
+250B. Solar System Microscopic Plasma Processes
+Units: 4.0
+Lecture, three hours. Requisite: course C205A. Adiabatic charged particle dynamics; incoherent radiation processes; collective effects in plasma; propagation characteristics of electrostatic and electromagnetic waves; introduction to resonant interaction between charged particles and plasma waves. S/U (for majors with consent of instructor after successful completion of written and oral comprehensive examination and for nonmajors at discretion of major department) or letter grading.
+256. Ionospheric Electrodynamics
+Units: 4.0
+Lecture, three hours. Ionospheric structure, currents, and electric fields; equatorial and high-latitude ionospheres; ionospheric control of magnetospheric phenomena. S/U (for majors with consent of instructor after successful completion of written and oral comprehensive examination and for nonmajors at discretion of major department) or letter grading.
+257. Radiation Belt Plasma Physics
+Units: 4.0
+Lecture, three hours. Requisite: course 250B. Turbulent plasma instabilities and their relation to satellite observations and magnetospheric structure. Processes responsible for source, loss, and transport of energetic radiation belt particles. S/U (for majors with consent of instructor after successful completion of written and oral comprehensive examination and for nonmajors at discretion of major department) or letter grading.
+258. Sources and Losses of Magnetospheric Plasma
+Units: 4.0
+Lecture, three hours. Transfer of plasma across magnetopause, sources for magnetotail, ionospheric plasma flow to magnetosphere, precipitation of magnetospheric particles, plasmasphere, and ring current. S/U or letter grading.
+259. Space Weather
+Units: 4.0
+Lecture, three hours. Identification, description, and theories for major disturbances in magnetosphere/ionosphere/thermosphere system. Storms, substorms, convection bays, and other disturbances. Connections to interplanetary conditions, particle injection and precipitation, currents and fields. S/U or letter grading.
+C260. Data Analysis in Atmospheric and Oceanic Sciences
+Units: 4.0
+Lecture, three hours; laboratory, one hour. Enforced requisite: one course from 101 through M105. Overview of data analytic methods in common use in atmospheric and oceanic research. Linear models, principal component analysis (empirical orthogonal function), time-series analysis, and clustering methods. Model validation and evaluation, significance tests, error analysis, bias detection. Emphasis on practical applications, with specific examples from atmospheric and oceanic sciences. Concurrently scheduled with course C182. S/U or letter grading.
+270. Seminar: Atmospheric Sciences
+Units: 2.0
+Seminar, one hour. May be repeated for credit. S/U or letter grading.
+271. Seminar: Atmospheric Dynamics
+Units: 2.0
+Seminar, one hour. May be repeated for credit. S/U or letter grading.
+M272A. Seminar: Climate Dynamics
+Units: 2.0 to 4.0
+(Same as Earth, Planetary, and Space Sciences M270A and Geography M270A.) Seminar, two hours. Archaeological, geochemical, micropaleontological, and stratigraphic evidence for climate change throughout geological past. Rheology and dynamics of climatic subsystems: atmosphere and oceans, ice sheets and marine ice, lithosphere and mantle. Climate of other planets. Modeling, simulation, and prediction of modern climate on monthly, seasonal, and interannual time scale. May be repeated for credit. S/U or letter grading.
+M272B. Seminar: Climate Dynamics
+Units: 2.0 to 4.0
+(Same as Earth, Planetary, and Space Sciences M270B and Geography M270B.) Seminar, two hours. Archaeological, geochemical, micropaleontological, and stratigraphic evidence for climate change throughout geological past. Rheology and dynamics of climatic subsystems: atmosphere and oceans, ice sheets and marine ice, lithosphere and mantle. Climate of other planets. Modeling, simulation, and prediction of modern climate on monthly, seasonal, and interannual time scale. May be repeated for credit. S/U or letter grading.
+M272C. Seminar: Climate Dynamics
+Units: 2.0 to 4.0
+(Same as Earth, Planetary, and Space Sciences M270C and Geography M270C.) Seminar, two hours. Archaeological, geochemical, micropaleontological, and stratigraphic evidence for climate change throughout geological past. Rheology and dynamics of climatic subsystems: atmosphere and oceans, ice sheets and marine ice, lithosphere and mantle. Climate of other planets. Modeling, simulation, and prediction of modern climate on monthly, seasonal, and interannual time scale. May be repeated for credit. S/U or letter grading.
+274. Seminar: Atmospheric Composition and Processes
+Units: 2.0
+Seminar, one hour. Seminar series covering talks in broad research area of atmospheric composition and processes. Presentations by internal and external speakers. May be repeated for credit. S/U grading.
+M275A. Current Research in Space Physics
+Units: 2.0
+(Same as Earth, Planetary, and Space Sciences M288A.) Seminar, two hours. Problems of current interest concerning particles and fields in space. May be repeated for credit. S/U grading.
+M275B. Current Research in Space Physics
+Units: 2.0
+(Same as Earth, Planetary, and Space Sciences M288B.) Seminar, two hours. Problems of current interest concerning particles and fields in space. May be repeated for credit. S/U grading.
+M275C. Current Research in Space Physics
+Units: 2.0
+(Same as Earth, Planetary, and Space Sciences M288C.) Seminar, two hours. Problems of current interest concerning particles and fields in space. May be repeated for credit. S/U grading.
+276. Seminar: Mesoscale Processes
+Units: 2.0
+Seminar, one hour. Selected topics of current research interest in convection, extratropical cyclones, and fronts. May be repeated for credit. S/U or letter grading.
+277. Seminar: Coastal Ocean
+Units: 2.0
+Seminar, one hour. Selected topics of current interdisciplinary research in marine and coastal sciences, including physical oceangraphy, biogeochemistry, marine biology, coastal engineering, atmospheric processes, and health-related issues. May be repeated for credit. S/U grading.
+281. Special Topics in Dynamic Meteorology
+Units: 2.0 to 4.0
+Lecture, two hours. Individual meetings with instructor to be arranged. Content varies from year to year. S/U or letter grading.
+282. Special Topics in Oceanography
+Units: 2.0 to 4.0
+Lecture, two hours. Individual meetings with instructor to be arranged. May be repeated for credit. S/U or letter grading.
+283. Special Topics in Atmospheric Physics
+Units: 2.0 to 4.0
+Lecture, two hours. Individual meetings with instructor to be arranged. May be repeated for credit. S/U or letter grading.
+284. Special Topics in Atmospheric Chemistry
+Units: 2.0 to 4.0
+Lecture, two hours. Individual meetings with instructor to be arranged. May be repeated for credit. S/U or letter grading.
+285. Special Topics in Solar Planetary Relations
+Units: 2.0 to 4.0
+Lecture, two hours. Individual meetings with instructor to be arranged. Selected topics of current research interest in solar wind, magnetospheric, or ionospheric physics. S/U or letter grading.
+286. Statistical Prediction and Verification
+Units: 3.0
+Seminar, one hour; discussion, one hour. Statistical prediction and verification. Topics include multiple linear regression, logistic regression (probability prediction), objective prediction using traditional statistical methods, ensemble prediction. S/U grading.
+287. Machine Learning Approaches for Determining Causality in Coupled Earth System Data
+Units: 3.0
+Seminar, three hours; discussion, one hour. Determining causality in earth system data is challenging because of strong coupling between different variables. Study of state-of-art statistical approaches that are designed to infer causality between variables that are strongly coupled on different time scales--for example, ocean-atmospheric coupling and land-vegetation-atmospheric coupling, and for nonlinear coupling. Methods include but not limited to Granger causality, generalized equilibrium feedback assessment, step-wise generalized equilibrium feedback assessment, empirical dynamic modeling, and area weighted connectivity. Offers stimulating group learning experience through reading papers and discussion, and if possible, application of some of methods to earth system data. S/U grading.
+296A. Advanced Topics in Atmospheric Sciences: Ocean Dynamics of Atmosphere
+Units: 2.0
+Research group meeting, two hours. Advanced study and analysis of current topics in atmospheric sciences. Discussion of current research and literature in research specialty of faculty member teaching course. May be repeated for credit. S/U grading.
+296B. Advanced Topics in Atmospheric Sciences: Boundary Layers, Clouds, and Climate
+Units: 2.0
+Discussion, two hours. Advanced study and analysis of current topics in atmospheric sciences. Discussion of current research and literature in research specialty of faculty member teaching course. May be repeated for credit. S/U grading.
+296C. Advanced Topics in Atmospheric Sciences: Numerical Mesoscale Modeling
+Units: 2.0
+Discussion, two hours. Advanced study and analysis of current topics in atmospheric sciences. Discussion of current research and literature in research specialty of faculty member teaching course. May be repeated for credit. S/U grading.
+296D. Advanced Topics in Atmospheric Sciences: Climate Dynamics
+Units: 2.0
+Discussion, two hours. Advanced study and analysis of current topics in atmospheric sciences. Discussion of current research and literature in research specialty of faculty member teaching course. May be repeated for credit. S/U grading.
+296E. Advanced Topics in Atmospheric Sciences: Numerical Modeling of Atmosphere and Ocean
+Units: 2.0
+Discussion, two hours. Advanced study and analysis of current topics in atmospheric sciences. Discussion of current research and literature in research specialty of faculty member teaching course. May be repeated for credit. S/U grading.
+296F. Advanced Topics in Atmospheric Sciences: Hierarchical Modeling of Ocean/Atmosphere System
+Units: 2.0
+Discussion, two hours. Advanced study and analysis of current topics in atmospheric sciences. Discussion of current research and literature in research specialty of faculty member teaching course. May be repeated for credit. S/U grading.
+296G. Advanced Topics in Atmospheric Sciences: Upper Atmosphere and Space Physics
+Units: 2.0
+Discussion, two hours. Advanced study and analysis of current topics in atmospheric sciences. Discussion of current research and literature in research specialty of faculty member teaching course. May be repeated for credit. S/U grading.
+296H. Advanced Topics in Atmospheric Sciences: Recent Advances in Atmospheric Chemistry
+Units: 2.0
+Discussion, two hours. Advanced study and analysis of current topics in atmospheric sciences. Discussion of current research and literature in research specialty of faculty member teaching course. May be repeated for credit. S/U grading.
+296I. Advanced Topics in Atmospheric Sciences: Upper Atmospheric Dynamics
+Units: 2.0
+Discussion, two hours. Advanced study and analysis of current topics in atmospheric sciences. Discussion of current research and literature in research specialty of faculty member teaching course. May be repeated for credit. S/U grading.
+296J. Advanced Topics in Atmospheric Sciences: Experimental Mesoscale Meteorology
+Units: 2.0
+Discussion, two hours. Advanced study and analysis of current topics in atmospheric sciences. Discussion of current research and literature in research specialty of faculty member teaching course. May be repeated for credit. S/U grading.
+296K. Advanced Topics in Atmospheric Sciences: Tropical Meteorology
+Units: 2.0
+Discussion, two hours. Advanced study and analysis of current topics in atmospheric sciences. Discussion of current research and literature in research specialty of faculty member teaching course. May be repeated for credit. S/U grading.
+296L. Advanced Topics in Atmospheric Sciences: Geophysical Fluid Dynamics, Oceanography, and Climate
+Units: 2.0
+Discussion, two hours. Advanced study and analysis of current topics in atmospheric sciences. Discussion of current research and literature in research specialty of faculty member teaching course. May be repeated for credit. S/U grading.
+296M. Advanced Topics in Atmospheric Sciences: Radiation and Remote Sensing
+Units: 2.0
+Discussion, two hours. Advanced study and analysis of current topics in atmospheric sciences. Discussion of current research and literature in research specialty of faculty member teaching course. May be repeated for credit. S/U grading.
+296N. Advanced Topics in Atmospheric Sciences: Tropospheric Chemistry and Climate Modeling and Analysis
+Units: 2.0
+Research group meeting, two hours. Advanced study and analysis of current topics in atmospheric sciences. Discussion of current research and literature in research specialty of faculty member teaching course. May be repeated for credit. S/U grading.
+296O. Regional to Local Modeling of Atmospheric Composition and Climate Interactions
+Units: 2.0
+Research group meeting, two hours. Presentation and discussion of research on modeling of air quality and atmospheric composition from local to regional scales. Some topics include research in air quality forecasting to improve predictive capability of pollution episodes (e.g., haze conditions, forest fires, dust outbreaks); data assimilation and inverse modeling, i.e., using atmospheric composition observations (e.g., satellite, ground based, airborne) to improve air quality forecasts or better constrain emission sources; and investigation on modeling of aerosols (particles in atmosphere) and their interactions with clouds and radiation, which are in part responsible for uncertainties in climate change projections. Presentations by participants and invited speakers from other research groups. S/U grading.
+296P. Advanced Topics in Atmospheric Sciences: Atmospheric Chemistry of Air Pollution, Aerosols, and Climate
+Units: 2.0
+Research group meeting, two hours. Advanced study and analysis of current topics in atmospheric sciences. Discussion of current research and literature in research specialty of faculty member teaching course. May be repeated for credit. S/U grading.
+375. Teaching Apprentice Practicum
+Units: 1.0 to 4.0
+Seminar, to be arranged. Preparation: apprentice personnel employment as teaching assistant, associate, or fellow. Teaching apprenticeship under active guidance and supervision of regular faculty member responsible for curriculum and instruction at UCLA. May be repeated for credit. S/U grading.
+495. Teaching Atmospheric and Oceanic Sciences
+Units: 2.0
+Seminar, one hour; two-day intensive training session prior to Fall Quarter. Required of all new teaching assistants and recommended for new PhD students and graduate students intending to be teaching assistants during academic year. Introduction to classroom teaching for general education and upper-division departmental courses. Topics include pedagogical techniques, preparation, academic integrity, and integration of technology and electronic communications. S/U grading.
+596. Directed Studies for Graduate Students
+Units: 2.0 to 8.0
+Tutorial, to be arranged. S/U grading.
+597. Preparation for MS Comprehensive Examination
+Units: 2.0 to 8.0
+Tutorial, to be arranged. S/U grading.
+598. Research for and Preparation of MS Thesis
+Units: 2.0 to 8.0
+Tutorial, to be arranged. S/U grading.
+599. Research for PhD Dissertation
+Units: 2.0 to 8.0
+Tutorial, to be arranged. S/U grading.

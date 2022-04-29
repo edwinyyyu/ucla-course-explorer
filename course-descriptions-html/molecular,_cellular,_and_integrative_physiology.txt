@@ -1,0 +1,53 @@
+Lower Division Courses (2)
+19. Fiat Lux Freshman Seminars
+Units: 1.0
+Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.
+99. Student Research Program
+Units: 1.0 to 2.0
+Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
+Graduate Courses (15)
+214. Research Grant Writing in Biomedical Sciences
+Units: 4.0
+Lecture, three hours. Designed for Molecular, Cellular, and Integrative Physiology program students. Training in designing, writing, and evaluating research project and fellowship grants. How grant applications are structured and what features contribute to grant application success. How individual research project grants (RO1) and exploratory/development research grants (R21) to National Institutes of Health (NIH) are structured and differ. How applications for predoctoral fellowships from NIH (F31) and American Heart Association (AHA) are organized. Development and writing of students' own RO1, R21, F31, or AHA grant application. Letter grading.
+248. Seminar: Molecular Basis of Physiological Function
+Units: 2.0
+Seminar, two hours. Application of molecular approaches in investigation of physiological processes of biological systems. Critical thinking and experimental design strategies learned through primary literature review and in-class presentation/discussion. Letter grading.
+249. Seminar: Pathogenic Mechanisms in Muscle Disease
+Units: 2.0
+Seminar, two hours. Recent advances have been made in genetic identification of molecular basis of muscle disease, and some mechanisms involved have been elucidated. Focus on muscle diseases in which substantial mechanistic information has been obtained, including particular cellular locations and diseases associated with those locations. Topics include Duchenne muscular dystrophy, congenital muscular dystrophy, limb girdle dystrophy, Ullrich myopathy, and other forms of genetically inherited muscle disease. S/U grading.
+250. Current Topics in Molecular, Cellular, and Integrative Physiology
+Units: 2.0
+Seminar, two hours. Designed for molecular, cellular, and integrative physiology students. Reading, analysis, critique, and discussion of current research literature in field of molecular, cellular, and integrative physiology. Student presentation of assigned paper. Variable topics. May be repeated for credit. S/U grading.
+251. Integrative Genomics for Studying Complex Diseases
+Units: 2.0
+Seminar, two hours. Requisite: course 252A. Lectures and supervised student presentations to offer graduate students opportunity to acquire deep understanding of advanced integrative genomic approaches and how these approaches can be applied to help understand molecular basis of diverse complex diseases. Topics include transcriptomics, genetics, functional genomics, network biology, and high-level integration. Letter grading.
+252. Molecular Mechanisms of Human Diseases I
+Units: 6.0
+(Formerly numbered 252A.) Lecture, four hours; discussion, two hours. Preparation: prior satisfactory molecular and cell biology coursework. Fundamental concepts and methodologies in modern biology and medicine, with emphasis on systems-based research and mechanistic understanding to human diseases and therapies as they apply to neural, immune, cardiovascular, and metabolic systems. Reading, review, and discussion of primary research literature addressing fundamental concepts and methodologies in related topic areas of human biology and diseases. Emphasis on development of scientific skills in critical analysis, knowledge acquisition and self-learning, as well as effective articulation in scientific debate and exchange. Letter grading.
+262. Molecular Mechanisms of Human Diseases II
+Units: 6.0
+(Formerly numbered 262A.) Lecture, four hours; discussion, two hours. Preparation: prior satisfactory molecular biology coursework. Requisite: course 252. Fundamental concepts and methodologies in modern biology and medicine, with emphasis on systems-based research and mechanistic understanding to human diseases and therapies as they apply to neural, cardiovascular, and metabolic systems. Includes reading, review, and discussion of primary research literature addressing fundamental concepts and methodologies in related topic areas of human biology and diseases. Emphasis on development of scientific skills in critical analysis, knowledge acquisition and self-learning, and effective articulation in scientific debate and exchange. Letter grading.
+290A. Tutorials: Cellular and Molecular Physiology
+Units: 4.0
+Tutorial, two hours. Discussion, analysis, and critique of original research literature. Letter grading.
+290B. Tutorials: Biophysics
+Units: 4.0
+Tutorial, two hours. Discussion, analysis, and critique of original research literature. Letter grading.
+290C. Tutorials: Integrative and Comparative Physiology
+Units: 4.0
+Tutorial, two hours. Discussion, analysis, and critique of original research literature. Letter grading.
+296. Research Seminar
+Units: 2.0
+Seminar, to be arranged. Review of literature, discussion of original research, and analysis of current topics in molecular, cellular, and integrative physiology. May not be applied toward PhD course requirements. May be repeated for credit. S/U grading.
+375. Teaching Apprentice Practicum
+Units: 1.0 to 4.0
+Seminar, to be arranged. Preparation: apprentice personnel employment as teaching assistant, associate, or fellow. Teaching apprenticeship under active guidance and supervision of regular faculty member responsible for curriculum and instruction at UCLA. May not be applied toward PhD course requirements. May be repeated for credit. S/U grading.
+596. Directed Individual Study or Research
+Units: 2.0 to 10.0
+Tutorial, to be arranged. May be repeated for credit. S/U or letter grading.
+597. Preparation for PhD Qualifying Examinations
+Units: 2.0 to 10.0
+Tutorial, to be arranged. May not be applied toward PhD course requirements. May be repeated for credit. S/U grading.
+599. Research for PhD Dissertation
+Units: 2.0 to 10.0
+Tutorial, to be arranged. May not be applied toward PhD course requirements. May be repeated for credit. S/U grading.

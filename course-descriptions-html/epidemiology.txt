@@ -1,0 +1,228 @@
+Lower Division Courses (2)
+19. Fiat Lux Freshman Seminars
+Units: 1.0
+Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.
+99. Student Research Program
+Units: 1.0 to 2.0
+Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
+Upper Division Courses (6)
+100. Principles of Epidemiology
+Units: 4.0
+Lecture, four hours; discussion, two hours. Preparation: one full biological sciences course. Introductory course to provide qualified undergraduate students with broad and comprehensive overview of concepts of epidemiology including evaluating public health problems in terms of magnitude, person, time and place; critiquing epidemiologic studies; identifying and accessing key sources of data for epidemiologic assessment; using epidemiologic methods and calculating basic epidemiology measures for operational purposes; and communicating basic principles of epidemiology such as definitions of populations, sources of bias, causation for morbidity and mortality, risk and protective factors, and basics of study design. Letter grading.
+CM175. Terrorism, Counterterrorism, and Weapons of Mass Destruction: Practical Approach
+Units: 5.0
+(Same as Honors Collegium M175.) Seminar, three hours. Terrorism, its origins, and ways of addressing terrorism at local, national, and global levels. Guest speakers from variety of UCLA departments and from Los Angeles. Concurrently scheduled with course C275. P/NP or letter grading.
+188SA. Individual Studies for USIE Facilitators
+Units: 1.0
+Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.
+188SB. Individual Studies for USIE Facilitators
+Units: 1.0
+Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.
+188SC. Individual Studies for USIE Facilitators
+Units: 2.0
+Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading.
+197. Individual Studies in Epidemiology
+Units: 2.0 to 4.0
+Tutorial, four hours. Limited to juniors/seniors. Individual intensive study, with scheduled meetings to be arranged between faculty member and student. Assigned reading and tangible evidence of mastery of subject matter required. May be repeated for credit. Individual contract required. P/NP or letter grading.
+Graduate Courses (67)
+200A. Methods I: Basic Concepts and Study Designs
+Units: 4.0
+Lecture, three hours; discussion, one hour. Introduction of basic concepts and methods in epidemiology with emphasis on measuring disease occurrence, study design, and assessing causal relationships. Letter grading.
+200B. Methods II: Prediction and Validity
+Units: 6.0
+Lecture, six hours; discussion, four hours. Enforced requisites: course 200A and Biostatistics 100A, or Public Health 200A and 200B. Corequisite: Biostatistics 100B. Introduction to basic concepts, principles, and methods of chronic and infectious disease epidemiology. Letter grading.
+200C. Methods III: Analysis
+Units: 6.0
+Lecture, four hours; laboratory, two hours. Enforced requisites: courses 200A, 200B. Introduction to basic concepts, principles, and methods of epidemiologic data analysis. Letter grading.
+M203. Topics in Theoretical Epidemiology
+Units: 2.0
+(Formerly numbered 203.) (Same as Health Policy M201.) Lecture, two hours. Selected topics from current research areas in epidemiologic theory and quantitative methods. Topics selected from biologic models, epidemiologic models, problems in inference, model specification problems, design issues, analysis issues, and confounding. May be repeated for credit with consent of instructor. S/U grading.
+M204. Logic, Causation, and Probability
+Units: 4.0
+(Same as Statistics M243.) Lecture, four hours. Preparation: two terms of statistics or probability and statistics. Recommended requisite: course 200C. Principles of deductive logic and causal logic using counterfactuals. Principles of probability logic and probabilistic induction. Causal probability logic using directed acyclic graphs. S/U or letter grading.
+205. Methods for Analyzing Non-Randomized and Quasi-Experimental Studies
+Units: 4.0
+Lecture, three hours. Requisites: course 200C or 401, or Biostatistics 200A or 200B or 406, and course M403 or 407A or Biostatistics 203A. Provides students with necessary tools to evaluate effectiveness or impact of public health interventions. Study designs include non-randomized, quasi-experiments, and natural experiments. Covers both theoretical concepts as well as practical tools that encompass methods borrowed from related fields including social epidemiology, health policy, econometrics, and evaluation research. These methods include instrumental variable, difference-in-difference, synthetic control, regression discontinuity, and propensity score matching. S/U or letter grading.
+206. Systems Science Modeling and Simulation in Epidemiology
+Units: 4.0
+Lecture, three hours. Requisites: course 200C or 401, or Biostatistics 200A or 200B or 406, and course M403 or 407A or Biostatistics 203A. Theoretical and practical introduction to modeling and simulation methods for conducting comparative, cost-effectiveness, and forecasting research. These methods include population-level (e.g., Markov state-transition models and system dynamics) and individual-level (e.g., microsimulation and agent-based modeling) simulations. These methods are employed in field sometimes referred to as systems epidemiology or computational epidemiology. Multidisciplinary fields that use tools and techniques from computer sciences, econometrics, operations research, engineering, and epidemiology to better understand disease mechanisms or evaluate intervention effectiveness. S/U or letter grading.
+207. Reproducibility in Epidemiologic Research
+Units: 4.0
+Lecture, three hours. Requisites: courses 200A, 401 (or Biostatistics 100B or 200A and 200B), M403. Introduction to concept of reproducibility in epidemiologic research. Students are exposed to tools for adopting practices to enhance reproducibility in their own research. Letter grading.
+M211. Statistical Methods for Epidemiology
+Units: 4.0
+(Same as Statistics M250.) Lecture, four hours. Preparation: two terms of statistics (such as Biostatistics 100A, 100B). Enforced requisites: courses 200B, 200C. Concepts and methods tailored for analysis of epidemiologic data, with emphasis on tabular and graphical techniques. Expansion of topics introduced in courses 200B and 200C and introduction of new topics, including principles of epidemiologic analysis, trend analysis, smoothing and sensitivity analysis. S/U or letter grading.
+212. Statistical Modeling in Epidemiology
+Units: 4.0
+Lecture, four hours. Preparation: two terms of statistics (three terms recommended). Recommended: course M204 or M211. Principles of modeling, including meanings of models, a priori model specification, translation of models into explicit population assumptions, model selection, model diagnostics, hierarchical (multilevel) modeling. S/U or letter grading.
+215. Systematic Review and Meta-Analysis
+Units: 2.0
+Lecture, two hours. Requisites: course 100 or 200A, and Biostatistics 100A, or Public Health 200A and 200B. Offers theoretical and practical understanding of systematic reviews and meta-analysis of clinical trials and observational studies. Students learn how to conduct systematic literature search, assess quality of selected studies, identify sources of heterogeneity, conduct meta-analysis, and understand standards of reporting on meta-analyses. Offers practical training in meta-analyses and meta-regression using STATA software. Letter grading.
+M216. Applied Sampling
+Units: 4.0
+(Same as Statistics CM248.) Lecture, three hours; discussion, one hour. Designed for upper-division and graduate students in social or life sciences and those who plan to major in Statistics. Topics include methods of sampling from finite populations, sources of sampling and estimation bias, and methods of generating efficient and precise estimates of population characteristics. Practical applications of sampling methods via lectures and hands-on laboratory exercises. S/U or letter grading.
+217. Social Networks and Public Health
+Units: 4.0
+Lecture, four hours. Requisite: course 100 or 200A, or Public Health 200A and 200B. Principles of social network research, social network analysis, and social network intervention, especially in relation to public health and health behavior. Coding examples are provided in R (mainly R igraph and ggplot2 packages). Discussion of landmark social network papers relevant to public health. S/U or letter grading.
+M218. Questionnaire Design and Administration
+Units: 4.0
+(Same as Community Health Sciences M218.) Lecture, four hours. Requisites: courses 200B and 200C, or Community Health Sciences 211A and 211B. Design, testing, field use, and administration of data collection instruments, with particular emphasis on questionnaires. Letter grading.
+219. Strategies for Increasing Sensitivity and Validity of Epidemiologic Studies
+Units: 2.0
+Lecture, two hours. Requisite: course 100 or Public Health 200A. Discussion of strategies for increasing sensitivity and validity of epidemiologic studies. Covers issues that led to methodologic articles authored by instructor; nature of articles themselves; subsequent studies that have used suggested approaches; and any modification of methods that have been proposed. Students are expected to have basic training on epidemiological study designs and methods. S/U or letter grading.
+220. Principles of Infectious Disease Epidemiology
+Units: 4.0
+Lecture, three hours. Requisite: course 100 or 200A, or Public Health 200A and 200B. Ascertainment of infection, transmission, and epidemiological parameters rather than clinical and pathological aspects. Specific diseases discussed in depth to illustrate epidemiologic principles. S/U or letter grading.
+221. Emerging Infectious Diseases
+Units: 4.0
+Lecture, three hours. Requisite: course 220 or consent of instructor. Emerging infectious diseases (EIDs) are infections that have recently appeared within population or those whose incidence or geographic range is rapidly increasing or threatens to increase in future. Overview of important emerging and re-emerging infectious diseases globally. Addresses factors associated with disease emergence/re-emergence, research methods, preparedness, disease surveillance, outbreak investigation, and response to EIDs with global perspective. Letter grading.
+M226. Global Health Measures for Biological Emergencies
+Units: 4.0
+(Same as Ecology and Evolutionary Biology M226.) Lecture, four hours. Requisite: course 220. Mitigation of bioterrorism falls outside traditional public health programs and public health graduate education. Because of seriousness of such threats, it is important that individuals trained in public health understand problems and responses. Letter grading.
+227. AIDS: Major Public Health Challenge
+Units: 4.0
+Lecture, four hours. Requisites: courses 100 or 200A, and Biostatistics 100A, or Public Health 200A and 200B. Presentation of epidemiologic, biologic, psychological, and clinical characteristics of AIDS and HIV-1 infection. Discussion of policy implications and intervention strategies. S/U or letter grading.
+228. Biology of HIV
+Units: 4.0
+Lecture, three hours. Preparation: two biology courses. Requisites: course 100 and Biostatistics 100A, or Public Health 200A and 200B. Overview of virologic and immunologic aspects of HIV disease for epidemiology or other health disciplines. Brief discussion of clinical manifestations and biosafety in laboratory. Letter grading.
+230. Epidemiology of Sexually Transmitted Diseases
+Units: 4.0
+Lecture, four hours. Requisite: course 100 or 200A, or Public Health 200A and 200B. Sexually transmitted diseases; medical/biological aspects, epidemiology and control in developed and developing countries. S/U or letter grading.
+231. Principles of Control of Infectious Diseases
+Units: 4.0
+Lecture, three hours. Comprehensive study of tools for control of infectious diseases and application of these tools in public health programs to achieve epidemiologic impact on disease reduction, elimination, or eradication. S/U or letter grading.
+232. Methods in Research of Marginalized and Hidden Populations
+Units: 2.0
+Lecture, two hours. Requisite: course 100 or 200A, or Public Health 200A and 200B. Introduction to range of different methodologies used to collect data and conduct analysis on reproductive epidemiology topics, including methods that produce quantitative data and methods that produce qualitative data, with emphasis on use of methods appropriate for challenging and sensitive research topics such as sexual behavior, abortion use, and sexual abuse. Letter grading.
+240. Cardiovascular Epidemiology
+Units: 2.0
+Lecture, two hours. Topics include definition, pathogenesis, descriptive epidemiology, magnitude of risk factors, strategies for prevention, lipoprotein metabolism, and epidemiology of diabetes, hypertension, and chronic lung disease. Letter grading.
+241. Epidemiology of Obesity and Diabetes
+Units: 4.0
+Lecture, three hours. Requisite: course 100 or 200A or Public Health 200A. Overview of epidemiology of obesity and diabetes. Students are exposed to most important research in this area. Focus includes global and regional epidemic of obesity and diabetes, risk factors and complications, classifications and assessments, prevention and management, as well as methodological issues related to study design and measurements for conducting obesity and diabetes research in large populations. Encourages students' creative thinking and improves their skills for scientific writing and oral communications through individual and team assignments. S/U or letter grading.
+242. Cancer Epidemiology
+Units: 4.0
+Lecture, four hours. Requisite: course 100 or 200A, or Public Health 200A and 200B. Introduction to basic concepts of cancer and molecular and genetic epidemiology. Review of current epidemiologic research in cancer in recent medical and epidemiological literature. Research proposal on cancer-related topic required. S/U or letter grading.
+243. Molecular Epidemiology of Cancer
+Units: 4.0
+Lecture, four hours. Requisite: course 242 or 295. Introduction to basic concepts and methodology of molecular epidemiology of cancer and review of current molecular epidemiologic research of cancer in recent medical and epidemiological literature. S/U or letter grading.
+244. Research Methods in Cancer Epidemiology
+Units: 2.0
+Lecture, two hours. Requisites: course 100 or 200A, and Biostatistics 100A, or Public Health 200A and 200B. Biologic, quantitative, philosophical, and administrative considerations in epidemiologic cancer research. Hypothesis specification and choice of study design. Uses of descriptive epidemiology, cohort studies, case control studies. Clustering, screening, and cancer control. Means of identifying subjects and controls. Design of instruments. Sources of bias and confounding. S/U or letter grading.
+245. Lifestyle Intervention for Noncommunicable Chronic Diseases
+Units: 2.0
+Lecture, two hours. Requisites: course 100, Public Health 200A, 200B. Designed to teach students how to apply principles of trial design and data analysis to lifestyle interventions for purposes of preventing onset and progression of diseases. Focus on noncommunicable chronic diseases (i.e., obesity, diabetes, hypertension, coronary heart disease, or cancer), but concepts and methods can be applied to acute and infectious diseases as well. S/U or letter grading.
+246. Epidemiology of Aging
+Units: 2.0
+Lecture, two hours. Epidemiologic methods of estimating present and future burdens of aging: morbidity, disability, and dependency. Epidemiology of major disabling conditions affecting elderly. Evaluation of possible intervention strategies. Methodologic issues in geriatric epidemiology. S/U or letter grading.
+247. Lifecourse Epidemiology
+Units: 4.0
+Lecture, three hours. Requisites: course 100 or 200A, and Biostatistics 100A, or Public Health 200A and 200B; and Biostatistics 100B, or equivalent, or consent of instructor. Introduction to concepts and methods for studying lifecourse determinants of health and disease. Consideration of how exposures at one stage of human lifespan influence health outcomes at multiple life stages. Analytical approaches to research on lifecourse determinants of health. S/U or letter grading.
+249. Genetic Epidemiology I
+Units: 4.0
+Lecture, two hours. Preparation: at least one course in epidemiology, biostatistics, and genetics. Basic concepts in emerging field of genetic epidemiology, with principal focus on genetic study of complex diseases, determining genetic contributions to disease, identifying genes, and characterizing their main effects and interactions with environmental factors. S/U or letter grading.
+M254. Nutritional Epidemiology I
+Units: 4.0
+(Same as Community Health Sciences M251.) Lecture, two hours; discussion/laboratory exercise, one hour. Preparation: introductory biostatistics and epidemiology courses. Review of all aspects of contemporary nutrition sciences that require application of epidemiologic principles and methods, ranging from food-borne outbreak investigation to evidence-based regulatory assessment of health claims for foods. Experience in actual world of collecting, analyzing, and interpreting data related to nutrition and health or disease outcomes. S/U or letter grading.
+260. Environmental Epidemiology
+Units: 2.0 or 4.0
+Lecture, three hours. Requisite: course 100 or 200A, or Public Health 200A and 200B. Epidemiologic methods applied to evaluation of human health consequences of environmental hazards. Topics include air pollution, pesticides, drinking water contaminants, use of GIS. Review of recently completed environmental studies published in peer-reviewed literature. S/U or letter grading.
+M261. Occupational Epidemiology
+Units: 4.0
+(Same as Environmental Health Sciences M260.) Lecture, three hours. Requisites for majors: courses 200A, 200B, 200C; for nonmajors: course 100. Methodological considerations, approaches, and limitations in epidemiological studies of occupational groups and environments. S/U or letter grading.
+265. Epidemiologic Methods in Occupational and Environmental Health
+Units: 4.0
+Lecture, three hours. Introduction to epidemiologic methods applied to evaluation of human health consequences of occupational and environmental hazards, including study design, exposure assessment, and statistical techniques commonly encountered in research focused on assessing adverse health effects resulting from occupational and environmental exposures. Topics include clusters, meta-analysis, risk assessment, and policy development. Illustrated by case studies, with focus on techniques to critically evaluate and interpret current literature. Letter grading.
+266. Global Health and Tropical Medicine
+Units: 4.0
+Lecture, four hours. Introduction to tropical diseases and global health. How humanitarian health issues, maternal-child health, research in tropics, World Health Organizations, and political/medical constraints all are related with respect to health on worldwide scale. Letter grading.
+267. Methodologic Issues in Reproductive Epidemiology
+Units: 2.0
+Seminar, two hours. General discussion of methodologic issues important to epidemiologic studies of reproductive outcomes, including fertility, low birth weight, prematurity, birth defects, pregnancy loss, and perinatal mortality. Approaches to study design and exposure assessment and identification of potential sources of bias illustrated through review of recent studies published in literature and with particular focus on occupational and environmental exposures and birth cohorts. S/U or letter grading.
+268. Introduction to Pharmacoepidemiology
+Units: 2.0
+Lecture, two hours. Requisite: course 100 or 200A, or Public Health 200A and 200B. Pharmacoepidemiology is application of epidemiologic knowledge, reasoning, and methods to study of effects and uses of drugs. Survey of contemporary roles of pharmacoepidemiology in drug development and public health, with historical background of its evolution and projections of future prospects. S/U or letter grading.
+269. Substance Use Epidemiology
+Units: 4.0
+Lecture, three hours. Requisites: course 200A, and Biostatistics 100A or 100B or equivalent. Introduction to epidemiology of substance use and substance use disorders within public health paradigm. Review of drug policy in U.S., description of occurrence of substance use and related problems, examination of intersection of substance use and mental health disorders, and examination of role of epidemiology in informing and evaluating interventions targeting substance use disorders, including health services and pharmacologic and non-pharmacologic treatments. S/U or letter grading.
+270. Behavioral Epidemiology
+Units: 4.0
+Lecture, four hours. Requisite: course 100, or 200A, or Public Health 200A and 200B. Introduction to range of different methodologies used to collect data and conduct analyses on behaviors studied in epidemiology research. How to collect, analyze, and interpret data on behaviors that can be associated with disease outcomes, including methods to collect survey data (i.e., design of questionnaires, interviewing techniques, use of technology to collect data) and methods to collect and analyze qualitative data (e.g., ethnographic interviews, focus groups, systematic observations). Overview information on epidemiology of key behavioral factors affecting human health, including sexual risk behaviors, substance use, physical activity, and healthcare utilization. S/U or letter grading.
+271. Psychiatric Epidemiology
+Units: 4.0
+Lecture, three hours. Requisites: Biostatistics 100B, Public Health 200A, 200B. Psychiatry epidemiology examines occurrence and distribution of mental health disorders and probable causes and factors that influence their manifestation, trajectory, and outcome. Provides students with knowledge and skills necessary to conceptualize mental health related research questions, properly assess mental health symptoms and diagnostic classifications in their research (e.g., prevalence, incidence, and outcome), and analyze data to advance field of psychiatric epidemiology and better understand how to establish mental health and substance use treatment guidelines. With respect to measurement, emphasis is given to issues of reliability and validity in studying such disorders--while considering factors such as gender, sexuality, race/ethnicity, age, poverty, education, culture, social support, social capital, etc. S/U or letter grading.
+M272. Social Epidemiology
+Units: 4.0
+(Same as Community Health Sciences M272.) Lecture, two hours; discussion, one hour. Requisite: course 100 or Public Health 200A and 200B. Relationship between sociological, cultural, and psychosocial factors in etiology, occurrence, and distribution of morbidity and mortality. Emphasis on lifestyles and other socioenvironmental factors associated with general susceptibility to disease and subsequent mortality. Letter grading.
+M273. Responsible Conduct of Research in Global Health
+Units: 2.0
+(Same as Public Health M273.) Lecture, two hours. Requisite: Community Health Sciences 200. Introduction to fundamental principles of public health ethics, current ethical procedures, guidelines, and requirements, and ethical issues facing public health professionals working in developing countries. History of public health issues, unique ethical issues of research in developing countries, analysis of ethical implications of informed consent, responsibility to study community, mechanisms of study approval, role of funders, and role and responsibilities of review boards. S/U or letter grading.
+274. Advanced Epidemiologic Methods for Global Health
+Units: 2.0
+Lecture, two hours. Requisites: courses 200A, 200B, and Biostatistics 100B, or Public Health 200A and 200B. Study provides global health researchers and epidemiologists with methods that enable access to and utilization of existing data; new methods for collection of new data; and advanced methods for statistical analyses focusing on existing sources of data, surveys, data sharing, and advanced statistical and epidemiologic methods in global health. S/U or letter grading.
+C275. Terrorism, Counterterrorism, and Weapons of Mass Destruction: Practical Approach
+Units: 5.0
+Seminar, three hours. Terrorism, its origins, and ways of addressing terrorism at local, national, and global levels. Guest speakers from variety of UCLA departments and from Los Angeles. Concurrently scheduled with course CM175. S/U or letter grading.
+291. Seminar: Special Topics in Epidemiology
+Units: 2.0
+Seminar, two hours. Requisite: course 100 or 200A, or Public Health 200A and 200B. Review of current epidemiologic research contained in recent medical literature. May be repeated for credit. S/U or letter grading.
+292. Advanced Seminar: Epidemiology
+Units: 2.0
+Seminar, two hours. Requisites: courses 200A, 200B, 200C. Current research in epidemiology. May be repeated for credit. S/U grading.
+293. International HIV/AIDS Seminar
+Units: 2.0
+Seminar, two hours. Ongoing discussion of worldwide pandemic of HIV/AIDS, with emphasis on problems of surveillance, reporting, and intervention. Discussion of recent literature. Presentations by fellows from other countries. S/U grading.
+295. Seminar: Epidemiology--Cancer
+Units: 2.0
+Seminar, two hours. Requisite: course 100 or 200A, or Public Health 200A and 200B. Introduction of basic concepts of cancer epidemiology and review of current epidemiological research in cancer in recent medical and epidemiological literature. May be repeated for credit. S/U or letter grading.
+375. Teaching Apprentice Practicum
+Units: 1.0 to 4.0
+Seminar, to be arranged. Preparation: apprentice personnel employment as teaching assistant, associate, or fellow. Teaching apprenticeship under active guidance and supervision of regular faculty member responsible for curriculum and instruction at UCLA. May be repeated for credit. S/U grading.
+400. Field Studies in Epidemiology
+Units: 4.0
+Fieldwork, to be arranged. Field observation and studies in selected community organizations for health promotion or medical care. Students must file field placement and program training documentation on form available from Student Affairs Office. May not be applied toward MS minimum course requirement; 4 units may be applied toward 44-unit minimum total required for MPH degree. Letter grading.
+401. Applied Epidemiologic Analysis
+Units: 4.0
+Lecture, three hours. Requisites: course M403, Biostatistics 100B, Public Health 200A, 200B. Combines lectures, discussions, and laboratory assignments to offer conceptual understanding of analytic methods in epidemiology. Students develop basic proficiency in methods by conducting statistical analysis using epidemiologic data, with expectation that students pursue courses 200A and 200B in second year and develop expertise in methods they will use for their own research. S/U or letter grading.
+M403. Computer Management and Analysis of Health Data Using SAS
+Units: 4.0
+(Same as Biostatistics M403B.) Lecture, two hours; laboratory, two hours. Introduction to practical issues in management and analysis of health data using SAS programming language. Cross-sectional and longitudinal population-based data sets to be used throughout to illustrate principles of data management and analysis for addressing biomedical and health-related hypotheses. Letter grading.
+404. Advanced SAS Techniques for Management and Analysis of Epidemiologic Data
+Units: 2.0
+Lecture, three hours. Requisite: course M403 or 410. Hands-on experience with SAS 9.2/9.3, with focus on using SAS data and PROC steps efficiently to manage, clean, analyze, and tabulate epidemiologic data from data collection systems. Common issues and solutions in data management, including lack of documentation, data definitions, unique subject identifiers, and nonstandard data formats. S/U or letter grading.
+407A. Epidemiologic Research Using R
+Units: 2.0
+Lecture, two hours; discussion, one hour. Requisite: course 100 or 200A, or Public Health 200A and 200B, or consent of instructor. Designed to broadly offer R coding experience, with emphasis on data management, visualization, and analysis. Introduction of new concepts each week through guided interactive tutorials with working examples. S/U or letter grading.
+407B. Applied Epidemiologic Research Using R
+Units: 2.0
+Lecture, two hours. Requisite: course 407A. Designed to broadly offer R coding experience, with emphasis on data management, data description using tables and figures, and data analysis. Introduction of various concepts with data to facility interactive learning each week through guided R programming tutorials. Weekly R data analysis, in which students present their research and data analysis progress using real data. Each student performs secondary data analysis and prepares abstract, brief introduction, methods, and results part of submittable brief communication paper. S/U or letter grading.
+410. Introduction to Python for Epidemiologists
+Units: 2.0
+Lecture, two hours. Requisites: Biostatistics 100A, Public Health 200A. Introduction to use of Python programming language for epidemiologic analyses of big data. Topics covered include supervised and unsupervised learning methods, feature engineering, and model evaluation approaches using both quantitative and text-based health data. S/U or letter grading.
+412. Public Health Surveillance
+Units: 2.0
+Lecture, two hours. Requisites: course 100 or 200A, and Biostatistics 100A, or Public Health 200A and 200B. Overview of public health surveillance methodology, including (1) design, implementation, and evaluation of surveillance systems, (2) analysis and interpretation of surveillance data, and (3) application of surveillance methods to specific health-related outcomes. S/U or letter grading.
+413. Methods of Scientific Communication
+Units: 2.0
+Lecture, two hours. Requisite: course 100 or 200A. Principles of scientific writing and communication. Approaches to developing effective written, oral, and visual presentations of epidemiologic research findings. Communication issues arising in conduct of research, including informed consent process. S/U or letter grading.
+420. Field Trials of Health Interventions in Low-Resource Settings
+Units: 4.0
+Lecture, four hours. Requisite: course 100 or 200A, or Public Health 200A and 200B. Introduction to practical concepts and issues in conducting epidemiologic field research in developing countries, including formulating research questions, study site selection, ethical considerations, and logistics of data and specimen collection. S/U or letter grading.
+495. Teacher Preparation in Epidemiology
+Units: 2.0
+Seminar, two hours. Preparation: 18 units of cognate courses in area of specialization. May not be applied toward master's degree minimum total course requirement. May be repeated for credit. S/U grading.
+501. Cooperative Program
+Units: 2.0 to 8.0
+Tutorial, to be arranged. Preparation: consent of UCLA graduate adviser and graduate dean, and host campus instructor, department chair, and graduate dean. Used to record enrollment of UCLA students in courses taken under cooperative arrangements with USC. No more than 8 units may be applied toward master's degree minimum total course requirement; may not be applied toward minimum graduate course requirement. S/U grading.
+596. Directed Individual Study or Research
+Units: 2.0 to 8.0
+Tutorial, to be arranged. Limited to graduate students. Individual guided studies under direct faculty supervision. Only 4 units may be applied toward MPH and MS minimum total course requirement. May be repeated for credit. S/U or letter grading.
+597. Preparation for Master's Comprehensive or Doctoral Qualifying Examinations
+Units: 2.0 to 12.0
+Tutorial, to be arranged. Limited to graduate students. May not be applied toward any degree course requirements. May be repeated for credit. S/U grading.
+598. Master's Thesis Research
+Units: 2.0 to 8.0
+Tutorial, to be arranged. Only 4 units may be applied toward MPH and MS minimum total course requirement; may not be applied toward minimum graduate course requirement. May be repeated for credit. S/U grading.
+599. Doctoral Dissertation Research
+Units: 2.0 to 12.0
+Tutorial, to be arranged. May not be applied toward any degree course requirements. May be repeated for credit. S/U grading.

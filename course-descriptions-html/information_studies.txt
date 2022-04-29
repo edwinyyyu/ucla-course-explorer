@@ -1,0 +1,360 @@
+Lower Division Courses (7)
+10. Information and Power
+Units: 5.0
+Lecture, five hours. Designed for undergraduate students. Introduction to core concepts of information and power and relation between them in range of social, economic, political, cultural, technological, and institutional contexts. Topics include information markets and economies; power of cultural and media institutions; state interests in information; information, conflict, and warfare; information organization, classification, and access; power and information technology infrastructure; and intellectual freedom. Letter grading.
+19. Fiat Lux Freshman Seminars
+Units: 1.0
+Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.
+20. Digital Cultures and Societies
+Units: 5.0
+Lecture, five hours. Designed for undergraduate students. Examination of social and cultural contexts of global spread of digital networks and systems. Exploration of ethical, infrastructural, and political questions raised at intersection of technologies and cultures. Topics include social media revolutions, indigenous and non-Western uses of technology, cross-cultural design, digital media literacies, and more. Letter grading.
+30. Internet and Society
+Units: 5.0
+Lecture, five hours. Designed for undergraduate students. Examination of information technology in society, including Internet, World Wide Web, search engines (e.g., Google, Yahoo, Lycos), retrieval systems, electronic publishing, and distribution of media, including newspapers, books, and music. Exploration of many of these technologies, social, cultural, and political context in which they exist, and how social relationships are changing. Letter grading.
+89. Honors Seminars
+Units: 1.0
+Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.
+97. Variable Topics in Information Studies
+Units: 4.0
+Seminar, four hours. Designed for freshmen/sophomores, but open to all undergraduate students. Exploration of changing set of basic concepts and issues in study of information, information technology, and society and culture at introductory level. May be repeated for credit with consent of instructor. Letter grading.
+99. Student Research Program
+Units: 1.0 to 2.0
+Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
+Upper Division Courses (12)
+C115. Introduction to Information Literacies
+Units: 4.0
+Lecture, four hours. Foundational introduction to current and historical role and impact of information literacy--ability to identify, locate, critically evaluate, use, and create information effectively and ethically, for personal and scholarly uses. Topics include theory and practice related to impact of economic, legal, and social/environmental issues on development of, access to, use, and assessment of information, currently and historically; developing and refining information researching questions; conducting effective information researching; distinguishing among and critically evaluating information researching tools such as Google and databases, as well as types of items, such as ads, opinions, and factual studies; documenting sources used in information researching; effectively helping others learn information researching and critical thinking in support of equity and inclusivity; and designing, creating, and assessing online educational learning objects as positive contributions to addressing social/environmental issues. Concurrently scheduled with course C215. P/NP or letter grading.
+118. Data and Ethics in Society
+Units: 5.0
+Seminar, four hours; discussion, one hour. Exploration of moral, social, political, and ethical ramifications of choices we make at different stages in social construction of data. Includes cultivating critical analysis of processes of data collection, data mining, data storage, and deployment of data affected by variety of different communities, publics, nation-states, and individuals. Students learn basics of ethical and socially just frameworks to assess range of data-driven projects and platforms. Students gain understanding of social, historical, and political dilemmas of big data, algorithmic decision-making, predictive analytics, and distinct challenges associated with ethical, civil-, human-, and sovereign-rights models of engaging modern digital information era. Letter grading.
+M121. Introduction to Media Literacies
+Units: 5.0
+(Same as Education M121.) Seminar, four hours. Exploration of relationships between media, technology, and popular culture. Students guided to analyze media representations, question process of normalizing dominant ideologies, and create counter-hegemonic media messages. Through application of critical media literacy framework, students expand notions of literacy to be more inclusive of all types of texts; and deepen their abilities to question power of word, image, and sound-bite to represent social and environmental injustice. Letter grading.
+M135. Environmental Justice through Lens of Media and Education
+Units: 5.0
+(Same as Education M135.) Seminar, four hours. Exploration of human relationships with natural world, historically and today. Students take critical look at ways information has been shaped, audiences positioned, and movements manipulated to promote commercial interests over public good. Exploration of progressive movements that have in past challenged--and currently challenge--neoliberal agendas, extractive policies, and unsustainable practices. Letter grading.
+M137. Critical Digital Media Literacies
+Units: 4.0
+(Same as Education M137.) Lecture, four hours. Students question relationships with digital media and information society and explore how media and information communication technologies are improving society, strengthening democracy, and opening up opportunities for challenging hegemony and promoting social transformation. Problematization of social media and questioning of ways it is being used to surveil, capture data, spread hate, mislead, distract, and destabilize democracies. Students analyze media representations, question process of normalizing dominant ideologies, and create counter-hegemonic media messages. Combines theoretical foundations of cultural studies and critical pedagogy with practical applications of new digital media and technology, as well as traditional print-based means of communication. Exploration of media representations of race, class, gender, sexual orientation, and other identity markers. Students analyze and create media projects related to education. Letter grading.
+139. Letterpress Laboratory
+Units: 1.0
+Laboratory, one hour. Hands-on printing experience in letterpress shop designed to give students in information studies, design, or other disciplines understanding of printing process. Basic instruction provided, and students work on group project for duration of term. May be repeated twice. P/NP grading.
+180. Special Topics in Information Studies
+Units: 4.0
+Lecture, three hours; discussion, one hour. Designed for juniors/seniors. Selected topics or issues related to social, cultural, economic, or political aspects of information and information systems. Consult Schedule of Classes for topics and instructors. May be repeated once for credit with topic change. P/NP or letter grading.
+188SA. Individual Studies for USIE Facilitators
+Units: 1.0
+Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.
+188SB. Individual Studies for USIE Facilitators
+Units: 1.0
+Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.
+188SC. Individual Studies for USIE Facilitators
+Units: 2.0
+Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading.
+189. Advanced Honors Seminars
+Units: 1.0
+Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.
+199. Directed Research in Information Studies
+Units: 2.0 to 4.0
+Tutorial, one hour. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit. Individual contract required. Letter grading.
+Graduate Courses (100)
+200. Information in Society
+Units: 4.0
+Lecture, two hours; discussion, two hours. Examination of processes by which information and knowledge are created, integrated, disseminated, organized, used, and preserved. Topics include history of communication technologies, evolution of literacy, development of information professions, and social issues related to information access. Letter grading.
+201. Ethics, Diversity, and Change in Information Professions
+Units: 4.0
+Lecture, two hours; discussion, two hours. Service learning course that serves as forum to discuss, learn, and understand ethical challenges of multicultural information society that shape societal, professional community, and individual views and impact professional practice, decision making, and public policy. Letter grading.
+202. History of Books and Literacy Technologies
+Units: 4.0
+Lecture, two hours; discussion, 90 minutes. Issues in history of books, writing, and literacy technologies. Investigation of invention of writing, diverse cultural concepts of literacy, earliest use of systematic notation systems in Mesopotamia, and current development of devices and practices that shape contemporary concepts of book of future. Discussion of historical development of technology (tablets, scrolls, codices, illumination and illustration techniques, paper and mass production, photography, digital tools), institutions (libraries, printing and publishing industries), cultural issues and politics (publishing, censorship, colonialism, globalization), formats and styles (type design, graphic design, aesthetics), and some important figures and events in book history. Focused on Western traditions, but not to exclusion of developments in Asia, Near East, Islamic empire, and elsewhere, and questions of cultural diffusion and diversity encouraged. Letter grading.
+203. Seminar: Intellectual Freedom and Information Policy Issues
+Units: 4.0
+Seminar, four hours. Investigation of concept of intellectual freedom, information policy issues, civil liberties and civil rights, censorship, and other restraints on access to information. Letter grading.
+204. Scholarly Communication and Publishing
+Units: 4.0
+Lecture, three and one half hours. Designed for MLIS students. Scholarly communication system is in disarray. It is no longer clear what it means to publish articles and books. Digital distribution is norm, whether peer-reviewed in journals or by blogs or social media. Scholarly communication is becoming more atomized in small units of research objects that can be combined in many ways. Open access publishing, now required by many funding agencies and universities, has altered relationships between authors, readers, publishers, and libraries. Survey of evolving landscape of scholarly communication, providing introduction to publishing, technology, and policy issues such as open access, mass digitization, institutional repositories, computable publications, and altmetrics. Letter grading.
+205. Cyberspace Law and Policy
+Units: 4.0
+Lecture, four hours. Legal and policy concerns of networked technologies from international perspective. Emphasis on jurisdictional issues, freedom of expression, intellectual property, privacy, security, equity, and electronic commerce in online environment. S/U or letter grading.
+206. Introduction to Economics of Information
+Units: 4.0
+Seminar, three and one half hours. Introduction to key concepts, scholars, and studies in economics of information. Topics include economic value and measurement of information, information industries and markets, public goods theories of knowledge and information, network externalities, consequences of intellectual property regimes, information and economic development, information work and occupations, information and organizational processes, productivity paradox, and sectoral analyses of national and global information economies. Letter grading.
+207. International Issues and Comparative Research in Information Studies
+Units: 4.0
+Lecture, three and one half hours. History and development of international organizations, programs, and professional traditions in information studies. Identification of key issues in international exchange of information. Introduction to comparative method as procedure for study and research. Letter grading.
+208. Scholarly Communication and Bibliometrics
+Units: 4.0
+Lecture, four hours. Preparation: one inferential statistics course. Survey of current theory, method, and empirical studies at intersection of scholarly communication and bibliometrics, seeking to understand flow of ideas through published record, whether in print, electronic form, or other media. Letter grading.
+209. Perspectives on Information Societies
+Units: 4.0
+Seminar, three and one half hours. Survey of theoretical perspectives on emergence of late-20th- and early-21st-century information societies from range of disciplines. Topics include nature of social change and development, theories of modernity and postmodernity, and social, economic, technological, and cultural shifts associated with information technologies and rise of information as commodity. Presentation of work of key writers and scholars in areas of information society policy and issues. Letter grading.
+210. Global Media and Information
+Units: 4.0
+Lecture, three and one half hours. Question of what diversity and culture mean in era of distributed networks and massive technological diffusion looms. Part of this involves problem of how to work with differing ways of knowing, with differing ontologies. It is now widely accepted that global cultures and communities differ in way they practice knowledge, understanding, and making meaning of their worlds. How we draw boundaries around culture and community has become increasingly complicated, as culture becomes increasingly mediated and community has elements of local place and global imagination. How are political, economic, and cultural identities being shaped in global media culture? How does this shape nature of how power functions? How does this impact heritage, economy, politics, and identity? Letter grading.
+211. Artifacts and Cultures
+Units: 4.0
+Lecture, two hours; discussion, two hours. Exploration of social, cultural, and technical practices through which meanings, memories, ideas, and knowledge-claims are generated. Concepts are recorded, reproduced, mediated, collected, and appropriated; they are sometimes forged, stolen, or subverted and are often shared, juxtaposed, exhibited, communicated, interpreted, remixed, or repurposed. Their formats may be oral and written, verbal and pictorial, aural and visual, and inscriptive and performative. Artifacts are single-medium and multimedia, static and dynamic, numerical and narrative, scholarly and popular, and analog and digital. They constitute documents, records, data sets, and cultural objects through which information and evidence are authored, published, collocated, exchanged, preserved, and accessed. Examination of these artifacts and their properties, types, and relationships: media, formats, genres, materials, states, contents, components, subjects, structures, functions, aesthetic qualities, roles, costs, affordances, and use values. Letter grading.
+212. Values and Communities in Information Professions
+Units: 4.0
+Lecture, two hours; discussion, two hours. Forum to discuss, understand, and critique value systems and power structures embedded in information and work in diverse societies. Exploration of importance of thinking locally, from grassroots, in design, evaluation, and engagement with information institutions and technologies, ranging from archives and libraries to Internet. Aspects of information society that shape and are shaped by cultural, societal, professional, community, and individual values, including exploration of impact of such values on professional practice, decision making, and public policy. Letter grading.
+213. Current Issues in Librarianship
+Units: 4.0
+Lecture, two and one half hours; discussion, one hour. Overview of historical and evolving conceptual foundations of librarianship, including professional associations, key practices, social context of library services, and current issues in library studies. S/U or letter grading.
+214. Informatics: Principles and Practices
+Units: 4.0
+Lecture, three and one half hours. Theories, principles, and professional practices of informatics, including social analysis of information systems, values and design, infrastructural dynamics, user experience, and prospective analysis. S/U or letter grading.
+C215. Introduction to Information Literacies
+Units: 4.0
+(Formerly numbered 448.) Lecture, four hours. Foundational introduction to current and historical role and impact of information literacy--ability to identify, locate, critically evaluate, use, and create information effectively and ethically, for personal and scholarly uses. Topics include theory and practice related to impact of economic, legal, and social/environmental issues on development of, access to, use, and assessment of information, currently and historically; developing and refining information researching questions; conducting effective information researching; distinguishing among and critically evaluating information researching tools such as Google and databases, as well as types of items, such as ads, opinions, and factual studies; documenting sources used in information researching; effectively helping others learn information researching and critical thinking in support of equity and inclusivity; and designing, creating, and assessing online educational learning objects as positive contributions to addressing social/environmental issues. Concurrently scheduled with course C115. S/U or letter grading.
+226. Indigenous Librarianship
+Units: 4.0
+Lecture, three hours. Exploration of trends and topics in indigenous librarianship (IL), emerging branch of library and information science. Exploration of IL as category of social research that seeks to understand how particularities of sociohistorical, economic, political, and cultural conditions of indigenous communities shape perspectives and practices of collection, organization, preservation, and dissemination of knowledge. Investigation of practices associated with IL, focusing on means of revitalizing indigenous library institutions and knowledge systems; and on procedures and norms to guide responsible and respectful care for materials with indigenous content that are preserved outside of indigenous communities. Recommended for students doing interdisciplinary research with advocacy focus; and for those interested in working with tribal communities and/or collections containing indigenous materials. Letter grading.
+227. Information Services in Culturally Diverse Communities
+Units: 4.0
+Lecture, four hours. Issues in provision of information services in multiethnic and multilingual society. Understanding role of information institutions in promoting cultural diversity and preserving ethnic heritage. Letter grading.
+228. Assessment, Measurement, and Evaluation of Information Organizations and Services
+Units: 4.0
+Lecture, four hours. Introduction to assessment and evaluation as formal processes of inquiry with individual components. Demonstration of use of evidence gathered for planning, decision making, and accountability in information organizations. Review and implementation of various methods appropriate to design of assessment and evaluation studies. Letter grading.
+M229C. Introduction to Slavic Bibliography
+Units: 2.0
+(Same as Slavic M229.) Lecture, two hours. Introduction to Slavic and East European bibliography for the humanities and social sciences. Emphasis to be determined by requirements and background of enrolled students. Topics include relevant library terminology and concepts; survey of languages and transliteration systems; acquisition of Slavic and East European library materials; Slavic and East European scholarship in the West; relevant reference sources, archival resources, and research methods; survey of online databases; compilation of bibliographies. S/U grading.
+233. Records and Information Resources Management
+Units: 4.0
+Lecture, three hours. Introduction to records and information resources management in corporate, government, and other organizational settings, including analysis of organizational information flow, classification and filing systems, records retention scheduling, records protection and security, reprographics and image management technology, and litigation support. Letter grading.
+234. Contemporary Children's Literature
+Units: 4.0
+Lecture, four hours. Reading interests and correlative types of literature surveyed with reference to growth and development of children. Emphasis on role of librarian in responding to needs and abilities of children through individualized reading guidance. S/U or letter grading.
+236. Approaches to Materialities of Texts and Media
+Units: 4.0
+Seminar, two hours; discussion, 90 minutes. Introduction to traditional and current thinking about materialities of texts, books, documents, and digital and print artifacts. Draws on conventional bibliography to introduce students to fundamentals of descriptive and analytic approaches, but also engages with theoretical positions derived from new theories in media archaeology, digital humanities, and legacy of structuralist, semiotic, and visual studies approaches. Identification and understanding of methods by which artifacts have been produced and thinking about implications of these for resituating artifacts within cultural, economic, and technological systems of value production. Letter grading.
+237. Analytical Bibliography
+Units: 4.0
+Lecture, four hours. The book as physical object and its relationship to transmission of text. History and methods of analytical bibliography, with particular emphasis on handpress books. Printing processes as related to bibliography and librarianship. Discussions, demonstrations, and experiments in design, composition, and presswork. Letter grading.
+M238. Environmental Protection of Collections for Museums, Libraries, and Archives
+Units: 4.0
+(Same as Conservation M240.) Lecture, two hours; laboratory, two hours. Requisite: course 432. Review of environmental and biological agents of deterioration, including light, temperature, relative humidity, pollution, insects, and fungi. Emphasis on monitoring to identify agents and understanding of materials sensitivities, along with protective measures for collections. Letter grading.
+239. Letterpress Laboratory
+Units: 1.0
+Laboratory, two hours. Hands-on printing experience in letterpress shop designed to give students in information studies, design, or other disciplines understanding of printing process. Basic instruction provided, and students work on group project for duration of term. S/U grading.
+240. Management of Digital Records
+Units: 4.0
+Lecture, three hours. Introduction to long-term management of digital administrative, information, communications, imaging, or research systems and records. Topics include electronic recordkeeping, enterprise and risk management, systems analysis and design, metadata development, data preservation, and technological standards and policy development. Letter grading.
+241. Digital Preservation
+Units: 4.0
+Lecture, three and one half hours. Nature of digital media and networking necessitates reformulation of traditional concepts such as authenticity, authorship, and originals; information systems and metadata that are specifically designed to manage preservation process; new ethical, rights, and collaborative frameworks; and economic, legal, and policy tools with which to manage digital information over long term. Introduction to strategies, techniques, and standards, as well as continuing challenges related to preserving born-digital/born-networked/digitized materials (e.g., electronic records, digital archives, video games, scientific simulations, digital humanities environments, sound and moving image materials, social media and personal digital archives). Implications for digital preservation of new technologies and their applications. Letter grading.
+M244. Collection Management for Archives, Libraries, and Museums
+Units: 4.0
+(Same as Conservation M244.) Lecture, two hours; fieldwork, two hours. How conservators work together with curators, collections managers, mount makers, designers, and registrars to permit collections to be both accessed and preserved. Letter grading.
+245. Information Access
+Units: 4.0
+Lecture, two hours; discussion, one hour. Requisites: courses 200, 260. Provides fundamental knowledge and skills enabling information professionals to link users with information. Overview of structure of literature in different fields; information-seeking behavior of user groups; communication with users; development of search strategies using print and electronic sources. Letter grading.
+246. Information-Seeking Behavior
+Units: 4.0
+Lecture, three hours; discussion, one hour. Study of factors and influences, both individual and social, associated with human beings needing, using, and acting on information. Topics include information theory, human information processing, information flow among social and occupational groups, and research on information needs and uses. Letter grading.
+250. Techniques and Issues in Information Access
+Units: 4.0
+Lecture, four hours. Requisite: course 245. General reference materials (not specific to subject access), with advanced work in reference process and in cognitive and behavioral aspects of inquirers and expert reference librarians. Letter grading.
+251. Seminar: Specialized Literatures
+Units: 4.0
+Seminar, four hours. Requisite: course 245. Exposure to major literatures across spectrum of disciplines in three broad areas: (1) arts and humanities, (2) social sciences, (3) natural sciences and engineering. Students become familiar with knowledge structures; emphasis on reference and information sources for scholarly research. Letter grading.
+M253. Medical Knowledge Representation
+Units: 4.0
+(Same as Bioengineering M226.) Seminar, four hours; outside study, eight hours. Designed for graduate students. Issues related to medical knowledge representation and its application in healthcare processes. Topics include data structures used for representing knowledge (conceptual graphs, frame-based models), different data models for representing spatio-temporal information, rule-based implementations, current statistical methods for discovery of knowledge (data mining, statistical classifiers, and hierarchical classification), and basic information retrieval. Review of work in constructing ontologies, with focus on problems in implementation and definition. Common medical ontologies, coding schemes, and standardized indices/terminologies (SNOMED, UMLS). Letter grading.
+M254. Medical Information Infrastructures and Internet Technologies
+Units: 4.0
+(Same as Bioengineering M227.) Lecture, four hours; outside study, eight hours. Designed for graduate students. Introduction to networking, communications, and information infrastructures in medical environment. Exposure to basic concepts related to networking at several levels: low-level (TCP/IP, services), medium-level (network topologies), and high-level (distributed computing, Web-based services) implementations. Commonly used medical communication protocols (HL7, DICOM) and current medical information systems (HIS, RIS, PACS). Advances in networking, such as wireless health systems, peer-to-peer topologies, grid/cloud computing. Introduction to security and encryption in networked environments. Letter grading.
+M255. Medical Decision Making
+Units: 4.0
+(Same as Bioengineering M228.) Lecture, four hours; outside study, eight hours. Designed for graduate students. Overview of issues related to medical decision making. Introduction to concept of evidence-based medicine and decision processes related to process of care and outcomes. Basic probability and statistics to understand research results and evaluations, and algorithmic methods for decision-making processes (Bayes theorem, decision trees). Study design, hypothesis testing, and estimation. Focus on technical advances in medical decision support systems and expert systems, with review of classic and current research. Introduction to common statistical and decision-making software packages to familiarize students with current tools. Letter grading.
+256. Information Resources for Business
+Units: 4.0
+Lecture, four hours. Requisite: course 245. Introduction to information needs of business world. Business guides, encyclopedias, directories, yearbooks, indexes, loose-leaf services, government publications, databases, and other sources of business literature. Letter grading.
+258. Legal Information Resources and Libraries
+Units: 4.0
+Lecture, four hours. Introduction to information resources in law, with emphasis on primary authority and indexes to legal literature. Legal research skills. Law library services and management. Letter grading.
+259. Seminar: Information Access
+Units: 4.0
+Seminar, four hours. Requisite: course 245. Discussion of policies and issues related to basic and advanced reference materials, reference process, and psychological aspects of inquirers and expert reference librarians. Letter grading.
+260. Description and Access
+Units: 4.0
+Lecture, three and one half hours. Social, cultural, and technical practices--formal and informal, institutional and personal--through which documents, records, and other forms of information are organized and represented. Design, development, and evaluation of techniques and tools, including data models, metadata schemata, search engines, and management systems in support of curatorship, stewardship, discovery, and use. Letter grading.
+262A. Data Management and Practice
+Units: 4.0
+Lecture, three and one half hours. Designed for MLIS and PhD students. Survey of landscape of data practices and services, including data-intensive research methods; social studies of data practices; comparisons between disciplines; management of data by research teams, data centers, libraries, and archives; practices of data sharing and reuse; and introduction to national and international policy for stewardship of data. Assessment of data archiving needs of one research community and group project to develop real data management plan in partnership with UCLA researchers in other academic departments. Letter grading.
+262B. Data Curation and Policy
+Units: 4.0
+Lecture, three and one half hours. Designed for MLIS students. Continuation of course 262A to address topics of data curation and policy in more depth. Data selection and appraisal, archives and repositories, economics of data management, data citation and metrics, technologies for data access and curation, provenance, intellectual property, policy roles of multiple stakeholders in data, and institutional challenges in curation and stewardship of research data. Assessment of data archives and repositories and group project to curate actual data of UCLA researchers in other academic departments. Letter grading.
+269. Seminar: Information Structures
+Units: 4.0
+Seminar, four hours. Requisites: course 260, one other information structures course. Specialized studies in selected areas of descriptive and bibliographical cataloging, subject vocabularies and classifications, and metadata. May be repeated once. Letter grading.
+270. Systems and Infrastructures
+Units: 4.0
+Lecture, four hours. Social, cultural, and technical practices through which information and media infrastructures--networks, systems, technologies, algorithms, interfaces, standards, institutions, bureaucracies, markets--are designed, built, maintained, and evaluated. Ways in which information infrastructures both shape and are shaped by governmental policy, institutional decision making, socioeconomic trends, labor movements, technical advances, and professional and personal value systems, at levels ranging from local to global. S/U or letter grading.
+271. Introduction to Computer Systems and Programming
+Units: 4.0
+Lecture, three and one half hours. Introduction to computer programming and survey of foundational computer science topics, including boolean logic, computer architecture, operating systems, algorithms, networks, and databases. Focus on practical skills for manipulating library and archive metadata, such as searching, sorting, regular expressions, writing database queries, calling application program interface (API), and handling multiple serialization formats (XML, JSON, CSV, Excel). Emphasis on working with standard metadata encodings, such as MARC and EAD. Letter grading.
+272. Human/Computer Interaction
+Units: 4.0
+Lecture, four hours. Survey of social, behavioral, design, and evaluation issues in human/computer interaction, with readings from several disciplines. Extensive use of technology demonstrations and class discussions. Recommended for students in any discipline involved in design or implementation of information technologies. Letter grading.
+273. Communities, Information, and Civic Life
+Units: 4.0
+Seminar, three and one half hours. Investigation of concepts of culture and diversity through direct collaborations with diverse communities in Los Angeles region. Consideration of major issues around well-being of communities in contemporary America, with some eye toward larger global dynamics from fields as wide-ranging as sociology, media studies, anthropology, and urban studies. Investigation of range of theoretical, methodological, and applied literatures to develop group-based project designed in collaboration with one community of student choice in Los Angeles area. Examination of community-based methods of interaction and fieldwork (participatory, ethnography, asset mapping, and action research-based) and propose various information services based on this analysis. Letter grading.
+274. Database Management Systems
+Units: 4.0
+Lecture, three hours; laboratory, two hours. Theories, principles, and practicalities of database systems, including data models, retrieval mechanisms, evaluation methods, and storage, efficiency, and security considerations. S/U or letter grading.
+275. Community Media and Design
+Units: 4.0
+Lecture, two hours; laboratory, two hours. Information professionals, scholars, activists, and information creators/designers/architects focus on questions of culture and community to engage students in understanding information resources as cultural objects. Role of cultural heritage institutions within dynamics presented, but most fundamentally on how communities in partnership with information professionals can create, author, and represent information on their own and within their own terms. How new media can begin to serve as tool of empowerment rather than stratification. Study of impacts of technology on larger scales through readings and introductory sketches. Letter grading.
+276. Information Retrieval Systems: Structures and Algorithms
+Units: 4.0
+Lecture, four hours. Requisites: courses 245, 260. Survey of methods of file organization, retrieval techniques, and search strategies in control of information in computerized form. Letter grading.
+277. Information Retrieval Systems: User-Centered Designs
+Units: 4.0
+Lecture, two hours; discussion, two hours. Requisites: courses 245, 260. Design implications of interaction between users and features of automated information systems and interfaces that are specific to information-seeking process. Emphasis on search strategy and subject access through use of thesauri and other vocabularies. Letter grading.
+278. Information and Visualization
+Units: 4.0
+Lecture, two hours; discussion, 90 minutes. Access to and analysis of information through visualization has become increasingly prevalent as digital tools have made creation of such visualizations easier and more popular. Many software tools for such visualizations come from statistical packages; others come from GIS or spatial mapping, while others are more diagrammatic in design. Basic organization of graphical user interfaces depends on visualization of function, structure of and assumptions about user experience, and other graphical features that embody models of information in daily use. What are ways in which organization of visualization presents arguments about knowledge? What historical and critical tools can be brought into useful dialog with contemporary visualizations? Letter grading.
+279. User Experience Design
+Units: 4.0
+Seminar, four hours. Preparation: at least one course from 246, 272, 276, 277, 455. Requisites: courses 200, 260. Content varies from term to term to allow emphasis on specialized topics such as vocabulary control, file design, indexing, classification, text processing, measurement of relevance, evaluation of information systems, and social and policy issues related to information technology and services. Letter grading.
+280. Social Science Research Methodology for Information Studies
+Units: 4.0
+Lecture, four hours. Understanding of nature, uses, and practice of research appropriate to information studies. Identification of research problems and design and evaluation of research. Social science quantitative and qualitative methods. Emphasis on inquiry methodology and empirical research. S/U or letter grading.
+281. Historical Methodology of Information Studies
+Units: 4.0
+Lecture, four hours. Requisite: course 200. Introduction to historical research as it relates to library and information science. Identification of key primary and secondary source material for writing history in field. Critical analysis of selected histories of various areas in the profession. Problem-oriented approach. Letter grading.
+282. Design as Research Method
+Units: 4.0
+Seminar, three and one half hours. Theories, principles, and application of design as methods for discovery, exploration, and evaluation of user requirements, functionality, values, and system structure. S/U or letter grading.
+288. Research Apprenticeship Course
+Units: 2.0 to 4.0
+Seminar, two hours. Use of mentorship model of training graduate students in information studies, with focus on development of graduate student research topics. Assignment of common readings related to these topics; students have opportunity to offer and receive feedback. May be repeated for credit. S/U grading.
+289. Seminar: Special Issues in Information Studies
+Units: 4.0
+Seminar, three and one half hours. Identification, analysis, and discussion of critical intellectual, social, and technological issues facing the profession. Topics may include (but not limited to) expert systems, literacy, electronic networks, youth at risk, information literacy, historical bibliography, preservation of electronic media, etc. May be repeated with topic change. Letter grading.
+290. Research Seminar: Information Studies
+Units: 1.0 to 2.0
+Seminar, one to two hours. Designed for PhD students. Emphasis on recent contributions to theory, research, and methodology. May be repeated for credit. S/U grading.
+291A. Doctoral Seminar: Theoretical Traditions in Information Studies
+Units: 4.0
+Seminar, four hours. Nature of information studies--ontological, epistemological, and ethical accounts of information and of information arts and sciences. Conceptions, theories, and models of information; information-related artifacts, agents, contexts, institutions, practices, properties, values, and related phenomena. Interdisciplinary context--subfields of information studies and cognate disciplines. Frameworks for theory construction, such as critical theory, discourse analysis, hermeneutics, phenomenology, semiotics, social epistemology. Letter grading.
+291B. Special Topics in Theory of Information Studies
+Units: 4.0
+Seminar, four hours. Topics include information and evidence--record-keeping and memory-making, personal and community identity, accountability and trust. Information and design--design and implementation of information systems and services, information aesthetics. Information retrieval and knowledge organization. Information seeking, access, and use--contexts, techniques, needs, barriers. Information and power--groups, ideologies, identities, structures. Information and value--information ethics, evaluation of information services. Information policy and law--processes, institutions, players, stakes. Information institutions and professions--domains, ecologies, cultures, communities. Economics, geography, history, philosophy, politics, sociology of information. Letter grading.
+291C. Special Topics in Theory of Information Studies
+Units: 4.0
+Seminar, four hours. Enforced requisite: course 291A. Topics include information and evidence--record-keeping and memory-making, personal and community identity, accountability and trust. Information and design--design and implementation of information systems and services, information aesthetics. Information retrieval and knowledge organization. Information seeking, access, and use--contexts, techniques, needs, barriers. Information and power--groups, ideologies, identities, structures. Information and value--information ethics, evaluation of information services. Information policy and law--processes, institutions, players, stakes. Information institutions and professions--domains, ecologies, cultures, communities. Economics, geography, history, philosophy, politics, sociology of information. Letter grading.
+298A. Doctoral Seminar: Research Methods and Design
+Units: 4.0
+Seminar, four hour. Survey of quantitative, qualitative, and historical research designs. Ethical issues; conceptualization and measurement; indexes, scales, and sampling; experimental, survey, field, and evaluation research; data analysis. Letter grading.
+298B. Special Topics in Methodology of Information Studies
+Units: 4.0
+Seminar, four hours. Topics include anthropological fieldwork methods, archival methodology, bibliographical studies, textual analysis, discourse analysis, historical methods, information visualization, network analysis--bibliometrics, informetrics, scientometrics, social network analysis. Letter grading.
+298C. Special Topics in Methodology of Information Studies
+Units: 4.0
+Seminar, four hours. Enforced requisite: course 298A. Topics include anthropological fieldwork methods, archival methodology, bibliographical studies, textual analysis, discourse analysis, historical methods, information visualization, network analysis--bibliometrics, informetrics, scientometrics, social network analysis. Letter grading.
+375. Teaching Apprentice Practicum
+Units: 1.0 to 4.0
+Seminar, to be arranged. Preparation: apprentice personnel employment as teaching assistant, associate, or fellow. Teaching apprenticeship under active guidance and supervision of regular faculty member responsible for curriculum and instruction at UCLA. May be repeated for credit. S/U grading.
+400. Professional Development and Portfolio Design
+Units: 2.0 to 4.0
+Lecture, two hours; discussion, two hours. Preparation: completion of information studies core courses. Drawing on literature from many fields, exploration of issues related to professional development, such as career planning, continuing education, mentoring, and reflective practice; students also engage in process of guided portfolio design for MLIS degree. S/U grading.
+410. Management Theory and Practice for Information Professionals
+Units: 4.0
+Lecture, two hours; discussion, two hours. Principles and practice of management in all types of organizations where information professionals work. Letter grading.
+421. Special Libraries and Information Centers
+Units: 4.0
+Lecture, four hours. Organization, administration, collections, facilities, finances, and problems of special libraries and of special collections within general libraries. Methods of handling nonbook materials. Current trends in documentation and mechanization. S/U or letter grading.
+422. College, University, and Research Libraries
+Units: 4.0
+Lecture, four hours. Organization, administration, collections, facilities, finances, and problems of college and university libraries and their relationships within institutions of which they are part. Functions of research libraries and work of their staffs in serving scholars. Letter grading.
+423. Public Libraries
+Units: 4.0
+Lecture, four hours. Government, organization, and administration of municipal, county, and regional public libraries; developments in changing patterns of public library service. S/U or letter grading.
+424. Storytelling
+Units: 4.0
+Lecture, two hours; demonstration, two hours. Theory and practice of telling stories to children and adults in public and school libraries. S/U grading.
+425. Library Services and Programs for Children
+Units: 4.0
+Lecture, two hours; discussion, two hours. Theory and practice of service to children in public libraries. Overview of professional library service to children aged 14 and under; provides opportunities for students to gain experience in particular skills needed to provide that service. Letter grading.
+426. Young Adult Literature
+Units: 4.0
+Lecture, four hours. Overview of literature which is of interest to young adults (seventh grade and above). Discussion of special problems in working with young people and psychology of teenagers. S/U or letter grading.
+427. Young Adult Services
+Units: 4.0
+Lecture, 90 minutes; discussion, two hours. Theory and practice of service to teens and tweens in libraries. Overview of professional library service to youth aged 11 and over; opportunities for students to gain experience in particular skills needed to provide that service. Discussion of special challenges in working with young people and psychology of teenagers. S/U or letter grading.
+430. Library Collection Development
+Units: 4.0
+Lecture, three and one half hours. Background of publishing and book trade from digital to antiquarian pertinent to development of collections in public, school, academic, and special libraries. Theory and practice of collection development and management, including evaluation of library user needs and assessments of collections. Organization and administration of acquisition and collection development departments. Letter grading.
+431. Archives, Records, and Memory
+Units: 4.0
+Lecture, four hours. Overview of historical and evolving conceptual foundations, major professional institutions, key practices, and contemporary issues and concerns of archival studies and American archival profession, as well as other fields interested in archives, records, and memory. S/U or letter grading.
+432. Issues and Problems in Preservation of Heritage Materials
+Units: 4.0
+Lecture, six hours. Introduction to fields of library conservation and preservation, with emphasis on preservation administration. Letter grading.
+433. Community-Based Archiving
+Units: 4.0
+Lecture, three and one half hours. Builds on student understanding of and experience working with communities on development of practical strategies for documenting their activities; managing, collecting, and preserving their records and other historical and cultural materials; and undertaking community-centric collaborative research. Students required to reflect critically on questions about definition, community memory and recordkeeping practices, motivations, positionality and politics, voice, ethics, advocacy, funding and long-term sustainability, ownership, access and use, technological implementation, and collaborations. Letter grading.
+434. Archival Use and Users
+Units: 4.0
+Lecture, three and one half hours. Requisite: course 431. Examination of who uses archives and why, with ultimate goal of creating ways to better understand and meet needs of these users as well as engage new audiences in archival use. While archivists have traditionally conceived of their users as academic researchers, more thorough investigation expands this conception of users to include genealogists, artists, K-12 students and educators, families of victims of human rights abuse, community members, and members of general public. Methods for studying users, ways to conduct outreach to target user groups, and ways in which archivists can engage general public. Letter grading.
+438A. Seminar: Advanced Issues in Archival Science--Archival Appraisal
+Units: 4.0
+Seminar, four hours. Requisite: course 431. Evaluation and examination of contributions of key figures in development of archival appraisal theory; identification and evaluation of distinct movements in archival appraisal; identification of cultural, political, sociological, and technological movements that can have impact on appraisal methodologies. Letter grading.
+438B. Seminar: Advanced Issues in Archival Science--Archival Description and Access Systems
+Units: 4.0
+Seminar, four hours. Requisite: course 431. Exploration of history of archival description and access systems in the U.S. and their development since World War II; data collection; access tools and implications of these issues in development of online archival access systems. Letter grading.
+439. Seminar: Special Collections
+Units: 4.0
+Seminar, two hours; discussion, 90 minutes. Students work with special collections materials on one focused theme or topic and have to think through research aspects of exhibit or symposium or collection assessment and then create well-focused and curated agenda for presentation, exhibition, or preservation of materials. Letter grading.
+447. Computer-Based Information Resources (Online Searching)
+Units: 4.0
+Lecture, four hours. Requisite: course 245. Emphasis on use of reference and resource databases and different vendor systems. File structure and hardware requirements. Analyses of information needs and investigation of databases addressing those needs. Letter grading.
+455. Government Information
+Units: 4.0
+Lecture, four hours. Introduction to nature and scope of government information promulgated by federal government, as well as by state, municipal, international, and foreign governments. Problem-oriented approach. S/U or letter grading.
+457. Health Sciences Librarianship
+Units: 4.0
+Lecture, four hours. Health sciences information resources and services, management of health sciences information resources and services, health sciences environment and policies, information systems and technology. Letter grading.
+461. Descriptive Cataloging
+Units: 4.0
+Lecture, four hours. Entry and description of library materials. Constitution, structure, and form of library catalog. Cataloging services, tools, and procedures. Cataloging rules and their application. S/U or letter grading.
+462. Subject Cataloging and Classification
+Units: 4.0
+Lecture/discussion, four hours. Requisite: course 461. Overview of major alphabetic-subject and systematic indexing languages and their use in manual and online environments, including theory and application of Library of Congress subject headings and of Dewey decimal and Library of Congress classifications. S/U or letter grading.
+463. Indexing and Thesaurus Construction
+Units: 4.0
+Lecture, four hours. Principles of design and methods of construction of thesauri. Evaluation and overview of thesauri used in manual and online environments. Basic professional techniques for indexing variety of types of materials and for preparing informative and indicative abstracts. Letter grading.
+464. Metadata
+Units: 4.0
+Lecture, four hours. Introduction to variety of metadata provided for digitized and other electronic information resources. Introductory theory and practice designing and applying metadata. S/U or letter grading.
+473. Information Technology and Libraries
+Units: 4.0
+Lecture, four hours. Overview of major components of library automation: circulation control, acquisitions and serials, public access information systems, and data conversion. Relationships among various automation entities, including internal library automation, networks and vendors (such as bibliographic utilities, regional networks, and online services), and automation of parent organizations (universities, municipalities, corporations, and government agencies). Developments in standards for information processing and new information technologies. Letter grading.
+480. Introduction to Media Archiving and Preservation
+Units: 4.0
+Seminar, four hours. Overview of history, conceptual foundations, policies, institutions, and professional methods that have shaped collections of audiovisual materials from early 20th century to present. Introduction to fundamental archival concepts and key practices, including collection development, appraisal, preservation, restoration, arrangement and description, and critical analysis of their specific application to media collections and materials. Discussion of classical and emergent models for media archive administration, including funding, programming, outreach, access, and reuse; changing role of technology in media creation, collection, and preservation; ethics and community standards; different roles of public, private, and national media archives; and cultural impact of historical and contemporary audiovisual media. Letter grading.
+495. Teaching Assistant Training Seminar
+Units: 2.0
+Seminar, two hours. Limited to departmental doctoral students. Preparation for teaching assistant appointments in departmental undergraduate courses. Principles of instructional design and evaluation, curriculum development, instructional technology use, and key teaching issues (diversity, students with disabilities, academic integrity, copyright). S/U grading.
+497. Fieldwork in Libraries or Information Organizations
+Units: 4.0 or 8.0
+Fieldwork, 12 or 24 hours depending on nature and complexity of experience or project. Faculty-directed field experience in approved library, archive, or other information setting. Fieldwork experiences may include opportunities in state, national, and international institutions. S/U grading.
+498. Internship
+Units: 4.0
+Discussion, to be arranged. Supervised professional training in a library or information center approved by internship coordinator. Minimum of 120 hours per term. May be repeated twice. S/U grading.
+501. Cooperative Program
+Units: 2.0 to 8.0
+Tutorial, to be arranged. Preparation: consent of graduate adviser and graduate dean, and host campus instructor, department chair, and graduate dean. Used to record enrollment of UCLA students in courses taken under cooperative arrangements with USC. S/U grading.
+596. Directed Individual Study or Research
+Units: 2.0 to 8.0
+Tutorial, to be arranged. Directed special studies in fields of bibliography, librarianship, and information science. Variable conference time depending on nature of study or complexity of research. S/U grading.
+597. Directed Studies for PhD Qualifying Examinations
+Units: 2.0 to 12.0
+Tutorial, to be arranged. S/U grading.
+598. MLIS Thesis Research and Writing
+Units: 2.0 to 8.0
+Tutorial, to be arranged. Designed for graduate library and information science students. Supervised independent research for candidates in MLIS thesis option. S/U grading.
+599. PhD Research and Writing
+Units: 2.0 to 12.0
+Tutorial, to be arranged. S/U grading.

@@ -1,0 +1,162 @@
+Lower Division Courses (2)
+19. Fiat Lux Freshman Seminars
+Units: 1.0
+Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.
+99. Student Research Program
+Units: 1.0 to 2.0
+Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
+Upper Division Courses (6)
+170A. Introductory Biomathematics for Medical Investigators
+Units: 4.0
+Lecture, three hours; discussion, one hour. Intensive elementary statistics course emphasizing design and applications to observational studies and experiments/clinical trials. Statistical topics include study design, descriptive statistics, elementary probability and distributions, confidence intervals and hypothesis testing, sample size and power, linear regression and correlation, analysis of variance, nonparametric statistics. Applications to biomedical literature and design of clinical trials. Letter grading.
+189HC. Honors Contracts
+Units: 1.0
+Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.
+190HA. Honors Research in Biomathematics
+Units: 4.0
+Tutorial, to be arranged. Limited to juniors/seniors. Individual research in some aspect of biomathematics designed to acquaint students in depth with mathematical models and computer applications in biology. Must be taken for at least two terms and for total of at least 8 units. Thesis required. P/NP or letter grading.
+190HB. Honors Research in Biomathematics
+Units: 4.0
+Tutorial, to be arranged. Limited to juniors/seniors. Individual research in some aspect of biomathematics designed to acquaint students in depth with mathematical models and computer applications in biology. Must be taken for at least two terms and for total of at least 8 units. Thesis required. P/NP or letter grading.
+197. Individual Studies in Biomathematics
+Units: 2.0 to 4.0
+Tutorial, four hours. Limited to juniors/seniors. Individual intensive study, with scheduled meetings to be arranged between faculty member and student. Assigned reading and tangible evidence of mastery of subject matter required. May be repeated for credit. Individual contract required. P/NP or letter grading.
+199. Directed Research or Senior Project in Biomathematics
+Units: 2.0 to 8.0
+Tutorial, two hours. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper required. May be repeated for credit. Individual contract required. P/NP or letter grading.
+Graduate Courses (45)
+200. Research Frontiers in Biomathematics
+Units: 2.0
+Lecture, two hours. Series of presentations by faculty members on research frontiers in biomathematics. S/U grading.
+200B. Frontiers and Methods in Mathematical Systems
+Units: 4.0
+Lecture/seminar, four hours. Introduction to cutting-edge research in mathematical biology. Imparts critical thinking through critique of research. Trains students in scientific writing and presentation skills. Short writing assignments, figure preparation, and slide development. Letter grading.
+201. Deterministic Models in Biology
+Units: 4.0
+Lecture, three hours; laboratory, three hours. Preparation: knowledge of linear algebra and differential equations. Examination of conditions under which deterministic approaches can be employed and conditions where they may be expected to fail. Topics include compartmental analysis, enzyme kinetics, physiological control systems, and cellular/animal population models. S/U or letter grading.
+202. Biological Systems: Structure, Function, Evolution
+Units: 4.0
+Lecture, four hours. Preparation: knowledge of calculus, differential equations, and partial differential equations. Introduction to concepts, equations, and approximations that describe structure and function of biological systems, evolutionary principles, and network design and dynamics. Topics include cancer initiation and progression, gene expression, epistasis, response to fluctuating environments, network structure, and functional traits. S/U or letter grading.
+M203. Stochastic Models in Biology
+Units: 4.0
+(Same as Human Genetics M203.) Lecture, four hours. Requisite: Mathematics 170A or equivalent experience in probability. Mathematical description of biological relationships, with particular attention to areas where conditions for deterministic models are inadequate. Examples of stochastic models from genetics, physiology, ecology, and variety of other biological and medical disciplines. S/U or letter grading.
+204. Biomedical Data Analysis
+Units: 4.0
+Lecture, four hours. Requisite: at least one course in probability or statistics that included basic probability, elementary distributions, hypothesis testing, and confidence intervals; knowledge of elementary calculus. Familiarity with elementary matrix algebra and previous programming experience are strongly preferred. Modern scientific research and quality and quantity of data have been greatly affected by rapid expansion of statistical computing software. Problem-oriented study of latest methods in applied statistical data analysis and its use arising in laboratory and clinical research. S/U or letter grading.
+205. Top Computational Algorithms
+Units: 4.0
+Lecture, four hours. Recommended preparation: undergraduate calculus, linear algebra, probability. Overview of most important and beautiful algorithms in numerical analysis, statistics, bioinformatics, and computer science. Emphasis on mathematical derivation, practical complexity analysis, significant applications, and coding in Julia programming language. Big data applications particularly stressed. Letter grading.
+206. Introduction to Mathematical Oncology
+Units: 4.0
+Lecture, four hours; computer laboratory, two hours. Preparation: ordinary partial differential equations, one computer programming course. Deterministic and stochastic modeling of cell metabolism, colony growth, and responses to radio-, chemo-, and immunotherapeutic agents applied to carcinogenesis, therapy, emergence of resistance to therapy. Simulation, optimization methods introduced. Current literature review. S/U or letter grading.
+M207A. Theoretical Genetic Modeling
+Units: 4.0
+(Same as Biostatistics M272 and Human Genetics M207A.) Lecture, three hours; discussion, one hour. Requisites: Mathematics 115A, 131A, Statistics 100B. Mathematical models in statistical genetics. Topics include population genetics, genetic epidemiology, gene mapping, design of genetics experiments, DNA sequence analysis, and molecular phylogeny. S/U or letter grading.
+M207B. Applied Genetic Modeling
+Units: 4.0
+(Same as Biostatistics M237 and Human Genetics M207B.) Lecture, three hours; laboratory, one hour. Requisites: Biostatistics 200B, 202B (may be taken concurrently) or equivalent coursework or consent of instructor. Covers basic genetic concepts (prior knowledge of human genetics not required). Topics include statistical methodology underlying genetic analysis of both quantitative and qualitative complex traits. Laboratory for hands-on computer analysis of genetic data; laboratory reports required. Course complements M207A; students may take either and are encouraged to take both. S/U or letter grading.
+208. Geometric Methods in Medical Imaging
+Units: 4.0
+Lecture, four hours. Recommended preparation: undergraduate calculus, linear algebra, probability. Overview of mathematical and computational techniques to study geometric objects underlying medical images. Includes curves, surfaces, sizes, shapes, and diffusion tensors that describe cells, tissues, and organs. S/U or letter grading.
+209. Mechanisms and Modeling in Bioanalytical Assays
+Units: 4.0
+Lecture, three hours. Preparation: knowledge of basic physical chemistry and ordinary differential equations. Recommended requisite: course 201. Review of basic physical mechanisms and mathematical analyses used in common bioanalytical assays. Topics include chromatography, electrophoresis, blotting, DNA sequencing, PCR, SELEX, ChiP-sequencing, FACS, FRAP, and FISH. S/U or letter grading.
+210. Optimization Methods in Biology
+Units: 4.0
+Lecture, four hours. Preparation: undergraduate mathematical analysis and linear algebra; familiarity with programming language such as Fortran or C. Modern computational biology relies heavily on finite-dimensional optimization. Survey of theory and numerical methods for discrete and continuous optimization, with applications from genetics, medical imaging, pharmacokinetics, and statistics. S/U or letter grading.
+M211. Mathematical and Statistical Phylogenetics
+Units: 4.0
+(Same as Biostatistics M239 and Human Genetics M211.) Lecture, three hours; laboratory, one hour. Preparation: undergraduate course in statistics and probability. Theoretical models in molecular evolution focusing on phylogenetic techniques. Topics include evolutionary tree reconstruction methods, studies of viral evolution, phylogeography and coalescent approaches. Examples provided from evolutionary biology and evolutionary medicine, with unique focus on implications for human disease processes. Laboratory for hands-on computer analysis of sequence data. S/U or letter grading.
+M212. Evolutionary Ecology
+Units: 4.0
+(Same as Ecology and Evolutionary Biology M232.) Lecture, two and one half hours. Requisite: Ecology and Evolutionary Biology M200A or 200B, or equivalent. Concepts and topics include fundamental concepts of evolutionary ecology, including life history theory, quantitative genetics and phenotypic evolution, and advances made in field in last decade. May be repeated for credit. Letter grading.
+213. Modeling Vascular Networks
+Units: 4.0
+Lecture, four hours. Recommended preparation: calculus, differential equations, complex analysis, elementary knowledge of partial differential equations. Introduction to equations that describe fluid flow dynamics and branching, and hierarchal networks to provide survey of models for structure and flow of vascular systems. Vascular systems are nearly ubiquitous in nature, occurring across animals, plants, and other organisms. Coverage of applications to tumor growth and angiogenesis, sleep, allometric scaling, and other phenomena. S/U or letter grading.
+M226. Machine Learning in Bioinformatics
+Units: 4.0
+(Same as Bioinformatics M226, Computer Science M226, and Human Genetics M226.) Lecture, four hours; outside study, eight hours. Enforced requisite: Computer Science 32 or Program in Computing 10C with grade of C- or better. Recommended: one course from Biostatistics 100A, 110A, Civil Engineering 110, Electrical and Computer Engineering 131A, Mathematics 170A, or Statistics 100A. Familiarity with probability, statistics, linear algebra, and algorithms expected. Designed for engineering students as well as students from biological sciences and medical school. Biology has become data-intensive science. Bottleneck in being able to make sense of biological processes has shifted from data generation to statistical models and inference algorithms that can analyze these datasets. Statistical machine learning provides important toolkit in this endeavor. Biological datasets offer new challenges to field of machine learning. Examination of statistical and computational aspects of machine learning techniques and their application to key biological questions. Letter grading.
+M232. Statistical Analysis of Incomplete Data
+Units: 4.0
+(Same as Biostatistics M232.) Lecture, three hours; discussion, one hour. Requisites: Biostatistics 200C, 202B or equivalent. Sources of incomplete data, recognizing familiar methods as solutions to missing-data problems, missing-data mechanisms, weighting and imputation strategies, model-based and design-based inference, likelihood-based and Bayesian methods, statistical computing strategies, multivariate models for diverse data types, nonignorable models, review of available statistical software. Emphasis on incorporating incomplete-data perspective into broader statistical-science framework. S/U or letter grading.
+M234. Applied Bayesian Inference
+Units: 4.0
+(Same as Biostatistics M234.) Lecture, three hours; laboratory, one hour. Requisite: Biostatistics 200B or another substantial regression course. Bayesian approach to statistical inference, with emphasis on biomedical applications and concepts rather than mathematical theory. Topics include large sample Bayes inference from likelihoods, noninformative and conjugate priors, empirical Bayes, Bayesian approaches to linear and nonlinear regression, model selection, Bayesian hypothesis testing, and numerical methods. S/U or letter grading.
+M243. Condensed Matter Physics of Cells
+Units: 4.0
+(Same as Physics M243L.) Seminar, four hours. Designed for graduate students. Basic paradigms of condensed matter physics and applications to biophysical modeling. S/U or letter grading.
+M257. Computational Methods for Biostatistical Research (Effective Fall 2022 )
+Units: 4.0
+(Same as Biostatistics M257.) Lecture, three hours; discussion, one hour. Requisites: Biostatistics 250A or Statistics 100C, Mathematics 115A. Preparation for quantitative research in statistics and data sciences. Numerical analysis and hands-on computing techniques for handling big data. Numerical analysis topics include computer arithmetic, solving linear equations, Cholesky factorization, QR factorization, regression computations, eigenvalue problems, iterative solvers, numerical optimization, and design and analysis of statistical simulation experiments. Computing techniques include basics of R programming, reproducible research using R and RStudio, collaborative research, parallel computing, and cloud computing. No prior knowledge of R assumed. S/U or letter grading.
+259. Controversies in Clinical Trials
+Units: 2.0
+Lecture, one hour; discussion, one hour. Preparation: completion of professional health sciences or MD degree. Required of all MS in Clinical Research students. Discussion and analysis of eight published and well-known trials with students, one invited clinical faculty member, and course director. Development of critical ability to evaluate trial design and pitfalls. S/U or letter grading.
+M260A. Methodology in Clinical Research I
+Units: 4.0
+(Same as Medicine M260A.) Lecture, four hours. Recommended preparation: MD, PhD, or dental degree. Requisites: courses 170A, 265A. Course M260A is requisite to M260B. Presentation of principles and practices of major disciplines underlying clinical research methodology, such as biostatistics, epidemiology, pharmacokinetics. S/U or letter grading.
+M260B. Methodology in Clinical Research II
+Units: 4.0
+(Same as Medicine M260B.) Lecture, four hours. Recommended preparation: MD, PhD, or dental degree. Requisites: courses 170A, M260A, 265A. Presentation of principles and practices of major disciplines underlying clinical research methodology, such as biostatistics, epidemiology, pharmacokinetics. S/U or letter grading.
+M260C. Methodology in Clinical Research III
+Units: 4.0
+(Same as Medicine M260C.) Discussion, four hours. Recommended preparation: MD, PhD, or dental degree. Presentation of principles and practices of major disciplines underlying clinical research methodology, such as biostatistics, epidemiology, pharmacokinetics. S/U or letter grading.
+M261. Responsible Conduct of Research Involving Humans
+Units: 2.0
+(Same as Medicine M261.) Lecture, two hours; discussion, two hours. Preparation: completion of one basic course in protection of human research subjects through Collaborative Institutional Training Initiative. Discussion of current issues in responsible conduct of clinical research, including reporting of research, basis for authorship, issues in genetic research, principles and practice of research on humans, conflicts of interest, Institutional Review Board (IRB), and related topics. S/U or letter grading.
+M262. Communication of Science
+Units: 2.0
+(Same as Psychiatry M230.) Lecture, two hours; discussion, one hour. Presentation of various types of scientific writings and their good practice. Details of writing specific articles: methods, results, discussion. Writing of review article. Grant submissions: aims, background, results, design. Role of appendices. Communication with lay public. S/U or letter grading.
+M263. Clinical Pharmacology
+Units: 2.0
+(Same as Medicine M263 and Psychiatry M263.) Lecture, two hours. Preparation: completion of professional health sciences degree (MD, DDS, DNSc, or PhD). Overview of principles of clinical pharmacology, especially as they relate to clinical and translational medicine and to advances in contemporary medicine such as targeting, gene therapy, and genomics. Letter grading.
+264. Applied Data Collection and Analysis
+Units: 4.0
+Lecture, four hours. Presentation of research project development, including protocol development, data collection, quality control, clinical/electronic health record (EHR) data, structuring data for analysis, and data archival. Lectures, in-class practicums using actual studies and datasets, and student presentations. Letter grading.
+265A. Data Analysis Strategies I
+Units: 4.0
+Lecture, two hours; laboratory, two hours. Preparation: MD or PhD degree. Requisite: course 170A. Designed to provide students with hands-on experience developing and testing hypotheses using various types of databases. Topics include developing testable hypothesis, data management, and analysis strategies and written presentation of findings. Experience with full process of hypothesis generation, operationalization of variables, selection of analysis techniques, and presentation of findings so students are better prepared to complete data analysis, interpretation of results, and written presentation of their findings (e.g., for master's thesis and subsequent articles). Students encouraged to provide their own data. Databases provided for use in completing exercises for those without available data. Letter grading.
+265B. Data Analysis Strategies II
+Units: 2.0
+Lecture, one hour; laboratory, one hour. Requisite: course 265A. Continuation of course 265A; use of SAS computer language. Letter grading.
+266A. Applied Regression Analysis in Medical Sciences
+Units: 4.0
+Lecture, three hours; laboratory, one hour. Requisite: course 170A. Proficiency in applied regression analysis, with focus on interpretation of results and performing computation. Primary topics include simple linear regression, multiple regression, regression model selection, analysis of variance, logistic regression, and survival analysis. Letter grading.
+266B. Advanced Biostatistics
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisite: course 266A. Continuation of course 266A. Some traditional multivariate methods, such as principle components, factor analysis, cluster analysis, and more contemporary methods, including recursive partitioning and missing data. Multilevel and longitudinal analysis. Letter grading.
+M270. Optimal Parameter Estimation and Experiment Design for Biomedical Systems
+Units: 4.0
+(Same as Bioengineering M296B, Computer Science M296B, and Medicine M270D.) Lecture, four hours; outside study, eight hours. Requisite: course 220 or Bioengineering CM286 or M296A. Estimation methodology and model parameter estimation algorithms for fitting dynamic system models to biomedical data. Model discrimination methods. Theory and algorithms for designing optimal experiments for developing and quantifying models, with special focus on optimal sampling schedule design for kinetic models. Exploration of PC software for model building and optimal experiment design via applications in physiology and pharmacology. Letter grading.
+M271. Statistical Methods in Computational Biology
+Units: 4.0
+(Same as Bioinformatics M223 and Statistics M254.) Lecture, three hours; discussion, one hour. Preparation: elementary probability concepts. Requisite: Bioinformatics M221 or Statistics 100A or 200A. Introduction to statistical methods developed and widely applied in several branches of computational biology, such as gene expression, sequence alignment, motif discovery, comparative genomics, and biological networks, with emphasis on understanding of basic statistical concepts and use of statistical inference to solve biological problems. Letter grading.
+M280. Statistical Computing
+Units: 4.0
+(Same as Biostatistics M280 and Statistics M230.) Lecture, three hours. Requisites: Mathematics 115A, Statistics 100C. Introduction to theory and design of statistical programs: computing methods for linear and nonlinear regression, dealing with constraints, robust estimation, and general maximum likelihood methods. Letter grading.
+M281. Survival Analysis
+Units: 4.0
+(Same as Biostatistics M215). Lecture, three hours; discussion, one hour. Requisite: Biostatistics 202B or Statistics 100C. Statistical methods for analysis of survival data. S/U or letter grading.
+M282. Longitudinal Data
+Units: 4.0
+(Same as Biostatistics M236.) Lecture, three hours; laboratory, one hour. Requisite: Biostatistics 200B or another substantial regression course. Analysis of continuous responses for which multivariate normal model may be assumed. Students learn how to think about longitudinal data, plot data, and how to specify mean and variance of longitudinal response. Advanced topics include introductions to clustered, multivariate, and discrete longitudinal data. S/U or letter grading.
+M284. Methodology of Clinical Trials
+Units: 4.0
+(Same as Biostatistics M238.) Lecture, three hours; discussion, one hour. Requisite: Biostatistics 200B. Introductory material on design and analysis of clinical trials, including adaptive methods for early and late randomized trials. S/U or letter grading.
+285. Introduction to High-Throughput Data Analysis
+Units: 4.0
+Seminar, three hours. Requisites: courses M260A, M260B. Introduction to high-throughput data analysis, including DNA microarray technologies and next-generation sequencing technology. Presentation of statistical methods and software for handling complex data produced by experiments using these technologies. Some hands-on training on data analysis provided. S/U or letter grading.
+299. Special Topics in Clinical Research
+Units: 2.0 to 6.0
+Seminar, three hours. Requisites: courses M260A, M260B. Advanced study and analysis of current topics in clinical research. Discussion of current research and literature in research specialty of faculty member teaching course. Content varies from term to term and may include lectures from visiting scientists. May be repeated for credit with consent of instructor. S/U or letter grading.
+501. Cooperative Program
+Units: 2.0 to 8.0
+Preparation: consent of UCLA department chair and graduate dean, and host campus instructor, department chair, and graduate dean. Used to record enrollment of UCLA students in courses taken under cooperative arrangements with USC. S/U grading.
+596. Directed Individual Study or Research in Biomathematics
+Units: 2.0 to 12.0
+Tutorial, to be arranged. Individual study on topics not yet covered by offerings of department. May be repeated for credit with topic change. S/U or letter grading.
+597. Preparation for MS or PhD Comprehensive Examination or PhD Qualifying Examinations
+Units: 2.0 to 8.0
+Tutorial, to be arranged. Individual study. S/U grading.
+599. Research for and Preparation of PhD Dissertation
+Units: 2.0 to 12.0
+Tutorial, to be arranged. S/U grading.

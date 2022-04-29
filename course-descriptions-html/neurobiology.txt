@@ -1,0 +1,54 @@
+Lower Division Courses (2)
+19. Fiat Lux Freshman Seminars
+Units: 1.0
+Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.
+99. Student Research Program
+Units: 1.0 to 2.0
+Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
+Upper Division Courses (4)
+M169. History of Neurosciences
+Units: 4.0
+(Same as Medical History M169.) Lecture, one hour; discussion, two hours. Development of neurosciences, especially neuroanatomy and neurophysiology, from Enlightenment era through latter 20th century. Emphasis on fundamental nerve functions, cell communication, and technological, conceptual, and cultural influences that have shaped understanding of brain and nervous system. P/NP or letter grading.
+M171. Variable Topics Research Seminars: Contemporary Biology
+Units: 2.0
+(Same as Physiological Science M171.) Seminar, two hours. Limited to undergraduate fellows in Integrated and Interdisciplinary Undergraduate Research Program. Presentations of scientific data from primary research articles and from students' own research. May be repeated for credit. P/NP grading.
+197. Individual Studies in Neurobiology
+Units: 2.0 to 4.0
+Tutorial, to be arranged. Limited to juniors/seniors. Individual intensive study, with scheduled meetings to be arranged between faculty member and student. Assigned readings and tangible evidence of mastery of subject matter required. May be repeated for credit. Individual contract required. P/NP or letter grading.
+199. Directed Research in Neurobiology
+Units: 2.0 to 8.0
+Tutorial, to be arranged. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Studies in neuroscience and related subject areas appropriate for training of particular students, which includes reading assignments or laboratory work leading to final oral or written report. May be repeated for credit. Individual contract required. P/NP or letter grading.
+Graduate Courses (11)
+M200A. Synapses, Cells, and Circuits
+Units: 4.0
+(Same as Neuroscience M204.) Lecture, three hours; laboratory, two hours. Fundamental topics concerning subcellular, cellular, and structural organization of nervous system. Specific topic areas include neuronal ultrastructure, cellular neurobiology, neuroanatomy, neural circuitry, and imaging. Letter grading.
+M200C. Sensory Systems Neurobiology
+Units: 4.0
+(Same as Neuroscience M221.) Lecture, two hours; discussion, two hours. Fundamental topics in sensory systems neurobiology, including sensory transduction, taste and olfaction, audition, vision, and somatosensory system. Letter grading.
+M200F. Cellular Neurophysiology
+Units: 4.0
+(Same as Neuroscience M202 and Physiological Science M202.) Lecture, three hours; discussion, two hours. Requisites: Physiological Science 111A (or M180A or Physics 5C), 166. Advanced course in cellular physiology of neurons. Action and membrane potentials, channels and channel blockers, gates, ion pumps and neuronal homeostasis, synaptic receptors, drug-receptor interactions, transmitter release, modulation by second messengers, and sensory transduction. Letter grading.
+M200G. Biology of Learning and Memory
+Units: 4.0
+(Same as Neuroscience M220 and Psychology M208.) Lecture, four hours. Molecular, cellular, circuit, systems, neuroanatomy, theory, and models of learning and memory. Cross-disciplinary focus on learning and memory to provide integrative view of subject that emphasizes emerging findings that take advantage of novel groundbreaking models. Letter grading.
+220. Structural Neurobiology
+Units: 2.0
+Lecture, two hours; discussion, two hours; laboratory, two hours. Introduction to molecular structure of chemical, electrical, and mixed synapses as determined by imaging methods such as electron tomography. Comprehensive review of current principles governing synaptic transmission and balanced account of some of most topical areas of field, such as hemifusion, kiss and run, and fast exocytocis. Laboratory sessions review methods for preparing samples through in-depth analysis of imaging strategies. Computer laboratory sessions allow demonstration of data processing and interpretation. Three round table discussions provide forum for further inspiration as well as tackling any questions or difficulties that may arise from laboratories and lectures. S/U grading.
+225. Functional Organization of Visual System
+Units: 2.0
+Seminar, three hours. Preparation: basic neuroscience course. Recommended: neuroanatomy, neurophysiology, and/or neural systems courses. Designed for neuroscientists, cell biologists, and psychologists. Basic organizational, physiological, and functional principles of visual system and how visual information is processed at different levels of nervous system. Structure, microcircuitry organization and function of retina, central visual nuclei, and primary cortical areas mediating visual behavior. S/U or letter grading.
+M227. Neuroendocrinology of Reproduction
+Units: 4.0
+(Same as Physiological Science CM227.) Lecture, three hours; discussion, one hour. Enforced requisite: Physiological Science 111B. Understanding of reproductive neuroendocrinology throughout mammalian lifespan, with emphasis as appropriate on human condition. Discussion of general concepts of endocrine feedback and feed-forward loops, sexual differentiation, and structure and function for components of hypothalamo-pituitary gonadal axis. Exploration of sex differences in physiology and disease. Letter grading.
+M255. Seminar: Neural and Behavioral Endocrinology
+Units: 2.0
+(Same as Physiological Science M255 and Psychology M294.) Lecture, one hour; discussion, one hour. Topics include hormonal biochemistry and pharmacology. Hypothalamic/hypophyseal interactions, both hormonal and neural. Structure and function of hypothalamus. Hormonal control of reproductive and other behaviors. Sexual differentiation of brain and behavior. Stress: hormonal, behavioral, and neural aspects. Aging of reproductive behaviors and function. Letter grading.
+270. Joint Seminar: Neuroscience Lectures
+Units: 1.0
+Seminar, one hour. Formal lectures on current research topics in neuroscience by speakers from national, international, and local neuroscience communities. S/U grading.
+M287. Dynamics of Neural Microcircuits
+Units: 4.0
+(Same as Neuroscience M287.) Lecture, two hours; discussion, two hours. Development of integrative understanding of neural microcircuits that underlie specific functions of sensory processing, generation, and coordination of motor activity, as well as generation and modulation of neural rhythms. Letter grading.
+296. Research Seminar and Journal Club
+Units: 1.0
+Seminar, one hour. Seminar and journal club with focus on current research topics and activities occurring within department. S/U grading.

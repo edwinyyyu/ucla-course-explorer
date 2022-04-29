@@ -1,0 +1,75 @@
+Lower Division Courses (2)
+19. Fiat Lux Freshman Seminars
+Units: 1.0
+Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.
+99. Student Research Program
+Units: 1.0 to 2.0
+Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
+Upper Division Courses (9)
+M160A. Health Outreach and Education for At-Risk Populations
+Units: 4.0
+(Same as Public Health M160A.) Lecture, four hours; possible field observations. First in series of courses to explore prevention of disease in at-risk populations, clinical services and referrals for disadvantaged, and effects of low socioeconomic status on academic achievement, career, and family. Lectures by faculty and practitioners, with field visits. P/NP or letter grading.
+M160B. Health Outreach and Education for At-Risk Populations
+Units: 4.0
+(Same as Public Health M160B.) Lecture, two hours; discussion, two hours. Requisite: course M160A. Second in series of courses to explore prevention of disease in at-risk populations, clinical services and referrals for disadvantaged, and effects of low socioeconomic status on academic achievement, career, and family. Lectures by faculty and practitioners, discussion groups, and field activities including health education. P/NP or letter grading.
+160C. Health Outreach and Education to At-Risk Populations
+Units: 4.0
+Seminar, two hours; fieldwork, six to eight hours. Requisites: courses M160A, M160B. Processes involved with designing, delivering, and assessing community health education programs, under supervision of professional staff. P/NP or letter grading.
+180. Special Topics in Medicine
+Units: 4.0
+Lecture, four hours; discussion, one hour. Medical topics of special interest to undergraduate students. Specific subjects may vary each term depending on particular interest of instructors and students. Topics may include East/West medicine and global medicine. May be repeated for credit with topic or instructor change. P/NP or letter grading.
+185. Integrative East-West Medicine for Health and Wellness
+Units: 5.0
+Lecture, five hours. Introduction to integrative health care and wellness, particularly therapeutic approaches originating from traditional Chinese medicine. Study of theoretical underpinnings of integrative medicine and traditional Chinese medicine, management of personal well-being through experiential learning of various therapeutic modalities, and evidenced-based research and clinical applications of integrative medicine. Topics include integrative East-West medicine and its role in prevention and health cultivation; herbs, diet, and nutritional supplements; pain management using acupuncture, acupressure, massage, and other self-help techniques; integrative medicine research and evidence-based modalities; chronic stress and implications on sleep, inflammation, and maintaining healthy immune system. Incorporates hands-on practice and interactive sessions. P/NP or letter grading.
+188SA. Individual Studies for USIE Facilitators
+Units: 1.0
+Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.
+188SB. Individual Studies for USIE Facilitators
+Units: 1.0
+Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.
+188SC. Individual Studies for USIE Facilitators
+Units: 2.0
+Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading.
+199. Directed Research in Medicine
+Units: 2.0 to 8.0
+Tutorial, two hours. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper required. May be repeated for credit. Individual contract required. P/NP or letter grading.
+Graduate Courses (13)
+M215. Interdepartmental Course: Tropical Medicine
+Units: 2.0
+(Same as Pathology M215 and Pediatrics M215.) Lecture, two and one half hours. Preparation: basic courses in microbiology and parasitology of infectious diseases in School of Medicine or Public Health. Study of current knowledge about diseases prevalent in tropical areas of the world. Major emphasis on infectious diseases, with coverage of problems in nutrition and exotic noninfectious diseases. Syllabus supplements topics covered in classroom. S/U grading.
+M256. Interdisciplinary Response to Infectious Disease Emergencies: Medicine Perspective
+Units: 4.0
+(Same as Community Health Sciences M256, Nursing M298, and Oral Biology M256.) Lecture, three hours; discussion, one hour. Designed to instill in professional students ideas of common emergency health problems and coordinated response, with specific attention to bioterrorism. Examination of tools to help students prevent, detect, and intervene in infectious disease emergencies. Interdisciplinary sessions also attended by students in Schools of Dentistry, Nursing, and Public Health during weeks two through five. Letter grading.
+M260A. Methodology in Clinical Research I
+Units: 4.0
+(Same as Biomathematics M260A.) Lecture, four hours. Recommended preparation: MD, PhD, or dental degree. Requisites: Biomathematics 170A, 265A. Course M260A is requisite to M260B. Presentation of principles and practices of major disciplines underlying clinical research methodology, such as biostatistics, epidemiology, pharmacokinetics. S/U or letter grading.
+M260B. Methodology in Clinical Research II
+Units: 4.0
+(Same as Biomathematics M260B.) Lecture, four hours. Recommended preparation: MD, PhD, or dental degree. Requisites: course M260A, Biomathematics 170A, 265A. Presentation of principles and practices of major disciplines underlying clinical research methodology, such as biostatistics, epidemiology, pharmacokinetics. S/U or letter grading.
+M260C. Methodology in Clinical Research III
+Units: 4.0
+(Same as Biomathematics M260C.) Discussion, four hours. Recommended preparation: MD, PhD, or dental degree. Presentation of principles and practices of major disciplines underlying clinical research methodology, such as biostatistics, epidemiology, pharmacokinetics. S/U or letter grading.
+M261. Responsible Conduct of Research Involving Humans
+Units: 2.0
+(Same as Biomathematics M261.) Lecture, two hours; discussion, two hours. Preparation: completion of one basic course in protection of human research subjects through Collaborative Institutional Training Initiative. Discussion of current issues in responsible conduct of clinical research, including reporting of research, basis for authorship, issues in genetic research, principles and practice of research on humans, conflicts of interest, Institutional Review Board (IRB), and related topics. S/U or letter grading.
+M263. Clinical Pharmacology
+Units: 2.0
+(Same as Biomathematics M263 and Psychiatry M263.) Lecture, two hours. Preparation: completion of professional health sciences degree (MD, DDS, DNSc, or PhD). Overview of principles of clinical pharmacology, especially as they relate to clinical and translational medicine and to advances in contemporary medicine such as targeting, gene therapy, and genomics. Letter grading.
+M270C. Advanced Modeling Methodology for Dynamic Biomedical Systems
+Units: 4.0
+(Same as Bioengineering M296A and Computer Science M296A.) Lecture, four hours; outside study, eight hours. Requisite: Electrical Engineering 141 or 142 or Mathematics 115A or Mechanical and Aerospace Engineering 171A. Development of dynamic systems modeling methodology for physiological, biomedical, pharmacological, chemical, and related systems. Control system, multicompartmental, noncompartmental, and input/output models, linear and nonlinear. Emphasis on model applications, limitations, and relevance in biomedical sciences and other limited data environments. Problem solving in PC laboratory. Letter grading.
+M270D. Optimal Parameter Estimation and Experiment Design for Biomedical Systems
+Units: 4.0
+(Same as Bioengineering M296B, Biomathematics M270, and Computer Science M296B.) Lecture, four hours; outside study, eight hours. Requisite: course M270C or Bioengineering CM286 or Biomathematics 220. Estimation methodology and model parameter estimation algorithms for fitting dynamic system models to biomedical data. Model discrimination methods. Theory and algorithms for designing optimal experiments for developing and quantifying models, with special focus on optimal sampling schedule design for kinetic models. Exploration of PC software for model building and optimal experiment design via applications in physiology and pharmacology. Letter grading.
+M270E. Advanced Topics and Research in Biomedical Systems Modeling and Computing
+Units: 4.0
+(Same as Bioengineering M296C and Computer Science M296C.) Lecture, four hours; outside study, eight hours. Requisite: course M270D. Research techniques and experience on special topics involving models, modeling methods, and model/computing in biological and medical sciences. Review and critique of literature. Research problem searching and formulation. Approaches to solutions. Individual MS- and PhD-level project training. Letter grading.
+M290A. Child Abuse and Neglect
+Units: 2.0
+(Same as Community Health Sciences M245A-M245B, Dentistry M300A-M300B, Education M217G-M217H, Law M281A, Nursing M290A-M290B, and Social Welfare M203F-M203G.) Lecture, two hours. Course M290A is requisite to M290B. Intensive interdisciplinary study of child physical and sexual abuse and neglect, with lectures by faculty members of Schools of Dentistry, Law, Medicine, Nursing, and Public Health and Departments of Education and Psychology, as well as by relevant public agencies. Letter grading.
+M290B. Child Abuse and Neglect
+Units: 2.0
+(Same as Community Health Sciences M245B-M245C, Dentistry M300B-M300C, Education M217H-M217I, Law M281B, Nursing M290B-M290C, and Social Welfare M203G-M203H.) Lecture, two hours. Requisite: course M290A. Intensive interdisciplinary study of child physical and sexual abuse and neglect, with lectures by faculty members of Schools of Dentistry, Law, Medicine, Nursing, and Public Health and Departments of Education and Psychology, as well as by relevant public agencies. Letter grading.
+501. Cooperative Program
+Units: 2.0 to 8.0
+Preparation: consent of UCLA department chair and graduate dean, and host campus instructor, department chair, and graduate dean. Used to record enrollment of UCLA students in courses taken under cooperative arrangements with USC. S/U grading.

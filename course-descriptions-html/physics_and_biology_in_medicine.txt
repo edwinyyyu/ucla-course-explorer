@@ -1,0 +1,162 @@
+Lower Division Courses (2)
+19. Fiat Lux Freshman Seminars
+Units: 1.0
+Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.
+99. Student Research Program
+Units: 1.0 to 2.0
+Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
+Upper Division Courses (1)
+199. Directed Research in Biomedical Physics
+Units: 2.0 to 4.0
+Tutorial, two hours. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper required. May be repeated for credit. Individual contract required. P/NP or letter grading.
+Graduate Courses (50)
+200A. Physics and Chemistry of Nuclear Medicine
+Units: 4.0
+Lecture, three hours; discussion, one hour. Nuclear structure, statistics of radioactive decay, nuclear radiations and their interaction with matter, nuclear decay processes, nuclear reactions, and compartment models. Physical and chemical properties of radioactive preparations used in nuclear medicine. Basic principles of nuclear medicine imaging, SPECT, and PET. S/U or letter grading.
+200B. Nuclear Medicine Instrumentation
+Units: 4.0
+Lecture, one hour; laboratory, three hours. Requisite: course 200A. Introduction to nuclear medicine instrumentation, including well ionization chambers, probe and well scintillation detectors, scintillation cameras, and single photon and positron emission computed tomography. S/U or letter grading.
+201. Medical Radiation Accelerator Design
+Units: 4.0
+Lecture, three hours. Requisite: course 216. Overview of physical principles involved in design of current particle accelerators (electron, proton, heavy particle) and analysis of characteristics of current accelerators and facility design. S/U or letter grading.
+202A. Applications of Medical Physics to Clinical Problems: Nuclear Medicine
+Units: 4.0
+Clinic, four hours. Requisite: course 200B. Selected studies in clinical use of radioisotopes. S/U or letter grading.
+202B. Applications of Medical Physics to Clinical Problems: Mammography
+Units: 1.0
+Clinic, one hour. Requisites: courses 200A, 205. Selected studies in clinical use of radioisotopes. Technical aspects of producing quality mammographic images and discussion of strategies for reducing artifacts and lowering patient dose. Review of specialty systems and regulatory aspects related to mammography systems. S/U grading.
+202C. Applications of Medical Physics to Clinical Problems: Radiation Therapy
+Units: 4.0
+Clinic, four hours. Requisites: courses 203, 204, 208B, 221. Selected studies in clinical use of radioisotopes. S/U grading.
+203. Physics of Radiation Therapy
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisite: course 216. Radiation quantities and units. Radiation dosimetry, clinical applications in treatment planning. Methods of measuring radiation quantities. Calibration of radiation therapy equipment. Letter grading.
+204. Introductory Radiation Biology
+Units: 4.0
+Lecture, four hours. Effect of ionizing radiation on chemical and biological systems. S/U or letter grading.
+205. Physics of Diagnostic Radiology
+Units: 4.0
+Lecture, three hours; laboratory, one hour. Production of X rays, basic interactions between X rays and matter, X-ray system components, physics principles of medical radiography, radiographic image quality, fluoroscopy, image intensifiers, special procedures, X-ray protection. Laboratory experiments illustrate basic theory. S/U or letter grading.
+206. Advanced Instrumentation
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisite: course 205. Introduction to recent advances in digital diagnostic imaging systems, with topics centered on instrumentation including digital subtraction angiography (DSA) methods of producing three-dimensional images. S/U or letter grading.
+207. Monte Carlo Methods with Applications for Radiological Sciences
+Units: 4.0
+Lecture, two hours; laboratory, one hour. Requisites: courses 200A, 205, 216. Introduction to Monte Carlo methods, with application to radiation transport of charged and uncharged particles. Specific applications in radiological sciences. Letter grading.
+208A. Medical Physics Laboratory: Medical Imaging
+Units: 4.0
+Discussion, two hours; laboratory, four hours. Requisite: course 205. Hands-on experience performing acceptance testing and quality control checks of imaging equipment such as fluoroscopy, digital subtraction angiography, mammography, ultrasound, magnetic resonance imaging, computed tomography, and computed radiography. S/U or letter grading.
+208B. Medical Physics Laboratory: Radiation Therapy
+Units: 4.0
+Discussion, two hours; laboratory, four hours. Requisite: course 203. Hands-on experience calibrating treatment planning and radiation therapy equipment. S/U or letter grading.
+M209. Signal and Image Processing for Biomedicine
+Units: 4.0
+(Formerly numbered 209.) (Same as Bioengineering M209.) Lecture, three hours. Preparation: basic calculus or linear algebra and undergraduate probability. Mathematics and statistical fundamentals prevalent in biomedical physics studies. Notion and basic descriptions of linear shift-invariance and point spread functions in continuous and discrete time. Sampling theory and Fourier analysis. Signal representation of vector spaces, projection theorem, and least-squares approximations. Discussion of signal subspace methods, correlation and independence, principal component analysis, and independent component analysis. Basic ideas in inverse problems and optimization. Application in medical and signal processing. Development of geometric and informatics intuitions behind mathematics and statistics. Light derivations and MATLAB programming. S/U or letter grading.
+210. Computer Vision in Medical Imaging
+Units: 4.0
+Lecture, three hours; discussion, one hour. Recommended requisites: Mathematics 155, Program in Computing 10A. Study of image segmentation, feature extraction, object recognition, classification, and visualization with biomedical applications. Topics include region-growing, edge detection, mathematical morphology, clustering, neural networks, and volume rendering in lectures, case studies, and programming projects. S/U or letter grading.
+211. Medical Ultrasound
+Units: 4.0
+Lecture, 90 minutes; laboratory, two hours. Preparation: one calculus course. Production of real-time ultrasound images, transducer modeling and design, Doppler and color flow instrumentation, biohazards of ultrasound, ultrasound phantom design, and ultrasound tissue characterization techniques. Laboratory included. S/U or letter grading.
+212. Biochemical Basis of Positron-Emission Tomography (PET)
+Units: 4.0
+Lecture, three hours; discussion, one hour. Introduction to biochemical processes and application of radioisotopes to study metabolism noninvasively by positron-emission tomography (PET). Validation of kinetic models to derive quantitative information from PET. Introduction to clinical and experimental application of PET. S/U or letter grading.
+213. Quantitative Autoradiography
+Units: 4.0
+Lecture, three hours; discussion, one hour. Application of quantitative autoradiography for estimating brain and heart functions. Topics include 2-deoxyglucose method for metabolic rate; iodoantipyrine method for blood flow; amino acid method for protein synthesis; quantitative receptor autoradiography; neuroanatomy and neurophysiology of autoradiogram and PET scan interpretation. S/U or letter grading.
+214. Medical Image Processing Systems
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 209, 210. Advanced image processing and image analysis techniques applied to medical images. Discussion of approaches to computer-aided diagnosis and image quantitation, as well as application of pattern classification techniques (neural networks and discriminant analysis). Examination of problems from several imaging modalities (CT, MR, CR, and mammography). S/U or letter grading.
+215. Breast Imaging Physics and Instrumentation
+Units: 4.0
+Lecture, three hours; laboratory, two hours. Requisite: course 205. Special requirements of mammography, design of dedicated mammography X-ray units from generators and tubes through screen/film cassettes. Stereotactic biopsy units, cost/benefit controversy of screening mammography, digital mammography, computer-aided diagnosis, telemammography, breast MRI, and breast ultrasound. S/U or letter grading.
+216. Fundamentals of Dosimetry
+Units: 4.0
+Lecture, three hours; laboratory, one hour. Review of fundamental interactions of radiation and matter and introduction to fundamentals of radiation dosimetry. Overview of dosimetry instrumentation as well as radiation sources. S/U or letter grading.
+217. Statistics and Data Analysis in Biomedical Physics
+Units: 2.0
+Lecture, two hours; laboratory, one hour. Requisites: Mathematics 31A, 31B, 32A, 32B, 33A, 33B. Introduction to computer-based statistical concepts, data analysis, and experimental design within biomedical physics research. Standard statistical packages and various statistical computing algorithms on relevant data sets within radiological sciences. Letter grading.
+218. Radiologic Functional Anatomy
+Units: 4.0
+Lecture, three hours; discussion, one hour. Introduction to human anatomy, cell biology, and physiology as visualized through microscopy, molecular imaging, radiography, CT, MRI, ultrasonography, PET, and SPECT. Letter grading.
+M219. Principles and Applications of Magnetic Resonance Imaging
+Units: 4.0
+(Same as Bioengineering M219.) Lecture, three hours; discussion, one hour. Basic principles of magnetic resonance (MR), physics, and image formation. Emphasis on hardware, Bloch equations, analytic expressions, image contrast mechanisms, spin and gradient echoes, Fourier transform imaging methods, structure of pulse sequences, and various scanning parameters. Introduction to advanced techniques in rapid imaging, quantitative imaging, and spectroscopy. Letter grading.
+220A. Laboratory Rotations in Biomedical Physics: Biophysics
+Units: 2.0
+Laboratory, two hours. Laboratory projects to provide students with introduction to field. One oral and one written presentation required. S/U grading.
+220B. Laboratory Rotations in Biomedical Physics: Medical Imaging
+Units: 2.0
+Laboratory, two hours. Laboratory projects to provide students with introduction to field. One oral and one written presentation required. S/U grading.
+220C. Laboratory Rotations in Biomedical Physics: Therapeutic Medical Physics
+Units: 2.0
+Laboratory, two hours. Laboratory projects to provide students with introduction to field. One oral and one written presentation required. S/U grading.
+220D. Laboratory Rotations in Biomedical Physics: Radiation Biology and Experimental Radiation Therapy
+Units: 2.0
+Laboratory, two hours. Laboratory projects to provide students with introduction to field. One oral and one written presentation required. S/U grading.
+221. Applied Health Physics
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisite: course 216. Basics of radiation safety as applied to medical applications. Introduction to all regulatory issues pertaining to medical uses of radioactivity. Letter grading.
+222. Advances in Medical Magnetic Resonance: Clinical MR Spectroscopy and Fast MRI Techniques
+Units: 4.0
+Lecture, three hours; laboratory, one hour. Requisite: course 219. Basic principles of NMR spectroscopy, localized spectroscopic sequences on wholebody environment, single/multishot localization, water/fat suppression, chemical shift imaging sequences, processing with multidimensional Fourier transforms, gradient/spin-echo based echo-planar imaging, diffusion/perfusion imaging techniques. Letter grading.
+223. Seminar: Radiation Biology
+Units: 4.0
+Seminar, four hours. Exploration of physiologic and molecular mechanisms that impact on response of normal and malignant tissues to ionizing radiation, with particular emphasis on critical and high in-depth analysis of approaches through which such responses can be modified in therapeitoic setting. Understanding of rationale for integrating biological information into process of treatment planning and delivery. S/U grading.
+225. Contrast Mechanisms and Quantification in Magnetic Resonance Imaging
+Units: 4.0
+Lecture, four hours. Requisite: course M219. Introduction to magnetic resonance contrast mechanisms and quantification techniques in magnetic resonance imaging. Topics include exogenous and endogenous contrast mechanisms, measuring tissue perfusion and permeability, advanced diffusion and q-space analysis, chemical exchange and magnetization transfer imaging, and relaxometry. Letter grading.
+227. Human Disease: Current and Future Role of Biomedical Physics
+Units: 4.0
+Lecture, three hours; discussion, one hour. Present and future roles of biomedical physics in diagnosis and treatment of human disease, with focus on interdisciplinary nature of this field. Exploration of two diseases in depth with detailed description of roles of physics-based diagnostic imaging and therapeutic options for each disease. Description of current and future technologies, as well as techniques that exploit interaction between diagnosis and therapy. Letter grading.
+M229. Advanced Topics in Magnetic Resonance Imaging
+Units: 4.0
+(Formerly numbered 229.) (Same as Bioengineering M229.) Lecture, four hours. Requisite: course M219. Designed for students interested in pursuing research related to development or translation of new magnetic resonance imaging (MRI) technique. Basic tools and understanding of recent MRI developments that have had high impact on field, involve novel pulse sequence design or image reconstructions, and enable imaging of anatomy or function in way that surpasses what is currently possible with any modality. Topics include in-depth sequence simulation, RF pulse design, rapid image acquisition, parallel imaging, compressed sensing, image reconstruction and processing, motion encoding and compensation, chemical-shift imaging and understanding, and understanding/avoiding artifacts. Programming exercises in MATLAB to provide hands-on experience. Letter grading.
+231. Advanced Treatment Planning in Radiation Therapy
+Units: 3.0
+Lecture, four hours. Enforced requisites: courses 203, 216. Designed to provide theoretical and practical understanding of treatment planning techniques utilized in radiation therapy. Topics include clinical treatment planning work flow, general planning principles and strategies, and specific considerations for various treatment delivery modalities and advanced treatment techniques. Detailed discussion on dose calculation algorithms and inversed planning and optimization. Clinical treatment planning demonstration using commercial treatment planning systems used to provide practical understanding of clinical applications and implementation. S/U or letter grading.
+232. Image Guided Radiation Therapy
+Units: 4.0
+Lecture, four hours. Requisites: courses 203, 216. Designed to provide students theoretical and practical understanding of processes and equipment used for image guided radiation therapy. Emphasis on in-room imaging systems, including their operating principles, manufacturing, workflows, and quality assurance. Detailed discussions of hardware, image acquisition, and image processing provide understanding of theoretical and practical benefits and challenges of each technology. Discussion of clinical workflow and quality assurance to provide more practical information to understand clinical value and implementation challenges for each technology. S/U or letter grading.
+M248. Introduction to Biological Imaging
+Units: 4.0
+(Same as Bioengineering M248 and Pharmacology M248.) Lecture, three hours; laboratory, one hour; outside study, seven hours. Exploration of role of biological imaging in modern biology and medicine, including imaging physics, instrumentation, image processing, and applications of imaging for range of modalities. Practical experience provided through series of imaging laboratories. Letter grading.
+260A. Seminar: Biomedical Physics
+Units: 1.0
+Seminar, one hour. Joint critical study by students and instructors in fields of knowledge pertaining to biomedical physics. Periodic contributions by visiting scientists. Discussion of research in progress. Student presentations required in spring term. May be repeated. S/U grading.
+260B. Seminar: Biomedical Physics
+Units: 1.0
+Seminar, one hour. Joint critical study by students and instructors in fields of knowledge pertaining to biomedical physics. Periodic contributions by visiting scientists. Discussion of research in progress. Student presentations required in spring term. May be repeated. S/U grading.
+260C. Seminar: Biomedical Physics
+Units: 1.0
+Seminar, one hour. Joint critical study by students and instructors in fields of knowledge pertaining to biomedical physics. Periodic contributions by visiting scientists. Discussion of research in progress. Student presentations required in spring term. May be repeated. Letter grading.
+268. Radiopharmaceutical Chemistry and Technologies
+Units: 4.0
+Lecture, two hours; discussion, two hours. Introduction to advanced concepts in chemistry of radiopharmaceuticals and technologies for radiopharmaceutical production and analysis. Areas of focus are (1) radiochemistry with fluorine-18 and other isotopes, (2) technologies for synthesis automation and optimization, (3) analytical instrumentation and tools in radiochemistry, and (4) PET tracer design and development. Introduction to multistep process of target identification, tracer design, radiosynthesis development, in vitro and in vivo tracer evaluation, radiochemistry automation for routine production, and preparation of clinical grade doses (as prerequisite for clinical translation of novel molecular imaging tracers). Lectures covering fundamentals complemented with practical sessions that provide hands-on training with technologies and methods used in routine synthesis, synthesis optimization, analysis (and quality control testing), and in vitro and in vivo evaluation of PET probes. S/U or letter grading.
+269. Seminar: Medical Imaging
+Units: 1.0
+Seminar, one hour. Continuous registration required of students in medical imaging specialty. Topics of current interest in medical imaging, with lecturers from department, other universities, and private industry. S/U or letter grading.
+M285. Functional Neuroimaging: Techniques and Applications
+Units: 3.0
+(Same as Bioengineering M284, Neuroscience M285, Psychiatry M285, and Psychology M278.) Lecture, three hours. In-depth examination of activation imaging, including MRI and electrophysiological methods, data acquisition and analysis, experimental design, and results obtained thus far in human systems. Strong focus on understanding technologies, how to design activation imaging paradigms, and how to interpret results. Laboratory visits and design and implementation of functional MRI experiment. S/U or letter grading.
+286. Image Registration Techniques
+Units: 4.0
+Lecture, four hours. Preparation: strong mathematical background. Examination of state-of-art image registration methods that exist today. Mathematical descriptions of each different class of registration methods and two-dimensional/three-dimensional/four-dimensional implementation details. Programming of registration methods in MATLAB/C/C++/CUDA/JAVA interfaces so students learn all registration methods currently investigated. Letter grading.
+M424. Functional Magnetic Resonance Imaging Journal Club
+Units: 2.0
+(Same as Psychiatry M424.) Discussion, 90 minutes. Limited to 10 students. Current topics in functional neuroimaging, with emphasis on novel applications, analysis, and acquisition methods. Presentation and critique of student papers. Overall emphasis on magnetic resonance imaging. Example areas include tractography through diffusion tensor imaging, jittered event-related experimental designs, parallel receiver MR imaging, integrated electrophysiological and image acquisition. S/U grading.
+495. Special Studies in Biomedical Physics
+Units: 4.0
+Seminar, two hours; laboratory, four hours. Teaching assistance in graduate laboratory courses under supervision of faculty member. S/U grading.
+596. Research in Biomedical Physics
+Units: 4.0 to 12.0
+Tutorial, to be arranged. Directed individual study or research. Only one 596 course may be applied toward MS degree requirements. May be repeated for credit. S/U or letter grading.
+597. Preparation for PhD Qualifying Examinations
+Units: 4.0
+Tutorial, to be arranged. May not be applied toward MS degree requirements. May not be repeated. S/U grading.
+598. Research for and Preparation of MS Thesis
+Units: 4.0 to 12.0
+Tutorial, to be arranged. Two 598 courses (or 598 and 596 combined) may be applied toward MS degree requirements. May be repeated. S/U grading.
+599. Research for PhD Dissertation
+Units: 4.0 to 12.0
+Tutorial, to be arranged. Preparation: successful completion of screening examinations. Research for and preparation of PhD dissertation. May be repeated. S/U grading.
