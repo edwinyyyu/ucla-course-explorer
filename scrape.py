@@ -40,7 +40,7 @@ def scrape_courses(subject_area):
     soup = BeautifulSoup(html, "html.parser")
     text = soup.prettify()
     
-    path = "course-descriptions-html/"
+    path = "course-descriptions-data/"
     filename = path + subject_area.replace(" ", "_").replace("/", "-").lower() + ".txt"
     
     with open(filename, "w") as f:
