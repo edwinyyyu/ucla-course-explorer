@@ -36,7 +36,7 @@ def scrape_courses(subject_area):
     start_index = html.find(start_str)
     end_index = html.find(end_str)
     
-    html = html[start_index: end_index]
+    html = html[start_index : end_index]
     soup = BeautifulSoup(html, "html.parser")
     text = soup.prettify()
     
@@ -44,6 +44,7 @@ def scrape_courses(subject_area):
     filename = path + subject_area.replace(" ", "_").replace("/", "-").lower() + ".txt"
     
     with open(filename, "w") as f:
+        f.write(subject_area + "\n")
         for line in text.splitlines():
             stripped = line.strip()
             if len(stripped) > 0 and stripped[0] != "<":
