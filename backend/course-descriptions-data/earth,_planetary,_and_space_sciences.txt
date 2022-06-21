@@ -1,4 +1,5 @@
-Lower Division Courses (20)
+Earth, Planetary, and Space Sciences
+Lower Division Courses (19)
 1. Introduction to Earth Science
 Units: 5.0
 Lecture, three hours; laboratory, two hours; field days. Not open to students with credit for or currently enrolled in course 100. Elements of Earth science; study of Earth materials; nature and interpretation of geologic evidence; study of geologic processes; historical aspects of geology. Mandatory field trips introduce students to solving of geologic problems in field. P/NP or letter grading.
@@ -47,9 +48,6 @@ Lecture, two hours; laboratory, three hours; five field days. Enforced requisite
 M71. Introduction to Computing for Geoscientists
 Units: 4.0
 (Formerly numbered 71.) (Same as Atmospheric and Oceanic Sciences M71.) Lecture, three hours; laboratory, 90 minutes; outside computing study, six to 10 hours. Introduction to writing programs, visualization of geoscience data, and comparison with models. P/NP or letter grading.
-88S. Applied Astrobiology: Design Your Own Alien Microbe
-Units: 1.0
-Seminar, one hour. Study of basics of planetary science and exoplanet studies that relate to astrobiology and exploration of biological pathways that microbes can take to survive in average and extreme conditions on Earth. P/NP grading. Facilitated by Emery Grahill-Bland, with Tina I. Treude as faculty mentor.
 89. Honors Seminars
 Units: 1.0
 Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.
@@ -96,9 +94,6 @@ Lecture, three hours; laboratory, six hours. Requisites: courses 1, 61. Recommen
 C113. Biological and Environmental Geochemistry
 Units: 4.0
 Lecture, three hours. Requisites: Chemistry 14A and 14B (or 20A and 20B), Mathematics 3A, 3B, and 3C (or 31A and 31B). Recommended: at least one lower-division Earth, planetary, and space sciences course. Intended for junior/senior life and physical sciences students. Study of chemistry of Earth's surface environment and interplay between biology, human activity, and geology. Introduction to origin and composition of Earth, including atmosphere, crust, and hydrosphere. Examination of how these reservoirs are affected by biological cycles and feedbacks to biological evolution and diversity. Local and global-scale movements of biologically important elements like carbon, nitrogen, and phosphorus. Concurrently scheduled with course C213. P/NP or letter grading.
-CM114. Aquatic Geomicrobiology
-Units: 4.0
-(Same as Atmospheric and Oceanic Sciences CM114.) Lecture, three hours; discussion, one hour. Recommended requisite: course C107 or Atmospheric and Oceanic Sciences M105. Fundamental geomicrobiological metabolisms and biogeochemical reactions occurring in aquatic systems, how they impact their environment, and how they interact in complex ecosystems such as methane seeps, hydrothermal vents, coral reefs, microbial mats, or deep biosphere. Metabolisms include different photoautotrophic, heterotrophic, and chemoautotrophic pathways. Interpretation of geochemical profiles and understanding of how microorganisms govern mineralization and element cycling in aquatic systems. Concurrently scheduled with course CM214. P/NP or letter grading.
 CM114A. Aquatic Geomicrobiology: Metabolisms
 Units: 4.0
 (Formerly numbered CM114.) (Same as Atmospheric and Oceanic Sciences CM114A.) Lecture, three hours. Recommended requisite: course C107 or Atmospheric and Oceanic Sciences M105. Study of fundamental geomicrobiological metabolisms and biogeochemical reactions occurring in aquatic systems and how these processes interact with environment. Metabolisms include photoautotrophic (anoxygenic and oxygenic photosynthesis), chemoheterotrophic (fermentation and respiration of organic matter), photoheterotrophic (organic matter degradation with light), and chemoautotrophic (iron, nitrogen, manganese, methane, and sulfur oxidation) pathways. Introduction of principals of bioenergetics (adenosine triphosphate production, Gibbs free energy, chemiosmosis, thermodynamic calculations) and biological isotope fractionation. Concurrently scheduled with course CM214A. P/NP or letter grading.
@@ -192,6 +187,8 @@ Lecture, three hours; laboratory, two hours. Enforced requisite: course 1 or 8. 
 171. Advanced Computing in Geosciences
 Units: 4.0
 Lecture, four hours. Enforced requisites: course M71, Mathematics 3A, 3B, and 3C (or 31A and 31B). Use of high level computing language to program microcontrollers to acquire laboratory-style experimental data. Misfit modeling and quantitative comparisons of acquired data sets and theory. Forward modeling from fundamental equations. Examples, experiments, and exercises from disciplines within geosciences. P/NP or letter grading.
+M171. Advanced Computing in Geosciences
+Units: 4.0
 CM173. Earth Process and Evolutionary History
 Units: 6.0
 (Same as Ecology and Evolutionary Biology CM173.) Lecture, four hours; laboratory, three hours. Requisites: Chemistry 14A, 14B (or 20A, 20B), Life Sciences 1, 2, 3, and 4, or 7A, 7B, and 7C (or 7A and introductory course in geology). Exploration of relationship between physical processes, such as tectonics and climate, and how they affect surface and impact biology of Earth. Study of evolution of universe, Earth, and life, with integration of history of science, including Darwinian evolution and plate tectonics revolutions. Study of formation of matter offers tools to understand geologic process of climate and ecology of Earth. Past climate change to examine expected future human-influenced climate. Consideration of major events in history of life on Earth. Data and methods from geology, genetics, and geochemistry are integrated to reconstruct past events. This reveals how Earth processes shaped life and how life shaped Earth. Concurrently scheduled with course CM273. Letter grading.
@@ -237,7 +234,7 @@ Tutorial, two hours. Limited to seniors. Individual research designed to broaden
 199. Directed Research or Senior Project in Earth, Planetary, and Space Sciences
 Units: 2.0 to 8.0
 Tutorial, two hours. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit. Individual contract required. P/NP or letter grading.
-Graduate Courses (92)
+Graduate Courses (91)
 200A. Introduction to Geophysics and Space Physics I: Solid Earth and Planets
 Units: 4.0
 Lecture, three hours. Requisites: Physics 105A, 110A, 112, 131. Geochemistry, cosmochemistry, and petrology; geotectonics; gravity field; seismology; heat transfer, thermal and mechanical evolution of mantle; core and geomagnetism; lunar and planetary interiors. S/U or letter grading.
@@ -283,9 +280,6 @@ Lecture, four hours. Requisites: Physics 105A, 110A, 112, 131. Recommended: Phys
 C213. Biological and Environmental Geochemistry
 Units: 4.0
 Lecture, three hours. Requisites: Chemistry 14A and 14B (or 20A and 20B), Mathematics 3A, 3B, and 3C (or 31A and 31B). Recommended: at least one lower-division Earth, planetary, and space sciences course. Intended for graduate life and physical sciences students. Study of chemistry of Earth's surface environment and interplay between biology, human activity, and geology. Introduction to origin and composition of Earth, including atmosphere, crust, and hydrosphere. Examination of how these reservoirs are affected by biological cycles and feedbacks to biological evolution and diversity. Local and global-scale movements of biologically important elements like carbon, nitrogen, and phosphorus. Concurrently scheduled with course C113. S/U or letter grading.
-CM214. Aquatic Geomicrobiology
-Units: 4.0
-(Same as Atmospheric and Oceanic Sciences CM237.) Lecture, three hours; discussion, one hour. Recommended requisite: course C107 or Atmospheric and Oceanic Sciences M105. Fundamental geomicrobiological metabolisms and biogeochemical reactions occurring in aquatic systems, how they impact their environment, and how they interact in complex ecosystems such as methane seeps, hydrothermal vents, coral reefs, microbial mats, or deep biosphere. Metabolisms include different photoautotrophic, heterotrophic, and chemoautotrophic pathways. Interpretation of geochemical profiles and understanding of how microorganisms govern mineralization and element cycling in aquatic systems. Concurrently scheduled with course CM114. S/U or letter grading.
 CM214A. Aquatic Geomicrobiology: Metabolisms
 Units: 4.0
 (Formerly numbered CM214.) (Same as Atmospheric and Oceanic Sciences CM237A.) Lecture, three hours. Recommended requisite: course C107 or Atmospheric and Oceanic Sciences M105. Study of fundamental geomicrobiological metabolisms and biogeochemical reactions occurring in aquatic systems and how these processes interact with environment. Metabolisms include photoautotrophic (anoxygenic and oxygenic photosynthesis), chemoheterotrophic (fermentation and respiration of organic matter), photoheterotrophic (organic matter degradation with light), and chemoautotrophic (iron, nitrogen, manganese, methane, and sulfur oxidation) pathways. Introduction of principals of bioenergetics (adenosine triphosphate production, Gibbs free energy, chemiosmosis, thermodynamic calculations) and biological isotope fractionation. Concurrently scheduled with course CM114A. S/U or letter grading.

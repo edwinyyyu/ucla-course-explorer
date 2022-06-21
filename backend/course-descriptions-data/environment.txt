@@ -1,3 +1,4 @@
+Environment
 Lower Division Courses (12)
 M1A. Food: Lens for Environment and Sustainability
 Units: 6.0
@@ -35,7 +36,7 @@ Tutorial, three hours. Limited to students in College Honors Program. Designed a
 99. Student Research Program
 Units: 1.0 to 2.0
 Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
-Upper Division Courses (45)
+Upper Division Courses (46)
 M102. Soils and Environment
 Units: 4.0
 (Formerly numbered M127.) (Same as Ecology and Evolutionary Biology M127 and Geography M102.) Lecture, three hours; discussion, one hour; field trips. General treatment of soils and environmental implications: soil development, morphology, and worldwide distribution of soil orders; physical, chemical, hydrologic, and biological properties; water use, erosion, and pollution; management of soils as related to plant growth and distribution. P/NP or letter grading.
@@ -78,6 +79,8 @@ Lecture, three hours. Introduction to environmental journalism, science communic
 M153. Introduction to Sustainable Architecture and Community Planning
 Units: 4.0
 (Same as Architecture and Urban Design CM153.) Lecture, three hours. Relationship of built environment to natural environment through whole systems approach, with focus on sustainable design of buildings and planning of communities. Emphasis on energy efficiency, renewable energy, and appropriate use of resources, including materials, water, and land. Letter grading.
+155. Energy and Society in a Time of Climate Change: Moving Toward a Just Transition
+Units: 4.0
 157. Energy, Environment, and Development
 Units: 4.0
 Lecture, three hours. Requisites: Mathematics 3A and 3B (or 31A and 31B), Physics 1A and 1B (or 6A and 6B). Introduction to basic energy concepts and examination of role of various energy sources, energy conversion technologies, and energy policies in modern life. Analysis of implications of current patterns of energy production and consumption for future economic and environmental well-being. Integration of concepts and methods from physical and life sciences, engineering, environmental science, economics, and public policy. Basic quantitative skills provided to analyze and critique technical, economic, and policy choices to address challenge of balancing economic growth and environmental sustainability. P/NP or letter grading.

@@ -1,3 +1,7 @@
-Graduate Courses (1)
-410. QST Quantum Optics Laboratory
+Quantum Science and Technology
+Graduate Courses (2)
+M205. Quantum Programming
 Units: 4.0
+410. Quantum Optics Laboratory
+Units: 4.0
+Laboratory, eight hours. Limited to Master of Quantum Science and Technology students. Examination and use of modern optics, including lasers, optics, fibers, polarization manipulation, and photon counting. Use of techniques of quantum optics to demonstrate concepts of quantum mechanics, including superposition, quantum measurement, hidden variable theories, and Bell's inequality. Application of quantum optics to quantum information science. Letter grading.

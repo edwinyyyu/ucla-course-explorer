@@ -1,3 +1,4 @@
+Public Policy
 Lower Division Courses (8)
 10A. Introduction to Public Policy
 Units: 5.0
@@ -78,7 +79,7 @@ Seminar, two hours; outside study, four hours. Examination of particular subfiel
 197. Individual Studies in Public Policy
 Units: 2.0 or 4.0
 Tutorial, four hours. Preparation: 3.0 grade-point average. Limited to juniors/seniors. Individual intensive study, with scheduled meetings to be arranged between faculty member and student. Assigned reading and tangible evidence of mastery of subject matter required. May be repeated for credit. Individual contract required. P/NP or letter grading.
-Graduate Courses (77)
+Graduate Courses (76)
 201. Principles of Microeconomic Theory I
 Units: 4.0
 Lecture, three hours; discussion, one hour; outside study, eight hours. First course in two-term sequence (see course 204) to prepare students for economic analysis of public policy, with review of economic principles and basic microeconomic theory and policy applications. Consumer theory and demand, producer theory and supply, equilibrium of product and factor markets. Letter grading.
@@ -137,9 +138,6 @@ M220. Transportation and Land Use: Urban Form
 Units: 4.0
 (Same as Urban Planning M250.) Lecture, three hours. Historical evolution of urban form and transportation systems, intrametropolitan location theory, recent trends in urban form, spatial mismatch hypothesis, jobs/housing balance, transportation in strong central city and polycentric city, neotraditional town planning debate, rail transit and urban form. Letter grading.
 M221. Travel Behavior Analysis
-Units: 4.0
-(Same as Urban Planning M253.) Lecture, three hours. Requisites: courses 201 and 203, or Urban Planning 207 and 220B. Descriptions of travel patterns in metropolitan areas, recent trends and projections into future, overview of travel forecasting methods, trip generation, trip distribution, mode split traffic assignment, critique of traditional travel forecasting methods and new approaches to travel behavior analysis. Letter grading.
-M221. Travel Behavior Analysis (Effective Fall 2022 )
 Units: 4.0
 M222. Transportation Economics, Finance, and Policy
 Units: 4.0

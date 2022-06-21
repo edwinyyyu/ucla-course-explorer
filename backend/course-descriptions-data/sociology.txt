@@ -1,3 +1,4 @@
+Sociology
 Lower Division Courses (14)
 1. Introductory Sociology
 Units: 5.0
@@ -41,7 +42,7 @@ Seminar, three hours. Requisite: course 1. Designed for freshman/sophomores. Stu
 99. Student Research Program
 Units: 1.0 to 2.0
 Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
-Upper Division Courses (118)
+Upper Division Courses (119)
 101. Development of Sociological Theory
 Units: 5.0
 Lecture, three hours; discussion, one hour. Comparative survey of basic concepts and theories in sociology from 1850 to 1920. P/NP or letter grading.
@@ -210,10 +211,7 @@ Units: 5.0
 M163. Gender and Work
 Units: 4.0
 (Same as Gender Studies M163.) Lecture, three hours. Requisite: course 1 or Gender Studies 10. Exploration of relationship of gender to work, concentrating on the U.S. experience but also including some comparative material. Particular emphasis on analysis of causes and consequences of job segregation by gender and of wage inequality. P/NP or letter grading.
-M164. Politics of Reproduction
-Units: 4.0
-(Same as Gender Studies M164.) Lecture, three hours; discussion, one hour. Title refers to intersection between politics and life cycle. Topics include social construction of gender and population, reproductive issues, politicization of mothers, motherhood, and mothering, surrogacy, and new reproductive technologies. Letter grading.
-M164. Politics of Reproduction and Everyday Life (Effective Summer Sessions 2022 )
+M164. Politics of Reproduction and Everyday Life
 Units: 4.0
 (Same as Gender Studies M164.) Lecture, three hours; discussion, one hour. Limited to juniors/seniors. Social and human reproduction is global policy issue. Government efforts to influence reproduction are important feature of modern state: political intervention into private life, intimacy, and sexuality. Exploration of politics of reproduction--intersection between politics and life cycle or between public sphere and private lives--and coverage of broad range of issues addressing prevention and promotion of reproduction from historical-comparative approach. Reading, discussion, and development of culminating project. P/NP or letter grading.
 M165. Sociology of Race and Labor
@@ -396,6 +394,12 @@ Tutorial, one hour. Requisites: courses 191H, 198B. Limited to sociology honors 
 199. Directed Research in Sociology
 Units: 2.0 to 4.0
 Tutorial, one hour. Preparation: 3.0 grade-point average in major. Requisites: course 1, and Political Science 6 or Statistics 10 or 13. Limited to junior/senior Sociology majors. Independent intensive study designed for students who want to do research under guidance of faculty mentor. Scheduled meetings to be arranged between faculty member and student. Culminating paper or project required. May be repeated for maximum of 16 units, but only 8 units may be applied toward major. Individual contract required; see undergraduate counselor. P/NP or letter grading.
+199A. Directed Research in Language and Social Behavior
+Units: 4.0
+Tutorial, one hour. Limited to junior/senior Language and Social Behavior minors. Independent intensive study designed for students who want to do research under guidance of member of Language and Social Behavior minor faculty advisory committee. Scheduled meetings to be arranged between faculty member and student. Culminating paper or project required. Individual contract required; see undergraduate counselor. Letter grading.
+199B. Directed Research in Language and Social Behavior
+Units: 4.0
+Tutorial, one hour. Limited to junior/senior Language and Social Behavior minors. Independent intensive study designed for students who want to do research under guidance of member of Language and Social Behavior minor faculty advisory committee. Scheduled meetings to be arranged between faculty member and student. Culminating paper or project required. Individual contract required; see undergraduate counselor. Letter grading.
 Graduate Courses (113)
 201A. Proseminar: Sociology
 Units: 2.0

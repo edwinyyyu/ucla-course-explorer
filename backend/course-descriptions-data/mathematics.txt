@@ -1,3 +1,4 @@
+Mathematics
 Lower Division Courses (32)
 1. Precalculus
 Units: 4.0
@@ -362,6 +363,7 @@ Units: 1.0
 (Formerly numbered 192A.) (Same as Chemistry M192E, Computer Science M192A, Life Sciences M192A, and Physics M192S.) Seminar, one hour. Training seminar for undergraduate students who are selected for learning assistant (LA) program. Exploration of current topics in pedagogy and education research focused on methods of learning and their practical application in small-group settings. Students practice communication skills with frequent assessment of and feedback on progress. Letter grading.
 192B. Collaborative Learning Theory and Practice
 Units: 2.0 to 4.0
+Seminar, two to four hours. Requisite: course M192A (may be taken concurrently). Limited to students serving as learning assistants. Further exploration of current topics in pedagogy and education research focused on methods of learning in small groups and their practical application to supervise learning in UCLA mathematics courses. With instructor's guidance, students apply pedagogical principles based on current education research, assist with development of innovative instructional materials, and receive and generate frequent feedback on their activities. May be repeated three times for credit. May not be used to fulfill elective requirement for any mathematics major. Letter grading.
 195. Community Internships in Mathematics Education
 Units: 4.0
 Tutorial, to be arranged. Limited to juniors/seniors. Internship to be supervised by Center for Community Learning and Mathematics Department. Students meet on regular basis with instructor, provide periodic reports of their experience, have assigned readings on mathematics education, and complete final paper. May not be repeated and may not be applied toward major requirements. Individual contract with supervising faculty member required. P/NP grading.

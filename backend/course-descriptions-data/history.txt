@@ -1,4 +1,5 @@
-Lower Division Courses (70)
+History
+Lower Division Courses (68)
 1A. Introduction to Western Civilization: Ancient Civilizations, Prehistory to circa AD 843
 Units: 5.0
 Lecture, three hours; discussion, one hour. Survey of diverse cultures that shaped foundation of Western civilization to onset of 9th century AD. Investigation of first civilizations in Near East and Egypt. Analysis of worlds of Greeks and Romans. Examination of ways in which western European societies created new syntheses through selective appropriation of Greek and Roman cultures and introduction of new cultural forms. P/NP or letter grading.
@@ -200,16 +201,10 @@ Seminar, three hours. Discussion classes of no more than 15 students. Introducti
 97O. Introduction to Historical Practice: Variable Topics in World History
 Units: 4.0
 Seminar, three hours. Discussion classes of no more than 15 students. Introduction to study of history, with emphasis on historical theory and research methods. Variable topics courses; consult Schedule of Classes for topics to be offered in specific term. P/NP or letter grading.
-98TA. Jews and Empire: Modern World History
-Units: 5.0
-Seminar, three hours. Requisite: satisfaction of Entry-Level Writing requirement. First/second years preferred. Exploration of social, political, economic, and cultural entanglements of Jews and empire in modern history. In surveying range of sources and voices, examination of how Jews supported, lived, endured, and challenged different aspects of empire. Letter grading.
-98TB. History, Memory, and Indigenous Territories in Colonial and Postcolonial Mexico
-Units: 5.0
-Seminar, three hours. Requisite: satisfaction of Entry-Level Writing requirement. First/second years preferred. Study of long colonial history common to all native groups of Americas through prism of Mexican native communities, and particularly written record they produced from 16th century to present. Letter grading.
 99. Student Research Program
 Units: 1.0 to 2.0
 Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
-Upper Division Courses (274)
+Upper Division Courses (275)
 100. History and Historians
 Units: 4.0
 Lecture, three hours; discussion, one hour (when scheduled). Designed for juniors/seniors. Study of historiography, including intellectual processes by which history is written, results of these processes, and sources and development of history. Attention also to representative historians. P/NP or letter grading.
@@ -306,6 +301,8 @@ Lecture, three hours; discussion, one hour (when scheduled). Designed for junior
 112B. History of Ancient Mediterranean World
 Units: 4.0
 Lecture, three hours; discussion, one hour (when scheduled). Designed for juniors/seniors. History and institutions of Greeks from their arrival to death of Alexander. P/NP or letter grading.
+112BD. History of Ancient Mediterranean World: Greece
+Units: 4.0
 M112C. History of Ancient Mediterranean World
 Units: 4.0
 (Same as Classics M114A.) Lecture, five hours. Intensive on-site study of history and culture of ancient Rome from founding of city to conversion of Christianity. Part of UCLA Summer Travel Program. P/NP or letter grading.
@@ -984,9 +981,8 @@ Units: 4.0
 C191K. Topics in History: History of Religions
 Units: 4.0
 Seminar, three hours. Designed for seniors. Limited to 15 students meeting with faculty member. Reading and discussion of selected topics, and development of culminating project. May be repeated once for credit. May be concurrently scheduled with course C201P. P/NP or letter grading.
-191L. Capstone Seminar: History--Jewish History
+C191L. Topics in History: Jewish History
 Units: 4.0
-Seminar, three hours. Designed for seniors. Limited to 15 students meeting with faculty member. Organized on topics basis with reading, discussion, and development of culminating project. May be repeated once for credit. P/NP or letter grading.
 191M. Capstone Seminar: History--Southeast Asia
 Units: 4.0
 Seminar, three hours. Designed for seniors. Limited to 15 students meeting with faculty member. Organized on topics basis with reading, discussion, and development of culminating project. May be repeated once for credit. P/NP or letter grading.
@@ -1158,9 +1154,8 @@ Seminar, three hours. Designed for graduate students. Reading and discussion of 
 C201Q. Topics in History: Theory of History
 Units: 4.0
 (Formerly numbered 201Q.) Seminar, three hours. Designed for graduate students. Reading and discussion of selected topics. May be repeated for credit. May be concurrently scheduled with course C191P. S/U or letter grading.
-201R. Topics in History: Jewish History
+C201R. Topics in History: Jewish History
 Units: 4.0
-Seminar, three hours. Graduate course involving reading, lecturing, and discussion of selected topics. May be repeated for credit. When concurrently scheduled with course 191, undergraduates must obtain consent of instructor to enroll. S/U or letter grading.
 201S. Topics in History: Armenia and Caucasus
 Units: 4.0
 Seminar, three hours. Graduate course involving reading, lecturing, and discussion of selected topics. May be repeated for credit. When concurrently scheduled with course 191, undergraduates must obtain consent of instructor to enroll. S/U or letter grading.

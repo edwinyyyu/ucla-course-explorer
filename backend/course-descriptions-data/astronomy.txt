@@ -1,35 +1,21 @@
-Lower Division Courses (16)
-3. Nature of the Universe (Effective Fall 2022 )
+Astronomy
+Lower Division Courses (11)
+3. Nature of the Universe
 Units: 5.0
 Lecture, three hours; laboratory, two hours. Not open to students with credit for or currently enrolled in course 81 or 82. No special mathematical preparation required beyond that necessary for admission to UCLA in freshman standing. Course for general UCLA students, normally not intending to major in physical sciences. Introduction to vast range of cosmic phenomena including planets in our solar system and beyond, stars, supernova explosions, black holes, galaxies, and universe as whole. P/NP or letter grading.
-3. Nature of Universe
-Units: 5.0
-Lecture, three hours; discussion, two hours. Not open to students with credit for or currently enrolled in course 81 or 82. No special mathematical preparation required beyond that necessary for admission to UCLA in freshman standing. Course for general UCLA students, normally not intending to major in physical sciences, on development of ideas in astronomy and what has been learned of nature of universe, including recent discoveries and developments. P/NP or letter grading.
 4. Black Holes and Cosmic Catastrophes
-Units: 4.0
-Lecture, three hours; discussion, one hour. Essentially nonmathematical course for general UCLA students that discusses black holes and related cosmic catastrophes. White dwarfs, neutron stars, and black holes are compact objects formed in violent events that terminate lives of stars and are associated with some of most energetic and explosive phenomena in astronomy: planetary nebulae and novae (white dwarfs), supernovae, pulsars, galactic X-ray sources, and gamma ray bursts. Supermassive black holes form in nucleus of young galaxies, and gravitational accretion of matter onto black holes powers most energetic objects in universe--quasars. Universe was born in ultimate cosmic explosion--Big Bang--that may have derived its energy from quantum mechanical vacuum. P/NP or letter grading.
-4. Black Holes and Cosmic Catastrophes (Effective Fall 2022 )
 Units: 4.0
 Lecture, three hours; discussion, one hour. No mathematical preparation beyond that necessary for admission to UCLA in freshman standing. Course for general UCLA students, normally not intending to major in physical sciences. Introduction to exotic cosmic phenomena known as black holes, and their bizarre effects on fabric of space and time. Some black holes form in violent events that terminate lives of stars, while formation of much more massive black holes at centers of galaxies is still mysterious. Covers cosmic catastrophes including stellar explosions and mergers, supernovae, gamma-ray bursts, and gravitational waves. Discussion of depiction of black holes in popular culture. P/NP or letter grading.
 5. Life in Universe
 Units: 4.0
-Lecture, four hours; discussion, one hour. Preparation: prior introduction to astronomy. Life on Earth and prospects for life elsewhere in context of evolution of universe from simple to complex. Course material primarily from astronomy and biology but includes some chemistry, geology, and physics. Selected topics treated in some depth, but with little or no formal mathematics. P/NP or letter grading.
-5. Life in Universe (Effective Fall 2022 )
-Units: 4.0
 Lecture, three hours; discussion, one hour. No special preparation required. Topics include formation and evolution of Earth and Sun, life on Earth, origin and evolution of life, solar system, habitability, extra-solar planets, search for intelligent life in universe, and interstellar travel. Draws primarily from astronomy and biology but includes some chemistry, geology, and physics. P/NP or letter grading.
-6. Cosmology: Origin, History, and Fate of Universe (Effective Fall 2022 )
+6. Cosmology: Origin, History, and Fate of Universe
 Units: 4.0
 Lecture, three hours; discussion, one hour. No special mathematical preparation required beyond that necessary for admission to UCLA in freshman standing. Course for general UCLA students, normally not intended to majors in physical sciences. Cosmology is study of large-scale properties of universe. Consideration of origin, fate, composition, and shape of universe, and origin and evolution of structure seen in universe today. Addresses these questions through study of Big Bang, dark matter, dark energy, expansion of universe, and other cosmic phenomena. P/NP or letter grading.
-6. Cosmology: Our Changing Concepts of Universe
-Units: 4.0
-Lecture, three hours; discussion, one hour. Exposition of ideas about structure and evolution of universe and its contents. Special and general relativity; black holes, neutron stars, and other endpoints of stellar evolution. Expanding universe, cosmic microwave background radiation, dark matter. Big Bang and inflation. P/NP or letter grading.
 19. Fiat Lux Freshman Seminars
 Units: 1.0
 Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.
-81. Astrophysics I: Stars and Nebulae
-Units: 4.0
-Lecture, three hours; discussion, one hour. Requisites: Mathematics 31A, 31B, and Physics 1A or 1AH. Open to qualified sophomore and upper-division students. Survey of our knowledge about stars: their distances, masses, luminosities, temperatures, and interrelations between these parameters. Methods and importance for astrophysics. Variable stars. Planetary and gaseous nebulae. P/NP or letter grading.
-81. Fundamentals of Astrophysics (Effective Fall 2022 )
+81. Fundamentals of Astrophysics
 Units: 4.0
 Lecture, three hours; discussion, one hour. Requisites: Mathematics 31A, 31B, and Physics 1A or 1AH. Open to qualified sophomore and upper-division students. Students develop understanding of fundamental physical concepts such as gravity and radiation, and how these concepts connect to stars and planets. Overview of stars and stellar evolution, and tools and methods important to astrophysics such as telescopes and spectroscopy. P/NP or letter grading.
 82. Astrophysics II: Stellar Evolution, Galaxies, and Cosmology
@@ -47,35 +33,23 @@ Tutorial, three hours. Limited to students in College Honors Program. Designed a
 99. Student Research Program
 Units: 1.0 to 2.0
 Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
-Upper Division Courses (19)
-115. Introduction to Galactic Astronomy (Effective Fall 2022 )
+Upper Division Courses (14)
+115. Introduction to Galactic Astronomy
 Units: 4.0
 Lecture, three hours; discussion, one hour. Requisites: course 81, Mathematics 31A, 31B, and Physics 1A or 1AH. Open to qualified sophomore and upper-division students. Introduction of principles important for understanding components and evolution of Milky Way galaxy. Topics include interstellar medium, star and planet formation, and exoplanets. Examination of basic physical processes governing compact stellar remnants such as white dwarfs, neutron stars, and black holes. Overview of structure and properties of Milky Way galaxy. P/NP or letter grading.
-115. Statistical Mechanics and Its Application to Astrophysics
-Units: 4.0
-Lecture, three hours; discussion, one hour. Requisites: Mathematics 32B, 33A, 33B, Physics 1A, 1B, and 1C (or 1AH, 1BH, and 1CH). Particle distributions, partition functions, black body radiation, Saha equation, degeneracy. Applications to stellar atmospheres, stellar interiors, and interstellar medium. P/NP or letter grading.
-117. Introduction to Extragalactic Astrophysics (Effective Fall 2022 )
+117. Introduction to Extragalactic Astrophysics
 Units: 4.0
 Lecture, three hours; discussion, one hour. Requisites: courses 81, 115, Mathematics 31A, 31B, and Physics 1A or 1AH. Open to qualified sophomore and upper-division students. Introduction to formation and evolution of universe from Big Bang to structure formation and galaxy evolution. Development of physics behind our modern understanding of universe on large scales. Including role of dark matter and dark energy. Introduction of energetic phenomena such as active galactic nuclei and quasars. P/NP or letter grading.
-117. Radiation and Fluids in Astrophysics
+127. Stars from Birth to Death
 Units: 4.0
-Lecture, three hours; discussion, one hour. Requisite: course 115. Designed for junior/senior Astrophysics and Physics majors. Emission and absorption of radiation by matter, spectroscopy, spectral lines, and radiative transfer. Hydrodynamics and shock waves. Applications to stars, to interstellar and intergalactic media, and to early universe. P/NP or letter grading.
-127. Stars from Birth to Death (Effective Fall 2022 )
+Lecture, three hours; discussion, one hour. Requisites: courses 81, 115, 117. In-depth exploration into lives and deaths of stars. Covers production of energy and physics of stellar interiors and atmospheres. Topics include star formation, variability and evolution. Includes significant exploration of nuclear physics and advanced stages of fusion. Covers properties and formation of stellar remnants from white dwarfs to black holes. P/NP or letter grading.
+140. Galaxies
 Units: 4.0
-127. Stellar Atmospheres, Interiors, and Evolution
-Units: 4.0
-Lecture, three hours; discussion, one hour. Recommended requisites: courses 115, 117. Designed for senior Astrophysics and Physics majors. Physical conditions in stellar interiors. Energy production in stars. Stellar evolution from star formation through normally observed stages to white dwarfs, neutron stars, and black holes. Novae, supernovae, other variable stars, chromospheres and coronae of sun and stars. Evolution of binary stars. Analysis of stellar atmospheres. P/NP or letter grading.
-140. Galaxies (Effective Fall 2022 )
-Units: 4.0
-140. Stellar Systems and Cosmology
-Units: 4.0
-Lecture, three hours; discussion, one hour. Designed for senior Astrophysics and Physics majors. Properties of star clusters and galaxies, with particular emphasis on Milky Way galaxy. Clusters and superclusters of galaxies. Extragalactic distance scale. Quasars and active galaxies. Topics in cosmology, including expansion of universe, microwave background, galaxy formation from primordial fluctuations, and observational constraints on Big Bang. P/NP or letter grading.
+Lecture, three hours; discussion, one hour. Requisites: courses 115, 117. Designed for upper-division Astrophysics and Physics majors. Focus on basic unit of structure in universe: galaxies. Consideration of physics governing their structure and evolution, and how galaxy population has evolved over history of universe. Other topics include Milky Way, stellar dynamics, active galactic nuclei, and galaxy clusters. P/NP or letter grading.
 141. Cosmology
 Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 115, 117. Designed for upper-division Astrophysics and Physics majors. In-depth exploration of Big Bang model for universe. Examination of what expanding universe is, how cosmologists measure its properties, and how universe has changed since Big Bang. Topics include cosmic expansion, dark matter, inflation, cosmic microwave background, Big Bang nucleosynthesis, and structure formation. P/NP or letter grading.
 180. Astrophysics Laboratory
-Units: 4.0
-Lecture, two hours; laboratory, four hours. Designed for juniors/seniors in Astrophysics, Physics, or related field. Lectures cover statistical methods in astrophysics, one- and two-dimensional random processes, and numerical methods. Laboratory experiments involve radio astronomy, interferometry, narrowband solar imaging, and visual photometry. Emphasis on use of computers for automatic collection of data and for processing two-dimensional astronomical images. P/NP or letter grading.
-180. Astrophysics Laboratory (Effective Fall 2022 )
 Units: 4.0
 Lecture, two hours; laboratory, four hours. Designed for juniors/seniors in astrophysics, physics, or related field. Topics include statistical methods in astrophysics, instrumentation, data reduction, and optics. Laboratory experiments include observations of sun, stars, and other astronomical objects. Emphasis on use of computers for making measurements from two-dimensional astronomical images. P/NP or letter grading.
 189. Advanced Honors Seminars

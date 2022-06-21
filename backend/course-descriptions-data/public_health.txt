@@ -1,7 +1,5 @@
-Lower Division Courses (7)
-10. Introduction to Public Health
-Units: 4.0
-Seminar, three hours. Designed for lower-division students. Introduction to range of topics, issues, and frameworks to help students understand current public health issues and public health systems, policies, and practices. P/NP or letter grading.
+Public Health
+Lower Division Courses (5)
 19. Fiat Lux Freshman Seminars
 Units: 1.0
 Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.
@@ -14,9 +12,6 @@ Lecture, four hours; discussion, one hour. Requisite: course 50A. Exploration of
 53. Introduction to Health of Underserved and Linguistic Minority Communities
 Units: 4.0
 Lecture, three hours. Population projections, population characteristics, birth rates and outcomes, causes of death and death rates, patterns of reportable diseases, services utilization, patterns of immigration, health insurance, provider training, risk behaviors, and chronic diseases in Latino and other underrepresented minority communities in Los Angeles County. Letter grading.
-88S. Effective Communication of Science and Public Health Messages: Convincing Masses
-Units: 1.0
-Seminar, one hour. Introduction to communication and miscommunication of science and public health messages. Highlights specific examples of miscommunication such as measles, mumps, and rubella (MMR) vaccine link to Autism, climate change, and COVID-19. Exploration of underlying historical, political, and scientific causes of these controversies. Discussion of adverse effects of these controversies to scientific and public health fields. P/NP grading. Facilitated by Minh Bui, with Alice A. Kuo as faculty mentor.
 99. Student Research Program
 Units: 1.0 to 2.0
 Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
@@ -48,11 +43,8 @@ Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/se
 195CE. Community and Corporate Internship in Public Health
 Units: 4.0
 Tutorial, to be arranged; fieldwork, eight to 10 hours. Limited to Public Health minors. Internship in corporate, governmental, or nonprofit setting coordinated through Center for Community Engagement. Students complete weekly written assignments, attend biweekly meetings with graduate student coordinator, and write final research paper. Faculty of record and graduate student instructor construct series of reading assignments that examine issues related to working in field of public health. Individual contract with supervising faculty member required. Letter grading.
-Graduate Courses (10)
+Graduate Courses (9)
 200A. Foundations in Public Health
-Units: 8.0
-Lecture, eight hours. Introduction to foundational concepts, definitions, historical milestones, and methods related to five core disciplines of public health. Using traditional lecture presentations, active-learning case-based classroom discussions, lab sessions, and community projects, students learn essential knowledge about public health as well as skills needed to be effective public health processional, including oral and written presentation skills for relevant audiences, data analytic and presentation skills, and multidisciplinary team-building skills working with students from throughout school of public health. Letter grading.
-200A. Foundations in Public Health (Effective Fall 2022 )
 Units: 8.0
 Lecture, seven hours; discussion, one hour. Introduction to foundational concepts, definitions, historical milestones, and methods related to five core disciplines of public health. Using traditional lecture presentations, active-learning case-based classroom discussions, lab sessions, and community projects, students learn essential knowledge about public health as well as skills needed to be effective public health processional, including oral and written presentation skills for relevant audiences, data analytic and presentation skills, and multidisciplinary team-building skills working with students from throughout school of public health. Letter grading.
 200B. Foundations in Public Health

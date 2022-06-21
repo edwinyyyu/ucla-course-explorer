@@ -1,4 +1,5 @@
-Lower Division Courses (10)
+Anthropology
+Lower Division Courses (9)
 1. Human Evolution
 Units: 5.0
 Lecture, three hours; discussion, one hour. Required as preparation for both bachelor's degrees. Evolutionary processes and evolutionary past of human species. P/NP or letter grading.
@@ -23,13 +24,10 @@ Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-divis
 89HC. Honors Contracts
 Units: 1.0
 Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.
-98T. Governing from Below in Latin America
-Units: 5.0
-Seminar, three hours. Requisite: satisfaction of Entry-Level Writing requirement. First/second years preferred. Examination of post-1980s social movements in Latin America contesting state authority and autonomously self governing, including their effects on social relations, politics, and political economy. Comparison of cases in ethnographic literature and consideration of theoretical and methodological concerns. Letter grading.
 99. Student Research Program
 Units: 1.0 to 2.0
 Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
-Upper Division Courses (115)
+Upper Division Courses (116)
 100. History of Anthropology
 Units: 4.0
 Lecture, three hours; discussion, one hour (when scheduled). Brief survey of development of Western social science, particularly anthropology, from Greek and Roman thought to emergence of evolutionary theory and concept of culture in late 19th century. Root paradigm of Western social science and its influence on such notables as Durkheim, Freud, Hall, Lombroso, Marx, Piaget, Terman, and others. Consideration of how this influences ethnocentrism and Eurocentrism, sexism, racism, perception of deviance, and view of culture in general. P/NP or letter grading.
@@ -84,6 +82,9 @@ Units: 4.0
 116S. Selected Topics in Archaeology of Southeast Asia
 Units: 4.0
 Lecture, three hours; discussion, one hour (when scheduled). Study of selected topics in archaeology and prehistory of Southeast Asia from Pleistocene to European colonization, including population movements, emergence of agriculture, and development of state level societies. May be repeated for credit with topic change. P/NP or letter grading.
+116XP. Collaborative and Community-Engaged Archaeology
+Units: 4.0
+Lecture, three hours; discussion, one hour (when scheduled); fieldwork, 10 hours. Community and stakeholder engagement make anthropological practice more meaningful, especially when results of research empower descendant communities. Anthropology is in great position to work with communities to empower them in strengthening their identity. There is increasing number of anthropologists and allied social sciences who have intensified their cross-disciplinary work and engagement with communities that they work with. Students interact with Philippine collaborators through online conference to discuss how community participation enhances research. Students work with community stakeholders in developing heritage education materials. P/NP or letter grading.
 C117. Selected Laboratory Topics in Archaeology
 Units: 4.0
 Lecture, one hour; laboratory, two hours. Specialized analysis of particular classes of cultural remains. Topic may be one of following: zooarchaeology, paleoethnobotany, ceramics, lithic analysis, rock art. Laboratory experience with collections and data. May be repeated for credit with topic change. Concurrently scheduled with course CM217. P/NP or letter grading.

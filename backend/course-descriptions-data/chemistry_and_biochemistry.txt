@@ -1,4 +1,5 @@
-Lower Division Courses (35)
+Chemistry and Biochemistry
+Lower Division Courses (34)
 3. Material World
 Units: 5.0
 Lecture, three hours; laboratory, two hours. Focus on most important advances made by humans in developing new molecules and materials, and how these discoveries affect our everyday life. These include development of paints, polymers, metals, fuels, drugs, energetic materials, radioactive substances, poisons, and many more. Connections are made between interplay of science, history, arts, and socio-economic factors driving technological development. Laboratory sections focus on small-scale experiments relevant to everyday life and complimentary to lecture topics. P/NP or letter grading.
@@ -83,9 +84,6 @@ Lecture, three hours. Enforced requisite: course 14A or 20A or 20AH, with grade 
 88A. Lower-Division Seminar: Serendipity in Science
 Units: 2.0
 Seminar, two hours. Limited to 20 freshmen. Inquiry into unexpected discoveries in science that have had significant impact on society and analysis of circumstances that brought these about, beginning with discovery of helium in sun by Janssen in 1868 (using newly developed field of spectroscopy). Discovery of X rays by Röntgen in 1895 and of radioactivity by Becquerel in 1896. Other topics include discoveries important to medicine, such as penicillin by Fleming in 1928 and cis-platin by Rosenberg in 1969. P/NP or letter grading.
-88S. Elements of Life in Our Universe
-Units: 1.0
-Seminar, one hour. Demonstration of how core concepts from sciences from physics to chemistry to biology, meaningfully interact with each other to give rise to phenomena of life. Study focuses on three different phases of life in universe: Big Bang and formation of solar system and conditions conducive to life, elements most related to life, and end at "end" of universe. Throughout this journey simple atom acts as protagonist, showing how, from formation of that atom to its theoretical end, it is able to help or harm life in universe. P/NP grading. Facilitated by Amish Jain, with Hung V. Pham as faculty mentor.
 89. Honors Seminars
 Units: 1.0
 Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.
@@ -104,7 +102,7 @@ Laboratory, three hours. Corequisite: associated undergraduate lecture course in
 99. Student Research Program
 Units: 1.0 to 2.0
 Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
-Upper Division Courses (84)
+Upper Division Courses (83)
 C100. Genomics and Computational Biology
 Units: 5.0
 Lecture, four hours; discussion, one hour. Introduction for biochemistry students of technologies and experimental data of genomics, as well as computational tools for analyzing them. Biochemistry and molecular biology dissected life into its component parts, one gene at time, but lacked integrative mechanisms for putting this information back together to predict what happens in complete organism (e.g., over 80 percent of drug candidates fail in clinical trials). High-throughput technologies such as sequencing, microarrays, mass-spec, and robotics have given biologists incredible new capabilities to analyze complete genomes, expression patterns, functions, and interactions across whole organisms, populations, and species. Use and analysis of such datasets becomes essential daily activity for biomedical scientists. Core principles and methodologies for analyzing genomics data to answer biological and medical questions, with focus on concepts that guide data analysis rather than algorithm details. Concurrently scheduled with course C200. P/NP or letter grading.
@@ -136,9 +134,6 @@ C113B. Quantum Chemistry Methods
 Units: 4.0
 Lecture, three hours; discussion, one hour; tutorial, one hour. Requisite: course 113A. Complete introduction to electronic structure theory methods used by general computational chemistry community, focusing primarily on ab initio methods. Students gain understanding of electronic structure methods and tools to identify which methods are suitable for which types of systems. Methods covered include Hartree Fock, density-functional theory, perturbative methods, and modern high-correlation methods; and highlight algorithms necessary to implement these methods efficiently. Concurrently scheduled with course C213B. P/NP or letter grading.
 114. Physical Chemistry Laboratory
-Units: 5.0
-Lecture, two hours; laboratory, eight hours. Enforced requisites: courses 30AL, 110A, and 113A, with grades of C- or better. Enforced corequisite: course 110B or C113B. Lectures include techniques of physical measurement, error analysis and statistics, special topics. Laboratory includes spectroscopy, thermodynamic measurements, and chemical dynamics. P/NP or letter grading.
-114. Physical Chemistry Laboratory (Effective Summer Sessions 2022 )
 Units: 5.0
 Lecture, two hours; laboratory, eight hours. Enforced requisites: courses 30AL, 110A, and 113A, with grades of C- or better. Enforced corequisite: course 110B. Lectures include techniques of physical measurement, error analysis and statistics, special topics. Laboratory includes spectroscopy, thermodynamic measurements, and chemical dynamics. P/NP or letter grading.
 114H. Physical Chemistry Laboratory (Honors)

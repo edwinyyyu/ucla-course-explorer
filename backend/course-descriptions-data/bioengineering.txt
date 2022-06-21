@@ -1,17 +1,15 @@
-Lower Division Courses (4)
+Bioengineering
+Lower Division Courses (3)
 10. Introduction to Bioengineering
 Units: 2.0
 Lecture, two hours; discussion, one hour; outside study, three hours. Preparation: high school biology, chemistry, mathematics, physics. Introduction to scientific and technological bases for established and emerging subfields of bioengineering, including biosensors, bioinstrumentation, and biosignal processing, biomechanics, biomaterials, tissue engineering, biotechnology, biological imaging, biomedical optics and lasers, neuroengineering, and biomolecular machines. Letter grading.
 19. Fiat Lux Freshman Seminars
 Units: 1.0
 Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.
-88S. Tissue Engineering: Our Future of Medicine
-Units: 1.0
-Seminar, one hour. Introduction to widely interdisciplinary and fast-advancing field of tissue engineering that encompasses cell and developmental biology, materials science and chemistry, and engineering in order to replace, regenerate, or restore damaged or diseased tissues and organs. Study of fundamental knowledge of this field and exploration of its vast applications such as disease modeling, drug discovery, cell therapies, artificial organs, and 3D-bioprinting. Lectures and discussions on ethical implications of tissue engineering. Speaker series provides opportunity to learn about exciting advancements in tissue engineering from leaders in field. Introduction to academic and industry perspectives of tissue engineering that will continue to drastically change field of medicine. P/NP grading. Facilitated by Nico Pedroncelli, with Song Li as faculty mentor.
 99. Student Research Program
 Units: 1.0 to 2.0
 Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
-Upper Division Courses (42)
+Upper Division Courses (44)
 100. Bioengineering Fundamentals
 Units: 4.0
 Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced requisites: Mathematics 32A, Physics 1A. Fundamental basis for analysis and design of biological and biomedical devices and systems. Classical and statistical thermodynamic analysis of biological systems. Material, energy, charge, and force balances. Introduction to network analysis. Letter grading.
@@ -48,6 +46,9 @@ Lecture, four hours; discussion, one hour; outside study, five hours. Requisites
 C131. Nanopore Sensing
 Units: 4.0
 Lecture, four hours; discussion, one hour; outside study, seven hours. Requisites: courses 100, 120, Life Sciences 7A, Physics 1A, 1B, 1C. Analysis of sensors based on measurements of fluctuating ionic conductance through artificial or protein nanopores. Physics of pore conductance. Applications to single molecule detection and DNA sequencing. Review of current literature and technological applications. History and instrumentation of resistive pulse sensing, theory and instrumentation of electrical measurements in electrolytes, nanopore fabrication, ionic conductance through pores and GHK equation, patch clamp and single channel measurements and instrumentation, noise issues, protein engineering, molecular sensing, DNA sequencing, membrane engineering, and future directions of field. Concurrently scheduled with course C231. Letter grading.
+132. Nanogenerators for Bioengineering
+Units: 4.0
+Lecture, four hours; discussion, one hour; outside study, seven hours. Addresses fundamentals, materials, processes, manufacturing, and devices fabrication for nanogenerators. Showcases key biomedical applications, in particular, nanogenerators made for circulatory system, neural system, cell modulation, microbe disinfection, and biodegradable electronics. Functionality of nanogenerators can serve for energy, sensing, and therapy purposes in bioengineering. Nanogenerators can be key components to realize autonomous intelligent closed-loop sensing and therapeutic system on human body for personalized health care to conquer medical fields in Internet of Things era. Letter grading.
 C139A. Biomolecular Materials Science I
 Units: 4.0
 Lecture, four hours; discussion, one hour; outside study, seven hours. Overview of chemical and physical foundations of biomolecular materials science that concern materials aspects of molecular biology, cell biology, and bioengineering. Understanding of different types of interactions that exist between biomolecules, such as van der Waals interactions, entropically modulated electrostatic interactions, hydrophobic interactions, hydration and solvation interactions, polymer-mediated interactions, depletion interactions, molecular recognition, and others. Illustration of these ideas using examples from bioengineering and biomedical engineering. Students should be able to make simple calculations and estimates that allow them to engage broad spectrum of bioengineering problems, such as those in drug and gene delivery and tissue engineering. May be taken independently for credit. Concurrently scheduled with course C239A. Letter grading.
@@ -78,6 +79,9 @@ Lecture, four hours; discussion, two hours; outside study, six hours. Practice o
 167L. Bioengineering Laboratory
 Units: 4.0
 Lecture, two hours; laboratory, six hours; outside study, four hours. Enforced requisite: Chemistry 20L. Laboratory experiments in fluorescence microscopy, bioconjugation, soft lithography, and cell culture culminate in design of engineered surface for cell growth. Introduction to techniques used in laboratories and their underlying physical or chemical properties. Case studies connect laboratory techniques to current biomedical engineering research and reinforce experimental design skills. Letter grading.
+170. Cell Engineering and Laboratory
+Units: 4.0
+Lecture, four hours; laboratory, four hours; outside study, four hours. Preparation: general background on cell biology, calculus, and differential equations. Comprehensive introduction of cell engineering. Topics include quantitative and experimental analysis of cell behavior such as cell growth, migration and differentiation, biomaterial fabrication, cell-material interactions, cell signaling, tissue remodeling, and immuno-modulation/isolation. Letter grading.
 175. Machine Learning and Data-Driven Modeling in Bioengineering
 Units: 4.0
 (Formerly numbered C175.) Lecture, four hours; laboratory, two hours; outside study, six hours. Requisites: Civil Engineering M20 or Mechanical and Aerospace Engineering M20 or Computer Science 31, Mathematics 32B, 33A. Overview of foundational data analysis and machine-learning methods in bioengineering, focusing on how these techniques can be applied to interpret experimental observations. Topics include probabilities, distributions, cross-validation, analysis of variance, reproducible computational workflows, dimensionality reduction, regression, hidden Markov models, and clustering. Students gain theoretical and practical knowledge of data analysis and machine-learning methods relevant to bioengineering. Application of these methods to experimental data from bioengineering studies. Students become sufficiently familiar with these techniques to design studies incorporating such analyses, execute analysis, and work in teams using similar approaches, and ensure correctness of their results. Letter grading.
@@ -343,8 +347,9 @@ Seminar, one to four hours; outside study, two to five hours. Limited to bioengi
 295O. Seminar: Research Topics in Bioengineering--Research in Modeling of Drug Effects
 Units: 2.0
 Seminar, one to four hours; outside study, two to five hours. Limited to bioengineering graduate students. Advanced study and analysis of current topics in bioengineering. Discussion of current research and literature in protein-protein interaction network modeling, clinical estimation of drug effects, drug repurposing, and drug pathways. Student presentation of projects in research specialty. May be repeated for credit. S/U grading.
-295P. Research Topics in Bioengineering--Research in Wearable Bioengineering--Research in Wearable Bioelectronics for Personalized Health Care
+295P. Seminar: Research Topics in Bioengineering--Research in Wearable Bioelectronics for Personalized Health Care
 Units: 2.0
+Seminar, one to four hours; outside study, two to five hours. Limited to bioengineering graduate students. Advanced study and analysis of current topics in biomedical instrumentations. Discussion of current research and literature in biomaterials synthesis, biosensors and bioelectronics fabrications, circuitry and signal processing. Student presentation of projects every week in research specialty. May be repeated for credit. S/U grading.
 M296A. Advanced Modeling Methodology for Dynamic Biomedical Systems
 Units: 4.0
 (Same as Computer Science M296A and Medicine M270C.) Lecture, four hours; outside study, eight hours. Requisite: Electrical Engineering 141 or 142 or Mathematics 115A or Mechanical and Aerospace Engineering 171A. Development of dynamic systems modeling methodology for physiological, biomedical, pharmacological, chemical, and related systems. Control system, multicompartmental, noncompartmental, and input/output models, linear and nonlinear. Emphasis on model applications, limitations, and relevance in biomedical sciences and other limited data environments. Problem solving in PC laboratory. Letter grading.

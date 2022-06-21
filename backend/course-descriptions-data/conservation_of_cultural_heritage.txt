@@ -1,3 +1,4 @@
+Conservation of Cultural Heritage
 Lower Division Courses (2)
 19. Fiat Lux Freshman Seminars
 Units: 1.0
@@ -12,7 +13,7 @@ Units: 4.0
 C142. Managing Collections for Museums, Libraries, and Archives
 Units: 4.0
 (Formerly numbered Conservation of Archaeological and Ethnographic Materials C142.) Lecture, two hours; activity, two hours. How conservators work together with curators, collections managers, mount makers, designers, and registrars to permit collections to be both accessed and preserved. Concurrently scheduled with course C242. Letter grading.
-Graduate Courses (34)
+Graduate Courses (33)
 210. Cultural Materials Science II: Characterization Methods in Conservation of Materials
 Units: 4.0
 (Formerly numbered Conservation of Archaeological and Ethnographic Materials 210.) Lecture, four hours. Preparation: general chemistry, inorganic and organic chemistry, materials science. Principles and methods of materials characterization in conservation: optical and electron microscopy, X-ray and electron spectroscopy, X-ray diffraction, infrared spectroscopy, reflectance spectroscopy and multispectral imaging spectroscopy, chromatography, design of archaeological and ethnographic materials characterization procedures. Letter grading.
@@ -31,9 +32,8 @@ Units: 4.0
 C220. Field Methods in Archaeological Conservation: Readiness, Response, and Recovery
 Units: 4.0
 (Formerly numbered Conservation of Archaeological and Ethnographic Materials C220.) Laboratory, four hours. Overview of risks (direct and indirect) and materials vulnerability of in situ cultural heritage and movable archaeological materials in emergency situations (rescue excavations, disasters, conflicts), with emphasis on readiness, first aid response, and recovery. Readiness focuses on preparedness and preventive measures, including reburials, shelters, rescue excavations, and documentation as well as developing inventories and awareness campaigns. First aid response covers development of on-site emergency risk assessments to evaluate damage and putting triage theory into practice, salvage rescue operations, emergency temporary in situ stabilization and protection (using locally available materials), and training. Recovery is based on documentation, lifting methods, handling, transportation, and storage. Emphasis on finding practical solutions to prevent and mitigate damage and to recover and safeguard archaeological artifacts. Concurrently scheduled with course C120. Letter grading.
-221. Principles, Practice, and Ethics in Conservation
+M221. Principles, Practice and Ethics in the Conservation of Cultural Heritage
 Units: 4.0
-(Formerly numbered Conservation of Archaeological and Ethnographic Materials 221.) Lecture, three hours; activity, one hour. Introduction to preservation of cultural heritage materials, including what should be preserved and why, as well as who should be involved in decision-making process. Use of several examples of issues and problems involved in preservation of works of art, from L.A. Murals to Sistine Chapel, from ancient wall paintings to Statue of Liberty. Discussion of issues of preservation and restoration of these cultural heritage materials both in museum and outdoor environment contexts. Materials and techniques used to make cultural heritage materials, in relation to preservation efforts needed to prevent decay and loss. Introduction to examples of conservation issues related to sites, buildings, monuments, and collections. Ethical and contextual aspects with reference to changing values in conservation of cultural materials, illustrating how cultural materials may have been treated differently according to those values. Letter grading.
 222. Conservation and Community
 Units: 4.0
 (Formerly numbered Conservation of Archaeological and Ethnographic Materials 222.) Laboratory, four hours. Designed for graduate conservation students. Introduction to work as conservators with indigenous repositories housing cultural collections. Students learn different models for tribal museums and cultural centers, and importance of material selection and properties in baskets they are treating. Letter grading.
@@ -73,9 +73,6 @@ Units: 4.0
 250. Conservation Laboratory: Rock Art, Wall Paintings, and Mosaics
 Units: 4.0
 (Formerly numbered M250.) Laboratory, four hours. Requisites: courses 210, 210L, 264. Recommended: course M215. Research-based laboratory on conservation of rock art, wall paintings (archaeological and modern composites on cements), mosaics, and decorated architectural surfaces. Experimental techniques and analysis of materials (using materials science and reverse engineering processes) for characterization of technology, constituent materials, and alteration products; development of conservation treatment proposals, testing of conservation products, and methods and conservation treatment. Letter grading.
-M250. Conservation Laboratory: Rock Art, Wall Paintings, and Mosaics
-Units: 4.0
-(Formerly numbered Conservation of Archaeological and Ethnographic Materials M250.) (Same as Materials Science M215.) Laboratory, four hours. Requisites: courses 210 (or 216 or Materials Science C112), 210L, 264. Recommended: course M215. Research-based laboratory on conservation of rock art, wall paintings (archaeological and modern composites on cements), mosaics, and decorated architectural surfaces. Experimental techniques and analysis of materials (using materials science and reverse engineering processes) for characterization of technology, constituent materials, and alteration products; development of conservation treatment proposals, testing of conservation products, and methods and conservation treatment. Letter grading.
 251. Contemporary Development in Conservation
 Units: 4.0
 (Formerly numbered Conservation of Archaeological and Ethnographic Materials 251.) Seminar, two hours. Designed for graduate conservation students. Seminar series of invited international experts in archaeological and ethnographic conservation, who address contemporary issues in conservation of cultural materials. Letter grading.

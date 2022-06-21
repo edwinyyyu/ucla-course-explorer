@@ -1,4 +1,5 @@
-Lower Division Courses (38)
+Spanish
+Lower Division Courses (37)
 1. Elementary Spanish
 Units: 4.0
 Lecture, three hours; laboratory, two hours. Taught in Spanish. Laboratory is online. Introductory Spanish language and culture course that is proficiency-oriented, communicative, and task-based to help develop communicative competence in four skill areas (listening, speaking, reading, and writing), as well as cultural competence. P/NP or letter grading.
@@ -107,9 +108,6 @@ Tutorial, three hours. Limited to students in College Honors Program. Designed a
 97. Variable Topics in Spanish
 Units: 2.0
 Lecture, two hours. Variable topics course with lectures, discussions, and papers; consult Schedule of Classes or department counselor for topic to be offered in specific term. May be repeated for credit. P/NP or letter grading.
-98T. Political Violence in Comics: Truth, Testimony, and Justice
-Units: 5.0
-Seminar, three hours. Requisite: satisfaction of Entry-Level Writing requirement. First/second years preferred. Students learn to appreciate beauty of comics as form of art while engaging in discussions around memory, justice, truth, reconciliation, and testimony. Letter grading.
 99. Student Research Program
 Units: 1.0 to 2.0
 Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
@@ -168,9 +166,9 @@ Units: 5.0
 170. Topics in Interdisciplinary and Transhistorical Studies
 Units: 4.0
 Lecture, four hours; discussion, one hour (when scheduled). Requisite: course 25 or 27, 119. Comparative study of cultural production in Latin American, Afro-Luso-Brazilian, and Iberian contexts across diverse historical periods, regional, and ethnic traditions, and aesthetic modes. Possible topics include Afrolatinidad; diaspora; feminism; folklore; gender; globalization; indigeneity and indigenous studies (Andean, Mesoamerican, Amazonian, Tupi, and Tapuia); migration and immigration; music (1960s Latin American protest songs, nueva canción, música regional, punk, rap, folk); popular culture; regionalisms. May be repeated for credit with topic change. P/NP or letter grading.
-M172XP. Latinos, Linguistics, and Literacy
+M172XP. Topics in Community Engagement
 Units: 5.0
-(Formerly numbered M172SL.) (Same as Chicana/o and Central American Studies M170XP.) Seminar, four hours; field project, four to six hours. Recommended requisite: course 100A. In-depth study of various topics related to literacy, including different definitions of literacy, programs for adult preliterates, literacy and gender, approaches to literacy (whole language, phonics, Freire's liberation pedagogy), history of writing systems, phoneme as basis for alphabetic writing, and national literacy campaigns. Required field project involving Spanish-speaking adults in adult literacy programs. P/NP or letter grading.
+(Formerly numbered M172SL.) (Same as Chicana/o and Central American Studies M170XP.) Seminar, four hours; field project, four to six hours. Requisite: course 25. Introduction to community engagement in various forms. Exploration of methods of community involvement and change making processes within variety of professional contexts in community. Students engage in experiential research, service, and/or learning to broaden their understanding of Spanish-speaking and Latinx communities. Students have opportunity to use cultural and linguistic knowledge acquired in Spanish classes in real-world settings. Topics may include oral tradition, immigrant narratives, visual culture and community, language and identity in community, urban spaces, etc. May be repeated for credit with topic change. P/NP or letter grading.
 175. Topics in Creative Writing and Translation
 Units: 4.0
 Seminar, three hours. Requisites: courses 25 or 27, and 119. Exploration of art of translation or creative writing. Guest speakers or instructors include professional literary translators, poets, novelists, playwrights, and filmmakers who discuss theory, methodology, and practice of their art. May be repeated for credit with topic change. P/NP or letter grading.

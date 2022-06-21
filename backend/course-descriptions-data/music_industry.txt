@@ -1,3 +1,4 @@
+Music Industry
 Lower Division Courses (8)
 4. Reel Beatles: Understanding the Beatles through Film and Media
 Units: 5.0
@@ -5,8 +6,9 @@ Lecture, three hours; discussion, one hour. Designed to tell story of the Beatle
 19. Fiat Lux Freshman Seminars
 Units: 1.0
 Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.
-29. Docs that Rock, Docs that Matter (History and Practice of the Music Documentary)
+29. Docs that Rock, Docs that Matter: History and Practice of Music Documentary
 Units: 5.0
+(Formerly numbered 109.) Lecture, three hours; discussion, one hour. Close analytical look at popular music documentaries and goals, methods, and challenges of making them. Almost all audio-visual material produced by music industry (whether distributed in theater, on television, from website, or through social media) aims to bring attention to music that artists make. General introduction to theory and practice of visual storytelling. Primary focus on screening and discussion of documentaries leading to development of culminating written project. Use of first quarter century of rock era (circa 1955-1980) as representative sample, but includes contemporary artists. P/NP or letter grading.
 55. Songwriters on Songwriting
 Units: 5.0
 (Formerly numbered 105.) Lecture, three hours; discussion, one hour. With special focus on songwriting renaissance of rock era, examination of work of important songwriters of post-World War II generation (circa 1952-1994) and those they have influenced. Practical industry guidance from current and noteworthy practitioners. Coverage of songwriting, arrangement and record production, music publishing, and record business in 20th and 21st centuries. Guest music industry professionals demonstrate individual creative processes and discuss their paths to songwriting and their place in world of music. Course is not workshop or tutorial on how to write songs. (See course 112.) P/NP or letter grading.
@@ -22,7 +24,7 @@ Tutorial, eight hours. Entry-level community or corporate internship for lower-d
 99. Student Research Program
 Units: 1.0 to 2.0
 Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
-Upper Division Courses (26)
+Upper Division Courses (27)
 101. Seminar in Music Industry
 Units: 4.0
 Seminar, four hours; outside study, eight hours. Required of Music Industry minors. Introduction to intellectual and theoretical frameworks that form Music Industry minor and that scholars of music and music industries have developed to analyze, understand, and perhaps judge what happens out there, including how music business works in financial, legal, global, and artistic terms, how music technologies of recording, reproduction, and consumption operate, and how basic music science from acoustics to brain biology to music perception affects how music is produced and heard. Letter grading.
@@ -62,6 +64,9 @@ Seminar, four hours; outside study, eight hours. Enrollment by consent of instru
 113. Music Supervision
 Units: 4.0
 Seminar, three hours. Introduction to role of music supervisor and creative, logistical, and budget considerations of music supervision. Development of theoretical and practical knowledge, interaction with professionals in field, and practice negotiating music requests and clearances. Letter grading.
+114. Concerts and Venues: Producing Special Events and Live Concerts
+Units: 4.0
+Seminar, three hours. Behind-scenes overview of how to produce successful live show, special event, or concert, from concept to execution, including master planning, venue production, concept and design, operations, seating, talent, security, and budget. Students acquire specialized knowledge and principles involved in staging any kind of event in stadiums, concert halls, arenas, exhibitions, and art installations in venues worldwide. Includes guest speakers and site visits to major shows, venues, and production facilities. Letter grading.
 115. The Art of Music Production
 Units: 4.0
 Lecture, three hours; studio, two hours. Exploration of techniques, methods, and process of music production and larger issues in art of making music. Students learn how to foster and capture performance and emotion in music through variety of methods and tools, including artistic direction in studio and choices made in sound, arrangement, and application of technology. Letter grading.
@@ -73,6 +78,7 @@ Units: 4.0
 Seminar, four hours. Principles of entrepreneurship and fundamental business strategies approached through case studies and project-based group assignments. Students develop business plans, pitch them, and build out infrastructure for startups that focus on technology and innovation in music industry. Students are encouraged to make use of resources at MusicBiz, MEIEA, and startup.ucla.edu. Letter grading.
 131. DIY Punk: Organizing as Social Justice
 Units: 4.0
+Seminar, three hours. Recommended requisite or corequisite: Musicology 13. Do it yourself (DIY) as practical alternative mode of organization for social justice activism and nonprofit arts collectives. Ethical issues in capitalism, labor issues, politics. How to work with gender, class, race, and orientation. Students interface with existing radical social justice/art organizations in Los Angeles area, and strive to facilitate real change. Letter grading.
 144. Music Journalism
 Units: 4.0
 Seminar, four hours. Students learn core journalism writing and reporting techniques--objectivity, neutrality, fact-checking, interviewing, active voice writing, editing--and apply those techniques to producing publishable works of journalism that report on music and music industry. Discussion and exploration of music and music industry landscape as journalists with probing curiosity, critical thinking, reporting, and analysis. Story ideas are pitched as group; and written, reported, and edited as journalism team. Reading and critiquing of wide range of music journalism. Music journalists and musicians as guest speakers. No prior journalism experience necessary. Letter grading.

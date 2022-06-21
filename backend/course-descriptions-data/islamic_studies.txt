@@ -1,3 +1,4 @@
+Islamic Studies
 Lower Division Courses (8)
 19. Fiat Lux Freshman Seminars
 Units: 1.0
@@ -39,9 +40,8 @@ Units: 5.0
 130. Shi'a in Islamic History
 Units: 4.0
 Seminar, three hours; discussion, one hour. Rise and development of Shi'a Islam, its doctrines, and practices; major branches: Twelvers, Ismailis, Zaydis; their contribution to Islamic thought and civilization; modern trends of reinterpretation and reform. Letter grading.
-151. Islamic Thought
+C151. Islamic Thought
 Units: 4.0
-(Formerly numbered Islamics 151.) Lecture, 90 minutes; discussion, 90 minutes. Recommended requisite: course M110. Based on original writings of major Islamic thinkers in English translation, provides balanced picture of enormous ideological variety found in contemporary Muslim world. Examination of representative writings from wide spectrum of modern Islamic intellectuals and writers. Letter grading.
 189. Advanced Honors Seminars
 Units: 1.0
 Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.
@@ -54,13 +54,15 @@ Tutorial, one hour. Limited to juniors/seniors. Individual intensive study, with
 199. Directed Research or Senior Project in Islamic Studies
 Units: 2.0 to 4.0
 Tutorial, one hour. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit. Individual contract required. P/NP or letter grading.
-Graduate Courses (7)
+Graduate Courses (8)
 200. Introduction to Islamic Studies
 Units: 4.0
 Seminar, three hours. Introduction to various disciplines and methods employed in study of Islamic histories, cultures, and societies, with special emphasis on methodologies and current theories and how they may be used and combined by Islamic studies students. Content varies each year. Letter grading.
 201. Arabo-Islamic Sciences
 Units: 4.0
 Seminar, three hours. Preparation: good reading knowledge of Arabic, English, and one other Western language. Comprehensive coverage of Arabo-Islamic sciences that formed matrix of Islamic education. Survey of most recent developments in following disciplines: Arabic language and literature, Qur'anic sciences, traditions, jurisprudence, theology, and Sufism. Letter grading.
+C251. Islamic Thought
+Units: 4.0
 291A. Variable Topics in Islamic Studies
 Units: 4.0
 Seminar, three hours. Selected topics on Islam. May be repeated for credit with topic change. S/U or letter grading.

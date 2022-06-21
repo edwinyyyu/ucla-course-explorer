@@ -1,3 +1,4 @@
+Materials Science and Engineering
 Lower Division Courses (6)
 10. Freshman Seminar: New Materials
 Units: 1.0
@@ -117,7 +118,7 @@ Seminar, four hours; outside study, eight hours. Designed for undergraduate stud
 199. Directed Research in Materials Science and Engineering
 Units: 2.0 to 8.0
 Tutorial, to be arranged. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. Occasional field trips may be arranged. May be repeated for credit with school approval. Individual contract required; enrollment petitions available in Office of Academic and Student Affairs. Letter grading.
-Graduate Courses (46)
+Graduate Courses (45)
 200. Principles of Materials Science I
 Units: 4.0
 Lecture, four hours; discussion, one hour; outside study, seven hours. Requisite: course 120. Lattice dynamics and thermal properties of solids, classical and quantized free electron theory, electrons in a periodic potential, transport in semiconductors, dielectric and magnetic properties of solids. Letter grading.
@@ -145,9 +146,6 @@ Units: 4.0
 214. Structure, Properties, and Deterioration of Materials: Rock Art, Wall Paintings, Mosaics
 Units: 2.0
 (Formerly numbered M214.) Lecture, three hours. Recommended preparation: basic knowledge of general chemistry and materials science. Introduction to materials and techniques of rock art, wall paintings (including painted surfaces on cement and composite decorative architectural surfaces), and mosaics. Archaeological and ethnographic context, techniques, and materials. Pigments, colorants, and binding media. Chemical, optical, and structural properties. Relationship between composition (chemistry), structure (crystals, molecular arrangement, and microstructure), and properties explained using basic concepts from physics and chemistry. Intrinsic attributes and resistance to weathering. Causes, sources, and mechanisms of deterioration (physical, chemical, and biochemical). Letter grading.
-M215. Conservation Laboratory: Rock Art, Wall Paintings, and Mosaics
-Units: 4.0
-(Same as Conservation M250.) Laboratory, four hours. Requisites: courses 214, 216 (or C112 or C212), Conservation 210L. Recommended: course M213. Research-based laboratory on conservation of rock art, wall paintings (archaeological and modern composites on cements), mosaics, and decorated architectural surfaces. Experimental techniques and analysis of materials (using materials science and reverse engineering processes) for characterization of technology, constituent materials, and alteration products; development of conservation treatment proposals, testing of conservation products, and methods and conservation treatment. Letter grading.
 216. Science of Conservation Materials and Methods I
 Units: 4.0
 (Formerly numbered M216.) Lecture, two hours; laboratory, two hours. Recommended requisite: laboratory safety fundamental concepts course by Office of Environment, Health, and Safety. Introduction to physical, chemical, and mechanical properties of conservation materials (employed for preservation of archaeological and cultural materials) and their aging characteristics. Science and application methods of traditional organic and inorganic systems and introduction of novel technology based on biomineralization processes and nanostructured materials. Letter grading.

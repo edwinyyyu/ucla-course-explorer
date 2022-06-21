@@ -1,3 +1,4 @@
+Statistics
 Lower Division Courses (12)
 10. Introduction to Statistical Reasoning
 Units: 5.0
@@ -162,7 +163,7 @@ Tutorial, four hours. Limited to juniors/seniors. Internship in supervised setti
 199. Directed Research in Statistics
 Units: 1.0 to 4.0
 Tutorial, one hour. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit. Individual contract required. P/NP or letter grading.
-Graduate Courses (85)
+Graduate Courses (86)
 200A. Applied Probability
 Units: 4.0
 Lecture, three hours; discussion, one hour. Requisite: course 100A or Mathematics 170A. Limited to graduate statistics students. Simulation, renewal theory, martingale, and selected topics from queuing, reliability, speech recognition, computational biology, mathematical finance, epidemiology. S/U or letter grading.
@@ -208,6 +209,9 @@ Lecture, three hours. Introduction to theoretical analysis of machine learning m
 210. Computer Intensive Methods
 Units: 4.0
 Lecture, three hours. Recommended requisite: course 200B. Recommended preparation: programming skills in R, C/C++, MATLAB. Overview of theory and practice of computer-based methods for statistical inference and uncertainty quantification, including bootstrap, resampling, computer simulation, and Monte Carlo sampling. Coverage of nonparametric and parametric bootstrap, bootstrap inference, permutation test, cross-validation, likelihood approximation, importance sampling, and Markov chain Monte Carlo with brief introduction to Bayesian inference and missing data problems. S/U or letter grading.
+212. Graphical Models
+Units: 4.0
+Lecture, three hours. Recommended requisite: course 200A. Introduction to graphical models with applications in statistical modeling, machine learning, and causal inference. Common graphical models, such as undirected graphs, directed acyclic graphs, and ancestral graphs, for modeling conditional independence and causality. Methods and theory for structure learning of graphical models from observational and experimental data. S/U or letter grading.
 C216. Social Statistics
 Units: 4.0
 Lecture, three hours. Preparation: some knowledge of basic calculus and linear algebra. Requisites: courses 100A and 100B, or 101B and 101C, or one course from 10, 11, 12, 13 and one upper-division statistics course using regression. Designed for social sciences graduate students and advanced undergraduate students seeking training in data issues and methods employed in social sciences. Concurrently scheduled with course C116. S/U or letter grading.

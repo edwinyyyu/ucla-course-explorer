@@ -1,10 +1,9 @@
-Graduate Courses (19)
-401A. Leadership Foundations
+Management-Full-Time MBA
+Graduate Courses (20)
+401A. Foundations of Inclusive Leadership
 Units: 1.0
-Three-day residential format. Managing and working with people, with emphasis on motivation and development of individuals, leadership and interpersonal relationships, and group dynamics in complex organizational settings. In Progress grading (credit to be given only on completion of course 401B).
-401B. Leadership Foundations
+401B. Foundations of Inclusive Leadership
 Units: 1.0
-Lecture, three hours. Managing and working with people, with emphasis on motivation and development of individuals, leadership and interpersonal relationships, and group dynamics in complex organizational settings. Letter grading.
 402. Data and Decisions
 Units: 4.0
 (Formerly numbered Management 402.) Lecture, three hours. Topics include probabilities, random variables (expectation, variance, covariance, normal random variables), decision trees, estimation, hypothesis testing, and multiple regression models. Emphasis on actual business problems and data. Letter grading.
@@ -26,6 +25,8 @@ Units: 4.0
 411. Marketing Management
 Units: 4.0
 (Formerly numbered Management 411.) Lecture, three hours. Principles of market-driven managerial decision making: consumer, competitor, and company analysis, market segmentation, definition of target markets, and product positioning. Management of marketing function: product and pricing decisions, channels of distribution, marketing communications. Letter grading.
+415. Foundations of Ethical Decision Making
+Units: 2.0
 420. Business Strategy
 Units: 4.0
 (Formerly numbered Management 420.) Lecture, three hours. Evaluation and formulation of organization's overall policies and strategies. Economic, heuristic, and social process approaches to policy formulation, environmental analysis, and organizational appraisal. Senior management's role in managing policy process. Letter grading.

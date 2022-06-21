@@ -1,3 +1,4 @@
+Human Genetics
 Lower Division Courses (2)
 19. Fiat Lux Freshman Seminars
 Units: 1.0
@@ -30,7 +31,7 @@ Seminar, three hours. Limited to 20 students. Designed as adjunct to undergradua
 199. Special Studies in Human Genetics
 Units: 2.0 to 8.0
 Tutorial, to be arranged. Students select instructor among eligible research faculty and carry out independent research project under instructor supervision. P/NP or letter grading.
-Graduate Courses (40)
+Graduate Courses (39)
 M203. Stochastic Models in Biology
 Units: 4.0
 (Same as Biomathematics M203.) Lecture, four hours. Requisite: Mathematics 170A or equivalent experience in probability. Mathematical description of biological relationships, with particular attention to areas where conditions for deterministic models are inadequate. Examples of stochastic models from genetics, physiology, ecology, and variety of other biological and medical disciplines. S/U or letter grading.
@@ -112,9 +113,6 @@ Lecture, two hours. Limited to Genetic Counseling students. First of two-course 
 412. Research Applications in Genetic Counseling
 Units: 2.0
 Lecture, two hours. Enforced requisite: course 411. Limited to Genetic Counseling students. Second of two-course series. Practical hands-on approach to conducting research. Offers more focused discussion on specific aspects of study design and sampling, elements of developing and using instruments to measure variables of interest, criteria for systematic literature review, appropriate univariate and multivariate analyses, and interpretation and report writing. Focus on skills students need to develop and conduct their capstone projects and research in genetic counseling. Students brainstorm ideas for their capstone project, develop research question, and submit research proposal for final project. Letter grading.
-413. Ethical, Legal, and Societal Topics in Genetic Counseling
-Units: 2.0
-Lecture, two hours. Limited to Genetic Counseling students. Discussion of Social, cultural, ethical, and legal issues in genetics and genetic counseling. Letter grading.
 C413. Ethical, Legal, and Societal Topics in Genetic Counseling
 Units: 2.0
 (Formerly numbered 413.) Lecture, two hours. Limited to Genetic Counseling students. Discussion of social, cultural, ethical, and legal issues in genetics and genetic counseling. Concurrently scheduled with course CM113. Letter grading.

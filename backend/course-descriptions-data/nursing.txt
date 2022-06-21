@@ -1,3 +1,4 @@
+Nursing
 Lower Division Courses (9)
 3. Human Physiology for Healthcare Providers
 Units: 5.0
@@ -268,15 +269,12 @@ Lecture, four hours. Requisites: courses 268, 465A, 465B, 465C. Focus on princip
 288. Variable Topics in Nursing
 Units: 4.0
 Lecture, three hours; discussion, one hour. Variable topics; consult Schedule of Classes for topics to be offered in specific term. May be repeated for credit. S/U or letter grading.
-M290A. Child Abuse and Neglect
-Units: 2.0
-(Same as Community Health Sciences M245A, Dentistry M300A, Education M217G, Law M281A, Medicine M290A, and Social Welfare M203F.) Lecture, two hours. Course M290A is requisite to M290B, which is requisite to M290C. Intensive interdisciplinary study of child physical and sexual abuse and neglect, with lectures by faculty members of Schools of Dentistry, Law, Medicine, Nursing, and Public Health and Departments of Education and Psychology, as well as by relevant public agencies. Letter grading.
-M290B. Child Abuse and Neglect
-Units: 2.0
-(Same as Community Health Sciences M245B, Dentistry M300B, Education M217H, Law M281A-M281B, Medicine M290A-M290B, and Social Welfare M203G.) Lecture, two hours. Requisite: course M290A. Intensive interdisciplinary study of child physical and sexual abuse and neglect, with lectures by faculty members of Schools of Dentistry, Law, Medicine, Nursing, and Public Health and Departments of Education and Psychology, as well as by relevant public agencies. Letter grading.
-M290C. Child Abuse and Neglect
-Units: 1.0
-(Same as Community Health Sciences M245C, Dentistry M300C, Education M217I, Law M281B, Medicine M290B, and Social Welfare M203H.) Lecture, two hours. Requisite: course M290B. Intensive interdisciplinary study of child physical and sexual abuse and neglect, with lectures by faculty members of Schools of Dentistry, Law, Medicine, Nursing, and Public Health and Departments of Education and Psychology, as well as by relevant public agencies. Letter grading.
+291A. Applied Statistics and Analytics for Health Sciences Research 1
+Units: 4.0
+291B. Applied Statistics and Analytics for Health Sciences Research II
+Units: 4.0
+291C. Special Topics in Applied Statistics and Analytics for Health Sciences Research III
+Units: 4.0
 295A. Grant Writing I: Scientific Proposal Development
 Units: 3.0
 Seminar, three hours. Requisites: courses 202, 205A, 206A, 210A, 210B, Biostatistics 100B. Introduction to grant writing, with focus on preparing application for National Student Research Award (NRSA) or similar award. Discussion of requirements of various extramural and specialty organization funding sources and identification of evaluation criteria. Emphasis on role of external funding to facilitate doctoral and postdoctoral research, research activities, and professional development. Letter grading.

@@ -1,4 +1,5 @@
-Lower Division Courses (7)
+Mechanical and Aerospace Engineering
+Lower Division Courses (6)
 1. Undergraduate Seminar
 Units: 1.0
 Seminar, one hour; outside study, two hours. Introduction by faculty members and industry lecturers to mechanical and aerospace engineering disciplines through current and emerging applications in aerospace, medical instrumentation, automotive, entertainment, energy, and manufacturing industries. P/NP grading.
@@ -11,9 +12,6 @@ Units: 4.0
 82. Mathematics of Engineering
 Units: 4.0
 Lecture, four hours; discussion, two hours; outside study, six hours. Requisite: Mathematics 33A. Recommended requisite: course M20. Methods of solving ordinary differential equations in engineering. Review of matrix algebra, eigenvalues, and eigenvectors. Solution of systems of first-order ordinary differential equations using matrix methods. Introduction to Laplace transforms and their application to ordinary differential equations. Introduction to boundary value problems, partial differential equations, and separation of variables. Letter grading.
-88S. DNA Nanotechnology: from Fundamentals to Applications
-Units: 1.0
-Seminar, one hour. Nucleic acid nanotechnology allows engineers and scientists to utilize chemistry derived from nature (that of RNA and DNA) to build intricate and useful devices and nanostructures. Overview of exciting field of nucleic acid nanotechnology. Topics include foundational principles in biochemistry and molecular biology, self-assembly and design of nanostructures, applications in molecular computing, ethical considerations, and contemporary and relevant related technologies. P/NP grading. Facilitated by Passa Pungchai, with Elisa Franco as faculty mentor.
 94. Introduction to Computer-Aided Design and Drafting
 Units: 4.0
 Lecture, two hours; laboratory, four hours. Fundamentals of computer graphics and two- and three-dimensional modeling on computer-aided design and drafting systems. Students use one or more online computer systems to design and display various objects. Letter grading.
@@ -207,7 +205,7 @@ Seminar, two hours. Designed for undergraduate students who are part of research
 199. Directed Research in Mechanical and Aerospace Engineering
 Units: 2.0 to 8.0
 Tutorial, to be arranged. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit with school approval. Individual contract required; enrollment petitions available in Office of Academic and Student Affairs. Letter grading.
-Graduate Courses (93)
+Graduate Courses (95)
 231A. Convective Heat Transfer Theory
 Units: 4.0
 Lecture, four hours; outside study, eight hours. Requisites: courses 131A, 182B. Recommended: course 250A. Conservation equations for flow of real fluids. Analysis of heat transfer in laminar and turbulent, incompressible and compressible flows. Internal and external flows; free convection. Variable wall temperature; effects of variable fluid properties. Analogies among convective transfer processes. Letter grading.
@@ -364,6 +362,8 @@ Units: 4.0
 263D. Advanced Topics in Robotics and Control
 Units: 4.0
 Lecture, four hours; outside study, eight hours. Enforced requisite: course 263C. Current and advanced topics in robotics and control, including kinematics, dynamics, control, mechanical design, advanced sensors and actuators, flexible links, manipulability, redundant manipulators, human-robot interaction, teleoperation, haptics. Letter grading.
+263E. Bionic Systems Engineering
+Units: 4.0
 M269A. Dynamics of Structures
 Units: 4.0
 (Same as Civil Engineering M237A.) Lecture, four hours; discussion, two hours; outside study, six hours. Requisites: Civil Engineering 135A, C137, or equivalent. Principles of dynamics. Determination of normal modes and frequencies by differential and integral equation solutions. Transient and steady-state response. Emphasis on derivation and solution of governing equations using matrix formulation. Letter grading.
@@ -412,6 +412,9 @@ Lecture, four hours; laboratory, two hours; outside study, six hours. Requisites
 279. Dynamics and Control of Biological Oscillations
 Units: 4.0
 Lecture, four hours; outside study, eight hours. Requisites: courses 107, M270A. Analysis and design of dynamical mechanisms underlying biological control systems that generate coordinated oscillations. Topics include neuronal information processing through action potentials (spike train), central pattern generator, coupled nonlinear oscillators, optimal gaits (periodic motion) for animal locomotion, and entrainment to natural oscillations via feedback control. Letter grading.
+279B. Dynamics and Feedback in Biological and Ecological Systems
+Units: 4.0
+Lecture, four hours; outside study, eight hours. Requisite: course 171A or equivalent. Preparation: familiarity with differential equations (course 107 or Electrical and Computer Engineering 102). Covers mathematical modeling of biological and ecological systems using deterministic approaches. Derivation of kinetic models for control of gene expression, gene networks, cellular signaling, and viral infections. Nonlinear and linearized analysis of feedback mechanisms leading to oscillations and bistability. Modularity and robustness in interconnected networks in presence of parameter uncertainty and disturbances. Feedback engineering for setpoint regulation of cellular processes and bioproduction. Letter grading.
 M280B. Microelectromechanical Systems (MEMS) Fabrication
 Units: 4.0
 (Same as Bioengineering M250B and Electrical and Computer Engineering M250B.) Lecture, three hours; discussion, one hour; outside study, eight hours. Enforced requisite: course M183B. Advanced discussion of micromachining processes used to construct MEMS. Coverage of many lithographic, deposition, and etching processes, as well as their combination in process integration. Materials issues such as chemical resistance, corrosion, mechanical properties, and residual/intrinsic stress. Letter grading.

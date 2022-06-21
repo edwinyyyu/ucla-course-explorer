@@ -1,4 +1,5 @@
-Lower Division Courses (20)
+Film and Television
+Lower Division Courses (18)
 1A. Freshman Symposium
 Units: 1.0
 Laboratory, three hours. Course 1A is enforced requisite to 1B, which is enforced requisite to 1C. Limited to Film and Television majors. Structured forum in which freshmen meet on regular basis to discuss curricular issues, meet with faculty members from department, and have exposure to array of guest speakers from media industries. Letter grading.
@@ -31,9 +32,6 @@ Units: 4.0
 Lecture, three hours; discussion, one hour. Not open for credit to students with credit for course C132/C430. Structural analysis of feature films and development of professional screenwriters' vocabulary for constructing, deconstructing, and reconstructing their own work. Screenings of films and selected film sequences in class and by assignment. P/NP or letter grading.
 37. Writing for Television: Big Ideas for Small Screen
 Units: 2.0 to 6.0
-Seminar, nine hours. Offered in summer only. Intensive introduction to television pilot form, covering style and content, as well as principles behind network needs and how pilots are chosen across broadcast, cable, and digital platforms. Students write series outline and teaser of original pilot episode. P/NP or letter grading.
-37. Writing for Television: Big Ideas for Small Screen (Effective Summer Sessions 2022 )
-Units: 2.0 to 6.0
 Seminar, nine hours. Intensive introduction to television pilot form, covering style and content and how to analyze television shows and industry process of television development. Students develop beat sheet and outline for first act of original pilot episode, write teaser of original pilot episode, and create series treatment. Offered in summer only. P/NP or letter grading.
 M50. Introduction to Visual Culture
 Units: 5.0
@@ -53,13 +51,10 @@ Lecture, three hours; discussion, one hour. Examination of evolving economic str
 89. Honors Seminars
 Units: 1.0
 Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.
-98TW. Influencer Culture and Economy
-Units: 5.0
-Seminar, three hours. Requisite: English Composition 3. Freshmen/sophomores preferred. Exploration of intersection of media, technology, and society concerning influencer culture and economy. Introduction to range of concepts, terminologies, and methods from media studies to analyze form, content, and context of influencer media. Satisfies Writing II requirement. Letter grading.
 99. Student Research Program
 Units: 1.0 to 2.0
 Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
-Upper Division Courses (86)
+Upper Division Courses (88)
 101A. Junior Symposium
 Units: 1.0
 Laboratory, three hours. Course 101A is enforced requisite to 101B, which is enforced requisite to 101C. Limited to Film and Television majors. Structured forum in which juniors meet on regular basis to discuss curricular issues, meet with faculty members, and have exposure to array of guest speakers from within film industry. Letter grading.
@@ -144,6 +139,9 @@ Units: 2.0
 131. Introduction to Television Writing
 Units: 6.0 or 8.0
 Lecture, three hours. Introduction to television pilot form, covering style and content, as well as principles behind network needs and how pilots are chosen across broadcast, cable, and digital platforms. Students write series outline and first act of original pilot. Offered in summer only. Letter grading.
+132. Television Writing Workshop
+Units: 6.0
+Laboratory, three hours. Students outline first 10 pages of pilot for original one-hour drama or dramedy, or half-hour comedy series. Examination of topics such as pitching; television writing format and structure 101; current trends in television writing; how to write compelling characters and stories; and how to take idea from concept through logline, beat sheet, and outline to final professional first draft. Letter grading.
 133A. Intermediate Television Writing Variety/Sketch Comedy
 Units: 8.0
 Lecture, three hours. Recommended requisite: course 131. Examination of writing for sketch, talk, and other hybrid comedic television shows. Review of various types of parody including monologues, commercial parodies, slice-of-life comedy, character-driven comedy, physical comedy, comedy of absurd, and political and topical satire. Students write one comedy sketch and portfolio of monologue jokes. Offered in summer only. Letter grading.
@@ -190,9 +188,6 @@ Laboratory, two hours; discussion, four hours. Designed for students with previo
 Units: 4.0
 (Formerly numbered 52.) Lecture, three hours; laboratory, three hours. Requisite: course 101A. Corequisite: course 154. Limited to Film and Television majors. Introduction to motion imaging photography for thorough understanding of fundamental tools and principles of cinematography to create images that support and enhance story of film, achieve comprehension of principles of motion imaging photography through lectures, discussions, and screenings, develop skills of cinematographer by shooting exercises during laboratory period, and acquire appreciation of art of cinematography. Language and skills of image construction provided, as well as image analysis and deconstruction. Letter grading.
 151. Introduction to Experimental Filmmaking
-Units: 4.0
-Lecture, three hours; laboratory, to be arranged. Limited to Film and Television majors. Techniques of image manipulation, design, and art direction. Production and completion of exercise (no longer than three minutes), using 16mm nonsync sound film. May be repeated twice for credit. Letter grading.
-151. Introduction to Experimental Filmmaking (Effective Summer Sessions 2022 )
 Units: 4.0
 Lecture, three hours; laboratory, to be arranged. Techniques of image manipulation, design, and art direction. Production and completion of exercise (no longer than three minutes). May be repeated twice for credit. Letter grading.
 152. Film and Television Sound Recording
@@ -250,9 +245,6 @@ Lecture, six hours; laboratory, six hours. Fundamentals of animation through exe
 Units: 4.0
 Lecture, two hours; laboratory, six hours. Analysis and practice of effective visual storytelling through creation of three production storyboards. Offered in summer only. Letter grading.
 180C. Stop Motion Fundamentals Workshop
-Units: 3.0
-Lecture, six hours; laboratory, six hours. Exercises designed to teach technical skills, processes, and principles of motion and timing. Use of range of materials, building animation performances in split-second increments arranged to give illusion of movement. Exploration of early history of stop motion. Collaborative creation of stop-motion film with each student directing and animating portion of film. Offered in summer only. Letter grading.
-180C. Stop Motion Fundamentals Workshop (Effective Summer Sessions 2022 )
 Units: 2.0 to 4.0
 Lecture, six hours; laboratory, six hours. Exercises designed to teach technical skills, processes, and principles of motion and timing. Use of range of materials, building animation performances in split-second increments arranged to give illusion of movement. Exploration of early history of stop motion. Collaborative creation of stop-motion film with each student directing and animating portion of film. Offered in summer only. Letter grading.
 C181A. Introduction to Animation
@@ -291,6 +283,15 @@ Lecture, three hours; laboratory, three hours; fieldwork, four to six hours. Req
 C186C. Advanced Documentary Workshop
 Units: 4.0
 Lecture, three hours; laboratory, three hours; fieldwork, four to six hours. Requisite: course C186B. Advanced viewing and discussion of selected documentaries and instruction in various production skills necessary to create video documentaries. Completion of series of exercises from conceptualization through postproduction, culminating in production of short documentary. Concurrently scheduled with course C403C. Letter grading.
+187A. Global Film and Television Development
+Units: 4.0
+Lecture, three hours. Exploration of film and television development practices in key international markets. Introduction to key international markets, prominent global development and production entities, and their properties and development strategies. Designed to blend theory with practical application. Students read both academic literature and trade publications addressing development practices in U.S. and around world, and gain understanding of mechanisms that drive development in domestic and international territories. P/NP or letter grading.
+187B. Domestic and Global Entertainment Industry Careers and Strategies
+Units: 4.0
+Lecture, three hours. Exploration of select film and television career paths and strategies in U.S. and major international markets. Introduction to typical and atypical career paths and strategies of producers, screenwriters, directors, and creative executives in U.S. and abroad. Students take part in moderated discussions with domestic and international industry professionals and read both academic literature and trade publications addressing current state of domestic and global media industries. Through readings and discussions, students gain understanding of rapidly changing global entertainment landscape, and current and future employment trends and project development strategies. P/NP or letter grading.
+187C. Scripted and Unscripted Series Development for Domestic and Global Streaming Services
+Units: 4.0
+Lecture, three hours. Designed to enhance students' understanding of processes involved in domestic and international fiction and nonfiction development of properties for streaming services. Students are acquainted with common business and creative practices, while expanding their critical and practical understanding of quickly evolving and transforming global streaming landscape. Examination of creative development processes and strategies for scripted and unscripted series for streaming services in U.S., and similarities and differences in business as well as creative approaches in major international territories. Examination of latest trends in fiction and nonfiction development, including strategies to work with international coproduction partners and developing projects using pre-viz and virtual production techniques. Covers streaming markets in North American, Europe, Asia, and Central and South America. P/NP or letter grading.
 188A. Special Courses in Film, Television, and Digital Media
 Units: 4.0
 Lecture, three hours; discussion, one hour. Special topics in film, television, and digital media for undergraduate students taught on experimental or temporary basis. May be repeated for credit. P/NP or letter grading.
@@ -314,7 +315,7 @@ Units: 2.0 or 4.0
 Tutorial, one hour; internship, eight hours. Limited to juniors/seniors. Corporate internship in supervised setting in business related to film, television, and digital media industries. Students meet on regular basis with instructor and provide periodic reports of their experience. May be repeated for credit. Individual contract with supervising faculty member required. P/NP or letter grading.
 195CE. Corporate Internships in Film, Television, and Digital Media
 Units: 4.0
-(Formerly numbered 195.) Tutorial, one hour; fieldwork, eight to 10 hours. Enforced corequisite: course 194. Limited to juniors/seniors. Corporate internship in supervised setting in business related to film, television, and digital media industries. Examination of issues related to internship site through series of reading assignments constructed by faculty sponsor and graduate student coordinator. May be repeated for credit with consent of Center for Community Learning. Individual contract with supervising faculty member required. P/NP or letter grading.
+Tutorial, one hour; fieldwork, eight to 10 hours. Limited to juniors/seniors. Corporate internship in supervised setting in business related to film, television, and digital media industries. Examination of issues related to internship site through series of reading assignments constructed by faculty sponsor and graduate student coordinator. May be repeated for credit with consent of Center for Community Engagement. Individual contract with supervising faculty member required. P/NP or letter grading.
 199. Directed Research or Senior Project in Film, Television, and Digital Media
 Units: 2.0 to 8.0
 Tutorial, three hours. Limited to senior Film and Television majors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be taken for maximum of 8 units. Individual contract required. P/NP or letter grading.
@@ -372,7 +373,7 @@ Units: 6.0
 Seminar, three hours; film screenings, three hours. Designed for graduate students. Critical study of animated film: its historical development, structure, style, use, and relation to contemporary culture. S/U or letter grading.
 210. Viewing and Reading Media
 Units: 4.0
-Lecture, three hours; media viewings, three hours. Study Engages media originating on different platforms and deriving from different modes of production, cultural locations, and various critical approaches. Each approach considers various components of what can be read in individual work including form and aesthetics, organization (narrative/non-narrative, fiction/non-fiction), orientation to spectator or user, industrial or artisanal production context, and relation to historical or cultural moment. Letter grading.
+Lecture, three hours; media viewings, three hours. Study engages media originating on different platforms and deriving from different modes of production, cultural locations, and various critical approaches. Each approach considers various components of what can be read in individual work including form and aesthetics, organization (narrative/nonnarrative, fiction/nonfiction), orientation to spectator or user, industrial or artisanal production context, and relation to historical or cultural moment. Letter grading.
 211A. Seminar: Historiography
 Units: 6.0
 Seminar, three hours; film screenings, three hours. Limited to Film and Television MA candidates. Beginning examination of function and methods of writing film and television history as seen in works of key historians in U.S. and Europe. S/U or letter grading.

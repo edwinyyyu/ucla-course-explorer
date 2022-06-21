@@ -1,3 +1,4 @@
+Design / Media Arts
 Lower Division Courses (17)
 1. Graphic Design
 Units: 2.0
@@ -78,9 +79,9 @@ Studio, six hours; outside study, nine hours. Preparation: completion of prepara
 158. Game Engine
 Units: 5.0
 Studio, six hours; outside study, nine hours. Requisites: courses 24, and 101 or 104. Introduction of fundamentals of programming interactive projects in game development software. Focus on familiarizing students with game engines, computer programming concepts, player experience, and other skills that are foundational to making digital games. Lectures, exercises, and class projects teach skills needed to create digital games including custom rules, interactive physics systems, vectors, generative or randomized levels, save data, custom input systems, score-keeping, and sound. P/NP or letter grading.
-159A. Capstone Senior Project: Interactivity and Games
+159. Capstone Senior Project in Design Media Arts
 Units: 5.0
-Studio, six hours; outside study, nine hours. Preparation: completion of preparation for major courses. Requisites: courses 101, 104, 157, 161, and 160, 171, 172, or 173. Limited to seniors. Interactive media, including game design, interactive installations, dynamic websites, creative coding, and electronics. Focus on creating final project that can be showcased at Senior Show. Students can take two different courses in different terms or the same course twice in different terms. Total units for courses 159A, 159B, and 159C may not exceed 10 units, with maximum of 5 units per term. Letter grading.
+(Formerly numbered 159A.) Studio, six hours; outside study, nine hours. Requisites: courses 8, 10, 21, 22, 24, 25, 28, 101, and 104, and 160, 171, 172, or 173. Preparation: completion of preparation for major courses. Students should have completed six core, upper-division studio courses. Limited to seniors and should be completed in last year. Focus on creating final project that can be showcased at Senior Show. Letter grading.
 159B. Capstone Senior Project: Video and Animation
 Units: 5.0
 Studio, six hours; outside study, nine hours. Preparation: completion of preparation for major courses. Requisites: courses 24, 28, 101, 104, 153, 156, and 160, 171, 172, or 173. Limited to seniors. Linear media, including storyboarding, video, animation, modeling, editing, postproduction, and lighting. Focus on creating final project that can be showcased at Senior Show. Students can take two different courses in different terms or the same course twice in different terms. Total units for courses 159A, 159B, and 159C may not exceed 10 units, with maximum of 5 units per term. Letter grading.
@@ -120,23 +121,17 @@ Tutorial, two hours. Preparation: 3.0 grade-point average overall. Limited to ju
 199. Directed Research in Design | Media Arts
 Units: 2.0 to 5.0
 Tutorial, four hours. Preparation: 3.0 grade-point average in major. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit. Individual contract required. P/NP or letter grading.
-Graduate Courses (16)
-200. Design | Media Arts Faculty Seminar
-Units: 2.0
-Seminar, two hours. Limited to graduate design | media arts students. Designed to familiarize new graduate students with departmental faculty members and their creative work and research to help students select their faculty advisers. S/U grading.
-200. Design|Media Arts Faculty Seminar (Effective Fall 2022 )
+Graduate Courses (14)
+200. Design|Media Arts Faculty Seminar
 Units: 2.0
 Seminar, two hours. Limited to graduate design|media arts students. Designed to familiarize new graduate students with departmental faculty members and their creative work and research to help students select their faculty advisers. May be repeated once for credit. S/U grading.
 252A. Programming Media 1
-Units: 3.0
-Studio, three hours; outside study, six hours. Limited to majors. Introduction to computer programming within context of art and design. Exploration of conceptual space enabled by electronic media through exercises, presentations, discussions, and critiques. Weekly exercises balance concept and technique to reveal potential of computer as medium and tool. Experience with programming basics includes procedural and object-oriented programming, two- and three-dimensional graphics, file I/O, color models, and image processing. Letter grading.
-252A. Programming Media 1 (Effective Fall 2022 )
 Units: 5.0
 252B. Programming Media 2
 Units: 3.0
-Studio, three hours; outside study, six hours. Enforced requisite: course 252A. Limited to majors. Exploration of use of electromechanical actuators and sensors, custom interface design, microcontroller programming, and building kinetic and interactive physical artworks. Practical electronics theory, programming for embedded systems, two-dimensional and three-dimensional CAD, basic milling, laser cutting, mold making, circuit building, and other sculptural electronics fabrication techniques. Letter grading.
-252B. Programming Media 2 (Effective Fall 2022 )
-Units: 3.0
+252C. Virtuality
+Units: 5.0
+Studio, six hours; outside study, nine hours. Limited to Design|Media Arts majors. Introduction to essential 3D computer graphics techniques, concepts, and implementations. Students complete short exercises to better understand workflows used to create 3D digital art and adjacent media including but not limited to 3D models and animation, virtual and augmented reality, video games, motion capture, photogrammetry, 3D scanning, and physics simulations. Offers technical, formal, and theoretical background for 3D computer graphics to inspire new perspectives on potential of artmaking in virtual spaces. Letter grading.
 269. Graduate Seminar
 Units: 4.0
 Seminar, four hours. Designed for graduate design | media arts students. Survey of critical theories in media art and design. Critical examination of student work by peers, faculty members, and expert guests. Must be taken twice for MFA degree. May be repeated for credit with consent of adviser. Letter grading.

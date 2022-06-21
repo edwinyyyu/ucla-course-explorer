@@ -1,3 +1,4 @@
+Global Studies
 Lower Division Courses (6)
 1. Introduction to Globalization
 Units: 5.0
@@ -17,7 +18,7 @@ Tutorial, three hours. Limited to students in College Honors Program. Designed a
 99. Student Research Program
 Units: 1.0 to 2.0
 Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
-Upper Division Courses (23)
+Upper Division Courses (25)
 102. Globalization: Markets and Resources
 Units: 5.0
 (Formerly numbered 100A.) Lecture, three hours; discussion, one hour. Requisite: course 1. Examination of how domestic and international politics determine how global economy is governed. Topics include monetary and capital policy, trade, international investment, and migration. Letter grading.
@@ -33,6 +34,10 @@ Lecture, six hours. Requisite: course 100B. Corequisite: course 110B. Culture, e
 110B. Globalization in Context Research Seminar
 Units: 5.0
 Seminar, six hours. Requisite: course 100B. Corequisite: course 110A. Individual research projects on different aspects of globalization process in locations around world. Offered in summer only. P/NP or letter grading.
+114AD. Globalization in Context Global France: Study of Contemporary Economics, Politics, and Society
+Units: 5.0
+114BD. Globalization in Context Seminar: Culture and Multiculturalism in France
+Units: 5.0
 120. Introduction to International Business
 Units: 4.0
 Lecture, three hours; discussion, one hour (when scheduled). Over last five decades, world has increasingly become globalized, presenting many new opportunities for businesses and entrepreneurs. However, recent world events have demonstrated volatile nature of globalization and pitfalls that can also manifest for firms doing business in global setting. Students gain understanding of dynamic environment of international business, and how firm managers navigate complex world of international business to capitalize upon opportunities and mitigate against risks. P/NP or letter grading.

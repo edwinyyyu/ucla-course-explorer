@@ -1,10 +1,5 @@
-Lower Division Courses (17)
-M12A. African American Musical Heritage
-Units: 5.0
-(Same as African American Studies M12A and Ethnomusicology M12A.) Lecture, four hours; discussion, one hour. Sociocultural history and survey of African American music covering Africa and its impact on Americas; music of 17th through 19th centuries; minstrelsy and its impact on representation of blacks in film, television, and theater; religious music, including hymns, spirituals, and gospel; black music of Caribbean and Central and South America; and music of black Los Angeles. P/NP or letter grading.
-M12B. African American Musical Heritage
-Units: 5.0
-(Same as African American Studies M12B and Ethnomusicology M12B.) Lecture, four hours; discussion, one hour. Sociocultural history and survey of African American music covering blues, pre-1947 jazz styles, rhythm 'n' blues, soul, funk, disco, hip-hop, and symbiotic relationship between recording industry and effects of cultural politics on black popular music productions. P/NP or letter grading.
+Global Jazz Studies
+Lower Division Courses (15)
 19. Fiat Lux Freshman Seminars
 Units: 1.0
 Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.
@@ -50,7 +45,7 @@ Units: 2.0
 99. Student Research Program
 Units: 1.0 to 2.0
 Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
-Upper Division Courses (44)
+Upper Division Courses (46)
 101. Cross-Cultural Perspectives in Jazz
 Units: 4.0
 (Formerly numbered Ethnomusicology 121.) Lecture, four hours. Exploration of assimilation and retention of jazz from U.S. in various countries, with particular emphasis on cultural and social features that form basis for new jazz-ethnic music blends. Letter grading.
@@ -60,6 +55,12 @@ Units: 4.0
 M109. Women in Jazz
 Units: 4.0
 (Same as African American Studies M109, Ethnomusicology M109, and Gender Studies M109.) Lecture, four hours; discussion, one hour. Sociocultural history of women in jazz and allied musical traditions from 1880s to present. Survey of women vocalists, instrumentalists, composers/arrangers, and producers and their impact on development of jazz. P/NP or letter grading.
+M110A. African American Musical Heritage
+Units: 5.0
+(Formerly numbered M12A.) (Same as African American Studies M116A and Ethnomusicology M110A.) Lecture, four hours; discussion, one hour. Sociocultural history and survey of African American music covering Africa and its impact on Americas; music of 17th through 19th centuries; minstrelsy and its impact on representation of blacks in film, television, and theater; religious music, including hymns, spirituals, and gospel; black music of Caribbean and Central and South America; and music of black Los Angeles. P/NP or letter grading.
+M110B. African American Musical Heritage
+Units: 5.0
+(Formerly numbered M12B.) (Same as African American Studies M116B and Ethnomusicology M110B.) Lecture, four hours; discussion, one hour. Sociocultural history and survey of African American music covering blues, pre-1947 jazz styles, rhythm 'n' blues, soul, funk, disco, hip-hop, and symbiotic relationship between recording industry and effects of cultural politics on black popular music productions. P/NP or letter grading.
 M111. Ellingtonia
 Units: 4.0
 (Same as African American Studies M111 and Ethnomusicology M111.) Lecture, three hours. Music of Duke Ellington, his life, and far-reaching influence of his efforts. Ellington's music, known as Ellingtonia, is one of largest and perhaps most important bodies of music ever produced in U.S. Covers many contributions of other artists who worked with Ellington, such as composer Billy Strayhorn and musicians Johnny Hodges, Cooties Williams, and Mercer Ellington. P/NP or letter grading.

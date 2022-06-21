@@ -1,4 +1,5 @@
-Lower Division Courses (75)
+Honors Collegium
+Lower Division Courses (71)
 1. Plague Culture
 Units: 5.0
 Seminar, three hours. Study of episodes and metaphors of plague in Western culture from ancients into age of AIDS. Topics include scripture, ancient tragedy, Black Death, realist novel, high aesthetic metaphors of plague, Nazi propaganda, existential and absurdist thought, postwar cinema, contemporary American theater, and modern science and medicine. P/NP or letter grading.
@@ -200,18 +201,6 @@ Seminar, three hours; fieldwork, one hour. Examination of phobias, including inq
 87W. Worlds of Neil Gaiman: Graphic Novels, Social Media, and Fantasy Fiction
 Units: 5.0
 Seminar, four hours. Enforced requisite: English Composition 3. Designed for College Honors students. Examination of eclectic art of Neil Gaiman, exploring his contributions to children's and young adult literature, novels, graphic novels, video games, film and television, and online writing. Use of multiple lenses to understand his work, including philosophy, cultural studies, and media studies. Satisfies Writing II requirement. Letter grading.
-88SA. Avatar: The Last Airbender--Connections to Real Life
-Units: 1.0
-Seminar, one hour. Focus on understanding Avatar: The Last Airbender (ATLA) and its connection to important historical phenomena, touching upon Cambodian genocide, Vietnam War, and extractive colonialism primarily in East and Southeast Asia. Through discussion of relationship between four elemental nations in show, discussion of how show reflects larger themes of colonialism, militarism, and international power dynamics globally. By reading articles on cultural studies and listening to podcasts discussing popular cultural phenomenon that is ATLA, establishment of connections from ATLA to real-life events, experiences, and future discussion of cultural representation in media. Through discussion, inquiry into why ATLA is so popular and nostalgic to many in Asian American community, especially during time of COVID-19.  P/NP grading. Facilitated by Joey Lu, with Professor Jennifer J. Jung-Kim as faculty mentor.
-88SB. Psychology Behind Imposter Syndrome: Managing through Mindfulness
-Units: 1.0
-Seminar, one hour. Study of complexities of imposter syndrome, and how we can rewire our brains to understand that we are not imposters. Focus on what exactly imposter syndrome is, including key symptoms and its origin. Holistic approach to manage imposters within us. Integration of these techniques into our daily lives through final project. P/NP grading. Facilitated by Somya Panchal, with Jennifer A. Lindholm as faculty mentor.
-88SC. (Re)considering Race and Heat: How Confronting Climate Change Reveals Anti-Racist Futures
-Units: 1.0
-Seminar, one hour. Through case study approach, consideration of how heat interfaces with human biology, public health, policy, education, fashion and popular media, (in)accessible infrastructure, and other topics to sustain racism. Critical examination of how one's natural and built environments shape everyday life to produce interdisciplinary approach to reconsider heat and racism and re-imagine anti-racism in environmental justice. P/NP grading. Facilitated by Edna Tovar and Sean Sugai, with Bharat Venkat as faculty mentor.
-88SD. DNA Nanotechnology: from Fundamentals to Applications
-Units: 1.0
-Seminar, one hour. Nucleic acid nanotechnology allows engineers and scientists to utilize chemistry derived from nature (that of RNA and DNA) to build intricate and useful devices and nanostructures. Overview of exciting field of nucleic acid nanotechnology. Topics include foundational principles in biochemistry and molecular biology, self-assembly and design of nanostructures, applications in molecular computing, ethical considerations, and contemporary and relevant related technologies. P/NP grading. Facilitated by Passa Pungchai, with Elisa Franco as faculty mentor.
 89. Honors Seminars
 Units: 1.0
 Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.
@@ -224,16 +213,13 @@ Seminar, three hours. Designed for College Honors students. American filmmakers 
 99. Student Research Program
 Units: 1.0 to 2.0
 Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
-Upper Division Courses (105)
+Upper Division Courses (100)
 101A. Student Research Forum
 Units: 2.0
 Lecture, two hours. Designed to promote deep engagement in university research, including instruction on securing research opportunities, skills necessary for research and professional success, exploring research internships on and off campus, and communication of research. P/NP grading.
 101B. UCLA Undergraduate Science Journal
 Units: 2.0
 Seminar, two hours. For students on editorial board of annual "UCLA Undergraduate Science Journal," including study of writing in sciences and honing of editing and production skills. May be repeated for maximum of 10 units. P/NP grading.
-101C. UCLA Undergraduate Journal for Humanities and Social Sciences
-Units: 2.0
-Seminar, two hours. For students on editorial board of annual "Aleph" journal of undergraduate research and writing, including study of writing in various disciplines and honing of editing and production skills. May be repeated for maximum of 10 units. P/NP grading.
 101D. Counseling Multicultural Communities
 Units: 2.0
 Seminar, two hours. Study of issues of culture and identity in cross-cultural counseling, including development of working model. P/NP grading.
@@ -249,18 +235,9 @@ Seminar, two hours. Limited to AAP students. Designed to help AAP students famil
 101I. Research Today: Sources, Tools, and Strategies
 Units: 2.0
 Lecture, two hours; activity, two hours. Introduction to research process in digital age, offering opportunity to develop research skills through exploration of library and Internet resources, exposure to rare and unique materials, experimentation with digital tools, engagement with librarians and other experts, and interactive creation of research project proposal. Designed to prepare students for capstone or thesis experience in humanities or social sciences. P/NP grading.
-101J. Mellon Mays Research Seminar
-Units: 2.0
-Seminar, two hours. Limited to current Mellon Mays Undergraduate Fellows and designed to support them in their current research projects and graduate school preparation. Topics include research methods, abstracts, presentations, and posters, as well as graduate school application materials. May be repeated for maximum of 10 units. P/NP grading.
-101K. Preparing for Post-UCLA Success: Fellowships, Graduate School, and More
-Units: 2.0
-Seminar, two hours. Prepares students to achieve goals beyond UCLA. Participants reflect on values and interests, and learn what is required for effective applications to graduate school, scholarships, and more. Review of process of applying for nationally competitive awards such as Truman, Rhodes, Marshall, and others. Students learn to craft effective curricula vitae, strong personal statements, and compelling research proposals. Students learn to solicit strong letters of recommendation. Skills are preparation for scholarship/fellowship application process, as well as graduate school and job application process. P/NP grading.
 101L. Research Revealed: Humanities, Arts, and Social Sciences
 Units: 2.0
 Seminar/discussion, two hours. Introduction to wide array of research practices in humanities, arts, and social sciences. Run by Undergraduate Research Center--Humanities, Arts, and Social Sciences (URC-HASS) with talks from various UCLA faculty, student researches, and representatives from campus resources. Students gain better understanding and appreciation of role of research university and how research is conducted and knowledge created in humanities, arts, and social sciences. Coursework and discussions prepare students for conducting their own research projects, applying for research programs, or assisting on faculty member projects in future quarters. P/NP grading.
-101M. Careers in Libraries and Archives
-Units: 2.0
-Seminar, two hours. Study of wide variety of careers in libraries and archives. Introduction to career pathways of various professionals. Brief discussion of professional issues in these fields especially in relation to recruitment and retention of individuals in these professions. Discussion of careers in variety of locations and types of libraries and archives, with emphasis on outstanding professionals at UCLA. Stronger focus on careers in academic spaces. P/NP grading.
 M102. Culture, Media, and Los Angeles
 Units: 6.0
 (Same as African American Studies M102 and Asian American Studies M160.) Lecture, four hours; screenings, two hours. Designed for juniors/seniors. Role of media in society and its influence on contemporary cultural environment, specifically in Los Angeles; issues of representation as they pertain to race, ethnicity, gender, and sexuality. P/NP or letter grading.
@@ -324,11 +301,9 @@ Lecture, three hours; discussion, one hour. Examination of different ways human 
 122. Chemical Communication across Tree of Life
 Units: 5.0
 Seminar, three hours; discussion, two hours. Designed for College Honors students. Chemical communication governs relationships among most biological entities, across entire tree of life from viruses to "Homo sapiens." Bioinspired devices are using knowledge gleaned from chemosensory systems to change face of robotics, with wide applications in consumer industries, homeland security, and space exploration. Chemical, physical, and biological principles to be combined as pedagogical tools for teaching larger lesson in science. Synthesis of information and concepts across disciplines to develop student hypotheses and conclusions. P/NP or letter grading.
-M123. Philanthropy as Civic Engagement
-Units: 5.0
-(Same as Community Engagement and Social Change M122.) Seminar, three hours. Limited to juniors/seniors; application required. Study of history, philosophy, and practice of philanthropy. Practical experience in setting priorities and making philanthropic investments in Los Angeles-based nonprofit organizations. Letter grading.
 M123XP. Philanthropy as Civic Engagement
 Units: 5.0
+(Formerly numbered M123.) (Same as Community Engagement and Social Change M122XP.) Seminar, three hours. Limited to juniors/seniors; application required. Study of history, philosophy, and practice of philanthropy. Practical experience in setting priorities and making philanthropic investments in Los Angeles-based nonprofit organizations. Letter grading.
 124. Midwives, Mothers, and Medicine: Perspectives on History of Childbirth
 Units: 4.0
 Seminar, three hours. Using examples from history and anthropology, examination of variety of practices associated with childbirth over time and across cultures, addressing such themes as shifting relations among birthing women, midwives, and medical men and cultural meanings of birth. P/NP or letter grading.

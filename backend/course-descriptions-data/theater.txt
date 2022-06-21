@@ -1,3 +1,4 @@
+Theater
 Lower Division Courses (43)
 1A. Introduction to Dance for Music Theater
 Units: 1.0
@@ -204,6 +205,9 @@ Units: 4.0
 110. History of American Musical Theater
 Units: 5.0
 Lecture, three hours. Survey of history of American musical: its composers, writers, and performers from musical's emergence in immigrant cultures to Broadway and Off-Broadway. With its roots in British music halls and comic opera, Viennese operetta and African American jazz, American musical theater emerged as vivid and popular art form with its own culture and identity. P/NP or letter grading.
+111. Creating Theatrical Season
+Units: 5.0
+Seminar, three hours. Limited to sophomore/junior/senior Theater majors and minors. Students research and analyze contemporary issues facing theater and entertainment industries, and then address them through researching and proposing Theater Department's next annual production calendar. Introduction to process of searching for and vetting new and classic scripts and addressing current trends and issues through concrete planning and programming. Topics and discussions related to current issues vary by term. May be repeated for credit. P/NP or letter grading.
 C112. Emerging Technologies and Their Uses in Live Performance
 Units: 4.0
 (Formerly numbered C137.) Seminar, four hours. Survey of major emerging and contemporary technologies and their potential uses in and impact on live performance, from augmented and virtual reality to electronic textiles, Internet of Things, and Modern approaches to artificial intelligence. Offers solid basis for engaging in future collaborations with technologists, for self-study of new technologies, and, for those already more familiar with digital technologies, theoretical background for engaging with social context of these technologies. Concurrently scheduled with course C212. P/NP or letter grading.
@@ -387,9 +391,6 @@ Studio, four hours. Focus on mixing musical. Covers paperwork needed to complete
 C140B. Advanced Programming for Entertainment Design
 Units: 4.0
 Studio, three hours. Study and practice in object-based programming using MAX/MSP programming language to control sound and video. May be repeated once for credit. Concurrently scheduled with course C440B. Letter grading.
-C140C. Advanced Projects in Programming for Entertainment Design
-Units: 4.0
-Studio, three hours. Advanced projects using object-based programming to control sound and video. May be repeated once for credit. Concurrently scheduled with course C440C. Letter grading.
 C144A. Advanced Sound Design
 Units: 4.0
 Lecture, four hours; laboratory, four hours. Study of sound and acoustics as they relate to performance environments, techniques associated with recording, mixing, processing, automation, and reproduction of dialogue, effects, and music tracks for theater sound design. May be repeated once for credit. Concurrently scheduled with course C444A. Letter grading.
@@ -642,7 +643,7 @@ Tutorial, eight, 16, or 24 hours. Limited to juniors/seniors. Internship at vari
 199. Directed Research or Senior Project in Theater
 Units: 2.0 to 8.0
 Tutorial, to be arranged. Limited to juniors/seniors. Research under guidance of faculty mentor. Supervised individual research or investigation. Culminating paper or project required. May be repeated for credit. Individual contract required. P/NP or letter grading.
-Graduate Courses (184)
+Graduate Courses (183)
 205A. Background of Theatrical Art: Classical and Medieval Periods
 Units: 5.0
 Seminar, three hours. Designed for graduate students. Analysis of major plays, commentaries, and historical materials. S/U or letter grading.
@@ -913,9 +914,6 @@ Studio, four hours. Focus on mixing musical. Covers paperwork needed to complete
 C440B. Advanced Programming for Entertainment Design
 Units: 4.0
 Studio, three hours. Study and practice in object-based programming using MAX/MSP programming language to control sound and video. May be repeated once for credit. Concurrently scheduled with course C140B. Letter grading.
-C440C. Advanced Projects in Programming for Entertainment Design
-Units: 4.0
-Studio, three hours. Advanced projects using object-based programming to control sound and video. May be repeated once for credit. Concurrently scheduled with course C140C. Letter grading.
 441A. Lighting Design
 Units: 4.0
 Lecture/studio, four hours. Study and practice in lighting actors, emphasizing textual and character analysis from lighting designer's perspective, conceptual development with director, effect of light on dynamics of staging, use of color in light, and relationship of lighting designer to actor. May be repeated once for credit. Letter grading.

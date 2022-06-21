@@ -1,4 +1,5 @@
-Lower Division Courses (13)
+Communication
+Lower Division Courses (12)
 1. Principles of Oral Communication
 Units: 4.0
 Lecture, four hours. Enforced requisite: satisfaction of Entry-Level Writing requirement. Examination of foundations of communication and public speaking. Consideration of number of basic theories related to study of communication and development of skills to enable composition and delivery of speeches in accordance with specific rhetorical concepts. Improvement of ability to analyze, organize, and critically think about communicative messages while becoming better equipped to articulate ideas. P/NP or letter grading.
@@ -26,9 +27,6 @@ Units: 6.0
 88. Sophomore Seminars: Communication Studies
 Units: 4.0
 Seminar, three hours. Limited to maximum of 20 lower-division students. Readings and discussions designed to introduce students to current research in discipline. Culminating project may be required. P/NP or letter grading.
-88S. Emotional Intelligence: Verbal and Non-Verbal Communication
-Units: 1.0
-Seminar, one hour. Application of repertoire of verbal and non-verbal communication theories to engage invaluable skill. Students learn several communication concepts such as paralanguage, facial feedback hypothesis, and active listening. Application of concepts through hands-on activities, and development of emotional intelligence. Students and facilitator work together to create supportive climate that encourages growth. Through implementation of theories, practice, and positive mindset, discovery of how emotional intelligence skills can be keys to success in work, relationships, well-being, and beyond. P/NP grading. Facilitated by Phoebe Melikidse, with Dr. Karyl K. Kicenski as faculty mentor.
 89. Honors Seminars
 Units: 1.0
 Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.
@@ -38,7 +36,7 @@ Tutorial, three hours. Limited to students in College Honors Program. Designed a
 99. Student Research Program
 Units: 1.0 to 2.0
 Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
-Upper Division Courses (102)
+Upper Division Courses (101)
 100. Communication Science
 Units: 4.0
 Lecture, three hours. Requisite: course 10 or Linguistics 1 or Sociology 1 or Psychology 10. Examination of fundamental issues in communication sciences. Exploration of theoretical and methodological approaches that bridge major areas of current interdisciplinary communication research. P/NP or letter grading.
@@ -147,9 +145,6 @@ Lecture, three hours. Today's mass media are thriving business, central part of 
 136. Media Portrayals of Gays and Lesbians
 Units: 4.0
 Lecture, three hours. How mass media have portrayed gays and lesbians and why. Media's depiction, portrayal, and handling of homosexuality, with particular focus on how gays and lesbians have been negatively stereotyped, portrayed unrealistically, and often not portrayed at all. Exploration not only of how gays and lesbians have been represented, but also why certain portrayals have tended to dominate. P/NP or letter grading.
-M137. Transnational Bollywood
-Units: 4.0
-(Formerly numbered Communication Studies M137.) (Same as Asian American Studies M172C.) Lecture, three hours. Study of how popular Bollywood cinema materializes colonial and postcolonial formations pertaining to gender, class and caste, sexuality, race, and economic liberalization in South Asia, as well as across South Asian communities in North America, U.K., and Africa. Examination of how complex relationships between Bollywood and transnational South Asian diasporas enable us to better understand South Asian American communities. P/NP or letter grading.
 140. Theory of Persuasive Communication
 Units: 4.0
 Lecture, four hours. Dynamics of communication designed to influence human conduct; analysis of structure of persuasive discourse; integration of theoretical materials from relevant disciplines of humanities and social sciences. Letter grading.
@@ -239,8 +234,10 @@ Units: 4.0
 Lecture, three hours. Exploration of relationship between freedoms of speech and press and values of liberty, self-realization, self-government, truth, dignity, respect, justice, equality, association, and community. Study of significance of these values examined in connection with issues such as obscenity, defamation, access to media, and control of commercial, corporate, and government speech. P/NP or letter grading.
 173. Affect and Emotion in Political Communication
 Units: 4.0
+Lecture, three hours. There is growing body of work in political communication that emphasizes importance of affect, emotion, and personality in politics. Sensitivity to threat or disgust; reactions of fear, anger, or happiness; tendency to focus more on negative than on positive information--each of these can impact feelings about candidates, and positions on wide range of domestic and foreign issues. Many of these feelings are in reaction to mass-mediated information; and changing media technologies likely increases volume of affective or emotional content reaching public. Review of recent work on these themes, drawn from both media psychology and political communication. Letter grading.
 174. Entertainment and Politics
 Units: 4.0
+Lecture, three hours. Research in political communication often focuses on news coverage. Our ideas about world around us do not just come from news content, however--we are affected by wide range of entertainment media as well. Consideration of how changes in media technology have increasingly broken down division between news and entertainment. Review of work on impacts that entertainment-focused media--including television shows, movies, and music--have on political preferences. Letter grading.
 175. Criticism and Public Arts
 Units: 4.0
 Lecture, four hours; discussion, one hour (when scheduled). Introduction to methods and problems of criticism in public arts. Study of several types of critical methods: formalistic, analogue, pragmatic, and aesthetic criticism. Topics include definition of art and criticism, aesthetic media, genre and resources of film, television, theater, and public discourse, varieties of critical method, problems of critical judgment. Letter grading.
@@ -343,12 +340,13 @@ Tutorial, three hours. Requisite: course 198B. Limited to junior/senior majors. 
 199. Directed Research or Senior Project in Communication Studies
 Units: 2.0 to 4.0
 Tutorial, one hour. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit. Individual contract required. P/NP or letter grading.
-Graduate Courses (24)
+Graduate Courses (25)
 200. Theories in Communication Science
 Units: 4.0
 Seminar, three hours. Exploration of theoretical and methodological approaches that bridge major areas of current interdisciplinary communication science research. S/U or letter grading.
 205. Professional Pathways
 Units: 1.0
+Seminar, one hour. Earning PhD in any of allied social, cognitive, and computational sciences can support multiple career paths. Doctoral students are exposed to range of career pathways. Each meeting focuses on one possible career path and features guest speaker who works in that particular industry. S/U grading.
 210. Communication Speaker Series
 Units: 2.0
 Seminar, 90 minutes. Designed for graduate students in social and natural sciences. Weekly speaker presentations in communication sciences. Focus on interdisciplinary approaches to psychological, political, and computational communication. S/U grading.
@@ -391,6 +389,9 @@ Seminar, three hours. Examination of one vital source of presidency's burgeoning
 252. Political Parties and Strategic Partisan Communication
 Units: 4.0
 Seminar, three hours. Examination of theories about how political parties operate in countries around world. Covers topics including normative role of parties in modern democracies, reasons why parties exist, party competition, electoral systems, variation in number and types of parties across countries, party identification, voting, and internal party dynamics. S/U or letter grading.
+253. Affective Political Communication
+Units: 4.0
+Seminar, three hours. Consideration of role that affect plays in production and consumption of political news, and in political communication, behavior, and psychology. S/U or letter grading.
 270. Computational Communication
 Units: 4.0
 Seminar, three hours. New computational methods developed and applied for communication research along with massive datasets and computing infrastructure enable large-scale quantitative analyses on human communication and activities at scale. Introduction to state-of-art methods in computational social science and how they can apply in communication research. S/U or letter grading.

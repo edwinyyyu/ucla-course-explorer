@@ -1,3 +1,4 @@
+Health Policy and Management
 Lower Division Courses (2)
 19. Fiat Lux Freshman Seminars
 Units: 1.0
@@ -126,7 +127,6 @@ Units: 4.0
 (Same as Community Health Sciences M252.) Lecture, three hours. Requisites: courses 200A, M236, M287. Conceptual and procedural tools for analysis of health policy, emphasizing role of analysis during various phases of lifecycle of public policy. Letter grading.
 234. Health Services Organization and Management Theory
 Units: 4.0
-Lecture, four hours. Preparation: two upper-division social sciences courses. Application of contemporary organization and management theory to systems that provide personal healthcare services. Environmental characteristics, missions/goals, structure, and processes of health services organizations. S/U or letter grading.
 235. Law, Social Change, and Health Service Policy
 Units: 4.0
 Lecture, four hours. Preparation: two upper-division political science or sociology courses. Requisite: course 100. Legal issues affecting policy formulation for environmental, preventive, and curative health service programs. S/U or letter grading.

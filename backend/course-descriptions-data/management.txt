@@ -1,3 +1,4 @@
+Management
 Lower Division Courses (7)
 1A. Principles of Accounting
 Units: 4.0
@@ -436,9 +437,8 @@ Discussion, three hours. Prerequisite: graduate standing. Study and practice of 
 424. Strategic Business Presenting
 Units: 2.0
 Lecture, 90 minutes. Improvement of strategic business presenting skills such as presentation delivery techniques, visual and verbal persuasion principles, building arguments with supporting evidence, art of business storytelling, and other related topics, with focus on individual student presentations. Letter grading.
-425. Advanced Management Communication
+425. Leadership Communication
 Units: 4.0
-Lecture, three hours. Advanced course on business presenting and management communication. Presentation of differing types of materials. Individual and team presentations to varied audiences. Examination of special topics in communication. S/U or letter grading.
 430. Corporate Finance
 Units: 4.0
 Lecture, three hours. Requisite: course 408. Consideration of broad range of issues faced by corporate financial managers. Analysis of firm's investment and financing decisions. Impact on firm of agency costs and asymmetric information. Study of mergers and acquisitions through use of empirical studies. Security design also covered. Letter grading.

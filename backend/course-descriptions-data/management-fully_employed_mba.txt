@@ -1,7 +1,7 @@
+Management-Fully Employed MBA
 Graduate Courses (15)
-401. Leadership Foundations
+401. Foundations of Inclusive Leadership
 Units: 2.0
-Three-day residential format. Managing and working with people, with emphasis on motivation and development of individuals, leadership and interpersonal relationships, and group dynamics in complex organizational settings. Letter grading.
 402. Data and Decisions
 Units: 4.0
 (Formerly numbered Management 402.) Lecture, three hours. Topics include probabilities, random variables (expectation, variance, covariance, normal random variables), decision trees, estimation, hypothesis testing, and multiple regression models. Emphasis on actual business problems and data. Letter grading.

@@ -1,4 +1,5 @@
-Lower Division Courses (14)
+Public Affairs
+Lower Division Courses (13)
 10. Social Problems and Social Change
 Units: 5.0
 Lecture, three hours; discussion, one hour. Introduction to social scientific approaches to study of social problems and their solutions. Using selected contemporary social problems as cases, and drawing on variety of sources (such as scholarly readings, video clips, and guest speakers), exploration of how social problems and their solutions come to be defined, roles that economic, political, educational, and cultural institutions play in perpetuating or solving social problems, and how individuals, social advocates, and communities can lead or impede social change. Letter grading.
@@ -35,13 +36,10 @@ Tutorial, three hours. Limited to students in College Honors Program. Designed a
 95. Introduction to Community or Corporate Internships in Public Affairs
 Units: 2.0 or 4.0
 Tutorial, two hours; fieldwork, eight hours. Limited to freshmen/sophomores. Entry-level internship in supervised setting in corporate, governmental, or nonprofit/community organization setting related to public affairs. Students meet on regular basis with instructor and provide periodic reports of their experience. Individual contract with supervising faculty member required. May be repeated for credit. May not be used toward Public Affairs major capstone requirement; consult with undergraduate adviser. P/NP grading.
-98T. No Justice, No Peace: Resistance and Public Service
-Units: 5.0
-Seminar, three hours. Requisite: satisfaction of Entry-Level Writing requirement. First/second years preferred. Students engage with scholarship and complete research on how people resist marginalization, and what those committed to serving public can learn from these strategies to accomplish goal of ethically and effectively serving. Letter grading.
 99. Student Research Program
 Units: 1.0 to 2.0
 Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
-Upper Division Courses (62)
+Upper Division Courses (60)
 M109. Introduction to Cities and Planning
 Units: 4.0
 (Same as Urban Planning M120.) Lecture, three hours; discussion, one hour. Survey of urban history and evolution in U.S., urban social theory, current growth trends, system of cities, urban economy and economic restructuring, traditional and alternative location theories, urban transportation, and residential location and segregation. P/NP or letter grading.
@@ -77,9 +75,7 @@ Units: 4.0
 (Same as African American Studies M129B, American Indian Studies M129, Asian American Studies M128, and Chicana/o and Central American Studies M129B.) Lecture, four hours. Students are trained to conduct participatory action research on grassroots youth organizing across California. Students gain historical and theoretical background on multi-racial and inclusive organizing. Students learn how to collect and analyze data pertaining to pressing organizing issues. Study and critical analysis of youth organizing strategies. Weekly training modules on data collection and grassroots organizing strategies that prepare students for internships in grassroots youth organizing groups serving Asian American, Black, Latinx, and Native American communities. P/NP or letter grading.
 M125. Creating Safe and Welcoming Schools
 Units: 4.0
-(Formerly numbered 125.) (Same as Education M177.) Lecture, three hours. Examination of historical context and causes of school violence, theories, and diverse perceptions of school climate and safety. Special emphasis on impact of school climate on oppressed groups and how social contexts such as poverty and how neighborhood resources influence school safety. Letter grading.
-M125. Creating Safe and Welcoming Schools (Effective Fall 2022 )
-Units: 4.0
+(Formerly numbered 125.) (Same as Education M177.) Lecture, two hours; discussion, one hour. Examination of historical context and causes of school violence, theories, and diverse perceptions of school climate and safety. Special emphasis on impact of school climate on oppressed groups and how social contexts such as poverty and how neighborhood resources influence school safety. Letter grading.
 128. Practical Applications of Research on Emerging Adults
 Units: 4.0
 Lecture, three hours. Focus on practical applications of research on critical transition period in human development--emerging adulthood--with particular emphasis on experiences of college students. Letter grading.
@@ -166,11 +162,9 @@ Units: 5.0
 180. Lawyers, Law, and Public Affairs
 Units: 4.0
 Lecture, three hours. Interplay between public affairs, public policy, and law represents one of most significant and fundamental aspects of American democracy. Students gain tools necessary for understanding how law shapes public policy, and how public policy shapes law. Covers key skills for understanding legal reasoning and shows how those skills operate in various substantive legal policy areas. Letter grading.
-187A. Experiential Learning Capstone
-Units: 4.0
-Lecture, two hours; discussion, one hour. Course 187A is requisite to 187B, which is requisite to 187C. Limited to and required for senior Public Affairs majors. Students apply public affairs course concepts and methods to internship experience; refine understanding of concepts and methods based on internship experience; gain new knowledge about specific topics related to their internship; and develop new skills needed to complete capstone project. Letter grading.
 187AX. Experiential Learning Capstone
 Units: 4.0
+(Formerly numbered 187A.) Lecture, two hours; discussion, one hour. Course 187AX is requisite to 187B, which is requisite to 187C. Limited to and required for senior Public Affairs majors. Students apply public affairs course concepts and methods to internship experience; refine understanding of concepts and methods based on internship experience; gain new knowledge about specific topics related to their internship; and develop new skills needed to complete capstone project. Letter grading.
 187B. Experiential Learning Capstone
 Units: 4.0
 Lecture, two hours; discussion, one hour. Requisite: course 187A. Limited to and required for senior Public Affairs majors. Students apply public affairs course concepts and methods to internship experience; refine understanding of concepts and methods based on internship experience; gain new knowledge about specific topics related to their internship; and develop new skills needed to complete capstone project. Letter grading.

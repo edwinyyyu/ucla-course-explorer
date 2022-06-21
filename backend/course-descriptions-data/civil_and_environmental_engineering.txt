@@ -1,3 +1,4 @@
+Civil and Environmental Engineering
 Lower Division Courses (7)
 1. Civil Engineering and Infrastructure
 Units: 2.0
@@ -20,7 +21,7 @@ Seminar, two hours. Current topics and research methods in civil and environment
 99. Student Research Program
 Units: 1.0 to 2.0
 Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
-Upper Division Courses (61)
+Upper Division Courses (60)
 102. Dynamics of Particles and Bodies
 Units: 2.0
 Lecture, two hours; discussion, two hours; outside study, two hours. Requisites: course 91 or Mechanical and Aerospace Engineering 101, Physics 1B. Introduction to fundamentals of dynamics of single particles, system of particles, and rigid bodies. Topics include kinematics and kinetics of particles, work and energy, impulse and momentum, multiparticles systems, kinematics and kinetics of rigid bodies in two- and three-dimensional motions. Letter grading.
@@ -50,7 +51,7 @@ Units: 4.0
 Lecture, four hours; discussion, two hours; outside study, six hours. Requisites: course M20, Chemistry 20A, 20B, Mathematics 31A, 31B, 32B, Physics 1A, 1B, 1C. Theoretical and practical introduction to artificial intelligence and machine learning for civil engineering problems. Focus on practice and problem-solving skills. By course end, students are expected to be able to independently run machine learning analysis. Concurrently scheduled with course C211. Letter grading.
 120. Principles of Soil Mechanics
 Units: 4.0
-Lecture, two hours; active learning, two hours; discussion, two hours; outside study, six hours. Requisite: course 108. Soil as foundation for structures and as material of construction. Soil formation, classification, physical and mechanical properties, soil compaction, earth pressures, consolidation, and shear strength. Letter grading.
+Lecture, four hours; discussion, two hours; outside study, six hours. Requisite: course 108. Soil as foundation for structures and as material of construction. Soil formation, classification, physical and mechanical properties, soil compaction, earth pressures, consolidation, and shear strength. Letter grading.
 120L. Soil Mechanics Laboratory
 Units: 4.0
 (Formerly numbered 128L.) Lecture, one hour; laboratory, six hours; outside study, five hours. Requisite or corequisite: course 120. Laboratory experiments to be performed by students to obtain soil parameters required for assigned design problems. Soil classification, grain size distribution, Atterberg limits, specific gravity, compaction, expansion index, consolidation, shear strength determination. Design problems, laboratory report writing. Letter grading.
@@ -176,9 +177,6 @@ Units: 4.0
 Lecture, four hours; discussion, two hours; outside study, six hours. Designed for juniors/senior Civil Engineering students and Public Affairs graduate students. General characteristics of transportation systems, including streets and highways, rail, transit, air, and water. Capacity considerations, including planning, design, and operations. Components of roadway design, including horizontal and vertical alignment, cross sections, and pavements. Letter grading.
 C181. Traffic Engineering Systems: Operations and Control
 Units: 4.0
-(Formerly numbered 181.) Lecture, four hours; outside study, eight hours. Requisite: course 180. Traffic operations including traffic data collection and analysis, safety and crash studies, traffic flow theory, highway capacity analysis, signalized intersection design and analysis, and simulation modeling. Students gain understanding of basic traffic flow theory, learn to conduct traffic data collection and analysis, and to apply capacity analysis methods and simulation modeling for both highway and signalized intersections. Concurrently scheduled with course C281. Letter grading.
-C181. Traffic Engineering Systems: Operations and Control (Effective Fall 2022 )
-Units: 4.0
 (Formerly numbered 181.) Lecture, four hours; discussion, two hours; outside study, six hours. Requisite: course 180. Traffic operations including traffic data collection and analysis, safety and crash studies, traffic flow theory, highway capacity analysis, signalized intersection design and analysis, and simulation modeling. Students gain understanding of basic traffic flow theory, learn to conduct traffic data collection and analysis, and to apply capacity analysis methods and simulation modeling for both highway and signalized intersections. Concurrently scheduled with course C281. Letter grading.
 C182. Rigid and Flexible Pavements: Design, Materials, and Serviceability
 Units: 4.0
@@ -204,7 +202,7 @@ Seminar, two to eight hours; outside study, four to 16 hours. Designed for under
 199. Directed Research in Civil and Environmental Engineering
 Units: 2.0 to 8.0
 Tutorial, to be arranged. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit with school approval. Individual contract required; enrollment petitions available in Office of Academic and Student Affairs. Letter grading.
-Graduate Courses (75)
+Graduate Courses (74)
 200. Civil and Environmental Engineering Graduate Seminar
 Units: 2.0
 Seminar, four hours; outside study, two hours. Various topics in civil and environmental engineering that may include earthquake engineering, environmental engineering, geotechnical engineering, hydrology and water resources engineering, materials engineering, structural engineering, and structural mechanics. May be repeated for credit. S/U grading.
@@ -383,9 +381,6 @@ Lecture, four hours; outside study, eight hours. Requisites: courses 153, 254A. 
 Units: 4.0
 Lecture, four hours; outside study, eight hours. Requisite: course 254A. Geochemical modeling is important tool for predicting environmental impacts of contamination. Hands-on experience in modeling using geochemical software packages commonly found in environmental consulting industry to gain better understanding of governing geochemical principles pertaining to movement and transformation of contaminants. Types of modeling include speciation, mineral solubility, surface complexation, reaction path, inverse mass balance, and reactive transport modeling. Case studies involve acid mine drainage, nuclear waste disposal, bioavailability and risk assessment, mine tailings and mining waste, deep well injection, landfill leachate, and microbial respiration. Research/modeling project required. Letter grading.
 C281. Traffic Engineering Systems: Operations and Control
-Units: 4.0
-Lecture, four hours; outside study, eight hours. Requisite: course 180. Traffic operations including traffic data collection and analysis, safety and crash studies, traffic flow theory, highway capacity analysis, signalized intersection design and analysis, and simulation modeling. Students gain understanding of basic traffic flow theory, learn to conduct traffic data collection and analysis, and to apply capacity analysis methods and simulation modeling for both highway and signalized intersections. Concurrently scheduled with course C181. Letter grading.
-C281. Traffic Engineering Systems: Operations and Control (Effective Fall 2022 )
 Units: 4.0
 Lecture, four hours; discussion, two hours; outside study, six hours. Requisite: course 180. Traffic operations including traffic data collection and analysis, safety and crash studies, traffic flow theory, highway capacity analysis, signalized intersection design and analysis, and simulation modeling. Students gain understanding of basic traffic flow theory, learn to conduct traffic data collection and analysis, and to apply capacity analysis methods and simulation modeling for both highway and signalized intersections. Concurrently scheduled with course C181. Letter grading.
 C282. Rigid and Flexible Pavements: Design, Materials, and Serviceability

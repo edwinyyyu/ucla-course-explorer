@@ -1,3 +1,4 @@
+Economics
 Lower Division Courses (16)
 1. Principles of Economics
 Units: 4.0
@@ -414,7 +415,7 @@ Tutorial, three hours. Requisites: courses 11, 101, 102. Limited to juniors/seni
 199B. Directed Research in Economics/International Area Studies
 Units: 4.0
 Tutorial, three hours. Students prepare research papers under guidance of faculty mentor on economy of country or region of specialization. May be repeated for credit. Individual contract required. P/NP or letter grading.
-Graduate Courses (213)
+Graduate Courses (217)
 200. Mathematical Methods in Economics
 Units: 4.0
 Lecture, three hours. Should be taken prior to enrollment in course 201A. Examination of mathematical methods used in graduate-level courses in microeconomics, macroeconomics, and quantitative methods. Topics include real analysis, linear algebra and matrices, calculus of many variables, static optimization, convex analysis, and dynamics and dynamic optimization. S/U grading.
@@ -505,6 +506,12 @@ Lecture, three hours. Topics from classical economics, including work of Smith, 
 M208. Introduction to Demographic Methods
 Units: 4.0
 (Same as Biostatistics M208, Community Health Sciences M208, and Sociology M213A.) Lecture, four hours. Preparation: one introductory statistics course. Introduction to methods of demographic analysis. Topics include demographic rates, standardization, decomposition of differences, life tables, survival analysis, cohort analysis, birth interval analysis, models of population growth, stable populations, population projection, and demographic data sources. Letter grading.
+209A. Ph.D. Research Seminar Class
+Units: 4.0
+209B. Ph.D. Research Seminar Class
+Units: 4.0
+209C. Ph.D. Research Seminar Class
+Units: 4.0
 211A. Contract Theory
 Units: 4.0
 Lecture, three hours. Preparation: introductory probability. Enforced requisite: course 201C. Study of trading relationships between small number of agents. Coverage of many tools and techniques used in models of moral hazard, adverse selection, and incomplete contracting, starting with static models of moral hazard and mechanism design and development of their dynamic counterparts. Consideration of environments where agents cannot use formal contracts, studying relational contracts and trading relationships with no contracts, Analysis of wide variety of applications from industrial organization, corporate finance, personnel economics, and public economics. S/U or letter grading.
@@ -1039,6 +1046,8 @@ Lecture, three hours. Requisites: courses 430, 431. Limited to Master of Quantit
 448. Teamwork and Leadership in Data Science
 Units: 2.0 to 4.0
 Lecture, three hours. Limited to Master of Quantitative Economics students. Teamwork and leadership skills are essential to excelling in virtually any role in any field. Understanding of how teams work and whether, why, and how one can obtain and thrive in leadership role is critical. Students learn how to lead, manage, negotiate, and effectively participate in teams of data scientists, learning from, interacting with, and presenting to data science leaders and other distinguished experts. Students gain practical insights and skills that can be applied in field of data of science, in related fields, and more broadly, in their lives and careers. Letter grading.
+449. Collaboration and Team Management for Emerging Economists
+Units: 1.0 to 4.0
 495. Teaching College Economics
 Units: 2.0
 Seminar, one hour; laboratory, three hours. Designed for graduate students. Required of all new teaching assistants. Classroom practice in teaching, with individual and group instruction on related educational methods, materials, and evaluation. May be repeated for credit. S/U grading.

@@ -1,3 +1,4 @@
+Dentistry
 Lower Division Courses (2)
 19. Fiat Lux Freshman Seminars
 Units: 1.0
@@ -12,16 +13,7 @@ Tutorial, to be arranged. Studies in dentistry and related subject areas appropr
 199H. Individual Special Studies (Honors)
 Units: 2.0 to 8.0
 Tutorial, to be arranged. Studies in dentistry and related subject areas appropriate for training of particular students, with required paper submitted at end of course in addition to final examination (paper to be of publication quality as judged by course mentor). May be taken for maximum of 8 units. P/NP or letter grading.
-Graduate Courses (4)
-M300A. Child Abuse and Neglect
-Units: 2.0
-(Same as Community Health Sciences M245A, Education M217G, Law M281A, Medicine M290A, Nursing M290A, and Social Welfare M203F.) Lecture, two hours. Course M300A is requisite to M300B, which is requisite to M300C. Intensive interdisciplinary study of child physical and sexual abuse and neglect, with lectures by faculty members of Schools of Dentistry, Law, Medicine, Nursing, and Public Health and Departments of Education and Psychology, as well as by relevant public agencies. Letter grading.
-M300B. Child Abuse and Neglect
-Units: 2.0
-(Same as Community Health Sciences M245B, Education M217H, Law M281A-M281B, Medicine M290A-M290B, Nursing M290B, and Social Welfare M203G.) Lecture, two hours. Requisite: course M300A. Intensive interdisciplinary study of child physical and sexual abuse and neglect, with lectures by faculty members of Schools of Dentistry, Law, Medicine, Nursing, and Public Health and Departments of Education and Psychology, as well as by relevant public agencies. Letter grading.
-M300C. Child Abuse and Neglect
-Units: 1.0
-(Same as Community Health Sciences M245C, Education M217I, Law M281B, Medicine M290B, Nursing M290C, and Social Welfare M203H.) Lecture, two hours. Requisite: course M300B. Intensive interdisciplinary study of child physical and sexual abuse and neglect, with lectures by faculty members of Schools of Dentistry, Law, Medicine, Nursing, and Public Health and Departments of Education and Psychology, as well as by relevant public agencies. Letter grading.
+Graduate Courses (1)
 441C. Introduction to Healthcare
 Units: 2.0
 Lecture, two hours. Description and analysis of American dental care system from historical, ethical, and legal perspectives. Assessment of how dentistry fits within general provision of healthcare services in America, with comparisons to dental care provisions in other countries. S/U grading.

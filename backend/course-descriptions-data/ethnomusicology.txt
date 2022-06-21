@@ -1,4 +1,5 @@
-Lower Division Courses (45)
+Ethnomusicology
+Lower Division Courses (43)
 5. Music Around World
 Units: 5.0
 Lecture, four hours; discussion, one hour; outside study, 10 hours. Overview of world's musical traditions by selecting one or two case studies from each of nine musical world regions: Pacific, East Asia, Southeast Asia, South Asia, Middle East, Africa, Europe, Latin America, and U.S. and Canada. P/NP or letter grading.
@@ -17,12 +18,6 @@ Lecture, four hours. Examination of Persian music in historical, social, linguis
 8. Current Practices in Iranian Music-Making
 Units: 4.0
 Seminar, three hours. Introduction to contemporary practices of Iranian music-making, with particular focus on social, cultural, religious, and political issues since 1979 Iranian Revolution. Consideration of interrelationships between musical genres. Analysis of how these types of music have intersected with issues of language, race, class, gender, ritual, politics, social movements, and cultural identity. Survey of evolution of Iranian musical practices during four decades of Iranian Revolution. P/NP or letter grading.
-M12A. African American Musical Heritage
-Units: 5.0
-(Formerly numbered M110A.) (Same as African American Studies M12A and Global Jazz Studies M12A.) Lecture, four hours; discussion, one hour. Sociocultural history and survey of African American music covering Africa and its impact on Americas; music of 17th through 19th centuries; minstrelsy and its impact on representation of blacks in film, television, and theater; religious music, including hymns, spirituals, and gospel; black music of Caribbean and Central and South America; and music of black Los Angeles. P/NP or letter grading.
-M12B. African American Musical Heritage
-Units: 5.0
-(Formerly numbered M110B.) (Same as African American Studies M12B and Global Jazz Studies M12B.) Lecture, four hours; discussion, one hour. Sociocultural history and survey of African American music covering blues, pre-1947 jazz styles, rhythm 'n' blues, soul, funk, disco, hip-hop, and symbiotic relationship between recording industry and effects of cultural politics on black popular music productions. P/NP or letter grading.
 15. American Life in Music
 Units: 4.0
 Lecture, three hours. Impact of ethnicity, race, gender, and other social processes on American music in late 20th century; use of and creativity in music to respond to and shape contemporary social processes. P/NP or letter grading.
@@ -53,8 +48,9 @@ Lecture, four hours; discussion, one hour. Survey of nature, role, and power of 
 45. Music of Bollywood and Beyond
 Units: 5.0
 Lecture, four hours; discussion, one hour; outside study, 10 hours. History and development of South Asian film scores in their filmic context, especially omnipresent songs that most distinctively characterize this genre. P/NP or letter grading.
-46. India Through Music
+46. India through Music
 Units: 5.0
+Lecture, five hours; discussion, one hour; outside study, nine hours. Exploration of major aspects of society, history, and culture in India through music. There is abundance of incredibly rich musical culture in this region. Introduction to as much diversity as possible, spanning villages to cities and global contexts; high- and low-brow musics; those spanning problematic categories of folk, classical, and popular; and those from powerful as well as oppressed and marginalized peoples. Music as lens to look more deeply into social and cultural world and to explore layers of history ranging form Persianate empires, British Empire, nationhood, and contemporary globalization. Highlights lines of power in particular, notably, those of caste, class, gender, colonialism, and nationalism. Minoritized and disenfranchised people and their music are as prominent as dominant styles and provide contextualization and critique. Letter grading.
 M50A. Jazz in American Culture: Late 19th Century through 1940s
 Units: 5.0
 (Formerly numbered 50A.) (Same as Global Jazz Studies M50A.) Lecture, four hours; discussion, one hour. Course M50A is not requisite to M50B. Survey of development of jazz in American culture. Discussion of different compositional/performance techniques and approaches that distinguish different sub-styles of jazz from one another, as well as key historical figures that shaped development of jazz from its early years through modern jazz. Important historical social issues (segregation, Depression, World War II, Civil Rights Movement) that intersect with history of U.S. and jazz music. P/NP or letter grading.
@@ -133,7 +129,7 @@ Studio, one hour. Limited to Ethnomusicology majors. Private or semiprivate musi
 99. Student Research Program
 Units: 1.0 to 2.0
 Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
-Upper Division Courses (86)
+Upper Division Courses (88)
 C100. Audiovisual Archiving in 21st Century
 Units: 4.0
 Seminar, three hours. Designed for Ethnomusicology majors. Examination of history, present state, and future of audiovisual archives, with specific focus on ethics, copyright, contracts, fieldwork, preservation, and access and issues related to technology, space, budgets, and staffing. Concurrently scheduled with course C200. P/NP or letter grading.
@@ -161,6 +157,12 @@ Lecture, four hours; discussion, one hour. Course M108A is not requisite to 108B
 M109. Women in Jazz
 Units: 4.0
 (Same as African American Studies M109, Gender Studies M109, and Global Jazz Studies M109.) Lecture, four hours; discussion, one hour. Sociocultural history of women in jazz and allied musical traditions from 1880s to present. Survey of women vocalists, instrumentalists, composers/arrangers, and producers and their impact on development of jazz. P/NP or letter grading.
+M110A. African American Musical Heritage
+Units: 5.0
+(Formerly numbered M12A.) (Same as African American Studies M116A and Global Jazz Studies M110A.) Lecture, four hours; discussion, one hour. Sociocultural history and survey of African American music covering Africa and its impact on Americas; music of 17th through 19th centuries; minstrelsy and its impact on representation of blacks in film, television, and theater; religious music, including hymns, spirituals, and gospel; black music of Caribbean and Central and South America; and music of black Los Angeles. P/NP or letter grading.
+M110B. African American Musical Heritage
+Units: 5.0
+(Formerly numbered M12B.) (Same as African American Studies M116B and Global Jazz Studies M110B.) Lecture, four hours; discussion, one hour. Sociocultural history and survey of African American music covering blues, pre-1947 jazz styles, rhythm 'n' blues, soul, funk, disco, hip-hop, and symbiotic relationship between recording industry and effects of cultural politics on black popular music productions. P/NP or letter grading.
 M111. Ellingtonia
 Units: 4.0
 (Same as African American Studies M111 and Global Jazz Studies M111.) Lecture, three hours. Music of Duke Ellington, his life, and far-reaching influence of his efforts. Ellington's music, known as Ellingtonia, is one of largest and perhaps most important bodies of music ever produced in U.S. Covers many contributions of other artists who worked with Ellington, such as composer Billy Strayhorn and musicians Johnny Hodges, Cooties Williams, and Mercer Ellington. P/NP or letter grading.

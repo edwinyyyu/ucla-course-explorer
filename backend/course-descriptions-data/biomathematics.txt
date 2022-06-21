@@ -1,3 +1,4 @@
+Biomathematics
 Lower Division Courses (2)
 19. Fiat Lux Freshman Seminars
 Units: 1.0
@@ -85,7 +86,7 @@ Units: 4.0
 M243. Condensed Matter Physics of Cells
 Units: 4.0
 (Same as Physics M243L.) Seminar, four hours. Designed for graduate students. Basic paradigms of condensed matter physics and applications to biophysical modeling. S/U or letter grading.
-M257. Computational Methods for Biostatistical Research (Effective Fall 2022 )
+M257. Computational Methods for Biostatistical Research
 Units: 4.0
 (Same as Biostatistics M257.) Lecture, three hours; discussion, one hour. Requisites: Biostatistics 250A or Statistics 100C, Mathematics 115A. Preparation for quantitative research in statistics and data sciences. Numerical analysis and hands-on computing techniques for handling big data. Numerical analysis topics include computer arithmetic, solving linear equations, Cholesky factorization, QR factorization, regression computations, eigenvalue problems, iterative solvers, numerical optimization, and design and analysis of statistical simulation experiments. Computing techniques include basics of R programming, reproducible research using R and RStudio, collaborative research, parallel computing, and cloud computing. No prior knowledge of R assumed. S/U or letter grading.
 259. Controversies in Clinical Trials

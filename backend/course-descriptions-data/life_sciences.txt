@@ -1,3 +1,4 @@
+Life Sciences
 Lower Division Courses (20)
 3H. Introduction to Molecular Biology (Honors)
 Units: 5.0
@@ -10,7 +11,6 @@ Units: 5.0
 Lecture, three hours; discussion, 75 minutes. Introduction to basic principles of cell structure and cell biology, biochemistry, and molecular biology. P/NP or letter grading.
 7B. Genetics, Evolution, and Ecology
 Units: 5.0
-Lecture, three hours; laboratory, 110 minutes. Enforced requisite: course 7A. Principles of Mendelian inheritance and population genetics. Introduction to principles and mechanisms of evolution by natural selection, population, behavioral, and community ecology, and biodiversity, including major taxa and their evolutionary, ecological, and physiological relationships. Letter grading.
 7C. Physiology and Human Biology
 Units: 5.0
 Lecture, three hours; discussion, 75 minutes. Enforced requisite: course 7B. Organization of cells into tissues and organs and principles of physiology of organ systems. Introduction to human genetics and genomics. Letter grading.
@@ -110,6 +110,7 @@ Units: 4.0
 Seminar, two hours; clinic, nine hours. Requisite: one course from 1, 2, 3, 4, 7A, 7B, 7C, 20, 23L, 30A, 30B, 107, 110. Limited to sophomores/juniors/seniors. Advanced training and supervised practicum for experienced undergraduate students. Under guidance of faculty members, students refine their professional skills and take leadership roles in mentoring students. May be repeated for credit. Letter grading.
 192G. Collaborative Learning Theory and Practice: Anti-Racism Discourse
 Units: 1.0
+Seminar, two hours; discussion, one hour. Students engage in anti-racism discourse. Peers circulate through, engage, and reflect on various topics that target systemic racism surrounding our communities through proactive small-group conversation and weekly action plans. Peers practice communication skills with frequent assessment and feedback with facilitators. May be repeated three times for credit. Letter grading.
 199. Directed Research or Senior Project in Life Sciences
 Units: 2.0
 Tutorial, two hours. Enforced requisite: course 3. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper/project required. May be repeated for credit. Individual contract required. P/NP or letter grading.

@@ -1,3 +1,4 @@
+Community Health Sciences
 Lower Division Courses (8)
 19. Fiat Lux Freshman Seminars
 Units: 1.0
@@ -84,7 +85,7 @@ Tutorial, four hours. Limited to juniors/seniors. Individual intensive study, wi
 199. Directed Research in Community Health Sciences
 Units: 2.0 to 4.0
 Tutorial, one hour. Limited to juniors/seniors. Entry-level research apprenticeship under guidance of faculty mentor with affiliated research interests. Collaboration with faculty mentors on their research in area related to community health sciences. May be repeated for credit. Individual contract required. Letter grading.
-Graduate Courses (107)
+Graduate Courses (104)
 200. Global Health Problems
 Units: 4.0
 Lecture, two hours; discussion, two hours. Overview of health profile of world in 20th century. Global health problems and methods by which they have been dealt in context of Alma Ata goal of health for all by year 2000. Letter grading.
@@ -187,15 +188,6 @@ Units: 4.0
 240. Child and Reproductive Health in Communities: Global Environmental Perspective
 Units: 4.0
 Lecture, three hours. Limited to graduate students. Examination of global issues of child and reproductive health in relation to environmental factors in interplay with socioeconomic and biological factors. Environmental influences are responsible for one quarter of total burden of disease worldwide, and for more than one third of burden among children--most of them living in resource-poor countries and communities. Discussion of impacts of qualitatively different, and potentially modifiable, factors such as access to safe water or urbanization, as well as environmental contribution to high-burden outcomes in childhood and reproduction. Focus on lower income settings and discussion of relevant population-based approaches to assessment and intervention. Letter grading.
-M245A. Child Abuse and Neglect
-Units: 2.0
-(Same as Dentistry M300A, Education M217G, Law M281A, Medicine M290A, Nursing M290A, and Social Welfare M203F.) Lecture, two hours. Course M245A is requisite to M245B, which is requisite to M245C. Intensive interdisciplinary study of child physical and sexual abuse and neglect, with lectures by faculty members of Schools of Dentistry, Law, Medicine, Nursing, and Public Health and Departments of Education and Psychology, as well as by relevant public agencies. Letter grading.
-M245B. Child Abuse and Neglect
-Units: 2.0
-(Same as Dentistry M300B, Education M217H, Law M281A-M281B, Medicine M290A-M290B, Nursing M290B, and Social Welfare M203G.) Lecture, two hours. Requisite: course M245A. Intensive interdisciplinary study of child physical and sexual abuse and neglect, with lectures by faculty members of Schools of Dentistry, Law, Medicine, Nursing, and Public Health and Departments of Education and Psychology, as well as by relevant public agencies. Letter grading.
-M245C. Child Abuse and Neglect
-Units: 1.0
-(Same as Dentistry M300C, Education M217I, Law M281B, Medicine M290B, Nursing M290C, and Social Welfare M203H.) Lecture, two hours. Requisite: course M245B. Intensive interdisciplinary study of child physical and sexual abuse and neglect, with lectures by faculty members of Schools of Dentistry, Law, Medicine, Nursing, and Public Health and Departments of Education and Psychology, as well as by relevant public agencies. Letter grading.
 246. Women's Roles and Family Health
 Units: 4.0
 Lecture, two hours; discussion, one hour. Rapidly changing roles of women throughout world are having important effects on women's own health and that of their families. Analysis of multidisciplinary research from both developing and industrialized countries to provide basis for in-depth discussion of programmatic and policy implications. Letter grading.

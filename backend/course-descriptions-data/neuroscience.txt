@@ -1,3 +1,4 @@
+Neuroscience
 Lower Division Courses (7)
 10. Brain Made Simple: Neuroscience for 21st Century
 Units: 4.0
@@ -86,7 +87,6 @@ Units: 4.0
 Seminar, three hours. Enforced requisites: courses M101A, M101B. Not open for credit to students with credit for course 191C, seminar 1. In-depth study of genetic, molecular, and genomic approaches to studying nervous system development and disease. Overview of current technologies used to generate mouse models for genetic and phenotypic analysis. Review of techniques for studying development and disease. Integrative genomic approaches for identifying and characterizing gene(s) involved in these processes. Emphasis on mouse models, but other model organisms considered as well. Letter grading.
 181. Cellular and Molecular Mechanisms of Learning and Memory
 Units: 4.0
-Seminar, four hours. Enforced requisite: course M101A. Not open for credit to students with credit for course 191C, seminar 2. Cellular models of learning and memory. Genetic and molecular approaches to learning and memory. Learning and memory deficits in neurospsychiatric diseases. LTP and LTD models. Letter grading.
 182. Pharmacology of Drugs of Abuse
 Units: 4.0
 Seminar, four hours. Enforced requisite: course M101A. Not open for credit to students with credit for course 191A, seminar 3. Pharmacology of stimulants, depressants, hallucinogens, and opioids. Discussion of how drugs interact with central nervous system and produce dependence, addiction, and chronic toxic affects. Letter grading.

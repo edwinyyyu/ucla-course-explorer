@@ -1,3 +1,4 @@
+Social Welfare
 Lower Division Courses (3)
 19. Fiat Lux Freshman Seminars
 Units: 1.0
@@ -111,7 +112,7 @@ Tutorial, four hours. Corequisite: course 194. Not open to freshmen. Introductor
 199. Directed Research in Social Welfare
 Units: 2.0 or 4.0
 Tutorial, two hours. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper required. May be repeated for credit. Individual contract required. P/NP or letter grading.
-Graduate Courses (111)
+Graduate Courses (108)
 202A. Dynamics of Human Behavior
 Units: 4.0
 Lecture, two and one half hours. Requisites: courses 201A, 201B. Deviations and pathologies or stresses in physical, emotional, and social areas of human functioning as those problems relate to role and function of social workers. S/U or letter grading.
@@ -127,15 +128,6 @@ Seminar, two and one half hours. Integrative courses that bring together theory 
 203C. Integrative Seminar
 Units: 4.0
 Seminar, two and one half hours. Integrative course that brings together theory and practice of social work in variety of topic areas relevant to profession. Includes identification of problem areas and populations-at-risk requiring further examination. S/U or letter grading.
-M203F. Child Abuse and Neglect
-Units: 2.0
-(Same as Community Health Sciences M245A, Dentistry M300A, Education M217G, Law M281A, Medicine M290A, and Nursing M290A.) Lecture, two hours. Course M203F is requisite to M203G, which is requisite to M203H. Intensive interdisciplinary study of child physical and sexual abuse and neglect, with lectures by faculty members of Schools of Dentistry, Law, Medicine, Nursing, and Public Health and Departments of Education and Psychology, as well as by relevant public agencies. Letter grading.
-M203G. Child Abuse and Neglect
-Units: 2.0
-(Same as Community Health Sciences M245B, Dentistry M300B, Education M217H, Law M281A-M281B, Medicine M290A-M290B, and Nursing M290B.) Lecture, two hours. Requisite: course M203F. Intensive interdisciplinary study of child physical and sexual abuse and neglect, with lectures by faculty members of Schools of Dentistry, Law, Medicine, Nursing, and Public Health and Departments of Education and Psychology, as well as by relevant public agencies. Letter grading.
-M203H. Child Abuse and Neglect
-Units: 1.0
-(Same as Community Health Sciences M245C, Dentistry M300C, Education M217I, Law M281B, Medicine M290B, and Nursing M290C.) Lecture, two hours. Requisite: course M203G. Intensive interdisciplinary study of child physical and sexual abuse and neglect, with lectures by faculty members of Schools of Dentistry, Law, Medicine, Nursing, and Public Health and Departments of Education and Psychology, as well as by relevant public agencies. Letter grading.
 M203X. Special Topics in Public Affairs
 Units: 4.0
 (Same as Public Policy M291C and Urban Planning M210A.) Seminar, three hours; outside study, nine hours. Advanced seminar on emerging issues across public policy, social welfare, and urban planning. May be repeated for credit. S/U or letter grading.

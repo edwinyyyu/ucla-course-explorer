@@ -1,3 +1,4 @@
+Molecular, Cell, and Developmental Biology
 Lower Division Courses (9)
 19. Fiat Lux Freshman Seminars
 Units: 1.0
@@ -26,7 +27,7 @@ Lecture, three and one half hours; discussion 90 minutes. Stem cells have potent
 99. Student Research Program
 Units: 1.0 to 2.0
 Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
-Upper Division Courses (52)
+Upper Division Courses (53)
 100. Introduction to Cell Biology
 Units: 5.0
 Lecture, three hours; discussion, one hour. Requisites: Life Sciences 3, 4, and 23L, or 7A, 7B, 7C, and 23L. Not open for credit to Molecular, Cell, and Developmental Biology majors or to students with credit for course 165A. Analysis of cell organization, structure, and function at molecular level. Cell membranes and organelles, membrane transport, cellular signaling, cytoskeleton and cell movement, intracellular trafficking, cell energetics. Letter grading.
@@ -78,6 +79,8 @@ Lecture, three hours; discussion, one hour. Requisites: Chemistry 14D or 30B, Li
 165B. Molecular Biology of Cell Nucleus
 Units: 5.0
 Lecture, three hours; discussion, two hours. Requisite: course 165A. Continuation of course 165A. Molecular biology of eukaryotic cell nucleus, with focus on structure, organization, replication, and repair of eukaryotic genome; eukaryotic gene expression, including transcription, translation, and transport; cell cycle and cancer. Study of advanced specialized topics to allow integrated approach to molecular cell biology. Material presented in context of experimental questions and answers to incorporate concept of scientific method and recent advances in cell biology research. Exposure in discussions to current literature that directly relates to information examined in lectures. Letter grading.
+167. Genetic Engineering: History, Science, and Applications in Medicine, Agriculture, and Law
+Units: 6.0
 168. Stem Cell Biology
 Units: 5.0
 Lecture, three hours; discussion, one hour. Requisites: courses 138, 165A. State-of-art education of embryonic and adult stem cells and how these pluripotent/multipotent cells can be used to treat congenital defects, diseases, or injury in humans. Review of current knowledge of human and mouse embryonic stem cells and how they develop into various tissue types. Discussion of adult stem cells in hematopoietic, nervous, and other organ systems to provide examples of tissue-specific stem cells and their impact in human disease. Examination of various model organisms as examples of how model organisms have helped to discover fundamental principles in stem cell biology. How advances in cell and molecular biology and tissue engineering can be applied to use of stem cells in regenerative medicine. Ethical and legal issues related to stem cell research. Letter grading.

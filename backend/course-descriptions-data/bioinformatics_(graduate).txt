@@ -1,3 +1,4 @@
+Bioinformatics (Graduate)
 Graduate Courses (16)
 201. Seminar: Advanced Methods in Computational Biology
 Units: 2.0

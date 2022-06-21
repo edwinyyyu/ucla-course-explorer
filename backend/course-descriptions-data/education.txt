@@ -1,4 +1,5 @@
-Lower Division Courses (10)
+Education
+Lower Division Courses (9)
 10. Introduction to Educational Issues and Scholarship
 Units: 5.0
 Lecture, two hours; discussion, two hours. Introduction to broad landscape of public education in U.S. Intended for those interested in educational research, policy, or teaching in both formal and informal educational contexts. Readings highlight work of educational researchers from UCLA's Department of Education, especially ways their scholarship intersects with policy and practice. Students work in groups to identify real-life problem affecting public education in Los Angeles. Study of this problem from multiple perspectives. Conceptualization of socially-just solution. Letter grading.
@@ -11,9 +12,6 @@ Seminar, one hour. Discussion of and critical thinking about topics of current i
 35. Introduction to Inquiry and Research in Education
 Units: 5.0
 Lecture, two hours; discussion, two hours. Introduction to empirical and analytical educational research. Intended for undergraduates interested in learning how to find, interpret, and evaluate educational research. Overview of different methods of conceptualizing inquiry and gathering evidence, including qualitative approaches (e.g., ethnographic, semi-structured interviews, case study), quantitative approaches (e.g., survey, measurement, experimental, descriptive), mixed methods, and design-based research. Highlights multiple methods of inquiry and research, ethics of conducting research in social sciences, and norms of conducting and reporting research in field of education. Overview of selected strands of equity-oriented research in education. Letter grading.
-88S. Kids, School, and COVID-19: K-12 Education in Time of Pandemic
-Units: 1.0
-Seminar, one hour. Examination of impact of COVID-19 pandemic on K-12 students and public education system in U.S. Through intersectional approach, examination of how various aspects of student wellness were, and continue to be, affected by school closures and re-openings, virtual schooling, and changes to federal and state policy and funding over past two years. Review of topics such as learning in virtual space, standardized tests, early childhood education, physical and nutritional health, mental and social health, and federal and state investments as they relate to COVID-19 pandemic. School responses to COVID-19 are ongoing, as implications are continuously discovered and addressed. Study is anchored in pre-pandemic trends, but also responds as much as possible to ongoing changes. P/NP grading. Facilitated by Christopher Mauerman, with Anna J. Markowitz as faculty mentor.
 89. Honors Seminars
 Units: 1.0
 Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.
@@ -29,7 +27,7 @@ Seminar, 30 minutes; laboratory, 30 minutes. Introduction to critical educationa
 99. Student Research Program
 Units: 1.0 to 2.0
 Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
-Upper Division Courses (102)
+Upper Division Courses (95)
 100. Introduction to Philosophy of Education
 Units: 5.0
 Seminar, four hours. Introduction to major Western philosophical thinkers on education including Dewey, Freire, Froebel, Locke, Montessori, Plato, Rousseau, and others. Examination of ultimate goals of education, content of education, and processes of teaching and learning according to these theorists and their influence on later educational thought and practice. Assignments include readings, response papers, film analyses, educator interviews, document analysis (for their underlying educational philosophy), and proposal of educational philosophy. Letter grading.
@@ -48,9 +46,6 @@ Units: 4.0
 104A. Introduction to Exceptional Learners
 Units: 4.0
 (Formerly numbered 134.) Lecture, two hours; discussion, one hour. Survey of characteristics and related educational needs of students (preschool through high school) who vary in mental, physical, psychological, and social characteristics. Focus on disabilities, with exploration in area of gift/talented education. Emphasis on inclusion, and legal, social, and philosophical issues associated with it. Students learn perspectives from disability studies and engage in class activities designed to challenge students to put inclusion into practice. Students develop understanding of various areas and exceptionalities of special education with emphasis on role of student special needs in context of general education settings. Letter grading.
-105. Early Childhood Education and Policy
-Units: 5.0
-Seminar, four hours. Overview of early care and education (ECE) landscape in U.S. and variety of policy systems used to provide care for young children. Consideration of possibilities and pitfalls of ECE as much hailed solution for educational inequality. Critical thought about how to use policy to provide young children with what they need to thrive. Letter grading.
 105A. Early Childhood Education and Policy
 Units: 5.0
 (Formerly numbered 105.) Seminar, four hours. Overview of early care and education (ECE) landscape in U.S. and variety of policy systems used to provide care for young children. Consideration of possibilities and pitfalls of ECE as much hailed solution for educational inequality. Critical thought about how to use policy to provide young children with what they need to thrive. Letter grading.
@@ -87,12 +82,6 @@ Units: 4.0
 109B. Global Citizenship Education
 Units: 4.0
 (Formerly numbered 152B.) Lecture, four hours. Exploration of issues of global citizenship in education and society as whole by analyzing critical challenges and envisioning possible solutions to multiple layers of theoretical, empirical, and practical implementation of global citizenship education. Examination of how global citizenship education and education for sustainable development are beginning to impact life, actions, policies, and practices of educators, students, non-government organizations, governments, multinational organizations, and other key players in local and global contexts. Examination of how global citizenship education impacts our worldview, teaching, and learning as we strive to envision and work toward more just and sustainable society. Letter grading.
-109C. Comparative Educational Policies and Practices
-Units: 5.0
-Seminar, four hours. Cross-national survey of educational policies and practices in delivery of education services. Comparative perspective on national context defining institutional differences in policy and practices in delivery and access, types (within tier and sector diversity), and funding mechanism for education services in both developing and developed country contexts. Focus on examination of state of education and socio-political, economic, and cultural factors that contribute to similarities and differences in institutional structures, organizational, and management functions, and on agenda for consideration of equality and equity in deployment of resources for realization of inclusive quality education for all. Early childhood education, foundational education, post-secondary education (including university and non-university systems), and lifelong learning (and adult education) as themes informing cross-national comparison of policies and practices in delivery of education services. Letter grading.
-110. Policy Analysis and Real Politics of Education
-Units: 5.0
-(Formerly numbered 162.) Lecture, two hours; discussion, two hours. Exploration of relationship between scholarly policy analysis and actual workings of policy systems. Selected topics include achievement standards and assessment, school finance, equal access to education, and school reform. Letter grading.
 C111. Politics of Education
 Units: 5.0
 (Formerly numbered C125.) Lecture, two hours; discussion, two hours. Political dimensions of education institutions as organizations. Relationships between education institutions and political institutions in society. Political theory as foundation for public policy analysis; interest groups in education policy formation and implementation; and focus on Freireian pedagogy. Concurrently scheduled with course C207. P/NP or letter grading.
@@ -132,10 +121,7 @@ Units: 4.0
 126. Language, Literacy, and Academic Development: Educational Considerations for School-Age Multilingual and English Language Learner Students
 Units: 5.0
 (Formerly numbered 166.) Seminar, five hours. Use of child-centered approach to examine instructional strategies and assessment practices with preK-12 multilingual and English learner (EL) students who are learning academic content at same time they are acquiring English (and possibly additional languages) in school. Critical comparison of effectiveness of English-only programming with dual-language approaches (e.g., two-way immersion, transitional bilingual education) and roles of summative and formative assessments in educational decision making with multilingual and EL students. Letter grading.
-127. Educational Psychology
-Units: 5.0
-Lecture, two hours; discussion, two hours. Broad overview of educational psychology, with examination of relationship of teaching and learning; various perspectives as to how children learn; issues of teaching and learning that arise based on child's social class, ethnic background, gender, age, and level of ability. Letter grading.
-127. Educational Psychology: Contexts for Teaching and Learning (Effective Fall 2022 )
+127. Educational Psychology: Contexts for Teaching and Learning
 Units: 5.0
 Lecture, two hours; discussion, two hours. Not open for credit to students with credit for course 128. Broad overview of educational psychology, with examination of relationship of teaching and learning; various perspectives as to how children learn; issues of teaching and learning that arise based on child's social class, ethnic background, gender, age, and level of ability. Letter grading.
 128. Educational Psychology: Contexts for Learning and Development
@@ -168,9 +154,6 @@ Units: 5.0
 132. Autism: Mind, Brain, and Education
 Units: 5.0
 Lecture, two hours; discussion, two hours. Study of autism spectrum disorders (ASD) and related disabilities. Discussion of characteristics of disorder, effective interventions, and exploration of impact of children with ASD on families. Limited number of independent observations of individuals in community required. Letter grading.
-133. Topics in Child Development and Social Policies
-Units: 5.0
-Seminar, four hours. Research seminar designed to enable students to gain basic understanding of ways in which public policies are established and implemented, learn about policy landscape in several major domains of child and family life in U.S. and other countries, and use scientific research on children's cognitive and social development to evaluate and understand effects of social and economic policies. Letter grading.
 134. Early Childhood Mathematics Education
 Units: 5.0
 Seminar, two hours; fieldwork, two hours. Focus on how research in early childhood mathematics can be used to engage young people in learning mathematics. Study addresses research on how young children learn mathematics, teaching preschool mathematics, and policy context that shapes student opportunities in early childhood education. Particular attention paid to equity issues. Includes fieldwork at local preschool site working with students in mathematics. Letter grading.
@@ -180,9 +163,6 @@ Units: 5.0
 M136. Working Families and Educational Inequalities in Urban Schools
 Units: 4.0
 (Same as Labor Studies M136.) Seminar, three hours; fieldwork, five hours. Exploration of complex relationship between working-class and poor communities and inequalities in American urban schools. Drawing on multiple disciplinary frameworks that address issues of race, ethnicity, and immigration, schools viewed as sites where inequalities are produced and resisted. Review of history of exclusionary treatment and divergent conceptual frames that educational researchers have used to understand notion of inequality, access to quality public education, and how race, ethnicity, and class affect school experiences for working-class and poor communities. Look inside schools through community service learning opportunity to examine systems, structures, and everyday practices that sustain and reproduce inequality and policies that intend to remedy educational inequalities in urban schools. Opportunity to investigate issues of working-class families and inequalities as they relate to students' own communities and experiences. P/NP or letter grading.
-137. Critical Digital Media Literacies
-Units: 4.0
-Lecture, four hours. Students question relationships with digital media and information society and explore how media and information communication technologies are improving society, strengthening democracy, and opening up opportunities for challenging hegemony and promoting social transformation. Problematization of social media and questioning of ways it is being used to surveil, capture data, spread hate, mislead, distract, and destabilize democracies. Students analyze media representations, question process of normalizing dominant ideologies, and create counter-hegemonic media messages. Combines theoretical foundations of cultural studies and critical pedagogy with practical applications of new digital media and technology, as well as traditional print-based means of communication. Exploration of media representations of race, class, gender, sexual orientation, and other identity markers. Students analyze and create media projects related to education. Letter grading.
 M137. Critical Digital Media Literacies
 Units: 4.0
 (Formerly numbered 137.) (Same as Information Studies M137.) Lecture, four hours. Students question relationships with digital media and information society and explore how media and information communication technologies are improving society, strengthening democracy, and opening up opportunities for challenging hegemony and promoting social transformation. Problematization of social media and questioning of ways it is being used to surveil, capture data, spread hate, mislead, distract, and destabilize democracies. Students analyze media representations, question process of normalizing dominant ideologies, and create counter-hegemonic media messages. Combines theoretical foundations of cultural studies and critical pedagogy with practical applications of new digital media and technology, as well as traditional print-based means of communication. Exploration of media representations of race, class, gender, sexual orientation, and other identity markers. Students analyze and create media projects related to education. Letter grading.
@@ -275,9 +255,7 @@ Units: 5.0
 (Formerly numbered 188B.) Lecture, four hours; fieldwork, one hour. Requisites: courses 35, 160. Introduction to broad tradition of transformative research in education--public scholarship that aims to disrupt long-standing educational inequities in partnership with local communities. This tradition includes Youth Participatory Action Research (YPAR), Community-Based Action Research (CBAR), and other collaborative approaches that value diverse forms of expertise and knowledge. Through variety of community-engaged learning opportunities, students are supported to develop ability to analyze education in social and political context, develop skills for effecting change, demonstrate understanding of multiple perspectives, diversity, pluralism, and social justice. Letter grading.
 M177. Creating Safe and Welcoming Schools
 Units: 4.0
-(Same as Public Affairs M125.) Lecture, three hours. Examination of historical context and causes of school violence, theories, and diverse perceptions of school climate and safety. Special emphasis on impact of school climate on oppressed groups and how social contexts such as poverty and how neighborhood resources influence school safety. Letter grading.
-M177. Creating Safe and Welcoming Schools (Effective Fall 2022 )
-Units: 4.0
+(Same as Public Affairs M125.) Lecture, two hours; discussion, one hour. Examination of historical context and causes of school violence, theories, and diverse perceptions of school climate and safety. Special emphasis on impact of school climate on oppressed groups and how social contexts such as poverty and how neighborhood resources influence school safety. Letter grading.
 CM178. Critical Media Literacy and Politics of Gender: Theory and Production
 Units: 4.0
 (Same as Gender Studies CM178.) Seminar, three hours. Corequisite: course CM178L. Use of range of pedagogical approaches to theory and practice of critical media literacy that necessarily involves understanding of new technologies and media forms. Study of both theory and production techniques to inform student analysis of media and critical media literacy projects. Concurrently scheduled with course CM278. Letter grading.
@@ -335,7 +313,7 @@ Tutorial, four hours. Limited to juniors/seniors. Individual intensive study, wi
 199. Directed Research or Senior Project in Education
 Units: 2.0 to 4.0
 Tutorial, to be arranged. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit. Individual contract required. P/NP or letter grading.
-Graduate Courses (217)
+Graduate Courses (211)
 200A. Historical Research and Writing
 Units: 4.0
 Lecture, four hours. Methods of historical research and writing for students who are or who will be engaged in research and in report or paper or thesis writing, regardless of their field of interest. S/U or letter grading.
@@ -417,15 +395,6 @@ Lecture, four hours. Research and theory on how children develop their first lan
 M217F. Adolescent Development
 Units: 4.0
 (Same as Psychology M242G.) Seminar, four hours. Designed for graduate students. Review of recent research on physical, cognitive, social, and psychological development during second decade of life. Topics include pubertal development, changes in parent/adolescent relationships, role of peers, identity development, high-risk behaviors, stress and coping, and school adjustment. Letter grading.
-M217G. Child Abuse and Neglect
-Units: 2.0
-(Same as Community Health Sciences M245A, Dentistry M300A, Law M281A, Medicine M290A, Nursing M290A, and Social Welfare M203F.) Lecture, two hours. Course M217G is requisite to M217H, which is requisite to M217I. Intensive interdisciplinary study of child physical and sexual abuse and neglect, with lectures by faculty members of Schools of Dentistry, Law, Medicine, Nursing, and Public Health and Departments of Education and Psychology, as well as by relevant public agencies. Letter grading.
-M217H. Child Abuse and Neglect
-Units: 2.0
-(Same as Community Health Sciences M245B, Dentistry M300B, Law M281A-M281B, Medicine M290A-M290B, Nursing M290B, and Social Welfare M203G.) Lecture, two hours. Requisite: course M217G. Intensive interdisciplinary study of child physical and sexual abuse and neglect, with lectures by faculty members of Schools of Dentistry, Law, Medicine, Nursing, and Public Health and Departments of Education and Psychology, as well as by relevant public agencies. Letter grading.
-M217I. Child Abuse and Neglect
-Units: 1.0
-(Same as Community Health Sciences M245C, Dentistry M300C, Law M281B, Medicine M290B, Nursing M290C, and Social Welfare M203H.) Lecture, two hours. Requisite: course M217H. Intensive interdisciplinary study of child physical and sexual abuse and neglect, with lectures by faculty members of Schools of Dentistry, Law, Medicine, Nursing, and Public Health and Departments of Education and Psychology, as well as by relevant public agencies. Letter grading.
 219. Laboratory: Advanced Topics in Research Methodology
 Units: 4.0
 Laboratory, four hours. Provides assistance in design of research and interpretation of data to advanced students from other divisions. Coverage of special topics not included in other courses on research methods. S/U or letter grading.
@@ -956,20 +925,11 @@ Units: 2.0 to 8.0
 Clinical, to be arranged. Field experiences designed to increase understanding of student fields of study. May be repeated for credit. S/U or letter grading.
 499A. Advanced Directed Field Experience
 Units: 4.0 to 8.0
-Clinical, to be arranged. May be repeated for credit. S/U or letter grading.
-499A. Advanced Directed Field Experience (Effective Fall 2022 )
-Units: 4.0 to 8.0
 Clinical, to be arranged. Dissertation practicum that supports students in developing their proposals. Guides students on how to write their dissertation proposals and serves as writing workshop where students have opportunities to receive feedback from instructors, fellows, and peers. May be repeated for credit. Letter grading.
 499B. Advanced Directed Field Experience
 Units: 4.0 to 8.0
-Clinical, to be arranged. May be repeated for credit. S/U or letter grading.
-499B. Advanced Directed Field Experience (Effective Fall 2022 )
-Units: 4.0 to 8.0
 Clinical, to be arranged. Dissertation practicum that supports students in developing their proposals. Guides students on how to write their dissertation proposals and serves as writing workshop where students have opportunities to receive feedback from instructors, fellows, and peers. May be repeated for credit. Letter grading.
 499C. Advanced Directed Field Experience
-Units: 4.0 to 8.0
-Clinical, to be arranged. May be repeated for credit. S/U or letter grading.
-499C. Advanced Directed Field Experience (Effective Fall 2022 )
 Units: 4.0 to 8.0
 Clinical, to be arranged. Dissertation practicum that supports students in developing their proposals. Guides students on how to write their dissertation proposals and serves as writing workshop where students have opportunities to receive feedback from instructors, fellows, and peers. May be repeated for credit. Letter grading.
 501. Cooperative Program in Special Education

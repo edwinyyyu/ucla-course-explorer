@@ -1,3 +1,4 @@
+Medicine
 Lower Division Courses (2)
 19. Fiat Lux Freshman Seminars
 Units: 1.0
@@ -33,7 +34,7 @@ Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/se
 199. Directed Research in Medicine
 Units: 2.0 to 8.0
 Tutorial, two hours. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper required. May be repeated for credit. Individual contract required. P/NP or letter grading.
-Graduate Courses (13)
+Graduate Courses (11)
 M215. Interdepartmental Course: Tropical Medicine
 Units: 2.0
 (Same as Pathology M215 and Pediatrics M215.) Lecture, two and one half hours. Preparation: basic courses in microbiology and parasitology of infectious diseases in School of Medicine or Public Health. Study of current knowledge about diseases prevalent in tropical areas of the world. Major emphasis on infectious diseases, with coverage of problems in nutrition and exotic noninfectious diseases. Syllabus supplements topics covered in classroom. S/U grading.
@@ -64,12 +65,6 @@ Units: 4.0
 M270E. Advanced Topics and Research in Biomedical Systems Modeling and Computing
 Units: 4.0
 (Same as Bioengineering M296C and Computer Science M296C.) Lecture, four hours; outside study, eight hours. Requisite: course M270D. Research techniques and experience on special topics involving models, modeling methods, and model/computing in biological and medical sciences. Review and critique of literature. Research problem searching and formulation. Approaches to solutions. Individual MS- and PhD-level project training. Letter grading.
-M290A. Child Abuse and Neglect
-Units: 2.0
-(Same as Community Health Sciences M245A-M245B, Dentistry M300A-M300B, Education M217G-M217H, Law M281A, Nursing M290A-M290B, and Social Welfare M203F-M203G.) Lecture, two hours. Course M290A is requisite to M290B. Intensive interdisciplinary study of child physical and sexual abuse and neglect, with lectures by faculty members of Schools of Dentistry, Law, Medicine, Nursing, and Public Health and Departments of Education and Psychology, as well as by relevant public agencies. Letter grading.
-M290B. Child Abuse and Neglect
-Units: 2.0
-(Same as Community Health Sciences M245B-M245C, Dentistry M300B-M300C, Education M217H-M217I, Law M281B, Nursing M290B-M290C, and Social Welfare M203G-M203H.) Lecture, two hours. Requisite: course M290A. Intensive interdisciplinary study of child physical and sexual abuse and neglect, with lectures by faculty members of Schools of Dentistry, Law, Medicine, Nursing, and Public Health and Departments of Education and Psychology, as well as by relevant public agencies. Letter grading.
 501. Cooperative Program
 Units: 2.0 to 8.0
 Preparation: consent of UCLA department chair and graduate dean, and host campus instructor, department chair, and graduate dean. Used to record enrollment of UCLA students in courses taken under cooperative arrangements with USC. S/U grading.

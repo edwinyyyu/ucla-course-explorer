@@ -1,3 +1,4 @@
+Biostatistics
 Lower Division Courses (2)
 19. Fiat Lux Freshman Seminars
 Units: 1.0
@@ -5,11 +6,8 @@ Seminar, one hour. Discussion of and critical thinking about topics of current i
 99. Student Research Program
 Units: 1.0 to 2.0
 Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
-Upper Division Courses (5)
+Upper Division Courses (4)
 100A. Introduction to Biostatistics
-Units: 4.0
-Lecture, three hours; discussion, one hour; laboratory, one hour. Preparation: one biological or physical sciences course. Suitable for juniors/seniors. Students who have completed courses in statistics may enroll only with consent of instructor. Not open for credit to students with credit for course 110A. Introduction to methods and concepts of statistical analysis. Sampling situations, with special attention to those occurring in biological sciences. Topics include distributions, tests of hypotheses, estimation, types of error, significance and confidence levels, sample size. P/NP or letter grading.
-100A. Introduction to Biostatistics (Effective Fall 2022 )
 Units: 4.0
 Lecture, three hours; discussion, one hour; laboratory, one hour. Preparation: one biological or physical sciences course. Suitable for juniors/seniors. Students who have completed courses in statistics may enroll only with consent of instructor. Introduction to methods and concepts of statistical analysis. Sampling situations, with special attention to those occurring in biological sciences. Topics include distributions, tests of hypotheses, estimation, types of error, significance and confidence levels, sample size. P/NP or letter grading.
 100B. Introduction to Biostatistics
@@ -21,7 +19,7 @@ Lecture, three hours; discussion, one hour; laboratory, one hour. Requisite: cou
 197. Individual Studies in Biostatistics
 Units: 2.0 to 4.0
 Tutorial, four hours. Limited to juniors/seniors. Individual intensive study, with scheduled meetings to be arranged between faculty member and student. Assigned reading and tangible evidence of mastery of subject matter required. May be repeated for credit. Individual contract required. P/NP or letter grading.
-Graduate Courses (68)
+Graduate Courses (66)
 200A. Methods in Biostatistics A
 Units: 4.0
 Lecture, three hours; discussion, one hour; laboratory, one hour. First course in biostatistical methods intended for graduate students in biostatistics to prepare students pursuing careers as practicing biostatisticians. Prior knowledge of probability or statistics not assumed. Students should have working knowledge of calculus and be very comfortable with mathematical and algebraic reasoning. Introduction to basic concepts in analysis, presentation of data, and statistical aspects of design of studies. Special emphasis is given to application of statistical methods to public health, medical, biological, and health sciences. Interpretation and communication of statistical findings is stressed. Focus on methodology, applications, and concepts rather than mathematical statistics or probability theory. S/U or letter grading.
@@ -136,10 +134,7 @@ Lecture, three hours; discussion, one hour. Requisites: course 202A or equivalen
 255B. Advanced Probability and Statistics
 Units: 4.0
 Lecture, three hours; discussion, one hour. Requisites: course 255A or consent of instructor, Mathematics 131A. Survey of advanced topics in probability and mathematical statistics, with special emphasis on applications to biostatistics. Topics include laws of large numbers, central limit theorems, basic concepts from stochastic processes, and applications to large sample theory in biostatistics. S/U or letter grading.
-257. Computational Methods for Biostatistical Research
-Units: 4.0
-Lecture, three hours; discussion, one hour. Requisites: course 250A or Statistics 100C, Mathematics 115A. Preparation for quantitative research in statistics and data sciences. Numerical analysis and hands-on computing techniques for handling big data. Numerical analysis topics include computer arithmetic, solving linear equations, Cholesky factorization, QR factorization, regression computations, eigenvalue problems, iterative solvers, numerical optimization, and design and analysis of statistical simulation experiments. Computing techniques include basics of R programming, reproducible research using R and RStudio, collaborative research, parallel computing, and cloud computing. No prior knowledge of R assumed. S/U or letter grading.
-M257. Computational Methods for Biostatistical Research (Effective Fall 2022 )
+M257. Computational Methods for Biostatistical Research
 Units: 4.0
 (Formerly numbered 257.) (Same as Biomathematics M257.) Lecture, three hours; discussion, one hour. Requisites: course 250A or Statistics 100C, Mathematics 115A. Preparation for quantitative research in statistics and data sciences. Numerical analysis and hands-on computing techniques for handling big data. Numerical analysis topics include computer arithmetic, solving linear equations, Cholesky factorization, QR factorization, regression computations, eigenvalue problems, iterative solvers, numerical optimization, and design and analysis of statistical simulation experiments. Computing techniques include basics of R programming, reproducible research using R and RStudio, collaborative research, parallel computing, and cloud computing. No prior knowledge of R assumed. S/U or letter grading.
 270. Stochastic Processes
@@ -182,9 +177,6 @@ Seminar, to be arranged. Teaching apprenticeship under active guidance and super
 Units: 4.0
 Fieldwork, to be arranged. Field observation and studies in selected community organizations for health promotion or medical care. Students must file field placement and program training documentation on form available from Student Affairs Office. May not be applied toward MS minimum course requirement; 4 units may be applied toward 44-unit minimum total required for MPH degree. Letter grading.
 402A. Principles of Biostatistical Consulting
-Units: 2.0
-Lecture, one hour; discussion, one hour. Requisite: course 100B or 110B. Presentation of structural format for statistical consulting. Role of statistician and client. Reviews of actual statistician/client interactions and case studies. S/U or letter grading.
-402A. Principles of Biostatistical Consulting (Effective Fall 2022 )
 Units: 2.0
 Lecture, one hour; discussion, one hour. Requisites: courses 100B or 200B, and 200A. Presentation of structural format for statistical consulting. Role of statistician and client. Reviews of actual statistician/client interactions and case studies. S/U or letter grading.
 402B. Biostatistical Consulting

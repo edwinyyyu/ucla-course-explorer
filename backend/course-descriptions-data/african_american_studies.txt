@@ -1,4 +1,5 @@
-Lower Division Courses (20)
+African American Studies
+Lower Division Courses (18)
 1. Introduction to Black Studies
 Units: 5.0
 Lecture, three hours; discussion, one hour. Introduction of methods, theories, conceptual frameworks, and key debates in black studies. Interrogation of how race structures notions of identity and meaning of blackness in relation to class, gender, and sexuality; essential role of African people in development of capitalism, liberalism, and democracy; what various disciplinary lenses and epistemologies (history, literature, sociology, geography, cultural studies, political theory, philosophy, etc.) reveal about experiences of black people in modern world. Key thinkers and ideas from across humanities and social sciences are highlighted. P/NP or letter grading.
@@ -38,12 +39,6 @@ Units: 4.0
 M10A. History of Africa to 1800
 Units: 5.0
 (Same as History M10A.) Lecture, three hours; discussion, one hour. Exploration of development of African societies from earliest times to late 18th century. P/NP or letter grading.
-M12A. African American Musical Heritage
-Units: 5.0
-(Formerly numbered M110A.) (Same as Ethnomusicology M12A and Global Jazz Studies M12A.) Lecture, four hours; discussion, one hour. Sociocultural history and survey of African American music covering Africa and its impact on Americas; music of 17th through 19th centuries; minstrelsy and its impact on representation of blacks in film, television, and theater; religious music, including hymns, spirituals, and gospel; black music of Caribbean and Central and South America; and music of black Los Angeles. P/NP or letter grading.
-M12B. African American Musical Heritage
-Units: 5.0
-(Formerly numbered M110B.) (Same as Ethnomusicology M12B and Global Jazz Studies M12B.) Lecture, four hours; discussion, one hour. Sociocultural history and survey of African American music covering blues, pre-1947 jazz styles, rhythm 'n' blues, soul, funk, disco, hip-hop, and symbiotic relationship between recording industry and effects of cultural politics on black popular music productions. P/NP or letter grading.
 M18. Leadership and Student-Initiated Retention
 Units: 2.0
 (Same as American Indian Studies M18, Asian American Studies M18, and Chicana/o and Central American Studies M18.) Seminar, two hours. Limited to freshmen/sophomores/first-year transfer students. Not open for credit to students with credit for course M118. Exploration of issues in retention at UCLA through lens of student-initiated and student-run programs, efforts, activities, and services. Focus on populations with historically low graduation rates targeted by Campus Retention Committee. May not be applied toward departmental major or minor elective requirements. May be repeated once for credit. Letter grading.
@@ -59,7 +54,7 @@ Tutorial, three hours. Limited to students in College Honors Program. Designed a
 99. Student Research Program
 Units: 1.0 to 2.0
 Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
-Upper Division Courses (87)
+Upper Division Courses (89)
 M102. Culture, Media, and Los Angeles
 Units: 6.0
 (Same as Asian American Studies M160 and Honors Collegium M102.) Lecture, four hours; screenings, two hours. Designed for juniors/seniors. Role of media in society and its influence on contemporary cultural environment, specifically in Los Angeles; issues of representation as they pertain to race, ethnicity, gender, and sexuality. P/NP or letter grading.
@@ -156,6 +151,12 @@ Units: 4.0
 M115. We Gone Be Alright: Developing Next Generation of Black Organizers
 Units: 4.0
 (Same as Labor Studies M115.) Seminar, four hours. Learning from and building on Black labor and community organizing traditions, students develop skills and mindsets needed for transformative leadership. Students connect with leaders of community organizations, student organizers, and prepare for more intensive community-based work. P/NP or letter grading.
+M116A. African American Musical Heritage
+Units: 5.0
+(Formerly numbered M12A.) (Same as Ethnomusicology M110A and Global Jazz Studies M110A.) Lecture, four hours; discussion, one hour. Sociocultural history and survey of African American music covering Africa and its impact on Americas; music of 17th through 19th centuries; minstrelsy and its impact on representation of blacks in film, television, and theater; religious music, including hymns, spirituals, and gospel; black music of Caribbean and Central and South America; and music of black Los Angeles. P/NP or letter grading.
+M116B. African American Musical Heritage
+Units: 5.0
+(Formerly numbered M12B.) (Same as Ethnomusicology M110B and Global Jazz Studies M110B.) Lecture, four hours; discussion, one hour. Sociocultural history and survey of African American music covering blues, pre-1947 jazz styles, rhythm 'n' blues, soul, funk, disco, hip-hop, and symbiotic relationship between recording industry and effects of cultural politics on black popular music productions. P/NP or letter grading.
 M118. Student-Initiated Retention and Outreach Issues in Higher Education
 Units: 4.0
 (Same as American Indian Studies M118, Asian American Studies M168, and Chicana/o and Central American Studies M118.) Lecture, four hours. Exploration of issues in outreach and retention of students in higher education, especially through student-initiated programs, efforts, activities, and services, with focus on UCLA as case. May be repeated twice for credit. Letter grading.

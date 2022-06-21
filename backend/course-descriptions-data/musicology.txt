@@ -1,4 +1,5 @@
-Lower Division Courses (40)
+Musicology
+Lower Division Courses (39)
 3. Introduction to Classical Music
 Units: 5.0
 (Formerly numbered Music History 3.) Lecture, four hours; discussion, one hour. Survey of music of Western classical tradition, with emphasis on historical context, musical meanings, and creation of tradition itself. P/NP or letter grading.
@@ -113,9 +114,6 @@ Units: 4.0
 94. Music and Internet
 Units: 5.0
 (Formerly numbered Music History 94.) Lecture, four hours; discussion, one hour. Survey of changes undergone by music in digital environment. As music becomes increasingly pervasive--found everywhere, yet living nowhere special--what social, economic, political, and aesthetic forces are determining centers of attention? Examination of formative force of Internet on sounds themselves. What kinds of noises develop logically within digital context, where creative freedoms and public disinterest are equally apparent? What does Internet sound like? P/NP or letter grading.
-98T. Sound as Gender Technique, Music, and Transsubjectivity
-Units: 5.0
-Seminar, three hours. Requisite: satisfaction of Entry-Level Writing requirement. First/second years preferred. Introduction to questions around ways in which gender is instrumentalized through sound. Examination of musical performances and practices of trans and gender variant people, historical and current. Letter grading.
 99. Student Research Program
 Units: 1.0 to 2.0
 Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.

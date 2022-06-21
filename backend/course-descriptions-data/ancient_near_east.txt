@@ -1,4 +1,5 @@
-Lower Division Courses (15)
+Ancient Near East
+Lower Division Courses (14)
 10W. Jerusalem: Holy City
 Units: 5.0
 Lecture, three hours; discussion, one hour. Enforced requisite: English Composition 3. Not open for credit to students with credit for course 12W. Survey of religious, political, and cultural history of Jerusalem over three millennia as symbolic focus of three faiths: Judaism, Christianity, and Islam. Transformation of sacred space as reflected by literary and archaeological evidence through examination of testimony of artifacts, architecture, and iconography in relation to written word. Study of creation of mythic Jerusalem through event and experience. Satisfies Writing II requirement. Letter grading.
@@ -32,9 +33,6 @@ Units: 5.0
 M60W. Achaemenid Civilization and Empire of Alexander
 Units: 5.0
 (Same as History M60W and Iranian M60W.) Lecture, three hours; discussion, one hour. Requisite: English Composition 3. Not open for credit to students with credit for course M60. Survey of period from circa 600 to 300 BCE, rise and fall of Achaemenid Persia, first world empire of antiquity, which was ended by Alexander the Great, whose campaigns were as transformative as they were violent. Alexander connected ancient Mediterranean and Near East as never before, ushering in new era and forever changing cultural landscape of ancient world. Focus on themes of ancient kingship and political ideology; comparative study of empires; administration and institutions; and religious and ethnic diversity in large, heterogeneous states. Emphasis on diversity critical to understanding political nuances of ancient world. Students gain broad knowledge of Achaemenid and Macedonian empires, facility with ancient primary sources, and development of analytical skills central to discipline of history that allow conceptualizing issues of diversity and othering in ancient world. Satisfies Writing II requirement. P/NP or letter grading.
-88S. Ages of Enchantment: Witch and Her Origins through Modern Popular Culture
-Units: 1.0
-Seminar, one hour. Exploration of figure known as witch. Who she is, where she came from, and what she represents. Starting with early mentions in Ancient Near Eastern sources, examination of developments of characterization through ancient Greek, medieval, early modern, and 19th- and 20th-century fantasy golden age depictions. Application of this analysis to modern representations and reimaginings. Includes discussion of themes such as spirituality and sexuality; sisterhood and spinsterhood; healing and hexes; and examination of these dualities. Discussion of which aspects of archetype are emphasized depending on identity of writer and time period of creation. Exploration of what these traits reveal about societal values and aim of work. P/NP grading. Facilitated by  Minh-Thu Nguyen, with Gina Konstantopoulos as faculty mentor.
 89. Honors Seminars
 Units: 1.0
 Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.
@@ -131,7 +129,7 @@ Units: 4.0
 (Same as Religion M135.) Lecture, three hours. Introductory survey of various ancient Israelite religious beliefs and practices, their origin, and development, with special attention to diversity of religious practice in ancient Israel and Canaan during 1st millennium BCE. P/NP or letter grading.
 140A. Elementary Sumerian
 Units: 4.0
-Lecture, three hours. Requisites: Semitics 140A, 140B. Elementary grammar and reading of royal inscriptions, letters, and administrative texts from Ur III period. P/NP or letter grading.
+Lecture, three hours. Introduction to Sumerian, oldest cuneiform language, with examples attested in Mesopotamia from 3rd millennium BCE to 1st century CE. Elementary grammar, syntax, and overview of cuneiform as used by Sumerian. Focus on structure of nominal and verbal chain, through reading of basic royal inscriptions and other texts. P/NP or letter grading.
 140B. Elementary Sumerian
 Units: 4.0
 Lecture, three hours. Requisites: Semitics 140A, 140B. Elementary grammar and reading of royal inscriptions, letters, and administrative texts from Ur III period. P/NP or letter grading.

@@ -1,4 +1,5 @@
-Lower Division Courses (13)
+Computer Science
+Lower Division Courses (10)
 1. Freshman Computer Science Seminar
 Units: 1.0
 Seminar, one hour; discussion, one hour. Introduction to department resources and principal topics and key ideas in computer science and computer engineering. Assignments given to bolster independent study and writing skills. Letter grading.
@@ -23,15 +24,6 @@ Lecture, four hours; discussion, two hours; outside study, six hours. Requisite:
 M51A. Logic Design of Digital Systems
 Units: 4.0
 (Same as Electrical and Computer Engineering M16.) Lecture, four hours; discussion, two hours; outside study, six hours. Introduction to digital systems. Specification and implementation of combinational and sequential systems. Standard logic modules and programmable logic arrays. Specification and implementation of algorithmic systems: data and control sections. Number systems and arithmetic algorithms. Error control codes for digital information. Letter grading.
-88SA. Machine Learning 101
-Units: 1.0
-Seminar, one hour. Introduction to machine learning (ML), increasingly relevant area across variety of industries with many applications. Knowing fundamentals of ML can better contextualize work, and make it more fulfilling once full picture is understood. P/NP grading. Facilitated by Sidharth Ramanan, with Glenn D. Reinman as faculty mentor.
-88SB. Demystifying Computer Science
-Units: 1.0
-Seminar, one hour. Provides accessible and holistic understanding of computing. Examination of how computers work, what they can do, and if there are more powerful forms of computing. Computer science or science, technology, engineering, and mathematics experience is not required. P/NP grading. Facilitated by Zachary Berger, with Amit Sahai as faculty mentor.
-88SC. Technology of X-Files: Aliens and Paranormal
-Units: 1.0
-Seminar, one hour. Focus on search for extraterrestrial intelligence. Discussion of computer science to debunk certain findings of paranormal phenomena. Covers signal processing (astrophotography, computer vision) and distributed computing, broad knowledge of which is required for research in this field. Addresses philosophical implications of extraterrestrial search and in particular, first-contact. P/NP grading. Facilitated by Aditya Mishra, with Achuta Kadambi as faculty mentor.
 97. Variable Topics in Computer Science
 Units: 1.0 to 4.0
 Lecture, one to four hours; discussion, zero to two hours. Designed for freshmen/sophomores. Variable topics in computer science not covered in regular computer science courses. May be repeated once for credit with topic or instructor change. Letter grading.
@@ -268,9 +260,8 @@ Lecture, four hours; discussion, two hours; outside study, six hours. Enforced r
 C237B. Programming Language Design
 Units: 4.0
 Seminar, four hours; outside study, eight hours. Enforced requisite: course C237A. Study of various programming language designs, from computing history and research literature, that attempt to address problems of software systems that are bloated, buggy, and difficult to maintain and extend despite trend in computing toward ever higher levels of abstraction for programming. Hands-on experience designing, prototyping, and evaluating new languages, language abstractions, and/or programming environments. Concurrently scheduled with course C137B. Letter grading.
-238. Quantum Programming
+M238. Quantum Programming
 Units: 4.0
-Lecture, four hours; discussion, two hours; outside study, six hours. Requisite: Mathematics 115A. History of quantum computing; notion of qubit; four postulates that provide interface to quantum mechanics; concepts of quantum circuit and universal gate set; quantum teleportation; superdense coding; no-cloning theorem; suite of fundamental quantum algorithms including Shor's algorithm, Grover's algorithm, and quantum approximate optimization algorithm; several quantum programming languages and how they compare; quantum simulators; quantum compilers; quantum error correction; quantum advantage. Students implement several quantum algorithms in multiple languages and run them on both simulators and quantum computer. Letter grading.
 239. Current Topics in Computer Science: Programming Languages and Systems
 Units: 4.0
 Lecture, four hours; outside study, eight hours. Review of current literature in area of computer science programming languages and systems in which instructor has developed special proficiency as consequence of research interests. May be repeated for credit with topic change. Letter grading.
@@ -363,7 +354,6 @@ Units: 4.0
 Lecture, four hours; outside study, eight hours. Requisite: course 130 or 131 or 161. Animats are mobile/sensing animal-like software agents embedded in simulated dynamic environments. Emphasis on modeling: goal-oriented behavior via neurocontrollers, adaptation via reinforcement learning, evolutionary programming. Animat-based tasks include foraging, mate finding, predation, navigation, predator avoidance, cooperative nest construction, communication, and parenting. Letter grading.
 264A. Automated Reasoning: Theory and Applications
 Units: 4.0
-Lecture, four hours; laboratory, four hours; outside study, four hours. Requisite: course 161. Introduction to theory and practice of automated reasoning using propositional and first-order logic. Topics include syntax and semantics of formal logic; algorithms for logical reasoning, including satisfiability and entailment; syntactic and semantic restrictions on knowledge bases; effect of these restrictions on expressiveness, compactness, and computational tractability; applications of automated reasoning to diagnosis, planning, design, formal verification, and reliability analysis. Letter grading.
 265A. Machine Learning
 Units: 4.0
 Lecture, four hours; outside study, eight hours. Requisites: courses 263A, 264A. Introduction to machine learning. Learning by analogy, inductive learning, modeling creativity, learning by experience, role of episodic memory organization in learning. Examination of BACON, AM, Eurisko, HACKER, teachable production systems. Failure-driven learning. Letter grading.

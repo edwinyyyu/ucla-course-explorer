@@ -1,4 +1,5 @@
-Lower Division Courses (6)
+Chemical Engineering
+Lower Division Courses (5)
 2. Technology and Environment
 Units: 4.0
 Lecture, four hours; outside study, eight hours. Natural and anthropogenic flows of materials at global and regional scales. Case studies of natural cycles include global warming (CO2 cycles), stratospheric ozone depletion (chlorine and ozone cycles), and global nitrogen cycles. Flow of materials in industrial economies compared and contrasted with natural flows; presentation of lifecycle methods for evaluating environmental impact of processes and products. P/NP or letter grading.
@@ -11,9 +12,6 @@ Seminar, one hour. Discussion of and critical thinking about topics of current i
 45. Biomolecular Engineering Fundamentals
 Units: 4.0
 Lecture, four hours; discussion, one hour; outside study, seven hours. Recommended requisites: Chemistry 20A, 20L, 30A, 30L. Intended for those students who have not taken Life Sciences 2, 3, and Chemistry 153A. Fundamentals of modern biomolecular engineering. Topics include structure and function of biomolecules, central dogma of molecular biology, cellular information and energy processing, and experimental methods, with strong emphasis on applications in medicine, industry, and bioenergy. Letter grading.
-88S. Everything on Energy: Solutions of Today and Tomorrow
-Units: 1.0
-Seminar, one hour. Broad overview of current energy innovations and environmental, social, and security concerns surrounding energy policies. While study offers technological profile of various sources of energy, minimal background knowledge of field is required. P/NP grading. Facilitated by Brandan Taing and Elizabeth Zhang, with Yuzhang Li as faculty mentor.
 99. Student Research Program
 Units: 1.0 to 2.0
 Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.

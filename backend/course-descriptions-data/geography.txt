@@ -1,3 +1,4 @@
+Geography
 Lower Division Courses (13)
 1. Earth's Physical Environment
 Units: 5.0
@@ -38,7 +39,7 @@ Tutorial, three hours. Limited to students in College Honors Program. Designed a
 99. Student Research Program
 Units: 1.0 to 2.0
 Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
-Upper Division Courses (76)
+Upper Division Courses (75)
 101. Principles of Geomorphology
 Units: 4.0
 (Formerly numbered 100.) Lecture, three hours; reading period, one hour. Requisite: course 1. Study of processes that shape world's landforms, with emphasis on weathering, mass movement and fluvial erosion, transport, deposition; energy and material transfers; space and time considerations. P/NP or letter grading.
@@ -252,9 +253,6 @@ Seminar, three hours. Research seminars on selected topics in geography. Some se
 194. Research Group Seminars: Geography
 Units: 2.0
 Seminar, two hours; research group meeting, two hours. Designed for undergraduate students who are part of research group. Discussion of research methods and current literature in field or of research of faculty members or students. May meet concurrently with graduate research seminar. May be repeated for credit with topic change. P/NP grading.
-C194A. Research Group Seminars: Issues in Biophysical Geography
-Units: 1.0
-Seminar, one hour. Designed for undergraduate students who are part of research group. Bimonthly seminar to discuss current research in biophysical geography. Topics vary from year to year. May be repeated for credit. Concurrently scheduled with course C299B. P/NP grading.
 195. Community or Corporate Internships in Geography
 Units: 4.0
 Tutorial, four hours. Limited to juniors/seniors. Internship of eight to 10 hours per week in supervised setting in community agency or business. Students meet on regular basis with instructor and provide periodic reports of their experience. May be repeated for credit. Individual contract with supervising faculty member required. P/NP grading.
@@ -267,7 +265,7 @@ Tutorial, to be arranged. Preparation: 3.25 grade-point average overall, at leas
 199. Special Study
 Units: 2.0 to 8.0
 Tutorial, to be arranged. Limited to juniors with B average in major or seniors. May be repeated for maximum of 16 units. P/NP or letter grading.
-Graduate Courses (72)
+Graduate Courses (71)
 200A. History and Structure of Modern Geography
 Units: 4.0
 Lecture, three hours; reading period, one hour. Evolution of field of geography in 19th and 20th centuries, with emphasis on professionalization of geography and its emergence as modern academic discipline. S/U or letter grading.
@@ -427,9 +425,6 @@ Seminar, one hour. Bimonthly seminar to discuss current research in human geogra
 299B. Research Group Seminars: Issues in Biophysical Geography
 Units: 1.0
 (Formerly numbered C299B.) Seminar, one hour. Bimonthly seminar to discuss current research in biophysical geography. Topics vary from year to year. May be repeated for credit. S/U grading.
-C299B. Research Group Seminars: Issues in Biophysical Geography
-Units: 1.0
-Seminar, one hour. Bimonthly seminar to discuss current research in biophysical geography. Topics vary from year to year. May be repeated for credit. Concurrently scheduled with course C194A. S/U grading.
 299C. Cultural Geography Methods Workshop
 Units: 1.0
 Seminar, two hours. Biweekly forum for presentation and discussion of new concepts, theories, and methods at juncture of geography, humanities, and environmental study. Principal focus on landscape, but scope of cultural study within geography also embraced. S/U grading.

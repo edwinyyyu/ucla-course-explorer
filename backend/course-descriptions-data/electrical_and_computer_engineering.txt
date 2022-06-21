@@ -1,4 +1,5 @@
-Lower Division Courses (12)
+Electrical and Computer Engineering
+Lower Division Courses (11)
 1. Undergraduate Seminar
 Units: 1.0
 Seminar, one hour; outside study, two hours. Introduction by faculty members and industry lecturers to electrical engineering disciplines through current and emerging applications of autonomous systems and vehicles, biomedical devices, aerospace electronic systems, consumer products, data science, and entertainment products (amusement rides, etc.), as well as energy generation, storage, and transmission. P/NP grading.
@@ -26,9 +27,6 @@ Units: 4.0
 19. Fiat Lux Freshman Seminars
 Units: 1.0
 Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.
-88S. Internet and Free Speech
-Units: 1.0
-Seminar, one hour. Detailed examination at how internet has changed political discussions surrounding free speech--from censorship to content moderation--as well as examination of proposed solutions. From engineering and technology background, study looks at both how and why of these issues. Students gain new understanding of engineering and public policy. P/NP grading. Facilitated by Elsa Dubil, with John D. Villasenor as faculty mentor.
 89. Honors Seminars
 Units: 1.0
 Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.

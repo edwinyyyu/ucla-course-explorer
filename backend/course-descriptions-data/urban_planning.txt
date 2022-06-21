@@ -1,3 +1,4 @@
+Urban Planning
 Lower Division Courses (3)
 19. Fiat Lux Freshman Seminars
 Units: 1.0
@@ -105,7 +106,7 @@ Tutorial, 12 hours. Limited to junior/senior Urban and Regional Studies minors. 
 199. Directed Research in Urban Planning
 Units: 2.0 to 8.0
 Tutorial, three hours. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit. Individual contract required. P/NP or letter grading.
-Graduate Courses (130)
+Graduate Courses (129)
 M201. Theories of Architecture
 Units: 4.0
 (Same as Architecture and Urban Design M201.) Lecture, three hours. Exploration of conceptual and historical structures that shape current issues in architectural theory. Readings in primary texts serve as framework for understanding nature of speculative inquiry in architectural context. Letter grading.
@@ -308,9 +309,6 @@ Units: 4.0
 Units: 4.0
 Studio, three hours. Students of different backgrounds and interests collaboratively and individually analyze and propose solutions for actual transportation planning and urban design problem. Course simulates real-world professional planning project of type that students might be assigned if working for consulting firms or public agencies. Students acquire ability to collect and synthesize evidence typically marshaled by transportation planning and urban design professionals, urban and site analysis capabilities, design and physical planning skills, and data analysis and design presentation and re-presentation abilities. Letter grading.
 M253. Travel Behavior Analysis
-Units: 4.0
-(Same as Public Policy M221.) Lecture, three hours. Requisites: courses 207 and 220B, or Public Policy 201 and 203. Descriptions of travel patterns in metropolitan areas, recent trends and projections into future, overview of travel forecasting methods, trip generation, trip distribution, mode split traffic assignment, critique of traditional travel forecasting methods and new approaches to travel behavior analysis. Letter grading.
-M253. Travel Behavior Analysis (Effective Fall 2022 )
 Units: 4.0
 254. Bicycle and Pedestrian Planning
 Units: 4.0

@@ -1,3 +1,4 @@
+English Composition
 Lower Division Courses (20)
 1. Introduction to University Discourse
 Units: 4.0
@@ -59,7 +60,7 @@ Tutorial, three hours. Limited to students in College Honors Program. Designed a
 99. Student Research Program
 Units: 1.0 to 2.0
 Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
-Upper Division Courses (42)
+Upper Division Courses (41)
 100W. Interdisciplinary Academic Writing
 Units: 5.0
 Lecture, four hours. Enforced requisite: course 3 or 3H or English as a Second Language 36. Designed for sophomores/juniors/seniors. Course in academic writing suitable for both lower- and upper-division students that helps them develop academic papers with range of complexity and length. Focus on conventions of academic prose and genres across disciplines. Written assignments include common forms of academic writing such as argument, research paper, and/or critical essay. Satisfies Writing II requirement. Letter grading.
@@ -153,11 +154,9 @@ Lecture, four hours. Requisite: Linguistics 20. Survey of English language struc
 175. Apprenticeship in Composition Tutoring
 Units: 2.0
 Seminar, two hours. Enforced requisite: satisfaction of Writing II requirement. Composition Peer Learning Facilitators (PLFs) who work in Undergraduate Writing Center provided with ongoing mentoring in composition and peer learning methodologies. Overview of language, writing, and literacy needs of diverse college-age writers, including developing writers, multilingual writers, and nonnative English-speaking (NNS) writers. Provides opportunity to reflect critically on theoretical and practical frameworks for tutoring to which students have been introduced. PLFs receive guidance in their tutoring process via observations by course instructor and their peers. May be repeated for credit with consent of instructor. P/NP grading.
-180. Research Writing Workshop
-Units: 5.0
-Lecture, three hours; laboratory, four hours. Advanced workshop designed for juniors and seniors engaged in large-scale research projects in humanities or social sciences. Students hone research, critical reading, and writing skills through class sessions, digital research notebook, and writing workshops. Students practice giving, receiving, and incorporating feedback through peer review, and develop research projects in consultation with colleagues, instructor, and faculty and libraries. Culminates with completion of literature review, academic article, or thesis chapter. P/NP or letter grading.
 M180. Research Practice
 Units: 5.0
+(Formerly numbered 180.) (Same as Research Practice M180.) Lecture, three hours; laboratory, four hours. Advanced workshop designed for juniors and seniors engaged in large-scale research projects in humanities or social sciences. Students hone research, critical reading, and writing skills through class sessions, digital research notebook, and writing workshops. Students practice giving, receiving, and incorporating feedback through peer review, and develop research projects in consultation with colleagues, instructor, and faculty and libraries. Culminates with completion of literature review, academic article, or thesis chapter. P/NP or letter grading.
 M185. Professional Writing Capstone
 Units: 4.0
 (Same as English M185.) Seminar, four hours. Limited to junior/senior Professional Writing minors. Topical writing workshop on rhetorical strategies useful in written and multimodal genres. Intended to provide students with opportunity for serious engagement with writing project in their minor specialization under close faculty supervision and in constructive writing group. Reading, discussion, oral presentations, rhetorical analysis, and development of professional portfolio. Students develop their capstone projects, including identifying appropriate models, generic expectations, and rhetorical choices. P/NP or letter grading.

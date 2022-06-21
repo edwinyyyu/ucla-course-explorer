@@ -1,4 +1,5 @@
-Lower Division Courses (18)
+World Arts and Cultures
+Lower Division Courses (16)
 1. Introduction to World Arts and Cultures
 Units: 5.0
 Lecture, three hours; discussion, one hour. Survey of concepts and theories involved in intercultural, interdisciplinary study of art, aesthetics, and performance. Examination of interactions among various modes of creative expression, role of style in daily life, performative representation of cultural identity and difference, and interaction of diverse artistic traditions. Letter grading.
@@ -44,16 +45,10 @@ Lecture, 90 minutes. Planning and execution of proposal for junior year of study
 89. Honors Seminars
 Units: 1.0
 Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.
-98T. Stand-Up Comedy and Social Change
-Units: 5.0
-Seminar, three hours. Requisite: satisfaction of Entry-Level Writing requirement. Freshmen/sophomores preferred. Exploration of how comics employ performance form of stand-up comedy for social change. Through analysis of case studies, students learn about theory, history, and strategies of stand-up, as well as how scholars analyze its form and impact. Letter grading.
-98TW. Performing Multiracialism: Theorizing Multiracial Representation and Interpretation in Twenty-First Century Performance
-Units: 5.0
-Seminar, three hours. Requisite: English Composition 3. Freshmen/sophomores preferred. Critical examination of category of multiracialism as political, conceptual, and aesthetic concern in 21st-century performances including dances, films, theatre productions, television shows, and social media platforms. Satisfies Writing II requirement. Letter grading.
 99. Special Studies in World Arts and Cultures
 Units: 1.0 to 2.0
 Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
-Upper Division Courses (60)
+Upper Division Courses (61)
 100A. Art as Social Action
 Units: 5.0
 Lecture, four hours; discussion, one hour. Designed for juniors/seniors. Discussion of what constitutes artist's social responsibility and in what ways art is qualified to engage in direct political action. Study of tension between powers of this world and powers of art. P/NP or letter grading.
@@ -63,6 +58,8 @@ Lecture, four hours; discussion, one hour. Designed for juniors/seniors. One's a
 101. Theories of Performance
 Units: 5.0
 Lecture, four hours; studio, two hours. Performance commonly refers to activities on proscenium stage. Explosion of that narrow notion of performance by delving into scholarship from young field of performance studies, which draws on disciplines of anthropology, cultural studies, gender studies, linguistics, postcolonial theory, and sociology. Exploration in studio of concept of performing theory by creating interdisciplinary performance works that engage with and amplify theories studied. P/NP or letter grading.
+102. Upper Division Seminar
+Units: 5.0
 103. Arts in Communities
 Units: 5.0
 Lecture, four hours. Introduction to theoretical and practical understanding of field of community arts by and for multiple publics. Review of relevant issues in field and exploration of roles of artists and arts organizations in struggles for social change, representation, and community building. Through national and international examples, exploration of art works that emphasize participation of citizens in community-based and culturally relevant performance, art, and exhibition. Examination of processes of creative thinking, community involvement, collaborative enterprise, research, and education in community arts. Letter grading.

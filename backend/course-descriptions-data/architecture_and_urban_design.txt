@@ -1,4 +1,5 @@
-Lower Division Courses (8)
+Architecture and Urban Design
+Lower Division Courses (7)
 1. Introduction to Design
 Units: 2.0 to 3.0
 Studio/lecture/field trips, 40 hours. Limited to high school students. Two- or three-week intensive summer course in architectural design, with focus on developing design skills through space making and its representation. Exposure to contemporary architectural practices through studio work, lectures and presentations, field trips, and final demonstration, critique, and exhibition of student work. Offered only as part of Teen Arch Studio summer program. P/NP grading.
@@ -17,9 +18,6 @@ Lecture, three hours; discussion, one hour; outside study, 11 hours. Exploration
 89. Honors Seminars
 Units: 1.0
 Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.
-98T. Domestic Speculation: Race, Gender, and American Home
-Units: 5.0
-Seminar, three hours. Requisite: satisfaction of Entry-Level Writing requirement. First/second years preferred. Exploration of how domestication--as achieved through spaces, materials, and representations of home--has been historically enmeshed with racialized and gendered systems designed to keep certain groups subordinate and others in control of society's resources and means of (re)production. Letter grading.
 99. Student Research Program
 Units: 1.0 to 2.0
 Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
@@ -87,7 +85,7 @@ Seminar, four hours; studio, two hours. Requisites: Digital Humanities 30, 151. 
 199. Directed Research or Senior Project in Architecture and Urban Design
 Units: 2.0 to 4.0
 Tutorial, to be arranged. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit. Individual contract required. P/NP or letter grading.
-Graduate Courses (49)
+Graduate Courses (50)
 M201. Theories of Architecture
 Units: 4.0
 (Same as Urban Planning M201.) Lecture, three hours. Exploration of conceptual and historical structures that shape current issues in architectural theory. Readings in primary texts serve as framework for understanding nature of speculative inquiry in architectural context. Letter grading.
@@ -100,6 +98,9 @@ Lecture, two hours; laboratory, 90 minutes; outside study, three hours. Introduc
 222. Architectural Mediation II
 Units: 2.0
 Lecture, two hours; laboratory, 90 minutes; outside study, three hours. Exploration of visual concepts and techniques in architectural image-making in context of its discursive histories and contemporary trajectories. Two-dimensional output (i.e., collaged/montaged/drawn/rendered images). Letter grading.
+223. Architectural Mediation III
+Units: 2.0
+Lecture, two hours; laboratory, 90 minutes; outside study, three hours. Exploration of advanced digital interfaces such as parametric software, and coding towards exploration of interactive mapping, analysis, time/behavior-based simulations, and fabrications. Two- and three-dimensional output (i.e., animations, animation stills, multimedia, 3D printing, computer numerical control (CNC) milling). Letter grading.
 226C. Computer Visualization
 Units: 4.0
 Lecture, three hours. Designed for graduate students. Concept and techniques of computer visualization of artifacts, including realistic rendering and animation. Letter grading.

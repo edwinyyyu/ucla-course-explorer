@@ -1,3 +1,4 @@
+Physics
 Lower Division Courses (24)
 1A. Physics for Scientists and Engineers: Mechanics
 Units: 5.0
@@ -71,11 +72,8 @@ Laboratory, three hours. Corequisite: associated undergraduate lecture course in
 99. Student Research Program
 Units: 1.0 to 2.0
 Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
-Upper Division Courses (56)
+Upper Division Courses (53)
 105A. Analytic Mechanics
-Units: 4.0
-Lecture, three hours; discussion, one hour. Requisites: courses 1A, 1B, and 1C (or 1AH, 1BH, and 1CH), Mathematics 32B, 33A. Corequisite: Mathematics 33B. Newtonian mechanics and conservation laws, gravitational potentials, calculus of variations, Lagrangian and Hamiltonian mechanics, central force motion, linear and nonlinear oscillations. P/NP or letter grading.
-105A. Analytic Mechanics (Effective Fall 2022 )
 Units: 4.0
 Lecture, three hours; discussion, one hour. Requisite: course 32. Corequisite: Mathematics 33B. Newtonian mechanics and conservation laws, gravitational potentials, calculus of variations, Lagrangian and Hamiltonian mechanics, central force motion, linear and nonlinear oscillations. P/NP or letter grading.
 105B. Analytic Mechanics
@@ -85,9 +83,6 @@ Lecture, three hours; discussion, one hour. Requisite: course 105A. Conserved qu
 Units: 4.0
 Lecture, three hours; discussion, one hour. Requisites: courses 1A, 1B, and 1C (or 1AH, 1BH, and 1CH), 110B. Interaction of light with matter; dispersion theory, oscillator strength, line widths, molecular scattering. Coherence theory, Kirchhoff formulation of diffraction theory, crystal optics, optical rotation, electro and magneto optical effects. Additional topics of fundamental or current interest. P/NP or letter grading.
 110A. Electricity and Magnetism
-Units: 4.0
-Lecture, three hours; discussion, one hour. Requisites: courses 1A, 1B, and 1C (or 1AH, 1BH, and 1CH), 131, Mathematics 32B, 33A, 33B. Electrostatics and magnetostatics. P/NP or letter grading.
-110A. Electricity and Magnetism (Effective Fall 2022 )
 Units: 4.0
 Lecture, three hours; discussion, one hour. Requisite: course 32. Electrostatics and magnetostatics. P/NP or letter grading.
 110B. Electricity and Magnetism
@@ -101,9 +96,6 @@ Units: 4.0
 Lecture, three hours; discussion, one hour. Requisites: courses 1A, 1B, and 1C (or 1AH, 1BH, and 1CH), 105A, 105B, Mathematics 32B, 33A, 33B. Vibrating systems and wave propagation in gases, liquids, and solids, including elements of hydrodynamics and elasticity. Applications in ultrasonics, low-temperature physics, solid-state physics, architectural acoustics. P/NP or letter grading.
 115A. Quantum Mechanics
 Units: 4.0
-Lecture, three hours; discussion, one hour. Enforced requisites: courses 1A, 1B, and 1C (or 1AH, 1BH, and 1CH), 17, 105A, 131. Corequisite: course 105B. Classical background. Basic ideas of quantum nature of light, wave-particle duality, Heisenberg uncertainty principle, Bohr atom, physical operators. Schrödinger equation. One-dimensional square well and harmonic oscillator problems. Boundary values. Classical correspondences. Letter grading.
-115A. Quantum Mechanics (Effective Fall 2022 )
-Units: 4.0
 Lecture, three hours; discussion, one hour. Requisites: courses 17, 32, 105A. Classical background. Basic ideas of quantum nature of light, wave-particle duality, Heisenberg uncertainty principle, Schrödinger equation. One-dimensional square well and harmonic oscillator problems. One-dimensional scattering, Formal theory, Hilbert spaces, and Dirac notation. P/NP or letter grading.
 115B. Quantum Mechanics
 Units: 4.0
@@ -111,9 +103,6 @@ Lecture, three hours; discussion, one hour. Requisite: course 115A. Corequisite:
 115C. Quantum Mechanics
 Units: 4.0
 Lecture, three hours; discussion, one hour. Requisite: course 115B. Time-independent perturbation theory, application to atomic spectra. Time-dependent perturbation theory. Fermi's golden rule. Scattering. Wentzel-Kramers-Brillouin (WKB) approximation. P/NP or letter grading.
-117. Electronics for Physics Measurement
-Units: 4.0
-Lecture, two hours; laboratory, four hours. Requisites: courses 1A, 1B, and 1C (or 1AH, 1BH, and 1CH), Mathematics 32B, 33A, 33B. Hands-on experimental course to develop understanding of design principles in modern electronics for physics measurements. Broad introduction to analog and digital electronics from practical viewpoint, followed by examination of typical circuits for scientific instrumentation and study of methods of computer data acquisition and signal processing. Letter grading.
 118. Electronics for Physical Measurements
 Units: 4.0
 Lecture, three hours; laboratory, four hours. Requisites: courses 1A, 1B, 1C, 117, Mathematics 32A, 32B, 33A. Provides students with opportunity to apply basic knowledge of circuit design for purpose of building stand-alone circuits with function related to control or measurement. Examples of physics-oriented projects include radio-frequency detection and measurement of mechanical resonances of bar, FM transmitter, speed of sound using radio-frequency pulsed ultrasound, sun-following pointers, cosmic ray detector. P/NP or letter grading.
@@ -153,6 +142,15 @@ Lecture, three hours; discussion, one hour. Enforced requisites: courses 105A, 1
 150. Physics of Charged-Particle and Laser Beams
 Units: 4.0
 Lecture, three hours; discussion, one hour. Requisites: courses 1A, 1B, and 1C (or 1AH, 1BH, and 1CH), 110A, 110B, 115A, 115B. Physics of charged-particle and laser beams presented as a unified subject. Basic physics of charged-particle beams, covering relativistic particle motion in electromagnetic fields, transverse focusing, acceleration mechanisms, linear and circular accelerators, and advanced topics. Some fundamentals of laser physics, including gain and broadening mechanisms, linear light optics, laser resonators, and advanced topics and applications. P/NP or letter grading.
+170A. Electronics for Physics Measurement
+Units: 4.0
+(Formerly numbered 117.) Lecture, two hours; laboratory, four hours. Requisites: courses 1A, 1B, and 1C (or 1AH, 1BH, and 1CH), Mathematics 32B, 33A, 33B. Hands-on experimental course to develop understanding of design principles in modern electronics for physics measurements. Broad introduction to analog and digital electronics from practical viewpoint, followed by examination of typical circuits for scientific instrumentation and study of methods of computer data acquisition and signal processing. Letter grading.
+170M. Machine Learning for Physical Sciences Laboratory
+Units: 4.0
+(Formerly numbered 180M.) Lecture, two hours; laboratory, four hours. Requisites: courses 1A, 1B, and 1C (or 1AH, 1BH, and 1CH), Mathematics 32A, 33A. Preparation: experience in programming using Python. Project-based course designed for students with no previous experience in machine learning to learn about methods and algorithms in machine learning and their application to scientific problems in physical sciences. Students develop experience in compilation, analysis, and cleaning of data. Machine learning topics include classification, regression, dimensionality reduction, clustering, and kernel methods. P/NP or letter grading.
+170N. Computational Physics and Astronomy Laboratory
+Units: 4.0
+(Formerly numbered 180N.) Lecture, two hours; laboratory, four hours. Requisites: courses 105B, 110B, 112 (or Astronomy 115), 115B. Prior experience in working with computers is helpful but not required. Designed to give first-hand experience in solving physics and astronomy problems on computers. Project-based course, with projects selected from core areas of classical mechanics, electrodynamics, quantum physics, statistical physics, and astronomy. Introduction to problems and to required numerical methods in lectures, so students can write programs in one modern programming language of their choice (Python recommended) and carry out numerical experiments with it, with results documented in reports. P/NP or letter grading.
 180A. Nuclear Physics Laboratory
 Units: 4.0
 Lecture, two hours; laboratory, four hours. Recommended: course 124. Students conduct experiments about cosmic ray counting and statistics, radioactive decay law measurement, beta decay spectrometer, and Compton scattering; perform independent data analyses of experimental data; and write scientific report for each experiment. P/NP or letter grading.
@@ -171,12 +169,6 @@ Lecture, two hours; laboratory, six hours. Requisites: courses 110A, 115B. Recom
 M180G. Soft Matter Laboratory
 Units: 4.0
 (Same as Chemistry M120.) Lecture, 90 minutes; laboratory, four hours. Requisites: courses 110B, 115A. Students gain experience of conducting independent research in experimental biological physics. Construction of modern microscope. Use of microscope to image biological specimens. Students learn optics, diffraction, imaging, microscopy, computational physics, and/or fluorescent labeling. P/NP or letter grading.
-180M. Machine Learning for Physical Sciences Laboratory
-Units: 4.0
-Lecture, two hours; laboratory, four hours. Requisites: courses 1A, 1B, 1C (or 1AH, 1BH, 1CH), Mathematics 32A, 33A. Preparation: experience in programming using Python. Project-based course designed for students with no previous experience in machine learning to learn about methods and algorithms in machine learning and their application to scientific problems in physical sciences. Students develop experience in compilation, analysis, and cleaning of data. Machine learning topics include classification, regression, dimensionality reduction, clustering, and kernel methods. P/NP or letter grading.
-180N. Computational Physics and Astronomy Laboratory
-Units: 4.0
-Lecture, two hours; laboratory, four hours. Requisites: courses 105B, 110B, 112 (or Astronomy 115), 115B. Prior experience in working with computers is helpful but not required. Designed to give first-hand experience in solving physics and astronomy problems on computers. Project-based course, with projects selected from core areas of classical mechanics, electrodynamics, quantum physics, statistical physics, and astronomy. Introduction to problems and to required numerical methods in lectures, so students can write programs in one modern programming language of their choice (Python recommended) and carry out numerical experiments with it, with results documented in reports. P/NP or letter grading.
 180Q. Quantum Optics Laboratory
 Units: 4.0
 Lecture, two hours; laboratory, six hours. Requisite or corequisite: course 115C. Limited to junior/senior Astrophysics and Physics majors. Use of techniques of quantum optics to demonstrate concepts of quantum mechanics, including superposition, quantum measurement, hidden variable theories, and Bell's inequality. Examination and use of modern optics, including lasers, optics, fibers, polarization manipulation, and photon counting. Letter grading.
@@ -240,7 +232,7 @@ Tutorial, 12 hours. Limited to juniors/seniors with overall 3.0 grade-point aver
 199. Directed Research or Senior Project in Physics
 Units: 2.0 to 4.0
 Tutorial, two hours. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper required. May be repeated for credit. Individual contract required. P/NP or letter grading.
-Graduate Courses (90)
+Graduate Courses (81)
 201Q. Modern Physics Research Areas
 Units: 2.0
 Review of modern physics research areas, with emphasis on those actively pursued at UCLA. S/U grading.
@@ -273,20 +265,11 @@ Units: 4.0
 Lecture, three hours; discussion, one hour. Lagrangian formulation, action, symmetries, conservation laws; Hamiltonian formulation, canonical structure, symmetries. Applications: harmonic oscillators, rotating solids. Special relativistic mechanics, Maxwell field, and dynamics of charged particles. Nonlinear dynamics and global behavior. Letter grading.
 221A. Quantum Mechanics
 Units: 4.0
-Lecture, three hours; discussion, one hour. Fundamentals of quantum mechanics, operators and state vectors, equations of motion. Letter grading.
-221A. Quantum Mechanics (Effective Fall 2022 )
-Units: 4.0
 Lecture, four hours; discussion, one hour. Fundamentals of quantum mechanics, Hilbert spaces, correspondence principle, quantum dynamics, and rotations and angular momentum. Special topics such as Bell inequalities, and aspects of quantum information. Letter grading.
 221B. Quantum Mechanics
 Units: 4.0
-Lecture, three hours; discussion, one hour. Requisite: course 221A. Rotations and other symmetry operations, perturbation theory. Letter grading.
-221B. Quantum Mechanics (Effective Fall 2022 )
-Units: 4.0
 Lecture, four hours; discussion, one hour. Requisite: course 221A. Symmetries and conservation laws, perturbation theory, scattering theory. Special topics such as Berry's phase and related geometric and topological aspects. Letter grading.
 221C. Quantum Mechanics
-Units: 4.0
-Lecture, three hours. Formal theory of collision processes, quantum theory of radiation, introduction to relativistic quantum mechanics. S/U or letter grading.
-221C. Quantum Mechanics (Effective Fall 2022 )
 Units: 4.0
 Lecture, four hours. Requisites: courses 221A, 221B. Quantum theory of radiation, introduction to relativistic quantum mechanics, second quantization, elements of many-body theory, and special topics. S/U or letter grading.
 222A. Plasma Physics
@@ -315,20 +298,11 @@ Units: 4.0
 Lecture, three and one half hours. Requisites: courses 210A, 210B, 221A, 221B. Recommended: course 226A. Introduction to high-energy astrophysics and discussion of latest developments in both experimentation and theory. Special emphasis on unified picture of universe that emerges from particle physics, astronomy, and cosmology. S/U or letter grading.
 230A. Quantum Field Theory
 Units: 6.0
-Lecture, four hours. Requisites: courses 221A, 221B, 221C. Modern quantum field theory, including free and interacting field quantization, operator and path integral formulation, renormalization theory and renormalization group methods, gauge theories, quantum electrodynamics and quantum chromodynamics, spontaneous symmetry breakdown, mass generation, and anomalies. S/U or letter grading.
-230A. Quantum Field Theory (Effective Fall 2022 )
-Units: 6.0
 Lecture, four hours. Requisite: course 221C or equivalent and knowledge of basic special relativity. Introduction to relativistic quantum field theory starting from first principles. Topics include particles as unitary representations of Poincare group; fields as finite-dimensional representations of Lorentz group; discrete space-time symmetries; quantization of free scalar, spinor, and gauge fields; Casimir effect; classical interacting scalar, spinor, and gauge fields; and LSZ formalism for calculation of S-matrix from quantum field theory correlators. S/U or letter grading.
 230B. Quantum Field Theory
 Units: 6.0
-Lecture, four hours. Requisites: courses 221A, 221B, 221C. Modern quantum field theory, including free and interacting field quantization, operator and path integral formulation, renormalization theory and renormalization group methods, gauge theories, quantum electrodynamics and quantum chromodynamics, spontaneous symmetry breakdown, mass generation, and anomalies. S/U or letter grading.
-230B. Quantum Field Theory (Effective Fall 2022 )
-Units: 6.0
 Lecture, four hours. Requisite: course 230A. Perturbative methods for quantization of interacting quantum field theories. Topics include functional methods in scalar field theory, perturbation theory for scalar field theory, Feynman rules, UV regularization and renormalization, perturbation theory for quantum electro-dynamics (QED), Ward identities, renormalization of QED, and anomalies in QED. S/U or letter grading.
 230C. Quantum Field Theory
-Units: 6.0
-Lecture, four hours. Requisites: courses 221A, 221B, 221C. Modern quantum field theory, including free and interacting field quantization, operator and path integral formulation, renormalization theory and renormalization group methods, gauge theories, quantum electrodynamics and quantum chromodynamics, spontaneous symmetry breakdown, mass generation, and anomalies. S/U or letter grading.
-230C. Quantum Field Theory (Effective Fall 2022 )
 Units: 6.0
 Lecture, four hours. Requisite: course 230B. Quantization of non-Abelian gauge theories. Topics include functional integral quantization of Yang-Mills fields, Faddeev-Popov ghosts, perturbative expansion of non-Abelian gauge theories and Feynman rules, background field method, one-loop renormalization of Yang-Mills theory, asymptotic freedom, global internal symmetries, Ward identities, non-linear realizations, Higgs mechanism, anomalies in non-Abelian gauge theories. S/U or letter grading.
 230D. Quantum Field Theory
@@ -336,13 +310,8 @@ Units: 4.0
 Lecture, four hours. Requisites: courses 221A, 221B, 221C. Topics in modern quantum field theory, including solitons, instantons, and other topological defects, large N methods, finite temperature field theory, lattice field theory, effective field theory methods and chiral Lagrangians, conformal field theory, and topological aspects of anomalies. S/U or letter grading.
 231A. Methods of Mathematical Physics
 Units: 4.0
-Lecture, three hours. Not open for credit to students with credit for Mathematics 266A. Linear operators, review of functions of a complex variable, integral transforms, partial differential equations. S/U or letter grading.
-231A. Methods of Mathematical Physics (Effective Fall 2022 )
-Units: 4.0
+Lecture, four hours. Widely used mathematical methods and their applications to physics including basic topology, complex analysis, Fourier analysis, elliptic functions, linear differential operators, Green functions, and special functions associated with eigenvalue problems of ordinary and partial differential operators on flat and curved spaces. Letter grading.
 231B. Methods of Mathematical Physics
-Units: 4.0
-Lecture, three hours. Not open for credit to students with credit for Mathematics 266B. Ordinary differential equations, partial differential equations, and integral equations. Calculus of variations. S/U or letter grading.
-231B. Methods of Mathematical Physics (Effective Fall 2022 )
 Units: 4.0
 Lecture, four hours. Requisites: courses 221A, 231A, or equivalent. Widely used methods of group theory with applications to physics, including matrix Lie groups and Lie algebras, crystallographic groups, representations of groups and Lie algebras, tensors, spinors, roots, weights, structure of simple Lie algebras, and homogeneous spaces. S/U or letter grading.
 231C. Methods of Mathematical Physics
@@ -364,9 +333,6 @@ Units: 4.0
 Units: 4.0
 Lecture, four hours. Requisites: courses 221A, 221B, 221C, 230A. Historical introduction to string theory, including classical bosonic string and its symmetries, light cone quantization, covariant quantization, conformal field theory, Polyakov path integral, tree level amplitudes, and loop amplitudes. S/U grading.
 237B. String Theory
-Units: 4.0
-Lecture, four hours. Requisite: course 237A. Topics may include toroidal compactification, t-duality and d-branes, supersymmetric strings, orbitfolds, Calabi/Yau compactifications and physics in four dimensions, and strings at strong coupling and dualities. S/U or letter grading.
-237B. String Theory (Effective Fall 2022 )
 Units: 4.0
 Lecture, four hours. Requisite: course 237A. Current topics in string theory, which may include anti-de Sitter/conformal field theory (AdS/CFT) correspondence, string dualities, compactification, and connections to quantum information. S/U or letter grading.
 241A. Solid-State Physics

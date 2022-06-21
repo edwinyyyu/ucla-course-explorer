@@ -1,3 +1,4 @@
+Program in Computing
 Lower Division Courses (13)
 10A. Introduction to Programming
 Units: 5.0

@@ -1,4 +1,8 @@
-Graduate Courses (11)
+Healthcare Administration
+Graduate Courses (16)
+400. Field Studies
+Units: 4.0
+Fieldwork, to be arranged. Culmination of fieldwork process that takes approximately one year from internship search process, through actual field placement, to this integrative course. Deliberate consideration and reflection on relationship between summer practicum and principles and competencies of health-care management and policy learned during academic year. Students complete professional management or policy-related consulting report base don organizational problem or health policy issue on which students focused during summer. S/U or letter grading.
 401. Health Care Organization and Financing
 Units: 4.0
 Lecture, three hours; discussion, one hour. Limited to Master of Healthcare Administration students. In-depth analysis of organization of health services systems in U.S., using relevant theories, concepts, and models. Discussion of various mechanisms for payment and insurance schemes. Letter grading.
@@ -11,6 +15,12 @@ Lecture, three hours; discussion, one hour. Provides strong foundation in health
 404. Health-Care Strategy
 Units: 4.0
 Lecture, three hours; discussion, one hour. Conceptual, analytical, and technical aspects of environmental assessment and strategy formulation in health delivery organizations, biopharma, and medical technology. Special attention to structure and dynamics of competitive markets, corporate-level strategic planning and marketing, managerial ethics and values, organizational creativity/innovation. Letter grading.
+405. Leadership and Ethics
+Units: 4.0
+Lecture, three hours; discussion, one hour. Preparation: completion of immersion course 596. Examination of leaders and leadership in health care and other organizations to provide broad introduction to literature on skills, behaviors, and characteristics of organizational leaders. Relationship and importance of vision, values, change, strategy, and communication. Identification of characteristics of successful leaders. Students evaluate their own leadership style and identify opportunities to further develop their leadership abilities. Letter grading.
+406. Health-Care Marketing
+Units: 4.0
+Lecture, three hours; discussion, one hour. Introduction to concepts of health-care marketing. Exploration of principles of market-driven decision-making process. Examination of development of key elements in annual marketing process and of consumer, competitor, company analysis, market segmentation, and target markets. Letter grading.
 411. Microeconomic Theory for Health Sector
 Units: 4.0
 Lecture, three hours; discussion, one hour. Microeconomic aspects of health-care system, including health manpower substitution, choice of efficient modes of treatment, market efficiency, and competition. Letter grading.
@@ -23,8 +33,15 @@ Lecture, three hours; discussion, one hour. Development of skills in analyzing a
 414. Health-Care Financial Accounting
 Units: 4.0
 Lecture, three hours; discussion, one hour. Examination of purpose and methods of financial accounting (including for profit, not for profit, and governmental), function and organization of finance department, and special industry characteristics affecting financial management (to include third party payers, price or rate-setting and cost-shifting, taxation and health-care incentives, and emerging health-care organizations). Letter grading.
-415. Healthcare Financial Management
+415. Health-Care Financial Management
 Units: 4.0
+Lecture, three hours; discussion, one hour. Concepts of financial management and managerial accounting as applied within health-care industry. Builds managerial financial decision-making skills and key analytical methods used in applications of health-care financial management. Students gain understanding and respond to financial recommendations of advisors, lenders, investors, and other stakeholders by applying concepts such as time value of money, financing approaches, capital planning, and budgeting. Letter grading.
+416. Quality Improvement and Performance Excellence
+Units: 4.0
+Lecture, three hours; discussion, one hour. Limited to Master of Healthcare Administration students. In-depth analysis of organization of health services systems in U.S., using relevant theories, concepts, and models. Discussion of various mechanisms for payment and insurance schemes. Letter grading.
+417. Data Analytics and Visualization
+Units: 4.0
+Lecture, three hours; discussion, one hour. Exploration of data sources and uses in health care, e.g., electronic medical records, social media, wireless biosensors, system and facility data. Review of hands-on techniques including data management, development of indexes and metrics, choosing and implementing analysis methods and visualizations. Discussion of role of data collection and processing within health care system. Elevates analytical skills and increases capabilities to leverage data to drive strong leadership decisions within management functions, health-care organizations, and health-care industry at large. Letter grading.
 596. Directed Individual Study or Research
 Units: 1.0 to 4.0
 Tutorial, to be arranged with MHA program faculty member. Limited to graduate students. Professional development seminars and workshops. Only 1 unit may be applied toward MHA minimum total course requirement. S/U or letter grading.
