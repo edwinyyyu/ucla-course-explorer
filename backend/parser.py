@@ -1,41 +1,68 @@
 import os
 
-def load_courses(lines, start, end):
-    for i in range(start, end):
-        if lines[i].startswith("Units: "):
-            course_id = lines[i - 1].strip()
+def is_course_number(word):
+    if word[0] == "C" or word[0] == "M":
+        word = word[1 : ]
+    return word[0].isdecimal()
 
-def parse_data(file):
+def determine_subject(extracted_words, course_index):
+    return "FILLER"
+
+def determine_requisites(description):
+    requisites = {}
+    
+    while "equisite: " in description or "equisites: " in description:
+        single_index = description.find("equisite: ") + 10
+        plural_index = description.find("equisites: ") + 11
+        
+        start_index = min(single_index, plural_index)
+        if single_index == 10 - 1:
+            start_index = plural_index
+        elif plural_index == 11 - 1:
+            start_index = single_index
+        description = description[start_index : ]
+        end_index = description.find(".")
+        
+        extracted_words = description[ : end_index]
+        words = [word.strip(",.;:") for word in extracted_words.split()]
+        for i in range(len(words)):
+            word = words[i]
+            if is_course_number(word):
+                subject_area = determine_subject(extracted_words, i)
+                requisites.setdefault(subject_area, []).append(word)
+    
+    print(requisites)
+    return requisites
+
+def parse_course_data(file):
     lines = [line.strip() for line in file.readlines()]
-    course_subject = lines[0].strip()
-    course_level = ""
+    subject_area = lines[0].strip()
+    level = ""
     
     for i in range(len(lines)):
         if lines[i].startswith("Lower Division Courses"):
-            course_level = "lower division"
+            level = "lower division"
             continue
         elif lines[i].startswith("Upper Division Courses"):
-            course_level = "upper division"
+            level = "upper division"
             continue
         elif lines[i].startswith("Graduate Courses"):
-            course_level = "graduate division"
+            level = "graduate"
             continue
     
         if lines[i].startswith("Units: "):
-            course_number = lines[i - 1][ : lines[i - 1].find(".")]
-            course_name = lines[i - 1][lines[i - 1].find(" ") + 1 : ]
+            number = lines[i - 1][ : lines[i - 1].find(".")]
+            name = lines[i - 1][lines[i - 1].find(" ") + 1 : ]
             num_units = lines[i][lines[i].find(" ") + 1 : ]
-            
-            print(course_number)
-            print(course_name)
-            print(num_units)
+            description = lines[i + 1]
+            requisites = determine_requisites(description)
 
 # main
 directory = "course-descriptions-data"
 
 #for filename in os.listdir(directory):
 #    with open(directory + "/" + filename, "r") as f:
-#        parse_data(f)
+#        parse_course_data(f)
 
 with open("course-descriptions-data/computer_science.txt", "r") as f:
-    parse_data(f)
+    parse_course_data(f)
