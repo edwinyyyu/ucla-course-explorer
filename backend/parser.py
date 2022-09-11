@@ -2,13 +2,25 @@ import os
 
 def is_course_number(word):
     if word[0] == "C" or word[0] == "M":
-        word = word[1 : ]
+        return is_course_number(word[1 : ])
     return word[0].isdecimal()
 
-def determine_subject(extracted_words, course_index):
+def det_syn_subject(words, last_word_index):
     return "FILLER"
 
-def determine_requisites(description):
+def det_req_subject(extracted_words, course_index, orig_subject):
+    words = [word.strip(",.;:()") for word in extracted_words.split()]
+    ignore_set = {"and", "from", "or"}
+    
+    for i in range(course_index, -1, -1):
+        if not is_course_number(words[i]) and words[i] not in ignore_set:
+            if words[i] in {"course", "courses"}:
+                return orig_subject
+            else:
+                #print(words[i])
+                return det_syn_subject(words, i)
+
+def det_requisites(description, orig_subject):
     requisites = {}
     
     while "equisite: " in description or "equisites: " in description:
@@ -24,14 +36,14 @@ def determine_requisites(description):
         end_index = description.find(".")
         
         extracted_words = description[ : end_index]
-        words = [word.strip(",.;:") for word in extracted_words.split()]
+        words = [word.strip(",.;:()") for word in extracted_words.split()]
         for i in range(len(words)):
             word = words[i]
             if is_course_number(word):
-                subject_area = determine_subject(extracted_words, i)
-                requisites.setdefault(subject_area, []).append(word)
+                req_subject = det_req_subject(extracted_words, i, orig_subject)
+                requisites.setdefault(req_subject, []).append(word)
     
-    print(requisites)
+    #print(requisites)
     return requisites
 
 def parse_course_data(file):
@@ -55,7 +67,18 @@ def parse_course_data(file):
             name = lines[i - 1][lines[i - 1].find(" ") + 1 : ]
             num_units = lines[i][lines[i].find(" ") + 1 : ]
             description = lines[i + 1]
-            requisites = determine_requisites(description)
+            requisites = det_requisites(description, subject_area)
+
+# global
+synonyms = {}
+with open("subjects_syn.txt", "r") as s:
+    lines = [line.strip() for line in s.readlines()]
+    
+    for l in lines:
+        for pattern in l[ : l.find(":")].split(";"):
+            synonyms[pattern] = l[l.find(":") + 1 : ]
+
+#print(synonyms)
 
 # main
 directory = "course-descriptions-data"
