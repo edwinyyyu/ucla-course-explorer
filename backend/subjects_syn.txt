@@ -1,3 +1,100 @@
-Mathematics:Mathematics
-Statistics:Statistics
+Aerospace Engineering:Mechanical and Aerospace Engineering
+Affairs:Public Affairs
+American Studies:INCONCLUSIVE
+and Management:Health Policy and Management
+Anthropology:Anthropology
+Arabic:Arabic
+Archaeology:Archaeology
+Art History:Art History
+Astronomy:Astronomy
+Biochemistry:Chemistry and Biochemistry
+Bioengineering:Bioengineering
+Bioinformatics:Bioinformatics
+Biology:INCONCLUSIVE
+Biomathematics:Biomathematics
+Biostatistics:Biostatistics
+Central American Studies:Chicana/o and Central American Studies
+Chemical Engineering:Chemical Engineering
+Chemistry:Chemistry and Biochemistry
+Chinese:Chinese
+Civil Engineering:Civil and Environmental Engineering
+Classics:Classics
+Clusters:Clusters
+Collegium:Honors Collegium
+Community Health Sciences:Community Health Sciences
+Composition:English Composition
+Computer Engineering:Electrical and Computer Engineering
+Computer Science:Computer Science
 Computing:Program in Computing
+Conservation:Conservation of Cultural Heritage
+Design:Architecture and Urban Design
+Developmental Biology:Molecular, Cell, and Developmental Biology
+Disability Studies:Disability Studies
+East:Ancient Near East
+Economics:Economics
+*Education:Education
+Education:INCONCLUSIVE
+Electrical Engineering:Electrical and Computer Engineering
+*Engineering:Engineering
+Engineering:INCONCLUSIVE
+English:English
+Environmental Engineering:Civil and Environmental Engineering
+Environmental Health Sciences:Environmental Health Sciences
+Environment:Environment
+Epidemiology:Epidemiology
+Ethnomusicology:Ethnomusicology
+Evolutionary Biology:Ecology and Evolutionary Biology
+Filipino:Filipino
+Gender Studies:Gender Studies
+Geography:Geography
+Greek:Greek
+Health Policy:Health Policy and Management
+Health:Public Health
+Health Sciences:INCONCLUSIVE
+Hebrew:Hebrew
+*History:History
+History:INCONCLUSIVE
+Humanities:Digital Humanities
+Indian Studies:American Indian Studies
+Information Studies:Information Studies
+Japanese:Japanese
+Korean:Korean
+Language:English as a Second Language
+Latin:Latin
+Life Sciences:Life Sciences
+Linguistics:Linguistics
+Literature:Comparative Literature
+Management:INCONCLUSIVE
+*Management:Management
+Materials Science:Materials Science and Engineering
+Mathematics:Mathematics
+Microbiology:Microbiology, Immunology, and Molecular Genetics
+Molecular Biology:Molecular Biology
+Music:Music
+Musicology:Musicology
+Neuroscience:Neuroscience
+Oceanic Sciences:Atmospheric and Oceanic Sciences
+Pharmacology:Molecular and Medical Pharmacology
+Philosophy:Philosophy
+Physics:Physics
+Physiological Science:Physiological Science
+Planning:Urban Planning
+Policy:INCONCLUSIVE
+Political Science:Political Science
+Portuguese:Portuguese
+Psychiatry:Psychiatry and Biobehavioral Sciences
+Psychology:Psychology
+Public Policy:Public Policy
+Queer Studies:Lesbian, Gay, Bisexual, Transgender, and Queer Studies
+Religion:Religion, Study of
+Science Education:Science Education
+Science:INCONCLUSIVE
+Sciences:INCONCLUSIVE
+Semitics:Semitic
+Slavic:Slavic
+Sociology:Sociology
+Space Sciences:Earth, Planetary, and Space Sciences
+Spanish:Spanish
+Statistics:Statistics
+Studies:INCONCLUSIVE
+Systems Biology:Computational and Systems Biology

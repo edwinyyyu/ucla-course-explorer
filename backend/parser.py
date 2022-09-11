@@ -1,20 +1,45 @@
 import os
 
 def is_course_number(word):
+    if len(word) == 0:
+        return False
     if word[0] == "C" or word[0] == "M":
         return is_course_number(word[1 : ])
     return word[0].isdecimal()
 
-def det_syn_subject(words, last_word_index):
-    return "FILLER"
+def det_syn_subject(words, last_index):
+    next_index = last_index
+    pattern = words[next_index]
+    
+    while pattern in synonyms:
+        if synonyms[pattern] == "INCONCLUSIVE":
+            if next_index != 0:
+                prev_pattern = pattern
+                next_index -= 1
+                pattern = words[next_index] + " " + pattern
+                
+                if pattern not in synonyms:
+                    print("---" + pattern + "---CHECK")
+                    return synonyms["*" + prev_pattern]
+            else:
+                return synonyms["*" + pattern]
+        else:
+            return synonyms[pattern]
+            
+    print(pattern)
+    print(words[last_index + 1])
+    return "TODO/EDGE CASE ERROR"
 
 def det_req_subject(extracted_words, course_index, orig_subject):
     words = [word.strip(",.;:()") for word in extracted_words.split()]
-    ignore_set = {"and", "from", "or"}
+    ignore_set = set()#{"and", "from", "or"}
     
     for i in range(course_index, -1, -1):
         if not is_course_number(words[i]) and words[i] not in ignore_set:
-            if words[i] in {"course", "courses"}:
+            # Note: These are edge cases that may fail if course descriptions
+            #       are changed in the future.
+            # TODO: Figure out any nonworking edge cases.
+            if words[i] in {"course", "courses", "concurrently", "through", "and", "from", "or", "in", "to"}:
                 return orig_subject
             else:
                 #print(words[i])
@@ -48,7 +73,8 @@ def det_requisites(description, orig_subject):
 
 def parse_course_data(file):
     lines = [line.strip() for line in file.readlines()]
-    subject_area = lines[0].strip()
+    subject_area = lines[0].strip().replace(" (Undergraduate)", "")
+    subject_area = subject_area.replace(" (Graduate)", "")
     level = ""
     
     for i in range(len(lines)):
@@ -66,7 +92,11 @@ def parse_course_data(file):
             number = lines[i - 1][ : lines[i - 1].find(".")]
             name = lines[i - 1][lines[i - 1].find(" ") + 1 : ]
             num_units = lines[i][lines[i].find(" ") + 1 : ]
-            description = lines[i + 1]
+            
+            # TODO: Ensure empty descriptions work.
+            description = ""
+            if i + 1 < len(lines):
+                description = lines[i + 1]
             requisites = det_requisites(description, subject_area)
 
 # global
@@ -75,17 +105,17 @@ with open("subjects_syn.txt", "r") as s:
     lines = [line.strip() for line in s.readlines()]
     
     for l in lines:
-        for pattern in l[ : l.find(":")].split(";"):
-            synonyms[pattern] = l[l.find(":") + 1 : ]
+        synonyms[l[ : l.find(":")]] = l[l.find(":") + 1 : ]
 
 #print(synonyms)
 
 # main
 directory = "course-descriptions-data"
 
-#for filename in os.listdir(directory):
-#    with open(directory + "/" + filename, "r") as f:
-#        parse_course_data(f)
+for filename in os.listdir(directory):
+    with open(directory + "/" + filename, "r") as f:
+        parse_course_data(f)
 
-with open("course-descriptions-data/computer_science.txt", "r") as f:
-    parse_course_data(f)
+#with open("course-descriptions-data/computer_science.txt", "r") as f:
+#    parse_course_data(f)
+#
