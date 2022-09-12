@@ -54,7 +54,7 @@ Tutorial, three hours. Limited to students in College Honors Program. Designed a
 99. Student Research Program
 Units: 1.0 to 2.0
 Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
-Upper Division Courses (38)
+Upper Division Courses (39)
 100. Written Expression: Techniques of Description and Narration
 Units: 5.0
 Lecture, three hours. Requisite: course 6. Writing assignments follow close analysis of relevant texts, film, and related grammatical structures. Examination of vocabulary and structures associated with descriptive writing and French verb tense system required for narration. P/NP or letter grading.
@@ -109,6 +109,9 @@ Lecture, three hours. Enforced requisite: course 5. Taught in French. Study of F
 130. Contemporary French and Francophone Cultures
 Units: 4.0
 Lecture, three hours. Requisite: course 12 or 100. Taught in French. Study of contemporary France and Francophone world (Africa, Asia, Caribbean, Quebec), government, institutions, and cultural, economic, social, and political issues. May be repeated for credit with topic change. Letter grading.
+133. French and Francophone Short Story
+Units: 4.0
+Lecture, three hours. Taught in French. Survey of short fiction forms in France and Francophone world. P/NP or letter grading.
 136. French and Francophone Autobiography
 Units: 4.0
 Lecture, three hours. Taught in French. Rhetoric of genre and its relation to broad questions of identity, gender, race, and class. May be repeated for credit with topic change. P/NP or letter grading.

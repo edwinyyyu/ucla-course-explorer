@@ -31,7 +31,7 @@ Seminar, three hours. Limited to 20 students. Designed as adjunct to undergradua
 199. Special Studies in Human Genetics
 Units: 2.0 to 8.0
 Tutorial, to be arranged. Students select instructor among eligible research faculty and carry out independent research project under instructor supervision. P/NP or letter grading.
-Graduate Courses (39)
+Graduate Courses (40)
 M203. Stochastic Models in Biology
 Units: 4.0
 (Same as Biomathematics M203.) Lecture, four hours. Requisite: Mathematics 170A or equivalent experience in probability. Mathematical description of biological relationships, with particular attention to areas where conditions for deterministic models are inadequate. Examples of stochastic models from genetics, physiology, ecology, and variety of other biological and medical disciplines. S/U or letter grading.
@@ -125,6 +125,8 @@ Lecture, one hour. Cytogenetics and molecular laboratory techniques to diagnose 
 431A. Fieldwork
 Units: 1.0
 Fieldwork, three to four hours; discussion, one hour. Limited to Genetic Counseling Students. First fieldwork rotation to establish basic skills in genetic counseling. Students are supervised by certified genetic counselors and medical geneticists. In group discussion setting, students present cases along with relevant psychosocial, ethical, and professional issues to engage in active reflection of clinical supervision experiences, understand dynamics and responsibilities of supervisor/supervisee relationship, and identify personal growth opportunities and limitations in scope of patient practice. S/U grading.
+431A. Fieldwork (Effective Spring 2023 )
+Units: 1.0
 431B. Fieldwork
 Units: 3.0
 Fieldwork, 35 hours. Requisite: course 431A. Limited to Genetic Counseling Students. Students use intermediate genetic counseling skills with direct patient contact in different clinical settings. Students are supervised by certified genetic counselors and medical geneticists. S/U grading.

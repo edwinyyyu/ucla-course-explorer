@@ -79,8 +79,9 @@ Lecture, three hours. Introduction to environmental journalism, science communic
 M153. Introduction to Sustainable Architecture and Community Planning
 Units: 4.0
 (Same as Architecture and Urban Design CM153.) Lecture, three hours. Relationship of built environment to natural environment through whole systems approach, with focus on sustainable design of buildings and planning of communities. Emphasis on energy efficiency, renewable energy, and appropriate use of resources, including materials, water, and land. Letter grading.
-155. Energy and Society in a Time of Climate Change: Moving Toward a Just Transition
+155. Energy and Society in Time of Climate Change: Moving toward Just Transition
 Units: 4.0
+Lecture, three hours. Introduction to energy systems and their regulatory infrastructure, with focus on U.S. and California. History of field of energy including rise of coal mining, development of petroleum both in U.S. and Middle East, and enrollment of public lands for extraction or collection of energy from fossil deposits and flows. Examination of concept of energy and differences between energy and power. Focus on understanding contemporary energy system, different sources of energy, how energy is transmitted and distributed, and regulatory infrastructure that has arisen around this vast and essential system that provides electricity and natural gas for most commercial and domestic activities. Discussion of challenges and opportunities in current transition away from fossil fuels and progress of just transition in California. P/NP or letter grading.
 157. Energy, Environment, and Development
 Units: 4.0
 Lecture, three hours. Requisites: Mathematics 3A and 3B (or 31A and 31B), Physics 1A and 1B (or 6A and 6B). Introduction to basic energy concepts and examination of role of various energy sources, energy conversion technologies, and energy policies in modern life. Analysis of implications of current patterns of energy production and consumption for future economic and environmental well-being. Integration of concepts and methods from physical and life sciences, engineering, environmental science, economics, and public policy. Basic quantitative skills provided to analyze and critique technical, economic, and policy choices to address challenge of balancing economic growth and environmental sustainability. P/NP or letter grading.
@@ -174,16 +175,24 @@ Tutorial, four hours. Limited to junior/senior Environmental Science majors. Dev
 199. Directed Research in Environment
 Units: 2.0 to 4.0
 Tutorial, two hours. Preparation: submission of written proposal outlining study or research to be undertaken. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Progress report must be submitted to faculty mentor at end of term. Culminating paper or project required. May be repeated for credit, but only 4 units may be taken each term. Individual contract required. P/NP or letter grading.
-Graduate Courses (18)
+Graduate Courses (22)
 200A. Issues and Methods in Environment and Sustainability
 Units: 4.0
 Seminar, four hours. Examination of interdisciplinary case studies that approach problems in environment and sustainability as issues with scientific, social, economic, political, philosophical, ethical, historical, cultural, and policy dimensions. Case studies illustrate use of qualitative and quantitative methods of analysis drawn from natural sciences, social sciences, and humanities. Emphasis on conceptual frameworks for defining environmental problems and implementation of research results in solving real-world problems. S/U or letter grading.
 200B. Issues and Methods in Environment and Sustainability
 Units: 4.0
 Seminar, four hours. Requisite: course 200A. Examination of interdisciplinary case studies that approach problems in environment and sustainability as issues with scientific, social, economic, political, philosophical, ethical, historical, cultural, and policy dimensions. Case studies illustrate use of qualitative and quantitative methods of analysis drawn from natural sciences, social sciences, and humanities. Emphasis on conceptual frameworks for defining environmental problems and implementation of research results in solving real-world problems. S/U or letter grading.
+205A. Major Problems in Environment and Sustainability
+Units: 2.0
+205B. Major Problems in Environment and Sustainability
+Units: 2.0
+205C. Major Problems in Environment and Sustainability
+Units: 2.0
 M235. Modern Environmental Statistics
 Units: 4.0
 (Same as Statistics M235.) Seminar, three hours. Limited to graduate students. Recommended requisite: calculus, linear algebra. Focus on practical understanding and application of statistical tools for environmental datasets. Topics include brief overview of concepts in probability, distributions, hypothesis testing, developing and assessing regression models, multidimensional data exploration, time series analysis, and spatial modeling. Draws upon relevant examples in scientific literature. Performance of analyses of real-world datasets. Small groups complete and present project analyzing relevant dataset of choice. S/U or letter grading.
+M235. Modern Environmental Statistics (Effective Spring 2023 )
+Units: 4.0
 240. Food, Energy, and Water Systems Management Seminar
 Units: 1.0
 Seminar, one hour. Designed for students in science, technology, engineering, and mathematics (STEM) field interested in nexus of food, energy, and water systems (FEWS) management and sustainability. Discussion of issues of science, technology, policy, economics, and law with experts in industry, academia, and government. Career development activities including presentation skills, conflict resolution, business and entrepreneurship. Course is part of National Science Foundation (NSF) graduate traineeship in integrated urban solutions for food, energy, and water systems (INFEWS). Enrollment for non-INFEWS students in STEM graduate education and related sustainability majors/topics by consent of instructor. S/U grading.

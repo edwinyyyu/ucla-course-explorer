@@ -319,7 +319,7 @@ Tutorial, one hour; fieldwork, eight to 10 hours. Limited to juniors/seniors. Co
 199. Directed Research or Senior Project in Film, Television, and Digital Media
 Units: 2.0 to 8.0
 Tutorial, three hours. Limited to senior Film and Television majors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be taken for maximum of 8 units. Individual contract required. P/NP or letter grading.
-Graduate Courses (168)
+Graduate Courses (175)
 200. Seminar: Research, Methods, and Resources
 Units: 6.0
 Seminar, three hours; laboratory, four to six hours (additional screenings and/or video laboratory work as required). Designed for graduate students. Examination and study of research methods, techniques, and resources related to film and television research, including development of computer skills for preparation of bibliographies, online database searching and retrieval and, when appropriate, use of computer/videodisc technology for research. Letter grading.
@@ -374,24 +374,18 @@ Seminar, three hours; film screenings, three hours. Designed for graduate studen
 210. Viewing and Reading Media
 Units: 4.0
 Lecture, three hours; media viewings, three hours. Study engages media originating on different platforms and deriving from different modes of production, cultural locations, and various critical approaches. Each approach considers various components of what can be read in individual work including form and aesthetics, organization (narrative/nonnarrative, fiction/nonfiction), orientation to spectator or user, industrial or artisanal production context, and relation to historical or cultural moment. Letter grading.
-211A. Seminar: Historiography
+211. Seminar: Historiography
 Units: 6.0
-Seminar, three hours; film screenings, three hours. Limited to Film and Television MA candidates. Beginning examination of function and methods of writing film and television history as seen in works of key historians in U.S. and Europe. S/U or letter grading.
-211B. Seminar: Historiography
-Units: 6.0
-Seminar, three hours; film screenings, three hours. Limited to Film and Television PhD candidates. Examination of function and methods of writing film and television history as exemplified by key works in this tradition, with attention to central issues of historical thought on media. S/U or letter grading.
+(Formerly numbered 211A.) Seminar, three hours. Limited to MA and PhD candidates. Examination of function and methods of historiography/history as branch of field of media studies by examining variety of methodologies, debates, and strategies that have shaped often provocative, contradictory, and contested ways that history has been imagined and applied to field of media studies. S/U or letter grading.
 212. Cinema and Media Studies Graduate Colloquium
 Units: 2.0
 Lecture, two hours. Exchange with scholars inside and outside department through lectures and academic paper presentation and offers students practice in presenting papers for professional conferences, CV writing seminars, job market/interview preparation seminars, and discussion of current topics and trajectory of area of cinema and media studies. May be repeated for maximum of 14 units. S/U grading.
 213. Capstone Seminar
 Units: 6.0
 Seminar, three hours. Limited to Film and Television MA candidates. Capstone course for cinema and media studies master's program. Students write, revise, and present comprehensive essay on preapproved topic derived from their MA coursework. Letter grading.
-215. Seminar: Theory and Method
+215. Seminar: Text and Context in Intermedia Age
 Units: 6.0
-Seminar, three hours. Limited to Film and Television PhD candidates. Examination of major modes of theoretical reflection that bear on film and television through study of central texts of such traditions as phenomenology, auteurism, semiology, psychoanalysis, sociology, etc. S/U or letter grading.
-215B. Seminar: Text and Context in Intermedia Age
-Units: 6.0
-Seminar/screenings, five hours. Theoretical and methodological approaches to media texts and contexts beginning with theories that located aesthetic, ideological, and cultural meanings in literary, theatrical, film, or television texts or group of texts to latter approaches from within material, social, and industrial contexts from which media texts emerge. Letter grading.
+Seminar, three hours. Limited to Film and Television MA and PhD candidates. Introduction to range of textual and contextual approaches to studying cinema and media. Broad historical overview of intellectual history of field, combining foundational works with more recent publications that address similar theoretical questions. Combines foundational writings in cultural and critical theory with key works in cinema and media studies that deploy these theories to analyze screen texts, cultures, institutions, and industries. S/U or letter grading.
 216. Film, Costume, and Character
 Units: 6.0
 Seminar, three hours; film screenings, three hours. Exploration of integration of costume design into filmmaking process and illumination of work required to bring characters from written page to life. Discussion of practice of costume design. Analysis of films from various genres. Letter grading.
@@ -487,19 +481,15 @@ Units: 4.0
 Lecture, three hours. Comprehensive overview of today's television landscape for writers, with emphasis on new structures and formats ushered in by on-demand, digital television revolution. Letter grading.
 283B. Writing Half-Hour Comedy Pilot and Series Bible
 Units: 8.0
-Seminar, three hours. Requisite: course 283A. Examination of basics of half-hour pilot format, style, and content, and learning of principles behind network needs and choices in choosing pilots. Workshop in which to discuss ideas and issues with class and instructor. Weekly progress on original half-hour pilot and series bible required. Letter grading.
 283C. Running Television Comedy Room
 Units: 4.0
-Seminar, three hours. Enforced requisite: course 283A. Practical knowledge about skills necessary to be writer/executive producer of half-hour comedy show. Focus on community building, collaboration, and leadership skills needed to successfully function in writers' room, as well as breaking stories, writing, and rewriting television scripts. Letter grading.
 284A. Writing One-Hour Drama Speculative Episode
 Units: 4.0
 Seminar, three hours. Basic tenets and analysis of television drama shows and contemporary industry production and business practices. Students write speculative (spec) episode for existing one-hour drama series. Letter grading.
 284B. Writing One-Hour Drama Pilot and Series Bible
 Units: 8.0
-Seminar, three hours. Requisite: course 283A. Examination of basics of drama pilot format, style, and content, and learning of principles behind network needs and choices in choosing pilots. Workshop in which to discuss ideas and issues with class and instructor. Weekly progress on original drama pilot and series bible required. Letter grading.
 284C. Running Television Drama Room
 Units: 4.0
-Seminar, three hours. Enforced requisite: course 284A. Practical knowledge about skills necessary to be writer/executive producer of one-hour drama show. Focus on community building, collaboration, and leadership skills needed to successfully function in writers' room, as well as breaking stories, writing, and rewriting television scripts. Letter grading.
 287A. Introduction to Art and Business of Producing I
 Units: 4.0
 Seminar, three hours. Introduction for first-year producers program students to producer's role in navigating unique dynamic between art and commerce in entertainment industry. Overview of development, production, and distribution of feature films for worldwide theatrical market, including identifying material, attracting elements, and understanding basics of studio and independent financing and distribution. S/U or letter grading.
@@ -554,6 +544,9 @@ Lecture, three hours. Course 292B is not requisite to 292C. Exploration of role 
 294A. Contracts and Negotiation
 Units: 4.0
 Lecture, three hours. Survey of range of contracts involved in studio productions, including literary submission and option agreements, artist employment, director employment, writer collaboration agreements, coproduction agreements, music rights license, etc. Actual studio agreements referenced to illuminate potential consequences of each transaction. Negotiation strategy exercises. S/U or letter grading.
+294B. Entertainment Law, Business Practices, and Negotiation Strategies
+Units: 4.0
+Lecture, three hours. Course 294A is not requisite to 294B. Introduction to feature-length motion picture business and law from perspective of independent and studio producer. Students establish working knowledge of entertainment law and business practices through basic understanding of important legal concepts and business considerations in connection with development, production and distribution, material terms of fundamental rights and talent agreements, and negotiation strategy. S/U or letter grading.
 294C. International Financing and Distribution
 Units: 4.0
 Lecture, three hours. Course 294B is not requisite to 294C. Legal-based course dealing with independent finance and distribution of feature films. Topics include fundamentals of film financing, domestic distribution, international distribution, European coproductions, role of foreign sales agents and of bankers and completion bond companies. S/U or letter grading.
@@ -656,6 +649,27 @@ Seminar, three hours. Requisites: courses 405, 409. Limited to and required of f
 410E. Production
 Units: 12.0
 Lecture, three hours; fieldwork, 24 to 40 hours. Requisites: courses 401, 409, 410A through 410D. Limited to and required of first-year MFA production/directing students. Designed to give hands-on experience in film production. Students prepare and direct six-minute films and serve in preassigned crew positions for each other. Letter grading.
+411A. Modes of Making: Experimental
+Units: 4.0
+Seminar, three hours; laboratory, one hour. Exploration of multiple and alternative modes of filmmaking and platforms for creative expression. Students are exposed to wide variety of media types and invited to undertake their own experiments, paying equal attention to form and content. Each student completes series of small-scale, low-tech, low-stakes film projects designed to fuel curiosity and open creative pathways, while also developing sense of community and learning to offer and accept feedback that is both supportive and challenging. Letter grading.
+411B. Modes of Making: Documentary
+Units: 4.0
+Lecture, three hours; laboratory, one hour. Exploration of craft and form of documentary filmmaking through series of synchronous and asynchronous film projects. Viewing, discussion, and practicing of interview, vérité, animated, and hybrid documentary approaches. Students work in partnerships and small crews to rotate and produce work in collaboration. Contemporary debates around documentary representation and film ethics are incorporated into classroom discussions and critiques. Letter grading.
+411C. Modes of Making: Narrative Fiction
+Units: 8.0
+Lecture, four hours; laboratory, four hours. Students work individually and in teams to complete small-scale film projects and exercises to develop specific building blocks needed for narrative fiction filmmaking. Course modules provide introduction to each element of narrative filmmaking, from preproduction to completion. Students gain experience with each key crew position and develop basic collaborative skills needed to work effectively with--and as part of--film crew. Letter grading.
+412A. Tools and Techniques: Experimental
+Units: 8.0
+Lecture, four hours; laboratory, four hours. Emphasis on both technical and aesthetic components of filmmaking, building with each iteration toward increasingly sophisticated and nuanced uses of all components of filmmaking process. Works in tandem with course 411A to develop hands-on skills needed for craft of media making in experimental mode. Taught by rotating group of specialist faculty. Topics and skills vary by term in coordination with assignments and skills needed to support course 411A. Although focus on practical skill development, skills are contextualized and motivated by creative and conceptual goals. Letter grading.
+412B. Tools and Techniques: Documentary
+Units: 8.0
+Lecture, four hours; laboratory, four hours. Emphasis on both technical and aesthetic components of filmmaking, building with each iteration toward increasingly sophisticated and nuanced uses of all components of filmmaking process. Works in tandem with course 411B to develop hands-on skills needed for craft of media making in nonfiction mode. Taught by rotating group of specialist faculty. Topics and skills vary by term in coordination with assignments and skills needed to support course 411B. Although focus on practical skill development, hands-on practices are contextualized and motivated by creative and conceptual goals. Letter grading.
+412C. Tools and Techniques: Narrative Fiction
+Units: 4.0
+Laboratory, four hours. Provides hands-on support and technical knowledge for students in parallel with their crew-based productions in course 411C. Students deepen their skills in key production roles including cinematography, sound, and editing. Meetings are divided among lecture, individual presentations, and laboratory. Letter grading.
+413. Themes and Issues: Foundations of Directing
+Units: 4.0
+Seminar, three hours. Provides intellectual and creative toolkit for subsequent undertakings in filmmaking, media making, and audio-visual storytelling. These source materials are agnostic with regard to certain questions of origin (genre, nation, format, portal, duration) and yet deeply rooted in politics and histories of representation that catalyze and inform racial, gendered, sexual, and ethnic lenses and visions. Letter grading.
 C416. Intermediate Cinematography
 Units: 4.0
 Lecture, two hours; laboratory, four hours. Intermediate study of principles of cinematography, with emphasis on exposure, lighting, and selection of film, camera, and lenses. Concurrently scheduled with course C118. Letter grading.
@@ -680,24 +694,22 @@ Studio laboratory, six hours. Requisite: course 423A. Limited to graduate film a
 430. Introduction to Film and Television Writing
 Units: 6.0
 (Formerly numbered C430.) Lecture, three hours. Introduction to film and television writing. S/U or letter grading.
-431. Introduction to Film and Television Screenwriting
-Units: 4.0
-Lecture, three hours. Limited to graduate film and television students. Introductory course in problems of film and television screenwriting. S/U or letter grading.
 433. Writing Short Screenplays
 Units: 4.0
 Lecture, three hours. Limited to and required of first-year MFA production program students. Conception, development, and writing of six-minute dramatic film script to be produced in courses 410A, 410B, 410C. Letter grading.
 434. Advanced Screenwriting
 Units: 8.0
-Seminar, three hours. Requisite: course 431. Advanced problems in writing of original film and television screenplays. May be repeated for credit. Letter grading.
 435. Advanced Writing for Short Film and Television Screenplays
 Units: 4.0
 Discussion, three hours. Requisite: course 410C. Limited to graduate film and television students. Conception, development, and writing of dramatic film script to be produced as advanced or thesis project. Letter grading.
-436. Advanced Storytelling Tools for Screenwriters: Study and Practice
-Units: 4.0
-Lecture, three hours. Recommended requisite: course C430 or 431. Instruction in identification and application of specialized narrative tools common to screenplays. Students view and analyze well-known films that employ these devices to significant and enduring effect. Students also read screenplays (or portions thereof) of these films to analyze how screenwriters convey each device in written form. Students write original scenes and/or synopses that demonstrate their practical mastery of these tools as they relate to their own development as screenwriters. S/U or letter grading.
 437. Adaptation for Screen
 Units: 8.0
-Seminar, three hours. Requisites: courses C430, 431. Students analyze techniques of dramatic adaptation and apply them by writing their own scripted adaptations. Students read selected texts and view their filmed versions in order to learn various approaches to adaptation. Students workshop their own screenplays adapted from preselected list of stories. Letter grading.
+438. Advanced Screenwriting: Rewrite
+Units: 8.0
+Seminar, three hours. Enforced requisites: courses 430, 434. Workshop in which students rewrite first draft of original screenplay that was written in course 434. Discussion of problems particular to rewrites: how to take notes and make them one's own; how to do deep-read on line-by-line basis of script; overall rewriting strategies; what is best for situation and script. Reading and discussion of student rewrites. Particular attention directed to how people talk about scripts that are not their own; how they avoid giving feedback based on how they might write something and how they move toward giving feedback that honors intention and integrity of script. May be repeated once for credit. Letter grading.
+440. Festival Strategies
+Units: 4.0
+Seminar, three hours. Exploration of film, television, streaming, and specialized festivals. Emphasis on strategies and practical knowledge necessary to navigate local, regional, and global festivals, whether as producer, director, animator, screenwriter, or scholar/programmer. Dialog and exchange of diverse ideas, perspectives and real-world experiences among students, faculty, and special industry guests. S/U or letter grading.
 451. Advanced Design for Film and Television
 Units: 4.0
 Laboratory, to be arranged. Limited to graduate film and television students. Advanced study and practice of techniques and methods of design for motion pictures. Art direction for advanced workshop productions. May be repeated for maximum of 12 units. S/U or letter grading.
@@ -734,6 +746,9 @@ Laboratory, eight hours. Supervised exercises in television multicamera directio
 C468. Creative Location Film Production
 Units: 8.0
 Lecture, four hours; discussion, four hours; laboratory, to be arranged. Limited to directing or producer's program students. Problems of location, production, directing, and cinematography in various real-life practical locations. Practical application of solving problems and communication within limitations of production experience. Concurrently scheduled with course C168. Letter grading.
+469. Contemporary Topics: UCLA Filmmakers
+Units: 4.0
+Seminar, two hours. Analysis of films made both outside and within traditional studio system, identification of materials and tools utilized to such purposes, exploration of story and themes of works within larger political and cultural framework, and development and articulation of personal storytelling voice rooted in specifics of history, background, and life experience. Designed as series of online master classes with visiting filmmakers, their collaborators, and occasional guest scholars participating in moderated discussions. Each class concludes with informal discussion with students. Weekly contextual readings and screenings. S/U or letter grading.
 472. Commercials
 Units: 4.0
 Lecture, four hours. Limited to MFA students. Designed to give students opportunity to explore one very specific kind of filmmaking. Through exploration of advertising, students gain knowledge about what kind of work is salable in American and foreign markets and how to work within distinct confines of commercial genre. Letter grading.
@@ -757,7 +772,6 @@ Units: 4.0 or 8.0
 Lecture, three hours; studio, to be arranged. Requisites: courses 181A, 181B, 181C. Advanced organization and integration of various creative arts used in animation, resulting in production of complete animated film. May be repeated for maximum of 16 units. S/U or letter grading.
 483A. Advanced Computer Animation
 Units: 4.0 to 8.0
-Lecture, six hours; laboratory, four hours. Requisites: courses 181A, 181C, 482A. Recommended: course 181B. Course 483A is requisite to 483B, which is requisite to 483C. Creation and production of complete and original advanced computer animated film. Letter grading.
 483B. Advanced Computer Animation
 Units: 4.0 to 8.0
 Lecture, six hours; laboratory, four hours. Requisite: course 483A. Creation and production of complete and original advanced computer animated film. Letter grading.
@@ -781,7 +795,7 @@ Units: 4.0
 Laboratory, eight hours. Limited to MFA production program students. Completion of projects in final stages of postproduction. May not be repeated. S/U or letter grading.
 488A. Interactive Animation
 Units: 4.0 to 8.0
-Lecture, six hours; laboratory, to be arranged. Requisites: courses 181A, 181C, 489A. Organization and integration of various creative arts used in animation and interactive media to form complete study of selective interactive animation project. May be repeated for maximum of 16 units. Letter grading.
+Lecture, six hours; laboratory, to be arranged. Requisites: courses C481A, C481C, 489A. Organization and integration of various creative arts used in animation and interactive media to form complete study of selective interactive animation project. May be repeated for maximum of 16 units. Letter grading.
 488B. Advanced Interactive Animation
 Units: 4.0 to 8.0
 Lecture, six hours; laboratory, to be arranged. Requisite: course 488A. Organization and integration of various creative arts used in animation and interactive animation to form completed project of selected interactive topic. May be repeated for maximum of 16 units. Letter grading.

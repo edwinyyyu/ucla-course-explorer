@@ -324,6 +324,7 @@ Units: 4.0
 Lecture, three hours. Examination of equity issues related to urban transportation, with focus on complex relationships among urban spatial structure, transportation (travel patterns and transportation investments), and economic outcomes. Role of transportation in improving economic outcomes for low-income and minority households and communities. Letter grading.
 M258. Transportation and Climate Change
 Units: 4.0
+(Same as Public Policy M223.) Lecture, three hours. How to reduce greenhouse gas emissions from transportation. Critical analysis of policies to improve fuel economy, promote electric vehicles, and reduce vehicle travel. History and legal frameworks of environmental regulation. Analytical methods to quantify carbon emissions and estimate emission reductions. Focus on climate change, but consideration of other environmental consequences of transportation, from air pollution to stormwater runoff. Letter grading.
 260. Environmental Politics and Governance
 Units: 4.0
 Lecture, three hours. Environmental planning is more than simply finding problems and fixing them. Each policy must be negotiated and implemented within multiple, complex systems of governance. Institutions and politics matter deeply. Overview of how environmental governance works in practice and how it might be improved. Letter grading.
@@ -383,6 +384,7 @@ Units: 4.0
 (Same as Architecture and Urban Design M272.) Lecture, two hours; workshop, two hours; outside study, eight hours. Requisites: courses 220A, 220B. Recommended for first-year students in community development and built environment area of concentration. Introduction to real estate development process specifically geared to students in planning, architecture, and urban design. Financial decision model, market studies, designs, loan packages, development plan, and feasibility studies. Lectures and projects integrate development process with proposed design solutions that are interactively modified to meet economic feasibility tests. S/U or letter grading.
 272B. Advanced Real Estate Studio
 Units: 4.0
+Studio, three hours. Requisite: course M272. Study combines disciplines of planning, urban design, construction, real estate finance and investment, and property operations and management. Students learn about behind-the-scene negotiations and decisions, and gain better ability to determine real estate project feasibility, deeper understanding about financing methods and alternatives, and knowledge about ways to frame development programs for success. Letter grading.
 273. Site Planning
 Units: 4.0
 Lecture, 90 minutes; laboratory, 90 minutes. Requisite: course 274. Introduction to principles of site planning for urban areas. S/U or letter grading.
@@ -418,6 +420,7 @@ Units: 4.0
 Lecture, three hours. Discussion and evaluation of philosophical bases, ideologies, and paradigms of urban design in last century; examination of how these are reflected on built environment of cities. Letter grading.
 283. Community Development, Organizing, and Engagement
 Units: 4.0
+Lecture, three hours. Examination of theory and practice of community development, organizing, and engagement. Understanding of multiple dimensions of community development (physical, economic, political, social) and how they interact, as well as major debates about community development strategies. Analysis of role of community organizing as empowerment strategy in disadvantaged and marginalized communities, and relationship of community and worker organizing to broader movements for social change. Consideration of various approaches to community participation and engagement, and struggles over power and inclusion within these processes. Examination of relations between community development, organizing, and engagement. Particular attention to race, gender, and class dimensions of these processes, issues of power, and how planner's role connects with processes. Letter grading.
 C284. Looking at Los Angeles
 Units: 4.0
 Lecture, three hours. Introduction to history and physical form of Los Angeles, with emphasis on understanding social, economic, and political issues in development of Los Angeles. Concurrently scheduled with course C184. Letter grading.

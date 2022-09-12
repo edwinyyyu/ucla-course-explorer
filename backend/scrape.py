@@ -3,6 +3,7 @@ from selenium.webdriver.common.keys import Keys
 
 from bs4 import BeautifulSoup
 
+import argparse
 import time
 
 SUBJECT_URL = "https://registrar.ucla.edu/academics/course-descriptions"
@@ -51,11 +52,20 @@ def scrape_courses(subject_area):
                 f.write(stripped + "\n")
     
 # main
-driver = webdriver.Firefox() # Edit to use preferred browser.
-
 with open("subjects.txt", "r") as f:
     lines = f.readlines()
-    for line in lines:
-        scrape_courses(line.strip())
+    
+    argparser = argparse.ArgumentParser(description="Scrape UCLA courses.")
+    argparser.add_argument("-l", type=int, nargs="+", choices=range(len(lines)),
+                           default=[], help="0-indexed subjects.txt line")
+    args = argparser.parse_args()
+    
+    driver = webdriver.Firefox() # Edit to use preferred browser.
+    if len(args.l) == 0:
+        for line in lines:
+            scrape_courses(line.strip())
+    else:
+        for line_index in args.l:
+            scrape_courses(lines[line_index].strip())
 
 driver.quit()

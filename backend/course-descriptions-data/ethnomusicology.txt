@@ -129,7 +129,7 @@ Studio, one hour. Limited to Ethnomusicology majors. Private or semiprivate musi
 99. Student Research Program
 Units: 1.0 to 2.0
 Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
-Upper Division Courses (88)
+Upper Division Courses (89)
 C100. Audiovisual Archiving in 21st Century
 Units: 4.0
 Seminar, three hours. Designed for Ethnomusicology majors. Examination of history, present state, and future of audiovisual archives, with specific focus on ethics, copyright, contracts, fieldwork, preservation, and access and issues related to technology, space, budgets, and staffing. Concurrently scheduled with course C200. P/NP or letter grading.
@@ -325,6 +325,8 @@ Activity, two hours; outside practice, one hour. Advanced performance of special
 168O. Advanced World Music Specializations: Music of Balkans--Instrumental Music
 Units: 1.0
 Activity, two hours; outside practice, one hour. Advanced performance of specializations in traditional vocal music, instrumental music, and dance. May be repeated for credit without limitation. P/NP or letter grading.
+171. Music and Diverse Worlds of Gender and Sexuality
+Units: 5.0
 M173. Selected Topics in Music and Religion in Popular Culture
 Units: 5.0
 (Same as Musicology M173.) Seminar, two hours. Enforced corequisite: attendance, but not enrollment, in course M73 lecture. Exploration of connections of music, religion, and popular culture among American Jews and Christians. Credit for both courses M73 and M173 not allowed. Letter grading.

@@ -1,5 +1,5 @@
 Society and Genetics
-Lower Division Courses (12)
+Lower Division Courses (13)
 5. Integrative Approaches to Human Biology and Society
 Units: 5.0
 Lecture, three hours; discussion, one hour. Introduction to concept of problem-based approaches to study of biology and society and areas of concentration, such as bioethics and public science policy, evolutionary biology, culture, and behavior, historical and social studies of life sciences, medical genetics and public health, and population genetics and history, and central thematic issues shared across concentrations, such as commercialization of life and public understanding of science. Letter grading.
@@ -8,10 +8,13 @@ Units: 1.0
 Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.
 M71A. Biotechnology and Society
 Units: 6.0
-(Same as Clusters M71A.) Lecture, three hours; discussion, two hours. Course M71A is enforced requisite to M71B, which is enforced requisite to M71CW. Limited to first-year freshmen. Exploration of methods, applications, and implications of biotechnology and of ethical, social, and political implications as well as biological underpinnings. Letter grading.
+(Same as Clusters M71A.) Lecture, three hours; discussion, two hours. Course M71A is enforced requisite to M71B, which is enforced requisite to M71CW. Limited to first-year freshmen. Exploration of methods, applications, and implications of biotechnology and of ethical, social, and political implications as well as biological underpinnings. P/NP or letter grading.
 M71B. Biotechnology and Society
 Units: 6.0
 (Same as Clusters M71B.) Lecture, three hours; discussion, two hours. Enforced requisite: course M71A. Limited to first-year freshmen. Exploration of methods, applications, and implications of biotechnology and of ethical, social, and political implications as well as biological underpinnings. Letter grading.
+M71B. Biotechnology and Society (Effective Winter 2023 )
+Units: 6.0
+(Same as Clusters M71B.) Lecture, three hours; discussion, two hours. Enforced requisite: course M71A. Limited to first-year freshmen. Exploration of methods, applications, and implications of biotechnology and of ethical, social, and political implications as well as biological underpinnings. P/NP or letter grading.
 M71CW. Biotechnology and Society: Special Topics
 Units: 6.0
 (Same as Clusters M71CW.) Seminar, three hours. Enforced requisite: course M71B. Limited to first-year freshmen. Topics include in-depth examination of ethics and human genetics, bioweapons and biodefense, sex and biotechnology. Satisfies Writing II requirement. Letter grading.
@@ -114,7 +117,7 @@ Units: 4.0
 Seminar, three hours. Historical and philosophical analysis of myth of separation of science and people. Controversies in genetics and biotechnology, medical research, and environmentalism show examples of popular science where scientists and nonscientists interact in surprising ways: when nonscientists challenge scientists' authority and knowledge, where scientists act like social movement. and where scientists and regular people work together, sometimes cooperatively and sometimes competitively, to generate knowledge. Consideration of some implications and contradictions for politics and knowledge production that emerge from popular science. Letter grading.
 164. Ethics in Health and Research
 Units: 4.0
-Lecture, three hours. Recommended requisite: course 102. How should life-saving organs be allocated in context of scarcity? What happens when doctor disagrees with patient on best treatment? Should researchers be allowed to experiment on human beings? Although medicine has always been faced with life-or-death decisions, new challenges arise in light of dramatic advances of biomedicine in 21st century. New possibilities for cures come with new moral issues. Biomedical research is full of promises, yet faces many ethical difficulties. Examination of complexity of decision making in bioethics by articulating point of views of all actors engaged in those decisions at local and international levels?doctors, nurses, patients, families, health policymakers, researchers, and citizens. Focus on case studies with reliance on philosophical essays and material from contemporary media. Letter grading.
+Lecture, three hours. Recommended requisite: course 102. How should life-saving organs be allocated in context of scarcity? What happens when doctor disagrees with patient on best treatment? Should researchers be allowed to experiment on human beings? Although medicine has always been faced with life-or-death decisions, new challenges arise in light of dramatic advances of biomedicine in 21st century. New possibilities for cures come with new moral issues. Biomedical research is full of promises, yet faces many ethical difficulties. Examination of complexity of decision making in bioethics by articulating point of views of all actors engaged in those decisions at local and international levels--doctors, nurses, patients, families, health policymakers, researchers, and  citizens. Focus on case studies with reliance on philosophical essays and material from contemporary media. Letter grading.
 165. Introduction to Bioethics
 Units: 4.0
 Lecture, three hours. Should one be allowed to choose sex of babies or whether they will be tall enough to be next basketball star? Should terminally ill be helped to die? Do human embryos have moral status? Examples of ethical questions that arise in light of dramatic advances of biomedicine in 21st century. While new knowledge and biotechnology give rise to great possibilities for improving care and finding cures, they also create new moral dilemmas and challenge us to redefine what is good life or family. Introduction to field of bioethics, with focus on case studies that rely on contemporary essays in philosophy and material from contemporary media. Letter grading.

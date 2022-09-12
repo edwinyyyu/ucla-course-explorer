@@ -36,7 +36,7 @@ Tutorial, three hours. Limited to students in College Honors Program. Designed a
 99. Student Research Program
 Units: 1.0 to 2.0
 Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
-Upper Division Courses (31)
+Upper Division Courses (32)
 100. Methods in Asian Linguistics
 Units: 4.0
 Lecture, three hours; discussion, one hour. Research methodologies for dealing with Asian languages, with emphases on bibliographical, data, and professional resources, issues in analyzing and presenting language examples, explaining language phenomena beyond what is observed, cross-linguistic comparisons, oral presentation skills, and writing reports in organized ways. P/NP or letter grading.
@@ -85,6 +85,8 @@ Lecture, three hours. Knowledge of Asian languages not required. Survey of regio
 C170. Approaches to Study of Religion
 Units: 4.0
 Seminar, three hours. Investigation of many ways in which religion and religions may be studied, including anthropological, sociological, psychological, phenomenological, political, reductionist, and other approaches. Readings of primary and secondary sources of modern scholarship. Concurrently scheduled with course C270. Letter grading.
+184. Women in History: East Asia
+Units: 4.0
 188SA. Individual Studies for USIE Facilitators
 Units: 1.0
 Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.
@@ -130,7 +132,7 @@ Tutorial, three hours. Enforced requisite: course 198B. Limited to junior/senior
 199. Directed Research in Asian Languages and Cultures
 Units: 2.0 to 8.0
 Tutorial, to be arranged. Recommended preparation: advanced reading knowledge of one Asian language. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated once with consent of instructor. Individual contract required. Letter grading.
-Graduate Courses (50)
+Graduate Courses (53)
 200. Research Methods in East Asian Linguistics
 Units: 4.0
 Seminar, three hours. Research methodologies for East Asian languages, with emphasis on compiling bibliographic data and using professional resources for research. Examination of issues in analyzing language examples, theoretical implications of linguistic data, and applications of functional linguistics in order to explain language phenomena. S/U or letter grading.
@@ -155,12 +157,18 @@ Seminar, three hours. Selected topics in East Asian culture and history, with fo
 206A. Issues in Teaching Asian Languages and Classroom Practices
 Units: 4.0
 Seminar, three hours; teaching practice, two and one half hours. Training and supervised Asian language practicum in form of in-person, online, and/or peer-based instructional activities for MA students under training to become language instructors at K-12 or postsecondary levels. Activities generally involve instruction, tutorial, assessment, material development, and other professional practices, with goal for students to gain actual experience on campus and in community-based language educational settings. Students perform 10 to 20 hours of teaching practices during quarter. S/U or letter grading.
+206A. MA Practicum: Issues in Teaching Asian Languages and Classroom Practices (Effective Fall 2023 )
+Units: 4.0
 206B. Instructional Apprenticeship in Teaching Asian Languages
 Units: 4.0
 Seminar, three hours; teaching practice, two and one half hours. Training and supervised Asian language practicum in form of in-person, online, and/or peer-based instructional activities for MA students under training to become language instructors at K-12 or postsecondary levels. Activities generally involve instruction, tutorial, assessment, material development, and other professional practices, with goal for students to gain actual experience on campus and in community-based language educational settings. Students perform 10 to 20 hours of teaching practices during quarter. S/U or letter grading.
+206B. MA Practicum: Instructional Apprenticeship in Teaching AsianLanguages (Effective Winter 2023 )
+Units: 4.0
 206C. Cultural and Social Contexts of Language Learning and Teaching
 Units: 4.0
 Seminar, three hours; teaching practice, two hours. Training and supervised Asian language practicum in form of in-person, online, and/or peer-based instructional activities for MA students training to become language instructors at K-12 or postsecondary level. Activities include instruction, tutorial, assessment, material development, and other professional practices, with goal for students to gain actual experience on campus and in community-based language educational settings. S/U or letter grading.
+206C. MA Practicum: Best Practices in Teaching Asian Languages (Effective Spring 2023 )
+Units: 4.0
 210. Proseminar: Cultural and Comparative Studies
 Units: 4.0
 Seminar, three hours. Designed for graduate students. Introduction to theoretical topics relevant to comparative study of East Asian cultures in modern period. Readings include Western theoretical works balanced with texts taking congruent approaches to East Asian topics. S/U or letter grading.

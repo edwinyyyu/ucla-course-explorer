@@ -27,10 +27,12 @@ Seminar, three hours. Designed for freshmen/sophomores. Study of current topics 
 99. Student Research Program
 Units: 1.0 to 2.0
 Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
-Upper Division Courses (57)
+Upper Division Courses (61)
 101. Introduction to Labor and Social Movements in Los Angeles
 Units: 4.0
 (Formerly numbered Labor and Workplace Studies 101.) Lecture, three hours; discussion, one hour. Students gain exposure to concepts of social justice, social movements, and workers and labor issues in context of global city of Los Angeles. In-depth examination of experience of workers and role of labor movement in Los Angeles, both historically and currently. Topics include changing organization of work in U.S. and reconfiguration of employment relationships; response of labor movement, historically and in present, to managerial initiatives; way in which organized labor has handled issues of class, race, ethnicity, gender, and immigration status; and challenges facing workers in 21st century and their institutional responses in Los Angeles. P/NP or letter grading.
+M108. Common Thread: Garment Workers Past, Present, Future
+Units: 4.0
 M114C. African American Political Thought
 Units: 4.0
 (Formerly numbered Labor and Workplace Studies M114C.) (Same as African American Studies M114C and Political Science M180A.) Lecture, three or four hours; discussion, one hour (when scheduled). Intensive introduction to African American political thought, with focus on major ideological trends and political philosophies as they have been applied and interpreted by African Americans. Debates and conflicts in black political thought, historical contest of African American social movements, and relationship between black political thought and major trends in Western thought. P/NP or letter grading.
@@ -157,6 +159,15 @@ Units: 4.0
 188. Special Courses in Labor and Workplace Studies
 Units: 4.0
 (Formerly numbered Labor and Workplace Studies 188.) Seminar, four hours. Program-sponsored experimental or temporary courses, such as those taught by visiting faculty members. May be repeated for credit. P/NP or letter grading.
+188SA. Individual Studies for USIE Facilitators
+Units: 1.0
+Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.
+188SB. Individual Studies for USIE Facilitators
+Units: 1.0
+Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.
+188SC. Individual Studies for USIE Facilitators
+Units: 2.0
+Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading.
 189. Advanced Honors Seminars
 Units: 1.0
 Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.

@@ -352,7 +352,7 @@ Tutorial, three hours per week per unit. Enforced requisite: course 196A (8 unit
 199. Directed Research in Chemistry and Biochemistry
 Units: 2.0 to 4.0
 Tutorial, three hours per week per unit. Enforced requisite: course 196A (8 units). Limited to juniors/seniors. Supervised individual research under guidance of faculty mentor. Culminating report required. May be repeated for maximum of 12 units. Individual contract required. P/NP or letter grading.
-Graduate Courses (151)
+Graduate Courses (152)
 C200. Genomics and Computational Biology
 Units: 5.0
 Lecture, four hours; discussion, one hour. Introduction for biochemistry students of technologies and experimental data of genomics, as well as computational tools for analyzing them. Biochemistry and molecular biology dissected life into its component parts, one gene at time, but lacked integrative mechanisms for putting this information back together to predict what happens in complete organism (e.g., over 80 percent of drug candidates fail in clinical trials). High-throughput technologies such as sequencing, microarrays, mass-spec, and robotics have given biologists incredible new capabilities to analyze complete genomes, expression patterns, functions, and interactions across whole organisms, populations, and species. Use and analysis of such datasets becomes essential daily activity for biomedical scientists. Core principles and methodologies for analyzing genomics data to answer biological and medical questions, with focus on concepts that guide data analysis rather than algorithm details. Concurrently scheduled with course C100. S/U or letter grading.
@@ -494,6 +494,8 @@ Seminar, two hours. Seminars presented by staff, outside speakers, postdoctoral 
 229. Introduction to Physical Chemistry Research
 Units: 2.0
 Lecture, 90 minutes. Designed primarily for entering graduate physical chemistry students. S/U grading.
+230A. Methods of Structural Molecular Biology: X-ray Crystallography and Electron Microscopy
+Units: 4.0
 M230B. Structural Molecular Biology
 Units: 4.0
 (Same as Molecular, Cell, and Developmental Biology M230B.) Lecture, three hours; discussion, one hour. Requisites: Mathematics 3C, Physics 6C. Selected topics from principles of biological structure; structures of globular proteins and RNAs; structures of fibrous proteins, nucleic acids, and polysaccharides; harmonic analysis and Fourier transforms; principles of electron, neutron, and X-ray diffraction; optical and computer filtering; three-dimensional reconstruction. S/U or letter grading.

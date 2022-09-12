@@ -15,16 +15,13 @@ Lecture, three hours. Population projections, population characteristics, birth 
 99. Student Research Program
 Units: 1.0 to 2.0
 Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
-Upper Division Courses (9)
+Upper Division Courses (8)
 M106. Health in Chicano/Latino Population
 Units: 4.0
 (Same as Chicana/o and Central American Studies CM106.) Lecture, four hours; discussion, one hour. Designed for juniors/seniors. Examination of Chicano/Latino health status through life expectancy, causes of death, reportable diseases, services utilization, provider supply, and risk behaviors within demographic/immigration changes. Binational review of health effects in U.S. and Mexico. Letter grading.
 C150. Fundamentals of Public Health
 Units: 4.0
 (Formerly numbered 150.) Lecture, four hours; discussion, one hour. Exploration of foundations of public health by examining public health challenges at local, national, and global levels, and current strategies for advancing population health. Analysis of current public health issues and modern public health policies and practices. May be concurrently scheduled with course C201. Letter grading.
-M151. Healthcare in Transitional Communities
-Units: 4.0
-(Same as Sociology M142.) Lecture, three hours; discussion, one hour. Analysis of social, cultural, economic, and political processes affecting organization and accessibility of healthcare in transitional and disadvantaged communities. Fieldwork required. Letter grading.
 M160A. Health Outreach and Education for At-Risk Populations
 Units: 4.0
 (Same as Medicine M160A.) Lecture, four hours; possible field observations. First in series of courses to explore prevention of disease in at-risk populations, clinical services and referrals for disadvantaged, and effects of low socioeconomic status on academic achievement, career, and family. Lectures by faculty and practitioners, with field visits. P/NP or letter grading.
@@ -43,7 +40,7 @@ Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/se
 195CE. Community and Corporate Internship in Public Health
 Units: 4.0
 Tutorial, to be arranged; fieldwork, eight to 10 hours. Limited to Public Health minors. Internship in corporate, governmental, or nonprofit setting coordinated through Center for Community Engagement. Students complete weekly written assignments, attend biweekly meetings with graduate student coordinator, and write final research paper. Faculty of record and graduate student instructor construct series of reading assignments that examine issues related to working in field of public health. Individual contract with supervising faculty member required. Letter grading.
-Graduate Courses (9)
+Graduate Courses (10)
 200A. Foundations in Public Health
 Units: 8.0
 Lecture, seven hours; discussion, one hour. Introduction to foundational concepts, definitions, historical milestones, and methods related to five core disciplines of public health. Using traditional lecture presentations, active-learning case-based classroom discussions, lab sessions, and community projects, students learn essential knowledge about public health as well as skills needed to be effective public health processional, including oral and written presentation skills for relevant audiences, data analytic and presentation skills, and multidisciplinary team-building skills working with students from throughout school of public health. Letter grading.
@@ -62,6 +59,8 @@ Seminar, two hours. Interactive seminar, with focus on research process, tips fo
 401. Public Health as Profession
 Units: 4.0
 Lecture, four hours. Limited to Fielding School of Public Health graduate students. Introduction to interprofessional collaboration, team building, leadership, communication, cultural humility, and implicit bias, while supporting professional development and growth of Master of Public Health students (MPH). Focus on development of strong collaborative skills with opportunities to practice benefiting students entering public health workforce. MPH students participate in systems-based health-care course with dental, medical, and nursing students. S/U grading.
+401. Public Health as Profession (Effective Winter 2023 )
+Units: 4.0
 475. Pedagogy: Essential Skills and Innovative Strategies
 Units: 2.0
 Seminar, two hours. Designed for School of Public Health doctoral students. Interactive seminar with focus on developing teaching materials for courses and acquisition of skills and tools that help students to become successful and innovative instructors. Active learning methodologies and competencies-based approach to instruction. S/U or letter grading.

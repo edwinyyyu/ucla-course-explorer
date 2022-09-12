@@ -111,7 +111,7 @@ Lecture, two hours. Variable topics course with lectures, discussions, and paper
 99. Student Research Program
 Units: 1.0 to 2.0
 Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
-Upper Division Courses (33)
+Upper Division Courses (30)
 100A. Introduction to Study of Spanish Grammar: Phonology and Morphology
 Units: 4.0
 Lecture, four hours. Requisite: course M35. Analysis of phonemic and morphological systems of Spanish. P/NP or letter grading.
@@ -142,21 +142,11 @@ Lecture, four hours; discussion, one hour (when scheduled). Enforced requisites:
 140. Topics in Modern Studies
 Units: 4.0
 Lecture, four hours. Requisites: courses 25 or 27, and 119. Exploration of major literary movements and writers of 18th and 19th centuries in Spain and Spanish America. Possible topics include Enlightenment, Romanticism, nation-building literature, realism and naturalism, and works by Cadalso, Concolorcorvo, Lizardi, Larra, Sarmiento, Bécquer, Isaacs, Mera, Villaverde, and Galdós. May be repeated for credit with topic change. P/NP or letter grading.
-M145A. Introduction to Chicano Literature: Literature to 1960
-Units: 4.0
-(Same as Chicana/o and Central American Studies M145A.) Lecture, three hours. Requisite: course 25 or 27. Introduction to texts representative of Chicano literary heritage. Sampling of genres, as well as historical and geographical settings and points of view characteristic of work written by Chicanos during 20th century. Most required reading in Spanish. Bilingual and English works included and discussed. Reading and analysis of number of important scholarly and critical statements pertaining to characteristics and development of Chicano literary corpus. Letter grading.
 150. Topics in Contemporary Studies
 Units: 4.0
 Lecture, four hours; discussion, one hour (when scheduled). Requisites: courses 25 or 27, and 119. Exploration of main trends that characterize contemporary Latin American and Spanish literatures and cultures and main concepts used to address them. Possible topics include transculturation and heterogeneity, race and ethnicity, vanguard movements, lettered and popular cultures, literary modernization in Latin American boom, literature and revolution, autobiography, women's writing, border literature, and postmodernist fiction. May be repeated for credit with topic change. P/NP or letter grading.
-M155A. Chicano Narrative
+155. Topics in U.S. Latina/o Studies
 Units: 4.0
-(Same as Chicana/o and Central American Studies M146.) Lecture, three hours. Enforced requisite: course 25 or 27. Introduction to major Chicano narrative genres--novel, romance, satire, autobiography, cronicón/semblanza, Chicana detective novel, and Chicana solidarity fiction. Texts examined within their own geographic, cultural, and historical contexts, as well as within history of narrative forms. P/NP or letter grading.
-M155B. Literature of Chicana/Chicano Movement
-Units: 4.0
-(Same as Chicana/o and Central American Studies M145B.) Lecture, three hours. Enforced requisite: course 25 or 27. Examination of literature of Chicana/Chicano movement covering period from first manifestations of Chicano artistic production in 1965 with el Teatro Campesino through rise of women's writing, including work by Cherrie Moraga (1983), Helena Maria Viramontes (1985), and Sandra Cisneros (1991). P/NP or letter grading.
-155C. Topics in U.S. Latino Studies
-Units: 4.0
-Lecture, four hours. Enforced requisite: course 25 or 27. Exploration of spread of Spanish-American literature and culture throughout North America, including literatures that are outgrowth of civil rights movements of 1960s, recent demographic changes, new transnational identities, and mixed citizenships of U.S. Latinas and Latinos. Chicano, Puerto Rican, Cuban American, Central American-American, South American-American, and Jewish Latino literatures may be included. May be repeated for credit with topic change. P/NP or letter grading.
 160. Topics in Spanish Linguistics
 Units: 4.0
 Lecture, four hours. Requisite: course 25 or 27. Exploration of origin of language, how Spanish is acquired, evolution of Spanish from Latin to early modern period, how Spanish varies in world, how to teach Spanish, Spanish in contact with other languages. Possible topics include Spanish in Los Angeles, history of Spanish language, first- and second-language acquisition, language and cognition. May be repeated for credit with topic change. P/NP or letter grading.

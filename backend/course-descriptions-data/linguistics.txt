@@ -1,5 +1,5 @@
 Linguistics
-Lower Division Courses (19)
+Lower Division Courses (18)
 1. Introduction to Study of Language
 Units: 5.0
 Lecture, three hours; discussion, one hour. Summary for general undergraduates of what is known about human language; biological basis of language, scientific study of language and human cognition; uniqueness of human language, its structure, universality, its diversity; language in social and cultural setting; language in relation to other aspects of human inquiry and knowledge. P/NP or letter grading.
@@ -27,9 +27,6 @@ Lecture, four hours; discussion, one hour (when scheduled). How is meaning of la
 9W. Linguistic Humor: Amusing and Abusing with Language
 Units: 5.0
 Seminar, five hours. Requisite: English Composition 3. Study of how principles of science of linguistics are applied in analyzing language structure. Data from humor and other amusements, such as secret languages (Pig Latin and more). Introduction to basics of linguistics analysis, including language sound systems, syntactic analysis, word structure, word meaning, and pragmatics. Focus on nature of language as innate part of human biology that allows people from all cultural and linguistic backgrounds to adapt language for humorous purposes, albeit shaped by culture as to what counts as funny. Satisfies Writing II requirement. P/NP or letter grading.
-M10. Structure of English Words
-Units: 5.0
-(Same as English M40.) Lecture, four hours; discussion, one hour. Introduction to structure of English words of classical origin, including most common base forms and rules by which alternate forms are derived. Students may expect to achieve substantial enrichment of their vocabulary while learning about etymology, semantic change, and abstract rules of English word formation. P/NP or letter grading.
 19. Fiat Lux Freshman Seminars
 Units: 1.0
 Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.

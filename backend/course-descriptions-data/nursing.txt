@@ -106,7 +106,7 @@ Tutorial, one hour. Limited to junior/senior Nursing majors. Individual intensiv
 199. Directed Research or Senior Project in Nursing
 Units: 2.0 to 4.0
 Tutorial, two hours. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit. Individual contract required. P/NP or letter grading.
-Graduate Courses (122)
+Graduate Courses (123)
 200. Health Promotion and Assessment across Lifespan
 Units: 4.0
 Lecture, four hours. Review and discussion of research, theories, clinical practice guidelines, healthcare systems, and policies that influence assessment of health and health behaviors, health promotion, and screening of disease across lifespan among diverse populations in multiple settings in communities for advanced practice nurse (clinical nurse specialist and nurse practitioner). Letter grading.
@@ -271,10 +271,13 @@ Units: 4.0
 Lecture, three hours; discussion, one hour. Variable topics; consult Schedule of Classes for topics to be offered in specific term. May be repeated for credit. S/U or letter grading.
 291A. Applied Statistics and Analytics for Health Sciences Research 1
 Units: 4.0
+Lecture, three hours; laboratory, one hour. Requisite: doctoral standing or consent of instructor, introductory statistics course. Introduction to applied statistics. Students gain skills to understand, conduct analyses, and interpret results of analyses to answer simple comparative and relationship research questions relevant to health science research. Topics include statistical inference and probability, distributions, effect size, analyses for description, data visualization, parametric and nonparametric tests for simple comparisons and relationships, and research database design and management. Students conduct analyses with statistical software and interpret results from their analyses and from research reports in literature. Letter grading.
 291B. Applied Statistics and Analytics for Health Sciences Research II
 Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: course 291A, doctoral standing, or consent of instructor. Focus on linear statistical models and other analytic techniques to examine complex relationships and comparisons. Approach primarily from applications and interpretation perspective. Students evaluate statistical/analytical results from research literature, analyze data using quantitative multivariate techniques, and interpret results. Introduction of concepts and interpretation of broad range of multivariate statistical and analytical approaches, including regression (linear and logistic regression and survival models), factor analysis, multi-factor and repeated measures analysis of variance, mixed effects models, machine-learning analytic techniques for big data, and other selected approaches. Students utilize several of approaches to analyze research data. Letter grading.
 291C. Special Topics in Applied Statistics and Analytics for Health Sciences Research III
 Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: course 291B, doctoral standing, or consent of instructor. Focus on statistical models and analytic techniques to examine complex relationships and comparisons. Approach primarily from applications and interpretation perspective. Students evaluate analytical results from research literature, and analyze data and interpret results using selected quantitative approaches. Introduction of concepts and interpretation of results from selected quantitative approaches that can address complex nursing and other health sciences research questions. Approaches to be studied include selected topics from mediation models, interactions and effect modification, structural equation models, mixed effects regression models for longitudinal or multilevel data, secondary analysis, weighted survey data, meta analysis, genomic statistics, artificial intelligence/machine learning approaches for big data. Letter grading.
 295A. Grant Writing I: Scientific Proposal Development
 Units: 3.0
 Seminar, three hours. Requisites: courses 202, 205A, 206A, 210A, 210B, Biostatistics 100B. Introduction to grant writing, with focus on preparing application for National Student Research Award (NRSA) or similar award. Discussion of requirements of various extramural and specialty organization funding sources and identification of evaluation criteria. Emphasis on role of external funding to facilitate doctoral and postdoctoral research, research activities, and professional development. Letter grading.
@@ -452,6 +455,8 @@ Lecture, two hours; clinical, six hours. Requisite: course 470C. Students comple
 495. Nursing Education Practicum
 Units: 2.0
 Seminar, six hours. Supervised student teaching internship in preparation for academic roles. In-depth opportunity to gain skills in role of nurse educator within university setting, including application of instructional strategies and evaluation methods. S/U grading.
+495A. Teaching Assistant Training Seminar
+Units: 2.0
 496A. Education Practicum in Nursing Practice I
 Units: 1.0
 Activity, one hour; discussion, one hour. Corequisites: courses 401, 402. Focuses on development and implementation of patient education program. Prepares DNP students for teaching roles in variety of different health care settings. Emphasis on application of educational program structure, content, appropriate curriculum development, methods of teaching and evaluation that can be applied in variety of different settings in which DNP advanced practices nurses teach. In progress grading (credit to be given only on completion of courses 496B and 496C).

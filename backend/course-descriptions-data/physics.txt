@@ -72,7 +72,7 @@ Laboratory, three hours. Corequisite: associated undergraduate lecture course in
 99. Student Research Program
 Units: 1.0 to 2.0
 Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
-Upper Division Courses (53)
+Upper Division Courses (54)
 105A. Analytic Mechanics
 Units: 4.0
 Lecture, three hours; discussion, one hour. Requisite: course 32. Corequisite: Mathematics 33B. Newtonian mechanics and conservation laws, gravitational potentials, calculus of variations, Lagrangian and Hamiltonian mechanics, central force motion, linear and nonlinear oscillations. P/NP or letter grading.
@@ -145,6 +145,9 @@ Lecture, three hours; discussion, one hour. Requisites: courses 1A, 1B, and 1C (
 170A. Electronics for Physics Measurement
 Units: 4.0
 (Formerly numbered 117.) Lecture, two hours; laboratory, four hours. Requisites: courses 1A, 1B, and 1C (or 1AH, 1BH, and 1CH), Mathematics 32B, 33A, 33B. Hands-on experimental course to develop understanding of design principles in modern electronics for physics measurements. Broad introduction to analog and digital electronics from practical viewpoint, followed by examination of typical circuits for scientific instrumentation and study of methods of computer data acquisition and signal processing. Letter grading.
+170E. Introduction to Symbolic Computation
+Units: 4.0
+Lecture, one hour; laboratory, three hours. Corequisite: course 105A. Students learn to use Mathematica or other programs to solve variety of mathematical problems that arise in physics. Use of skills developed to solve complicated systems, model behavior, and explore in greater depth other advanced physics topics. P/NP or letter grading.
 170M. Machine Learning for Physical Sciences Laboratory
 Units: 4.0
 (Formerly numbered 180M.) Lecture, two hours; laboratory, four hours. Requisites: courses 1A, 1B, and 1C (or 1AH, 1BH, and 1CH), Mathematics 32A, 33A. Preparation: experience in programming using Python. Project-based course designed for students with no previous experience in machine learning to learn about methods and algorithms in machine learning and their application to scientific problems in physical sciences. Students develop experience in compilation, analysis, and cleaning of data. Machine learning topics include classification, regression, dimensionality reduction, clustering, and kernel methods. P/NP or letter grading.
@@ -232,7 +235,7 @@ Tutorial, 12 hours. Limited to juniors/seniors with overall 3.0 grade-point aver
 199. Directed Research or Senior Project in Physics
 Units: 2.0 to 4.0
 Tutorial, two hours. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper required. May be repeated for credit. Individual contract required. P/NP or letter grading.
-Graduate Courses (81)
+Graduate Courses (82)
 201Q. Modern Physics Research Areas
 Units: 2.0
 Review of modern physics research areas, with emphasis on those actively pursued at UCLA. S/U grading.
@@ -292,7 +295,7 @@ Units: 6.0
 Lecture, four hours. Requisites: courses 221A, 221B, 221C, 230A, 230B (230A, 230B may be taken concurrently). Modern theories of elementary particle physics beginning with symmetry principles and conserved quantities, classic V-A theory of weak interactions, gauge field theories (Abelian and non-Abelian), spontaneous symmetry breaking, SU(2) x U(1) electroweak interactions of leptons, quarks, Ws, Zo and y, quark theory of hadrons and quantum chromodynamics. S/U or letter grading.
 226D. Beyond the Standard Model
 Units: 4.0
-Lecture, three hours. Requisites: courses 226A, 226B, 226C, 230A, 230B, 230C. Discussion of possible extensions of the current standard model of electroweak and strong interactions, including axions, technicolor, grand unified theories, supersymmetry, supergravity, and superstrings. S/U grading.
+Lecture, three hours. Requisites: courses 226A, 226B, 226C, 230A, 230B, 230C. Discussion of possible extensions of the current standard model of electroweak and strong interactions, including axions, Technicolor, grand unified theories, supersymmetry, supergravity, and superstrings. S/U grading.
 226E. Particle Astrophysics: Exploring Earliest and Extreme Universe
 Units: 4.0
 Lecture, three and one half hours. Requisites: courses 210A, 210B, 221A, 221B. Recommended: course 226A. Introduction to high-energy astrophysics and discussion of latest developments in both experimentation and theory. Special emphasis on unified picture of universe that emerges from particle physics, astronomy, and cosmology. S/U or letter grading.
@@ -392,6 +395,9 @@ Units: 4.0
 243M. Statistical Mechanics of Living Systems from Active Matter to Immune System
 Units: 2.0 to 4.0
 Seminar, four hours. Exploration of how concepts and models from statistical physics can be used to gain quantitative and intuitive understanding of biological phenomena. Introduction to analytical and computational methods for describing stochastic complex systems, with application to problems in mechanics and dynamics of active matter and evolutionary dynamics of immune system. S/U or letter grading.
+245. Quantum Computation
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisite: course 115A. Recommended requisites: courses 115B, 115C, 131. Quantum circuits, quantum Fourier transform, quantum algorithms, physical implementations and Jaynes-Cummings model. May not be repeated for credit. Letter grading.
 250. Introduction to Acceleration of Charged Particles
 Units: 4.0
 Lecture, three hours. Requisites: courses 210A, 210B, 215A. Principles of charged-particle acceleration, including principles of synchrotrons and storage rings, beam parameter determination, statistical behavior of beams and beam cooling techniques, synchrotron light sources, colliding beam storage rings, medical accelerators, and free electron lasers.

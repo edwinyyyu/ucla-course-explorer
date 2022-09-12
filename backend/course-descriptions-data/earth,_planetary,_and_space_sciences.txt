@@ -189,6 +189,7 @@ Units: 4.0
 Lecture, four hours. Enforced requisites: course M71, Mathematics 3A, 3B, and 3C (or 31A and 31B). Use of high level computing language to program microcontrollers to acquire laboratory-style experimental data. Misfit modeling and quantitative comparisons of acquired data sets and theory. Forward modeling from fundamental equations. Examples, experiments, and exercises from disciplines within geosciences. P/NP or letter grading.
 M171. Advanced Computing in Geosciences
 Units: 4.0
+(Formerly numbered 171.) (Same as Atmospheric and Oceanic Sciences M171.) Lecture, four hours. Enforced requisites: course M71, Mathematics 3A, 3B, and 3C (or 31A and 31B). Use of high level computing language to program microcontrollers to acquire laboratory-style experimental data. Misfit modeling and quantitative comparisons of acquired data sets and theory. Forward modeling from fundamental equations. Examples, experiments, and exercises from disciplines within geosciences. P/NP or letter grading.
 CM173. Earth Process and Evolutionary History
 Units: 6.0
 (Same as Ecology and Evolutionary Biology CM173.) Lecture, four hours; laboratory, three hours. Requisites: Chemistry 14A, 14B (or 20A, 20B), Life Sciences 1, 2, 3, and 4, or 7A, 7B, and 7C (or 7A and introductory course in geology). Exploration of relationship between physical processes, such as tectonics and climate, and how they affect surface and impact biology of Earth. Study of evolution of universe, Earth, and life, with integration of history of science, including Darwinian evolution and plate tectonics revolutions. Study of formation of matter offers tools to understand geologic process of climate and ecology of Earth. Past climate change to examine expected future human-influenced climate. Consideration of major events in history of life on Earth. Data and methods from geology, genetics, and geochemistry are integrated to reconstruct past events. This reveals how Earth processes shaped life and how life shaped Earth. Concurrently scheduled with course CM273. Letter grading.
@@ -384,6 +385,8 @@ Seminar, three hours. Problems of igneous or metamorphic petrology: methods of e
 255. Seminar: Structural Geology and Tectonics
 Units: 4.0
 Seminar, three hours. Flow and fracture in Earth's crust from microscopic to continental scale and in experiments. Examples may include metamorphic terranes, glaciers, plutons, volcanoes, and consolidated or unconsolidated sediments. Modern concepts of oceanic basins; processes leading to segregation of continental-type rocks. S/U or letter grading.
+256. Seminar: Geophysics
+Units: 4.0
 257. Seminar: Paleontology
 Units: 4.0
 Seminar/discussion, three hours. Advanced topics in paleobiology, biostratigraphy, paleoecology, and paleobiogeography, with emphasis on relations to other disciplines. S/U or letter grading.
@@ -423,9 +426,6 @@ Units: 6.0
 C279. Search for Extraterrestrial Intelligence: Theory and Applications
 Units: 4.0
 Lecture, two hours; laboratory, two hours. Enforced requisites: Mathematics 31B, Physics 1B. Recommended: course 71 or Computer Science 31 or Program in Computing 10A, and Physics 110B. Search for extraterrestrial intelligence (SETI) is based on number of astronomical, mathematical, statistical, and computational principles. Coverage of fundamental concepts in these disciplines in context of SETI: abundance and architecture of extrasolar planetary systems; radio astronomy, including wave propagation and dispersion; signal processing, including sampling theory and Fourier transforms; random processes, including Gaussian and Poisson statistics, and algorithm development. Design of observational program, acquisition of telescopic data, development of algorithms to analyze data, and writing of report on results. Concurrently scheduled with course C179. S/U or letter grading.
-282. Seminar: Geophysics
-Units: 4.0
-Seminar, two hours; discussion, two hours. Seismology, geophysical prospecting, electromagnetic prospecting. Selected topics in Earth physics. Content varies from year to year. May be repeated for credit. S/U or letter grading.
 M285. Origin and Evolution of Solar System
 Units: 4.0
 (Same as Astronomy M285.) Lecture, four hours. Dynamical problems of solar system; chemical evidences from geochemistry, meteorites, and solar atmosphere; nucleosynthesis; solar origin, evolution, and termination; solar nebula, hydromagnetic processes, formation of planets and satellite systems. Content varies from year to year. May be repeated for credit. S/U grading.

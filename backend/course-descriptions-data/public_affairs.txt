@@ -39,7 +39,7 @@ Tutorial, two hours; fieldwork, eight hours. Limited to freshmen/sophomores. Ent
 99. Student Research Program
 Units: 1.0 to 2.0
 Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
-Upper Division Courses (60)
+Upper Division Courses (62)
 M109. Introduction to Cities and Planning
 Units: 4.0
 (Same as Urban Planning M120.) Lecture, three hours; discussion, one hour. Survey of urban history and evolution in U.S., urban social theory, current growth trends, system of cities, urban economy and economic restructuring, traditional and alternative location theories, urban transportation, and residential location and segregation. P/NP or letter grading.
@@ -168,9 +168,13 @@ Units: 4.0
 187B. Experiential Learning Capstone
 Units: 4.0
 Lecture, two hours; discussion, one hour. Requisite: course 187A. Limited to and required for senior Public Affairs majors. Students apply public affairs course concepts and methods to internship experience; refine understanding of concepts and methods based on internship experience; gain new knowledge about specific topics related to their internship; and develop new skills needed to complete capstone project. Letter grading.
+187BX. Experiential Learning Capstone
+Units: 4.0
 187C. Experiential Learning Capstone
 Units: 4.0
 Lecture, two hours; discussion, one hour. Requisite: course 187B. Limited to and required for senior Public Affairs majors. Students apply public affairs course concepts and methods to internship experience; refine understanding of concepts and methods based on internship experience; gain new knowledge about specific topics related to their internship; and develop new skills needed to complete capstone project. Letter grading.
+187CX. Experiential Learning Capstone
+Units: 4.0
 188SA. Individual Studies for USIE Facilitators
 Units: 1.0
 Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.

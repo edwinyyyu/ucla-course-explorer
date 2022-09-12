@@ -210,10 +210,10 @@ Units: 4.0
 Lecture, three hours. Requisite: course 11. Survey of broad range of policy and theoretical issues that are raised when economic analysis is applied in urban setting. Topics include urbanization and urban growth, housing markets, location decisions of households and firms, transportation, urban labor markets, and local public sector. P/NP or letter grading.
 140. Computational Methods for Economists
 Units: 4.0
-Lecture, three hours; discussion, one hour. Requisites: courses 101, 102, 103, Mathematics 31A, 31B, 32A, 33A, 33B. Enforced corequisite: course 140L. Introduction to variety of computational methods used in economics. Use of Python and numerical techniques to solve models in macroeconomics and finance, microeconomics, and econometrics. Students should be familiar with scientific programming language such as R or Matlab but are not required to know Python. P/NP or letter grading.
+Lecture, three hours; discussion, one hour. Requisites: courses 101, 102, 103, Mathematics 31A, 31B, 32A, 33A, 33B. Enforced corequisite: course 140L. Introduction to variety of computational methods used in economics. Use of Python and numerical techniques to solve models in macroeconomics and finance, microeconomics, and econometrics. Students should be familiar with scientific programming language such as R or MATLAB but are not required to know Python. P/NP or letter grading.
 140L. Computational Methods for Economists Laboratory
 Units: 1.0
-Lecture, one hour; laboratory, one hour. Requisites: courses 101, 102, 103, Mathematics 31A, 31B, 32A, 33A, 33B. Enforced corequisite: course 140. Problem-solving and project-based laboratory requiring students to apply computational methods from course 140 to solve models in macroeconomics and finance, microeconomics, and econometrics. Students should be familiar with scientific programming language such as R or Matlab but are not required to know Python. P/NP or letter grading.
+Lecture, one hour; laboratory, one hour. Requisites: courses 101, 102, 103, Mathematics 31A, 31B, 32A, 33A, 33B. Enforced corequisite: course 140. Problem-solving and project-based laboratory requiring students to apply computational methods from course 140 to solve models in macroeconomics and finance, microeconomics, and econometrics. Students should be familiar with scientific programming language such as R or MATLAB but are not required to know Python. P/NP or letter grading.
 141. Topics in Microeconomics: Mathematical Finance
 Units: 5.0
 Lecture, three hours; computer laboratory, one hour. Requisites: course 11, Mathematics 32A, either Statistics 100A or Mathematics 170A. Economics of financial markets, competitive equilibrium with time and uncertainty, one period security market model, market completeness. P/NP or letter grading.
@@ -415,7 +415,7 @@ Tutorial, three hours. Requisites: courses 11, 101, 102. Limited to juniors/seni
 199B. Directed Research in Economics/International Area Studies
 Units: 4.0
 Tutorial, three hours. Students prepare research papers under guidance of faculty mentor on economy of country or region of specialization. May be repeated for credit. Individual contract required. P/NP or letter grading.
-Graduate Courses (217)
+Graduate Courses (218)
 200. Mathematical Methods in Economics
 Units: 4.0
 Lecture, three hours. Should be taken prior to enrollment in course 201A. Examination of mathematical methods used in graduate-level courses in microeconomics, macroeconomics, and quantitative methods. Topics include real analysis, linear algebra and matrices, calculus of many variables, static optimization, convex analysis, and dynamics and dynamic optimization. S/U grading.
@@ -452,6 +452,8 @@ Lecture, three hours; discussion, one hour. Econometrics methods for time-series
 M204A. Applications of Economic Theory: California Population Research Topical Seminar Series
 Units: 4.0
 (Same as Sociology M225A.) Seminar, three hours. Examination of issues such as demography, health, aging, labor, and broad array of topics concerned with effects of economic, social, and political transformations on human behavior both in U.S. and abroad. May be taken independently for credit. S/U grading.
+M204A. Applications of Economic Theory: California Population Research Topical Seminar Series (Effective Winter 2023 )
+Units: 4.0
 204B. Applications of Economic Theory: California Population Research Topical Seminar Series
 Units: 4.0
 Seminar, three hours. Examination of issues such as demography, health, aging, labor, and broad array of topics concerned with effects of economic, social, and political transformations on human behavior both in U.S. and abroad. May be taken independently for credit. S/U grading.
@@ -506,11 +508,11 @@ Lecture, three hours. Topics from classical economics, including work of Smith, 
 M208. Introduction to Demographic Methods
 Units: 4.0
 (Same as Biostatistics M208, Community Health Sciences M208, and Sociology M213A.) Lecture, four hours. Preparation: one introductory statistics course. Introduction to methods of demographic analysis. Topics include demographic rates, standardization, decomposition of differences, life tables, survival analysis, cohort analysis, birth interval analysis, models of population growth, stable populations, population projection, and demographic data sources. Letter grading.
-209A. Ph.D. Research Seminar Class
+209A. PhD Research Seminar
 Units: 4.0
-209B. Ph.D. Research Seminar Class
+209B. PhD Research Seminar
 Units: 4.0
-209C. Ph.D. Research Seminar Class
+209C. PhD Research Seminar
 Units: 4.0
 211A. Contract Theory
 Units: 4.0
@@ -719,9 +721,9 @@ Lecture, three hours. Requisite: course 261A. Models of life-cycle learning and 
 262A. Topics in Labor Economics
 Units: 4.0
 Lecture, three hours. Current research in labor economics. Content varies. May be repeated for credit. S/U or letter grading.
-262D. Topics in Labor Economics: Development Economics
+262D. Development Economics
 Units: 4.0
-Lecture, three hours. Preparation: completion of first-year graduate microeconomics and econometrics courses. Coverage of important key topics in microeconomics of development, such as health, education, risk coping, savings, credit, and household economics. Discussion of empirical methods. S/U or letter grading.
+Lecture, three hours. Preparation: completion of first-year graduate microeconomics and econometrics courses. Focus on issues in development economics with emphasis on issues in micro-development. Covers both theoretical and empirical contributions, with particular emphasis on most recent research advances in field. Covers topics from development perspective related to gender and family economics, history, institutions, culture, education, health, agriculture, and risk-sharing. Emphasis on developing skills to implement commonly-used research methods. S/U or letter grading.
 262F. Topics in Labor Economics: Public Sector Microeconomics
 Units: 4.0
 Lecture, three hours. Preparation: completion of first-year graduate microeconomics and econometrics courses. Coverage of topics related to tax incidence, deadweight loss, public expenditure, income taxation and transfer programs, with emphasis on impacts of such programs on labor supply and savings, social security, unemployment insurance, and other insurance programs. S/U or letter grading.
@@ -835,7 +837,7 @@ Units: 4.0
 Lecture, three hours. Current research in international economics. Content varies. May be repeated for credit. S/U or letter grading.
 284. Soviet Economic Theory and Organization
 Units: 4.0
-Lecture, three hours. Overall strategy of planning used by U.S.S.R. planners and specific planning methods, interpreted broadly to cover not only instructions and objectives but also institutional arrangements. Intended and unintended outcomes of methods. S/U or letter grading.
+Lecture, three hours. Overall strategy of planning used by USSR planners and specific planning methods, interpreted broadly to cover not only instructions and objectives but also institutional arrangements. Intended and unintended outcomes of methods. S/U or letter grading.
 C285A. Seminar: International Economics
 Units: 4.0
 Seminar, three hours. Designed for predissertation and dissertation writers. Overview of most current developments in international economics for advanced undergraduate and graduate students. Introduction to graduate-level research in this field. Different topic each week, with presentation and discussion of new papers. Research in progress presented, discussed, and criticized by visiting experts, UCLA faculty members, and advanced graduate students. Concurrently scheduled with course C126A. S/U grading.
@@ -1019,9 +1021,8 @@ Lecture, three hours. Limited to Master of Applied Economics students. Developme
 441C. Applied Data Management for Economists
 Units: 1.0
 Lecture, three hours. Limited to Master of Applied Economics students. Introduction to business intelligence software relevant for big data and financial services companies. Survey of Amazon Web Services, Microsoft Power BI, and Apache Hadoop, and deployment of automated solutions on these platforms. Development of presentation skills necessary for industry. S/U or letter grading.
-442A. Master of Applied Economics Finance Laboratory
+442A. Econometric Python Lab
 Units: 1.0
-Laboratory, three hours. Limited to Master of Applied Economics students. Simulates tasks of financial researcher by encouraging creative approaches to interest rate monitoring, finding leading indicators, and portfolio construction. Mainly using R, students locate and clean financial datasets, then conduct experiments running significance tests throughout data pipeline. Coursework includes many open questions that offer students opportunities to take novel approaches and investigate forecasting with basket of procedures. Letter grading.
 442B. Master of Applied Economics Finance Laboratory
 Units: 1.0
 Laboratory, three hours. Limited to Master of Applied Economics students. Broadens exposure to tasks seen in financial analyst role. Coding tasks are centered around options order book, depth chart, volume profile, cointegrated assets, and commodities data. Theory covered consists of behavioral finance relating to technical analysis, applications of portfolio optimization and hedging techniques. Letter grading.
@@ -1048,6 +1049,7 @@ Units: 2.0 to 4.0
 Lecture, three hours. Limited to Master of Quantitative Economics students. Teamwork and leadership skills are essential to excelling in virtually any role in any field. Understanding of how teams work and whether, why, and how one can obtain and thrive in leadership role is critical. Students learn how to lead, manage, negotiate, and effectively participate in teams of data scientists, learning from, interacting with, and presenting to data science leaders and other distinguished experts. Students gain practical insights and skills that can be applied in field of data of science, in related fields, and more broadly, in their lives and careers. Letter grading.
 449. Collaboration and Team Management for Emerging Economists
 Units: 1.0 to 4.0
+Seminar, three hours. Limited to Master of Quantitative Economics students. Designed to help students develop social-emotional learning skills through interactive activities and lessons to improve their abilities to succeed in variety of team settings. Lessons and activities are designed to be highly interactive, expressive, and creative and aid students in stress reduction, emotion management, and team building. Students are aided in translating topics covered in other courses into language and format that is accessible to industry/non-academic settings. Letter grading.
 495. Teaching College Economics
 Units: 2.0
 Seminar, one hour; laboratory, three hours. Designed for graduate students. Required of all new teaching assistants. Classroom practice in teaching, with individual and group instruction on related educational methods, materials, and evaluation. May be repeated for credit. S/U grading.

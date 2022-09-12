@@ -32,10 +32,10 @@ Units: 1.0
 Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.
 40. Heroic Journey in Northern Myth, Legend, and Epic
 Units: 4.0
-Lecture, three hours. Not open for credit to students with credit for course 40W. All readings in English. Comparison of journeys of heroes. Readings in mythology, legend, folktale, and epic, including Nibelungenlied, Völsunga Saga, Eddas, and Beowulf. Cultural and historic backgrounds to texts. P/NP or letter grading.
+Lecture, three hours. Not open for credit to students with credit for course 40W. All readings in English. Comparison of journeys of heroes. Readings in Nordic mythology, legend, folktale, and epic. Cultural and historic backgrounds to texts. P/NP or letter grading.
 40W. Heroic Journey in Northern Myth, Legend, and Epic
 Units: 5.0
-Lecture, three hours; discussion, one hour. Enforced requisite: English Composition 3 or 3H or English as a Second Language 36. Not open for credit to students with credit for course 40. All readings in English. Comparison of journeys of heroes. Readings in mythology, legend, folktale, and epic, including Nibelungenlied, Völsunga Saga, Eddas, and Beowulf. Cultural and historic backgrounds to texts. Satisfies Writing II requirement. Letter grading.
+Lecture, two hours; discussion, two hours. Enforced requisite: English Composition 3. Not open for credit to students with credit for course 40. All readings in English. Comparison of journeys of heroes. Readings in Nordic mythology, legend, folktale, and epic. Cultural and historic backgrounds to texts. Satisfies Writing II requirement. Letter grading.
 50. Introduction to Scandinavian Literatures and Cultures
 Units: 5.0
 Lecture, three hours; discussion, one hour. Not open for credit to students with credit for course 50W. Designed for students in general and for those wishing to prepare for more advanced and specialized studies in Scandinavian literature and culture. Selected works from literatures of Denmark, Norway, Sweden, Iceland, and Finland, ranging from myth, national epic, saga, and folktale through modern novel, poem, play, short story, and film, read in English and critically discussed. P/NP or letter grading.
@@ -74,8 +74,8 @@ C137. Old Norse Literature and Society
 Units: 4.0
 Seminar, three hours. Critical issues in medieval Scandinavian studies. May be repeated for credit. Concurrently scheduled with course C237. Letter grading.
 138. Vikings
-Units: 5.0
-Lecture, three hours; discussion, one hour. Survey of history, anthropology, and archaeology of Viking Age society. Readings draw on medieval sagas as well as secondary material, focus on impact of Vikings on northern Europe, and consider ways in which European and Scandinavian societies evolved in response to Viking incursions. P/NP or letter grading.
+Units: 4.0
+Lecture, three hours. Survey of history, anthropology, and archaeology of Scandinavian societies in Viking Age. Consideration of impact of Vikings on Europe and beyond, and depiction of Vikings in sagas and other post-Viking-Age sources. Readings draw on medieval texts and secondary material. P/NP or letter grading.
 C141A. Theory of Scandinavian Novel
 Units: 4.0
 Seminar, three hours. Analysis of predominant structures of Scandinavian novel from its 18th-century beginnings through its rise in 19th century and its 20th-century evolution. Discussion of application of contemporary critical theories to novels. May be concurrently scheduled with course C241A. P/NP or letter grading.

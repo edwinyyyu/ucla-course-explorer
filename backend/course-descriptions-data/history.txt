@@ -303,6 +303,7 @@ Units: 4.0
 Lecture, three hours; discussion, one hour (when scheduled). Designed for juniors/seniors. History and institutions of Greeks from their arrival to death of Alexander. P/NP or letter grading.
 112BD. History of Ancient Mediterranean World: Greece
 Units: 4.0
+Lecture, three hours; discussion, one hour (when scheduled). Designed for juniors/seniors. Examination of history of ancient Greek world from circa 2,000 to 300 BC and its legacy in modern times. Study of Minoan civilization on Crete and Mycenaean Greeks of mainland, through Dark Age, development of Greek city-states, achievements of Athens and Sparta in Archaic and Classical periods, and death of Alexander the Great of Macedon and emergence of Hellenistic Age. Exploration of legacy of ancient Greek civilization in later Greek history, and Roman, Byzantine, Turkish, and modern periods. P/NP or letter grading.
 M112C. History of Ancient Mediterranean World
 Units: 4.0
 (Same as Classics M114A.) Lecture, five hours. Intensive on-site study of history and culture of ancient Rome from founding of city to conversion of Christianity. Part of UCLA Summer Travel Program. P/NP or letter grading.
@@ -983,6 +984,7 @@ Units: 4.0
 Seminar, three hours. Designed for seniors. Limited to 15 students meeting with faculty member. Reading and discussion of selected topics, and development of culminating project. May be repeated once for credit. May be concurrently scheduled with course C201P. P/NP or letter grading.
 C191L. Topics in History: Jewish History
 Units: 4.0
+(Formerly numbered 191L.) Seminar, three hours. Designed for seniors. Limited to 15 students meeting with faculty member. Reading and discussion of selected topics, and development of culminating project. May be repeated once for credit. May be concurrently scheduled with course C201R. P/NP or letter grading.
 191M. Capstone Seminar: History--Southeast Asia
 Units: 4.0
 Seminar, three hours. Designed for seniors. Limited to 15 students meeting with faculty member. Organized on topics basis with reading, discussion, and development of culminating project. May be repeated once for credit. P/NP or letter grading.
@@ -1156,6 +1158,7 @@ Units: 4.0
 (Formerly numbered 201Q.) Seminar, three hours. Designed for graduate students. Reading and discussion of selected topics. May be repeated for credit. May be concurrently scheduled with course C191P. S/U or letter grading.
 C201R. Topics in History: Jewish History
 Units: 4.0
+(Formerly numbered 201R.) Seminar, three hours. Designed for graduate students. Reading and discussion of selected topics. May be repeated for credit. May be concurrently scheduled with course C191L. S/U or letter grading.
 201S. Topics in History: Armenia and Caucasus
 Units: 4.0
 Seminar, three hours. Graduate course involving reading, lecturing, and discussion of selected topics. May be repeated for credit. When concurrently scheduled with course 191, undergraduates must obtain consent of instructor to enroll. S/U or letter grading.

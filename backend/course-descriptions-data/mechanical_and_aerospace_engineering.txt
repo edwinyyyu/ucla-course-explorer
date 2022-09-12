@@ -364,6 +364,7 @@ Units: 4.0
 Lecture, four hours; outside study, eight hours. Enforced requisite: course 263C. Current and advanced topics in robotics and control, including kinematics, dynamics, control, mechanical design, advanced sensors and actuators, flexible links, manipulability, redundant manipulators, human-robot interaction, teleoperation, haptics. Letter grading.
 263E. Bionic Systems Engineering
 Units: 4.0
+Lecture, four hours; outside study, eight hours. Requisites: courses M20, 82, or equivalent. Introduction to design principles for bionic systems, including wearable robotics and implantable devices. Neural control of movement, neuromusculoskeletal modeling, actuator design, sensor integration, robotic control, neural interfacing, surgical techniques for amputation, and fundamentals of orthopaedic implants. Letter grading.
 M269A. Dynamics of Structures
 Units: 4.0
 (Same as Civil Engineering M237A.) Lecture, four hours; discussion, two hours; outside study, six hours. Requisites: Civil Engineering 135A, C137, or equivalent. Principles of dynamics. Determination of normal modes and frequencies by differential and integral equation solutions. Transient and steady-state response. Emphasis on derivation and solution of governing equations using matrix formulation. Letter grading.

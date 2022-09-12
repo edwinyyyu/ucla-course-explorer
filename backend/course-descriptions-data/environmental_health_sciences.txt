@@ -64,7 +64,7 @@ Tutorial, four hours. Limited to juniors/seniors. Individual intensive study, wi
 199. Directed Research in Environmental Health Sciences
 Units: 2.0 to 8.0
 Tutorial, one hour. Entry-level research apprenticeship under guidance of faculty mentors affiliated with research interests. Collaboration with faculty mentors on their research in area related to environmental health sciences. May be repeated for credit. Individual contract required. Letter grading.
-Graduate Courses (75)
+Graduate Courses (77)
 C200A. Foundations of Environmental Health Sciences
 Units: 4.0
 Lecture, four hours. Preparation: one year of undergraduate biology and chemistry. Introduction to field of environmental health sciences designed for students pursuing MS, MPH, and PhD degrees. Examination of series of topics relevant to science of environmental and occupational health (e.g., climate change, ecology, microbiology, and toxicology) by introducing scientific basis from ecological perspective and describing how topics relate to health on a biochemical and molecular basis. Emphasis on scientific aspects of field, with focus on critique of primary literature and quantitative approaches for examination of topics to provide skills that are critical to perform research. Concurrently scheduled with course C185A. Letter grading.
@@ -200,6 +200,8 @@ Lecture, four hours. Preparation: bachelor's degree in science, engineering, geo
 M270. Work and Health
 Units: 4.0
 (Same as Community Health Sciences M278.) Lecture, three hours; practicum, one hour. Recommended preparation: graduate-level methods/statistics course, basic epidemiology. Designed for graduate students. Exploration of impact of work on physical and psychological health in context of newly emerging discipline. Focus on psychosocial models, measurement (including hands-on experience), contextual factors (gender, ethnicity, social class), and how work stressors can be ameliorated. S/U or letter grading.
+280. Nanomaterial Related Emerging Technologies: Exposure and Health Effects
+Units: 4.0
 296A. Research Topics in Environmental Health Sciences: Psychosocial Factors and Occupational Health
 Units: 2.0
 Research group meeting, two hours. Advanced study and analysis of current topics in environmental health sciences. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
@@ -241,7 +243,7 @@ Units: 2.0
 Seminar, two hours. Advanced study and analysis of current topics in environmental health sciences. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
 296Q. Research Topics in Environmental Health Sciences: Occupational and Environmental Exposure Assessment, Industrial Hygiene, and Advances in Emerging Technology
 Units: 2.0
-Research group meeting, two hours. Advanced study and analysis of current topics in environmental health sciences. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
+Seminar, two hours. Advanced study and analysis of current topics in environmental health sciences. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.
 375. Teaching Apprentice Practicum
 Units: 1.0 to 4.0
 Seminar, to be arranged. Preparation: apprentice personnel employment as teaching assistant, associate, or fellow. Teaching apprenticeship under active guidance and supervision of regular faculty member responsible for curriculum and instruction at UCLA. May be repeated for credit. S/U grading.
@@ -266,6 +268,8 @@ Lecture, two hours. Prepares doctoral students in environmental health sciences 
 414B. Research Methods and Effective Communication in Environmental Health Sciences
 Units: 2.0
 Lecture, two hours. Prepares doctoral students in environmental health sciences and related fields for skills needed to undertake dissertation. Skills including performing literature searches, designing research study, proposing specific aims, forming testable hypotheses, completing Institutional Review Board (IRB) application, choosing data collection methods, data management, analysis, and interpretation; and writing scientific paper and presenting research results. Students complete manuscript for submission to peer-reviewed journal. S/U or letter grading.
+450. Case Studies in Regulatory Decision-Making: How Governments Are Influenced To Delay Abatement of Local Health Threats
+Units: 2.0
 454. Health Hazards of Industrial Processes
 Units: 4.0
 Lecture, two hours; field trips, four hours. Requisite: course 255. Industrial processes and operations and occupational health hazards that arise from them. Letter grading.

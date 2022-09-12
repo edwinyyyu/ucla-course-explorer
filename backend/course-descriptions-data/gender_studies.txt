@@ -15,7 +15,7 @@ Tutorial, three hours. Limited to students in College Honors Program. Designed a
 99. Student Research Program
 Units: 1.0 to 2.0
 Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
-Upper Division Courses (108)
+Upper Division Courses (109)
 101W. Writing Gender
 Units: 5.0
 Lecture, three hours. Requisite: English Composition 3. Development of critical reading and writing skills necessary for academic success. Students engage assigned readings in conversation with week's leading question. Generation and continuous development of paper topic as result of in-class discussions and formal writing exercises. Small writing groups assist students in understanding relationship between how written thoughts are presented and how they are comprehended by different readers. Students gain understanding of writing process, including topic conceptualization, objective of writing project, organization of thoughts and resources, selection of objects of study, personal writing style, etc. Satisfies Writing II requirement. Letter grading.
@@ -249,6 +249,8 @@ Units: 4.0
 168. Feminist Economics in Globalizing World
 Units: 4.0
 Lecture, four hours. Preparation: satisfaction of Letters and Science Writing II requirement. Requisite: course 10. Designed for juniors/seniors. Overview of field of feminist economics, with emphasis on development experiences in globalizing world economy. Overview of gender inequalities such as gender division of labor in paid and unpaid work, patterns of employment and unemployment, and wage gaps between men and women in different world economy regions; feminist critiques of economics and of theoretical debates within gender and development field on topics such as structural adjustment, feminization of labor force, and poverty; examination of efforts and proposals by governments, international policy-making institutions, and civil society organizations to make economic policies and structures gender-equitable. P/NP or letter grading.
+M169. Common Thread: Garment Workers Past, Present, Future
+Units: 4.0
 CM170. Alternate Traditions: In Search of Female Voices in Contemporary Literature
 Units: 5.0
 (Same as Comparative Literature CM170.) Seminar, three hours. Designed for upper-division literature majors. Investigation of narrative texts by contemporary French, German, English, American, Spanish American, African, and Asian women writers from cross-cultural perspective. Common themes, problems, and techniques. Concurrently scheduled with course CM270. P/NP or letter grading.

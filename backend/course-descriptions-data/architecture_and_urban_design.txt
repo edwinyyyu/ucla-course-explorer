@@ -3,10 +3,10 @@ Lower Division Courses (7)
 1. Introduction to Design
 Units: 2.0 to 3.0
 Studio/lecture/field trips, 40 hours. Limited to high school students. Two- or three-week intensive summer course in architectural design, with focus on developing design skills through space making and its representation. Exposure to contemporary architectural practices through studio work, lectures and presentations, field trips, and final demonstration, critique, and exhibition of student work. Offered only as part of Teen Arch Studio summer program. P/NP grading.
-10A. History of Architecture and Urban Design: Prehistory to Mannerism
+10A. Histories of Architecture and Urbanism I
 Units: 5.0
 Lecture, three hours; discussion, one hour; outside study, 11 hours. Exploration of developments in global architecture and urban design from prehistory to 1600 and critical reflection on terms such as building, architecture, city, history, and culture. Focus on world context, construction and technology, and history of architectural ideas. P/NP or letter grading.
-10B. History of Architecture and Urban Design: Baroque to Contemporary Moment
+10B. Histories of Architecture and Urbanism II
 Units: 5.0
 Lecture, three hours; discussion, one hour; outside study, 11 hours. Survey of architectural and urban history from 1600 to present in global context. Exploration of buildings, cities, spaces, artifacts, landscapes, and ideas through their relation to geopolitical conditions and through their relation to theories of design. P/NP or letter grading.
 19. Fiat Lux Freshman Seminars
@@ -21,7 +21,7 @@ Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-divis
 99. Student Research Program
 Units: 1.0 to 2.0
 Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
-Upper Division Courses (21)
+Upper Division Courses (23)
 102. Introduction to Representation
 Units: 2.0
 Studio, four hours; outside study, two hours. Limited to currently enrolled college/university students and graduates of colleges/universities. Introduction to techniques of spatial representation as they relate to architectural design. How to communicate using two- and three-dimensional drawing and modeling. Analog and digital techniques and opportunity afforded by moving between both. Analog techniques include orthographic and axonometric projection. Digital techniques focus on computer graphics fundamentals, including bit map and vector graphic imaging using Adobe suite and modeling using Rhinoceros. Offered in summer only. Letter grading.
@@ -67,6 +67,8 @@ Laboratory, four hours; outside study, 11 hours. Limited to Architectural Studie
 CM153. Introduction to Sustainable Architecture and Community Planning
 Units: 4.0
 (Same as Environment M153.) Lecture, three hours. Relationship of built environment to natural environment through whole systems approach, with focus on sustainable design of buildings and planning of communities. Emphasis on energy efficiency, renewable energy, and appropriate use of resources, including materials, water, and land. Concurrently scheduled with course CM247A. Letter grading.
+C188CS. Special Topics in Architecture and Urban Design -- Critical Studies
+Units: 4.0
 188SA. Individual Studies for USIE Facilitators
 Units: 1.0
 Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.
@@ -76,6 +78,8 @@ Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite
 188SC. Individual Studies for USIE Facilitators
 Units: 2.0
 Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading.
+C188T. Special Topics in Architecture and Urban Design -- Technology
+Units: 4.0
 189. Advanced Honors Seminars
 Units: 1.0
 Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.
@@ -85,7 +89,7 @@ Seminar, four hours; studio, two hours. Requisites: Digital Humanities 30, 151. 
 199. Directed Research or Senior Project in Architecture and Urban Design
 Units: 2.0 to 4.0
 Tutorial, to be arranged. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit. Individual contract required. P/NP or letter grading.
-Graduate Courses (50)
+Graduate Courses (52)
 M201. Theories of Architecture
 Units: 4.0
 (Same as Urban Planning M201.) Lecture, three hours. Exploration of conceptual and historical structures that shape current issues in architectural theory. Readings in primary texts serve as framework for understanding nature of speculative inquiry in architectural context. Letter grading.
@@ -128,6 +132,10 @@ Lecture, three hours. Examination of architectural developments from 15th to 17t
 289. Special Topics in Architecture and Urban Design
 Units: 2.0 to 4.0
 Lecture, two hours; discussion, two hours. Selected academic topics initiated by students, student teams, or faculty and directed by faculty member. May be repeated for credit. S/U or letter grading.
+C289CS. Special Topics in Architecture and Urban Design -- Critical Studies
+Units: 4.0
+C289T. Special Topics in Architecture and Urban Design -- Technology
+Units: 4.0
 290. Special Topics in Critical Studies in Architectural Culture
 Units: 5.0
 Lecture, three hours; discussion, one hour; outside study, 11 hours. Designed for graduate students. Exploration of how architecture operates in relation to wider cultural, historical, and theoretical issues. May be repeated for maximum of 30 units. Letter grading.

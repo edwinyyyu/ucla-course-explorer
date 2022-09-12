@@ -72,7 +72,7 @@ Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-divis
 99. Student Research Program
 Units: 1.0 to 2.0
 Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
-Upper Division Courses (28)
+Upper Division Courses (31)
 101. Theories of Dance
 Units: 5.0
 Lecture, four hours; discussion, two hours. Enforced requisite: course 45. Ideas of dance, choreography, and movement have achieved broad resonance in contemporary performance, art, politics, culture, and studies of social behavior. Examination of concepts and approaches to dance studies and deployments of its vocabulary within field and beyond, concentrated in four principal approaches: history, ethnography, choreographic analysis, and critical theory. Use of key ideas in dance to investigate allied areas of performance, embodiment, social constructions of identity and difference, and relationship between aesthetics and politics. Design of dance performances to illustrate link between theory and practice. How dance creates alternative modes of history and knowledge in range of cultural contexts. P/NP or letter grading.
@@ -154,6 +154,15 @@ Lecture, four hours; outside study, 11 hours. Course 186A is requisite to 186B. 
 186B. Senior Projects in Dance
 Units: 5.0
 Lecture, four hours: outside study, 11 hours. Requisite: course 186A. Limited to senior Dance majors. Application of concepts, skills, and content from the interdisciplinary major to individual projects. Methodologies may include critical, comparative, ethnographic, and performance approaches. Faculty-directed presentation of individual projects. Letter grading.
+188SA. Individual Studies for USIE Facilitators
+Units: 1.0
+Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.
+188SB. Individual Studies for USIE Facilitators
+Units: 1.0
+Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.
+188SC. Individual Studies for USIE Facilitators
+Units: 2.0
+Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading.
 189. Advanced Honors Seminars
 Units: 1.0
 Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.

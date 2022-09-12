@@ -36,7 +36,7 @@ Tutorial, three hours. Limited to students in College Honors Program. Designed a
 99. Student Research Program
 Units: 1.0 to 2.0
 Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
-Upper Division Courses (101)
+Upper Division Courses (102)
 100. Communication Science
 Units: 4.0
 Lecture, three hours. Requisite: course 10 or Linguistics 1 or Sociology 1 or Psychology 10. Examination of fundamental issues in communication sciences. Exploration of theoretical and methodological approaches that bridge major areas of current interdisciplinary communication research. P/NP or letter grading.
@@ -140,6 +140,9 @@ Lecture, three hours. Introduction to using computerized methods to model commun
 Units: 4.0
 Lecture, four hours. Critical evaluation of television programming and scholarly research of new developments in television. Application of research findings by students to real-world contexts in course discussions, papers, and presentations. Letter grading.
 133. Decoding Media Strategies
+Units: 4.0
+Lecture, three hours. Today's mass media are thriving business, central part of cultural identity, and vital component of democracy. How do these different and often conflicting functions determine content of mass media? Examination of psychological dynamics of advertising, nature of entertainment and mass culture, practice of propaganda, and changing patterns of media ownership. Assessment of impact of mass media on individuals and social institutions. Letter grading.
+133. Decoding Media Strategies (Effective Winter 2023 )
 Units: 4.0
 Lecture, three hours. Today's mass media are thriving business, central part of cultural identity, and vital component of democracy. How do these different and often conflicting functions determine content of mass media? Examination of psychological dynamics of advertising, nature of entertainment and mass culture, practice of propaganda, and changing patterns of media ownership. Assessment of impact of mass media on individuals and social institutions. Letter grading.
 136. Media Portrayals of Gays and Lesbians

@@ -1,5 +1,5 @@
 Islamic Studies
-Lower Division Courses (8)
+Lower Division Courses (9)
 19. Fiat Lux Freshman Seminars
 Units: 1.0
 Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.
@@ -8,10 +8,13 @@ Units: 5.0
 (Formerly numbered M110.) (Same as Religion M20.) Lecture, three hours; discussion, one hour. Genesis of Islam, its doctrines, and practices, with readings from Qur'an and Hadith; schools of law and theology; piety and Sufism; reform and modernism. P/NP or letter grading.
 M27A. Global Islam
 Units: 6.0
-(Same as Clusters M27A.) Lecture, three hours; discussion, two hours. Course M27A is enforced requisite to M27B, which is enforced requisite to M27CW. Introduction to Islam, immensely diverse global tradition which is second largest religion. Study of Islam and Muslims within framework of study of global religious traditions and emphasis on profound diversity of localized belief and practice found across world. Examination of Islam's evolution across 15 centuries, from late antiquity--when it emerged as localized religion in Central Arabia--to modern era where it is practice from U.S. to Indonesia. Concentration on broad analytical categories in study of religion such as text, culture, history, and prophecy. Students transition to more complex analyses through chronological overview of Islamic history. Study also of case studies of Muslim global networks in arenas such as art, music, literature, and political thought. Letter grading.
+(Same as Clusters M27A.) Lecture, three hours; discussion, two hours. Course M27A is enforced requisite to M27B, which is enforced requisite to M27CW. Introduction to Islam, immensely diverse global tradition which is second largest religion. Study of Islam and Muslims within framework of study of global religious traditions and emphasis on profound diversity of localized belief and practice found across world. Examination of Islam's evolution across 15 centuries, from late antiquity--when it emerged as localized religion in Central Arabia--to modern era where it is practice from U.S. to Indonesia. Concentration on broad analytical categories in study of religion such as text, culture, history, and prophecy. Students transition to more complex analyses through chronological overview of Islamic history. Study also of case studies of Muslim global networks in arenas such as art, music, literature, and political thought. P/NP or letter grading.
 M27B. Global Islam
 Units: 6.0
 (Same as Clusters M27B.) Lecture, three hours; discussion, two hours. Enforced requisite: course M27A. Introduction to Islam, immensely diverse global tradition which is second largest religion. Study of Islam and Muslims within framework of study of global religious traditions and emphasis on profound diversity of localized belief and practice found across world. Examination of Islam's evolution across 15 centuries, from late antiquity--when it emerged as localized religion in Central Arabia--to modern era where it is practice from U.S. to Indonesia. Concentration on broad analytical categories in study of religion such as text, culture, history, and prophecy. Students transition to more complex analyses through chronological overview of Islamic history. Study also of case studies of Muslim global networks in arenas such as art, music, literature, and political thought. Letter grading.
+M27B. Global Islam (Effective Winter 2023 )
+Units: 6.0
+(Same as Clusters M27B.) Lecture, three hours; discussion, two hours. Enforced requisite: course M27A. Introduction to Islam, immensely diverse global tradition which is second largest religion. Study of Islam and Muslims within framework of study of global religious traditions and emphasis on profound diversity of localized belief and practice found across world. Examination of Islam's evolution across 15 centuries, from late antiquity--when it emerged as localized religion in Central Arabia--to modern era where it is practice from U.S. to Indonesia. Concentration on broad analytical categories in study of religion such as text, culture, history, and prophecy. Students transition to more complex analyses through chronological overview of Islamic history. Study also of case studies of Muslim global networks in arenas such as art, music, literature, and political thought. P/NP or letter grading.
 M27CW. Global Islam: Special Topics
 Units: 6.0
 (Same as Clusters M27CW.) Seminar, three hours. Enforced requisite: course M27B. Introduction to Islam, immensely diverse global tradition which is second largest religion. Study of Islam and Muslims within framework of study of global religious traditions and emphasis on profound diversity of localized belief and practice found across world. Examination of Islam's evolution across 15 centuries, from late antiquity--when it emerged as localized religion in Central Arabia--to modern era where it is practice from U.S. to Indonesia. Concentration on broad analytical categories in study of religion such as text, culture, history, and prophecy. Students transition to more complex analyses through chronological overview of Islamic history. Study also of case studies of Muslim global networks in arenas such as art, music, literature, and political thought. Satisfies Writing II requirement. Letter grading.
@@ -42,6 +45,7 @@ Units: 4.0
 Seminar, three hours; discussion, one hour. Rise and development of Shi'a Islam, its doctrines, and practices; major branches: Twelvers, Ismailis, Zaydis; their contribution to Islamic thought and civilization; modern trends of reinterpretation and reform. Letter grading.
 C151. Islamic Thought
 Units: 4.0
+(Formerly numbered 151.) Lecture, three hours. Recommended requisite: introductory course on Islam or instructor consent. Introduction to major fields of inquiry and debate in Islamic studies (e.g., exegesis, Hadith, law, theology, Sufism). Focus on selected topics of debate such as nature of God, jihad, hijab, or pilgrimage. Concurrently scheduled with course C251. Letter grading.
 189. Advanced Honors Seminars
 Units: 1.0
 Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.
@@ -63,6 +67,7 @@ Units: 4.0
 Seminar, three hours. Preparation: good reading knowledge of Arabic, English, and one other Western language. Comprehensive coverage of Arabo-Islamic sciences that formed matrix of Islamic education. Survey of most recent developments in following disciplines: Arabic language and literature, Qur'anic sciences, traditions, jurisprudence, theology, and Sufism. Letter grading.
 C251. Islamic Thought
 Units: 4.0
+Lecture, three hours. Recommended requisite: introductory course on Islam or instructor consent. Introduction to major fields of inquiry and debate in Islamic studies (e.g., exegesis, Hadith, law, theology, Sufism). Focus on selected topics of debate such as nature of God, jihad, hijab, or pilgrimage. Concurrently scheduled with course C151. Letter grading.
 291A. Variable Topics in Islamic Studies
 Units: 4.0
 Seminar, three hours. Selected topics on Islam. May be repeated for credit with topic change. S/U or letter grading.

@@ -1,5 +1,5 @@
 Law
-Law Courses (667)
+Law Courses (671)
 100. Contracts
 Units: 5.0
 101. Introduction to Legal Analysis
@@ -378,6 +378,8 @@ Units: 1.0
 Units: 1.0
 422. Feminist Legal Theory: Public Violence and Private Violence
 Units: 1.0
+423. Capital Markets Regulation
+Units: 2.0
 424. Restitution and Unjust Enrichment
 Units: 1.0
 425. Securities Litigation and Enforcement
@@ -441,6 +443,8 @@ Units: 1.0
 458. Law of the Sea
 Units: 1.0
 460. Internet Law, Media &amp; Society
+Units: 1.0
+462. The Law of Peace
 Units: 1.0
 463. Regional Human Rights Protection
 Units: 1.0
@@ -928,6 +932,8 @@ Units: 1.0
 Units: 1.0
 715. Criminal Defense Clinic
 Units: 1.0
+716. International Climate Change Law and Policy Clinic
+Units: 6.0
 717. International Human Rights Clinic
 Units: 1.0
 717B. International Justice Clinic
@@ -1056,6 +1062,8 @@ Units: 1.0
 Units: 1.0
 783. Family Law Practice: A non-Litigation Approach
 Units: 1.0
+784. Administrative Hearings Simulation Course
+Units: 4.0
 785. Negotiation Theory and Practice
 Units: 1.0
 787. Real Property Practice Simulation for Foreign Lawyers

@@ -2,8 +2,10 @@ Management-Full-Time MBA
 Graduate Courses (20)
 401A. Foundations of Inclusive Leadership
 Units: 1.0
+Lecture, three hours. Designed to enhance student knowledge of, and competency in, leadership. Conceptual framework is grounded in principles of individual, group, and organizational behavior. Offers different perspectives on topic of leaderships, with emphasis on development of skills that support effective leadership in diverse situations. Combination of readings, lectures, cases, experiential exercises, and class discussion allows entering MBA students to determine their own leadership strengths and limitations; and to develop plan for maintaining or improving their strengths and identifying potential challenges. In Progress grading (credit to be given only on completion of course 401B).
 401B. Foundations of Inclusive Leadership
 Units: 1.0
+Lecture, three hours. Requisite: course 401A. Designed to enhance student knowledge of, and competency in, leadership. Conceptual framework is grounded in principles of individual, group, and organizational behavior. Offers different perspectives on topic of leaderships, with emphasis on development of skills that support effective leadership in diverse situations. Combination of readings, lectures, cases, experiential exercises, and class discussion allows entering MBA students to determine their own leadership strengths and limitations; and to develop plan for maintaining or improving their strengths and identifying potential challenges. Letter grading.
 402. Data and Decisions
 Units: 4.0
 (Formerly numbered Management 402.) Lecture, three hours. Topics include probabilities, random variables (expectation, variance, covariance, normal random variables), decision trees, estimation, hypothesis testing, and multiple regression models. Emphasis on actual business problems and data. Letter grading.
@@ -27,6 +29,7 @@ Units: 4.0
 (Formerly numbered Management 411.) Lecture, three hours. Principles of market-driven managerial decision making: consumer, competitor, and company analysis, market segmentation, definition of target markets, and product positioning. Management of marketing function: product and pricing decisions, channels of distribution, marketing communications. Letter grading.
 415. Foundations of Ethical Decision Making
 Units: 2.0
+Lecture, three hours. Provides practical tools to help students navigate difficult decisions that leaders routinely face. Study adopts behavioral science approach to understanding ethical behavior in order to examine why good people sometimes do bad things. Answering this question requires understanding of fundamental psychological processes that govern human thought and behavior in ethical domains. These processes can lure anyone into ethical lapses that ruin careers, destroy businesses, and bring shame to individuals and organizations. Understanding these processes gives insights into practical ways of designing one's organization to encourage its members to behave in line with their own stated values. Letter grading.
 420. Business Strategy
 Units: 4.0
 (Formerly numbered Management 420.) Lecture, three hours. Evaluation and formulation of organization's overall policies and strategies. Economic, heuristic, and social process approaches to policy formulation, environmental analysis, and organizational appraisal. Senior management's role in managing policy process. Letter grading.

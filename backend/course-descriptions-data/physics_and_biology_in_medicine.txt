@@ -10,7 +10,7 @@ Upper Division Courses (1)
 199. Directed Research in Biomedical Physics
 Units: 2.0 to 4.0
 Tutorial, two hours. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper required. May be repeated for credit. Individual contract required. P/NP or letter grading.
-Graduate Courses (50)
+Graduate Courses (51)
 200A. Physics and Chemistry of Nuclear Medicine
 Units: 4.0
 Lecture, three hours; discussion, one hour. Nuclear structure, statistics of radioactive decay, nuclear radiations and their interaction with matter, nuclear decay processes, nuclear reactions, and compartment models. Physical and chemical properties of radioactive preparations used in nuclear medicine. Basic principles of nuclear medicine imaging, SPECT, and PET. S/U or letter grading.
@@ -77,6 +77,8 @@ Lecture, three hours; laboratory, one hour. Review of fundamental interactions o
 217. Statistics and Data Analysis in Biomedical Physics
 Units: 2.0
 Lecture, two hours; laboratory, one hour. Requisites: Mathematics 31A, 31B, 32A, 32B, 33A, 33B. Introduction to computer-based statistical concepts, data analysis, and experimental design within biomedical physics research. Standard statistical packages and various statistical computing algorithms on relevant data sets within radiological sciences. Letter grading.
+217. Statistics and Data Analysis in Biomedical Physics (Effective Winter 2023 )
+Units: 4.0
 218. Radiologic Functional Anatomy
 Units: 4.0
 Lecture, three hours; discussion, one hour. Introduction to human anatomy, cell biology, and physiology as visualized through microscopy, molecular imaging, radiography, CT, MRI, ultrasonography, PET, and SPECT. Letter grading.

@@ -36,13 +36,16 @@ Seminar, three hours. Enforced requisite: course 10. Study of selected topics in
 99. Student Research Program
 Units: 1.0 to 2.0
 Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
-Upper Division Courses (149)
+Upper Division Courses (151)
 100A. Psychological Statistics
 Units: 4.0
 Lecture, four hours. Requisites: course 10 with a grade of C or better, and one course from Mathematics 2, Program in Computing 10A, Statistics 10, or one term of calculus. Designed for premajors. Basic statistical procedures and their application to research and practice in various areas of psychology. P/NP or letter grading.
 100B. Research Methods in Psychology
 Units: 6.0
 Lecture, two hours; laboratory, four hours. Enforced requisites: courses 10 and 100A, with grades of C or better. Introduction to research methods and critical analysis in psychology. Lecture and laboratory topics include experimental and nonexperimental research methods, statistical design and analysis as applied to a broad range of basic and applied research issues. P/NP or letter grading.
+100B. Research Methods in Psychology (Effective Winter 2023 )
+Units: 5.0
+Lecture, two hours; laboratory, two hours. Enforced requisites: courses 10 and 100A, with grades of C or better. Introduction to research methods and critical analysis in psychology. Lecture and laboratory topics include experimental and nonexperimental research methods, statistical design and analysis as applied to a broad range of basic and applied research issues. P/NP or letter grading.
 101. General Psychology Laboratory
 Units: 4.0
 Lecture, one hour; laboratory, three hours. Requisites: courses 10, 100A, 100B. General laboratory course for psychology students to acquire key concepts in psychology through active participation in enriched environment. Use of current technologies (e.g., Web-based teaching, interactive computer demonstrations) in challenging atmosphere to learn how mind works. P/NP or letter grading.
@@ -76,6 +79,8 @@ Lecture, three hours; discussion, one hour. Requisites: course 100A, Life Scienc
 116A. Behavioral Neuroscience Laboratory
 Units: 4.0
 (Formerly numbered 116.) Lecture, one hour; laboratory, three hours. Requisites: courses 10, 100A, 100B, 115. Not open for credit to students with credit for 116B. Designed for Psychobiology and Psychology majors. Laboratory experience with various topics in behavioral neuroscience. P/NP or letter grading.
+M116A. Behavioral Neuroscience Laboratory
+Units: 4.0
 116B. Human Neuropsychology Laboratory
 Units: 4.0
 Laboratory, four hours. Requisites: courses 10, 100A, 100B, 115. Not open for credit to students with credit for 116A. Focus on human neural function in health and disease. Concentration on neural underpinnings of behaviors unique to humans. Hands-on empirical investigations of neural functions in which students themselves serve as subjects. Incorporation of neural bases of language and cognition, assessment in field of neuropsychology, and human neuroanatomy. Addresses disorders of nervous system that have profound impacts on human functioning such as stroke and central nervous system damage, dementia, mental illness, and pain. P/NP or letter grading.
@@ -178,13 +183,13 @@ Lecture, three hours. Requisite: course 120A or 120B. Designed for juniors/senio
 126. Clinical Psychology Laboratory
 Units: 4.0
 Laboratory, four hours. Requisites: courses 10, 100A, 100B, and 127A or 127B or 127C. Designed for departmental majors. Methods, designs, and issues in conduct of clinical psychology research. Students develop and conduct research. Content varies by instructor, with concentration on one of following: schizophrenia, mood disorders, anxiety disorders, childhood disorders, psychophysiological methods, observational methods with couples and families. P/NP or letter grading.
-127A. Abnormal Psychology
+127A. Clinical Psychological Science
 Units: 4.0
 Lecture, three hours; discussion, one hour. Requisite: course 10. Not open for credit to students with credit for course 127B or 127C. Study of psychological disorders (e.g., depression, anxiety, substance use disorders, schizophrenia) across lifespan, including role of biological, behavioral, social, cognitive, and cultural factors, diagnosis and treatment approaches. Discussion of Stigma and practices that support inclusiveness. P/NP or letter grading.
-127B. Abnormal Psychology: Biological Bases
+127B. Clinical Psychological Science: Biological Bases
 Units: 4.0
 Lecture, three hours; discussion, one hour. Requisite: course 10. Not open for credit to students with credit for course 127A or 127C. Study of Biological processes involved in etiology, presentation, and course of psychiatric disorders, and biological targets or mechanisms of treatment. Emphasis on clinical neuroscience and behavioral genetics as scientific modalities to understand mood disorders, substance use disorders, psychosis, and others. P/NP or letter grading.
-127C. Abnormal Psychology: Developmental Perspectives
+127C. Clinical Psychological Science: Developmental Perspectives
 Units: 4.0
 Lecture, three hours; discussion, one hour. Requisite: course 10. Not open for credit to students with credit for course 127A or 127B. Study of abnormal child development from infancy through adolescence and early adulthood. Clinical disorders include behavioral disorders, depression/anxiety, alcohol/substance disorders, eating disorders, and autism spectrum disorder. P/NP or letter grading.
 129C. Culture and Mental Health
@@ -912,11 +917,11 @@ Seminar, 90 minutes. Supervised practicum in undergraduate teaching. Focus on di
 Units: 1.0
 Seminar, one hour. Requisite: course 495A. Supervised practicum in undergraduate teaching. Advanced training in use of evidence-based teaching practices. Topics include designing course materials, setting pedagogical goals, and developing teaching statements. Students serve as teaching assistants in various courses. S/U grading.
 596. Directed Individual Research and Study in Psychology
-Units: 2.0 to 12.0
+Units: 1.0 to 12.0
 Tutorial, to be arranged. One 596 course is required during second year of graduate study, and one 596 or 599 course is required during each succeeding year of graduate study. (Terminal MA candidates are exempt from this requirement.) S/U grading.
 597. Individual Studies
-Units: 2.0 to 12.0
+Units: 1.0 to 12.0
 Tutorial, to be arranged. Designed primarily as preparation for qualifying examinations. May be required by some area committees as requisite for taking examinations. S/U grading.
 599. Research for PhD Dissertation
-Units: 2.0 to 12.0
+Units: 1.0 to 12.0
 Tutorial, to be arranged. Preparation: successful completion of qualifying examinations. One 599 course is required during each year following completion of qualifying examinations. S/U grading.

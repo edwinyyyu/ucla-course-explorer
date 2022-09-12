@@ -21,7 +21,7 @@ Tutorial, three hours. Limited to students in College Honors Program. Designed a
 99. Student Research Program
 Units: 1.0 to 2.0
 Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
-Upper Division Courses (43)
+Upper Division Courses (45)
 M101A. Neuroscience: From Molecules to Mind--Cellular and Systems Neuroscience
 Units: 5.0
 (Same as Molecular, Cell, and Developmental Biology M175A, Physiological Science M180A, and Psychology M117A.) Lecture, four hours; discussion, 90 minutes. Requisites: Chemistry 14C or 30A (14C may be taken concurrently), Life Sciences 7C, Physics 1B or 1BH or 5C or 6B. Students must receive grade of C- or better to proceed to next course in series. Cellular neurophysiology, membrane potential, action potentials, and synaptic transmission. Sensory systems and motor system; how assemblies of neurons process complex information and control movement. P/NP or letter grading.
@@ -37,6 +37,8 @@ Lecture, two hours; laboratory, three hours. Requisites: courses M101A, M101B (M
 102. Introduction to Functional Anatomy of Central Nervous System
 Units: 4.0
 Lecture, three hours; laboratory, 90 minutes. Requisite: Life Sciences 2 or 7C. Corequisite: course M101A. Not open to freshmen. Overview of human nervous system, brain development, anatomy and function, pathology. Introduction to brain circuits involved in fear and anxiety, memory, sensory, motor activities. P/NP or letter grading.
+M116A. Behavioral Neuroscience Laboratory
+Units: 4.0
 M119L. Human Neuropsychology
 Units: 4.0
 (Same as Psychology M119L.) Lecture, three hours. Recommended requisites: courses M101A and M101C (or Psychology 115), Psychology 120A or 120B. Designed for juniors/seniors. Survey of experimental and clinical human neuropsychology; neural basis of higher cognitive functions. P/NP or letter grading.
@@ -49,6 +51,9 @@ Units: 4.0
 M135. Dynamical Systems Modeling of Physiological Processes
 Units: 5.0
 (Same as Physiological Science M135.) Lecture, four hours; laboratory, two hours. Examination of art of making and evaluating dynamical models of physiological systems and of dynamical principles inherent in physiological systems. Letter grading.
+140. Brain Injury and Recovery of Function
+Units: 4.0
+Seminar, four hours. Requisite: course 102 or Psychology 116A or 116B. Inquiry into what recovery from brain injury specifically means, and if all recovery is same. Addresses history of how science evolved from basic localization of function to understanding more about brain functional recovery. Increases awareness of limitations and surprising potential of brain to adapt to adverse stimuli of brain injury. Discussion of interesting cases and experiments that have molded current understanding of brain's potential for recovery. P/NP or letter grading.
 142. Neurophilosophy: Introduction and Assessment from Neuroscience Perspective
 Units: 4.0
 Lecture, three hours. Requisite: course M101A. Overview of philosophical issues and theories surrounding nature of mind and its relationship with body. Examination of case for relevance of current theoretical and experimental results in neuroscience and cognitive science to philosophy of mind. In particular, focus on variety of approaches to understanding and explaining human consciousness and current lively debate about whether scientific understanding of it is possible. Neurophilosophy is relatively new interdisciplinary subject. Study is approached as two-way flow of information, from neuroscience to philosophy and vice versa. Examination of traditional philosophical problems given input of recent neuroscience findings as well as applying philosophical problem-solving approaches to determine which scientific projects related to human consciousness are genuinely new and interesting and which have potential to yield conceptually novel answers. P/NP or letter grading.
@@ -81,12 +86,13 @@ Units: 4.0
 Seminar, four hours. Enforced requisite: course M101A. Not open for credit to students with credit for course 191A, seminar 1. Emphasis on human electroencephalogram (EEG) and various forms of sensory-evoked potentials. Introduction to number of experimental paradigms that allow for recording of different brain signals from brainstem to cortex. Letter grading.
 179. Clinical Neuroscience: New Concepts in Neurological Disorders
 Units: 4.0
-Lecture, four hours. Enforced requisite: course M101A. Not open for credit to students with credit for course 191A, seminar 2. Introduction to neurological diseases. Description of diseases from clinical perspective, description of disorder, dealing with clinical population, and discussion of treatments and underlying causes. Mechanisms and new treatments. Letter grading.
+Lecture, four hours. Enforced requisite: course M101A. Introduction to neurological diseases. Description of diseases from clinical perspective, description of disorder, dealing with clinical population, and discussion of treatments and underlying causes. Mechanisms and new treatments. Letter grading.
 180. Genetic, Molecular, and Genomic Approaches to Neural Development and Disease
 Units: 4.0
 Seminar, three hours. Enforced requisites: courses M101A, M101B. Not open for credit to students with credit for course 191C, seminar 1. In-depth study of genetic, molecular, and genomic approaches to studying nervous system development and disease. Overview of current technologies used to generate mouse models for genetic and phenotypic analysis. Review of techniques for studying development and disease. Integrative genomic approaches for identifying and characterizing gene(s) involved in these processes. Emphasis on mouse models, but other model organisms considered as well. Letter grading.
 181. Cellular and Molecular Mechanisms of Learning and Memory
 Units: 4.0
+Seminar, four hours. Enforced requisite: course M101A. Cellular models of learning and memory. Genetic and molecular approaches to learning and memory. Learning and memory deficits in neurospsychiatric diseases. LTP and LTD models. Letter grading.
 182. Pharmacology of Drugs of Abuse
 Units: 4.0
 Seminar, four hours. Enforced requisite: course M101A. Not open for credit to students with credit for course 191A, seminar 3. Pharmacology of stimulants, depressants, hallucinogens, and opioids. Discussion of how drugs interact with central nervous system and produce dependence, addiction, and chronic toxic affects. Letter grading.
@@ -128,7 +134,7 @@ Units: 2.0
 Seminar, three hours; laboratory, one hour. Requisites: courses M101A and 102, with grades of A. Limited to senior Neuroscience majors. Training and supervised practicum in neuroanatomy for undergraduate assistants. Students assist faculty members and graduate teaching assistants in laboratory only. May not be applied toward elective requirements and may not be repeated for credit. P/NP or letter grading.
 192BX. Project Brainstorm: Neuroscience K-12 Outreach
 Units: 4.0
-(Formerly numbered 192B.) Seminar, one hour; fieldwork, three hours. Limited to juniors/seniors. Course to be supervised by faculty and teaching assistant advisers. Project Brainstorm is K-12 science education outreach program of Brain Research Institute (BRI) and Neuroscience PhD and undergraduate programs that stimulates interest in science for children and young adults in grades K-12 by providing hands-on learning experiences that emphasize function and importance of brain. Students expected to prepare age-appropriate lesson plans to be used in Project Brainstorm classroom visits. Students meet on regular basis with supervisors and provide periodic reports of their experience. May not be applied toward major requirements. May be repeated twice for credit. P/NP grading.
+(Formerly numbered 192B.) Seminar, one hour; fieldwork, three hours. Limited to juniors/senior Neuroscience majors selected for Project Brainstorm Capstone. Completion of this course in winter and spring quarters is required for successful completion of Project Brainstorm Capstone. Course to be supervised by faculty and teaching assistant advisers. Project Brainstorm is K-12 science education outreach program of Brain Research Institute (BRI) and Neuroscience PhD and undergraduate programs that stimulates interest in science for children and young adults in grades K-12 by providing hands-on learning experiences that emphasize function and importance of brain. Students are expected to prepare age-appropriate lesson plans to be used in Project Brainstorm classroom visits. Students meet on regular basis with supervisors and provide periodic reports of their experience. May be repeated twice for credit. Letter grading.
 192CX. Drug Abuse and Society: Conveying Concepts to High School Students
 Units: 4.0
 (Formerly numbered 192C.) Seminar, four hours (seven weeks); fieldwork, four hours (three weeks). Enforced requisites: courses M101A, C177. Limited to junior/senior Neuroscience majors selected for DOPA Team capstone option. Preparation of students to give accurate, knowledgeable, and age-appropriate lectures in area of drug abuse to students at local high schools. Designed as followup to course C177 where students learned didactic material on mechanisms of action and translational aspects of drugs of abuse. Students meet on regular basis with supervisors and provide periodic reports of their experience. Letter grading.

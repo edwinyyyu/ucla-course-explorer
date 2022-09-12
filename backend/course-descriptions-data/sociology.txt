@@ -42,7 +42,7 @@ Seminar, three hours. Requisite: course 1. Designed for freshman/sophomores. Stu
 99. Student Research Program
 Units: 1.0 to 2.0
 Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
-Upper Division Courses (119)
+Upper Division Courses (118)
 101. Development of Sociological Theory
 Units: 5.0
 Lecture, three hours; discussion, one hour. Comparative survey of basic concepts and theories in sociology from 1850 to 1920. P/NP or letter grading.
@@ -151,9 +151,6 @@ Seminar, 20 hours. Mexico-U.S. migration is largest and oldest continuous intern
 141B. Migration and Labor in Mexico-U.S. Context: Research Seminar
 Units: 5.0
 Seminar, 10 hours; fieldwork, 10 hours. Development of qualitative micro-study and research paper on migration and labor in Mexico-U.S. context. Research topic of interest to be selected so students become familiar with commonly employed qualitative methods of research. Designed to help students understand basics of methodological reasoning, how to formulate research questions, and how to frame and investigate one particular issue related to migration and labor. How to make ethical decisions about conducting research. Development of student abilities as researchers by conducting secondary and primary research culminating in final research paper to be presented to faculty members and peers. Offered in summer only. Letter grading.
-M142. Healthcare in Transitional Communities
-Units: 4.0
-(Same as Public Health M151.) Lecture, three hours; discussion, one hour. Analysis of social, cultural, economic, and political processes affecting organization and accessibility of healthcare in transitional and disadvantaged communities. Fieldwork required. Letter grading.
 143. Human Health and Society
 Units: 4.0
 Lecture, three hours; discussion, one hour. Requisites: courses 1, 20, 101. Exploration of long-run historical trends in relationship between human health and social organization, drawing on historical, anthropological, demographic, and sociological concepts, theories, and data. P/NP or letter grading.
@@ -400,7 +397,7 @@ Tutorial, one hour. Limited to junior/senior Language and Social Behavior minors
 199B. Directed Research in Language and Social Behavior
 Units: 4.0
 Tutorial, one hour. Limited to junior/senior Language and Social Behavior minors. Independent intensive study designed for students who want to do research under guidance of member of Language and Social Behavior minor faculty advisory committee. Scheduled meetings to be arranged between faculty member and student. Culminating paper or project required. Individual contract required; see undergraduate counselor. Letter grading.
-Graduate Courses (113)
+Graduate Courses (114)
 201A. Proseminar: Sociology
 Units: 2.0
 Seminar, two hours every other week. Required of first-year graduate sociology students. Introduction to range of theoretical and research interests represented by department faculty members. S/U grading.
@@ -494,6 +491,8 @@ Lecture, three hours. Designed for graduate students. Basic issues, methods, and
 223. Phenomenological and Interactionist Perspectives on Selected Topics
 Units: 4.0
 Lecture, three hours. Comparison of phenomenological and symbolic interactionist perspectives by examining particular body of live or currently unresolved substantive issues. Topics vary; attention on development of phenomenological and interactionist thought on topic of concern, with special concern for ambiguities and divergences both within and between two approaches. When relevant, attention to logical and historical relations of phenomenology and interactionism of pragmatist, existentialist, and ordinary language philosophies. S/U or letter grading.
+M225A. Applications of Economic Theory: California Population Research Topical Seminar Series (Effective Winter 2023 )
+Units: 4.0
 M225A. California Population Research Topical Seminar Series
 Units: 4.0
 (Same as Economics M204A.) Seminar, three hours. Examination of issues such as demography, health, aging, labor, and broad array of topics concerned with effects of economic, social, and political transformations on human behavior both in U.S. and abroad. May be taken independently for credit. S/U grading.

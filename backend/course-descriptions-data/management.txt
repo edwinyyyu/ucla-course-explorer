@@ -139,7 +139,7 @@ Tutorial, to be arranged. Limited to juniors/seniors. Internship in supervised s
 199. Directed Research in Management
 Units: 2.0 to 8.0
 Tutorial, to be arranged. Limited to juniors/seniors. Supervised individual research or investigation of selected research topic under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit. Individual contract required. P/NP or letter grading.
-Graduate Courses (127)
+Graduate Courses (129)
 201A. Business Forecasting: Turning Numbers into Knowledge
 Units: 4.0
 Discussion, three hours. Preparation: familiarity with linear regression. Examination of one approach to analytical thinking--forcing numerical and textual data into carefully formulated alternative models. Data studied include macroeconomic variables (growth, inflation, unemployment, interest rates, and exchange rates), industry data, and firm data. Letter grading.
@@ -149,6 +149,9 @@ Lecture, three hours. Development of standard topics in applied econometric mode
 202B. Economic Consulting and Applied Managerial Economics
 Units: 4.0
 Lecture, three hours. Requisites: courses 402, 405. Use of economic methods to analyze issues of intellectual property, environmental damage, trademark infringement, brand value, and consumer demand. Focus on econometric thinking and problem solving using case studies as basis for lectures and homework. S/U or letter grading.
+203. Behavioral Economics
+Units: 4.0
+Lecture, three hours. Behavioral economics incorporates insights from psychology (and other social sciences) to improve understanding of economic markets and decision making. By relaxing or replacing simplifying assumptions of standard economic models, behavioral economics aims to describe behavior with greater psychological realism and empirical accuracy. Overview of this rapidly developing field, and illustration of its implications for business and policy decisions across variety of contexts. Use of lectures, discussion, group interactions and projects, examination, and problem set to introduce topic of behavioral economics. Letter grading.
 205A. International Business Economics
 Units: 4.0
 Requisite: course 405. International business environment, international economic institutions, national and regional trade policies and developments, trends in foreign markets, and international monetary problems, studied for their influence on organization and operation of the international corporation.
@@ -439,6 +442,7 @@ Units: 2.0
 Lecture, 90 minutes. Improvement of strategic business presenting skills such as presentation delivery techniques, visual and verbal persuasion principles, building arguments with supporting evidence, art of business storytelling, and other related topics, with focus on individual student presentations. Letter grading.
 425. Leadership Communication
 Units: 4.0
+Lecture, three hours. Study centers on communicative dimensions of leadership, executive presence, and persuasion. Frameworks allow for emerging and current leaders to excel in presenting sticky messages to investors, executives, boards, clients, and others. Hands-on nature of course allows for considerable communication practice. Student presentations are videotaped and analyzed. Topics include communicating with executive presence, strategic networking, designing compelling visuals, engaging with data, making complex (and technical) information understandable, overcoming message resistance, and creating clear and concise messages. Also covered are question and answer methods, leadership storytelling, and ways to grab and keep attention. Examination of delivery variables such as verbal and non-verbal communication. Message topics can be generated from student needs (e.g., venture capital investors pitch, senior executives or client presentation). S/U or letter grading.
 430. Corporate Finance
 Units: 4.0
 Lecture, three hours. Requisite: course 408. Consideration of broad range of issues faced by corporate financial managers. Analysis of firm's investment and financing decisions. Impact on firm of agency costs and asymmetric information. Study of mergers and acquisitions through use of empirical studies. Security design also covered. Letter grading.
@@ -505,6 +509,8 @@ Lecture, four hours. Enforced requisites: courses 487A, 487B. Limited to Executi
 489. Entrepreneurship and Venture Initiation
 Units: 4.0
 Lecture, 90 minutes. Limited to Executive MBA Program students. Introduction to basic tools and jargon required for entrepreneurship that requires financing or management of intellectual property. Terminology used by lawyers, accountants, venture capitalists, and other investors when forming and financing new companies. Assessment of feasibility of business concept and communication of concept to potential investors, employees, and business partners. S/U or letter grading.
+495. Teaching Assistant Training Seminar
+Units: 4.0
 501. Cooperative Program
 Units: 2.0 to 8.0
 Preparation: consent of UCLA AGSM graduate adviser and assistant dean, and host campus instructor, department chair, and graduate dean. Used to record enrollment of UCLA students in courses taken under cooperative arrangements with USC. S/U grading.

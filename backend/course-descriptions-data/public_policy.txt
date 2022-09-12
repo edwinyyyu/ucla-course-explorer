@@ -79,7 +79,7 @@ Seminar, two hours; outside study, four hours. Examination of particular subfiel
 197. Individual Studies in Public Policy
 Units: 2.0 or 4.0
 Tutorial, four hours. Preparation: 3.0 grade-point average. Limited to juniors/seniors. Individual intensive study, with scheduled meetings to be arranged between faculty member and student. Assigned reading and tangible evidence of mastery of subject matter required. May be repeated for credit. Individual contract required. P/NP or letter grading.
-Graduate Courses (76)
+Graduate Courses (80)
 201. Principles of Microeconomic Theory I
 Units: 4.0
 Lecture, three hours; discussion, one hour; outside study, eight hours. First course in two-term sequence (see course 204) to prepare students for economic analysis of public policy, with review of economic principles and basic microeconomic theory and policy applications. Consumer theory and demand, producer theory and supply, equilibrium of product and factor markets. Letter grading.
@@ -98,9 +98,9 @@ Lecture, three hours; discussion, one hour; outside study, eight hours. Requisit
 M204A. Microeconomic Analysis for Public Health and Policy
 Units: 4.0
 (Same as Health Policy M203B.) Lecture, four hours. Requisites: course M201A, and one course from Mathematics 3A, 3B, or 31A. Basic concepts of microeconomics, with emphasis on their application to actual situations and their use in problem solving and focus on theories of firms and markets. Extensive use of differential calculus. Letter grading.
-205. Institutional Leadership and Public Manager
+205. Qualitative Methods for Policy Analysis
 Units: 4.0
-Lecture, three hours; outside study, nine hours. Examination of leadership role of executives in public service as they lead and manage in tough day-to-day world of politics and intensive public scrutiny. Heavy emphasis on case studies that focus on what public managers do, political and organizational environment in which they find themselves, and skills they need both inside and outside their organization to get things done with high degree of competence and integrity. Letter grading.
+Lecture, three hours. Introduction to use of qualitative methods in policy analysis. Students gain exposure to techniques of interviewing, participant observation/ethnography, comparative-case studies, and archival research. Consideration of research design matters including questions and situations for which qualitative methods are ideally suited, and how to use qualitative data when they are best available. Focus maintained on practical dimensions of qualitative methods in policy research including sampling and inferences, instrument design, directed inductive analysis, data gathering and coding under time pressure, and professional ethics. Letter grading.
 206. Political Economy of Policy Adoption and Implementation
 Units: 4.0
 Lecture, three hours; outside study, nine hours. Analysis of how policy is formed, adopted, and implemented. How policies are formulated, by whom, how policy agendas are set, how to define relationships between politicians, bureaucrats, lobbyists, and media experts. Letter grading.
@@ -144,6 +144,7 @@ Units: 4.0
 (Same as Urban Planning M256.) Lecture, three hours. Overview of transportation finance and economics; concepts of efficiency and equity in transportation finance; historical evolution of highway and transit finance; current issues in highway finance; private participation in road finance, toll roads, road costs and cost allocation, truck charges, congestion pricing; current issues in transit finance; transit fare and subsidy policies, contracting and privatization of transit services. Letter grading.
 M223. Transportation and Climate Change
 Units: 4.0
+(Same as Urban Planning M258.) Lecture, three hours. How to reduce greenhouse gas emissions from transportation. Critical analysis of policies to improve fuel economy, promote electric vehicles, and reduce vehicle travel. History and legal frameworks of environmental regulation. Analytical methods to quantify carbon emissions and estimate emission reductions. Focus on climate change, but consideration of other environmental consequences of transportation, from air pollution to stormwater runoff. Letter grading.
 224A. Introduction to Geographic Information Systems
 Units: 4.0
 (Formerly numbered M224A.) Lecture, three hours. Preparation: one graduate-level statistics course, familiarity with one packaged statistics program. Principles of Geographic Information Systems (GIS) and applied techniques of using spatial data for mapping and analysis. Topics include data quality, data manipulation, spatial analysis, and information systems. Use of mapping and spatial analysis to address planning problem. Letter grading.
@@ -177,6 +178,9 @@ Units: 4.0
 233. Immigration Policy and Politics
 Units: 4.0
 Seminar, three hours. Introduction to politics of immigration. Examination of development and dynamics of immigration policymaking in historical and contemporary perspective. Focus on issues including creation of illegal immigration, border militarization, detention, deportation, public opinion, political behavior, and assimilation. Letter grading.
+236. Criminal Justice Policy on Trial
+Units: 4.0
+Seminar, three hours. Survey of several criminal justice policy areas including labor market effects of incarceration, bias in policing and sentencing, cash bail, and drug policy. Introduction to recent research. Students engage in discussions about current policy, and develop and present policy proposal. Letter grading.
 M240. Theories of Regional Economic Development I
 Units: 4.0
 (Same as Geography M230A and Urban Planning M236A.) Lecture, three hours; discussion, one hour. Introduction to theories of location of economic activity, trade, and other forms of contact between regions, process of regional growth and decline, reasons for different levels of economic development, relations between more and less developed regions. Letter grading.
@@ -201,6 +205,9 @@ Units: 4.0
 251. Public Budgeting and Finance
 Units: 4.0
 Lecture, three hours; outside study, nine hours. Limited to graduate students. How financial resources are allocated through budget processes at federal, state, and local levels of government in the U.S. and how each level of government finances its operations and capital investment programs, with particular attention to California. Students are organized into small groups to facilitate review of assigned readings and to report key information to class. Based on assigned readings, development of budget strategy matrix outlining best practices budget strategies to use in various resources availability contexts. Letter grading.
+252. Today's Los Angeles and Institutions and Leaders that Make It Work
+Units: 4.0
+Seminar, four hours. Focus on institutions and leaders that make up Los Angeles region and influence its policies and quality of life. Institutions studied include political, governmental, business, economic, media, labor, citizen advocacy, educational, cultural, sports and entertainment, and philanthropic sectors; and how they combine to affect region in which we live. Consideration of how leadership and institutional structures in each of these sectors advance or constrain progress; how Los Angeles addresses issues such as transportation, real estate development, housing, homelessness, poverty, and health care, among others; and how it can better do so. Letter grading.
 M253. Lesbian, Gay, Bisexual, and Transgender Law and Public Policy Research
 Units: 4.0
 (Same as Law M675.) Lecture, three hours. Exploration of relevance of public policy research to lesbian, gay, bisexual, and transgender (LGBT) legal issues. Topics include LGBT identity and demographics, legal recognition of same-sex couples, parenting, workplace discrimination, transgender rights, intersections of race and sexuality, LGBT youth and safe schools, LGBT health disparities, and Don't Ask, Don't Tell. Discussion of social science research that has informed various areas of LGBT law. Themes include doctrinal and other reasons why research has become more central to LGBT legal advancements in past decade, different types of public policy research, limitations of current data and research on LGBT issues, difficulties in translating social science research into evidence in courtroom, impact that dominant LGBT rights frame of equality has on social science research, challenges in conducting objective research, and effective presentation of social science research before legislators, judges, juries, media, and other audiences. S/U or letter grading.
@@ -228,6 +235,12 @@ Units: 4.0
 C271. International Development
 Units: 4.0
 Lecture, three hours. Why are some countries rich, while other countries are poor? What can policymakers do to reduce poverty? Discussion of current research on these questions. Study of both methodologies used to answer questions in development economics, like natural experiments and randomized control trials, as well as relationship between development and institutions, education, growth, culture, and gender. Reading intensive, seminar-style course. Students are expected to read academic articles in economics and actively participate in discussions. Students also learn how to use data to evaluate policies. Concurrently scheduled with course CM171. S/U or letter grading.
+272. Tools for Causal Inference
+Units: 4.0
+Seminar, three hours. Students strengthen critical analysis of empirical evidence. Review of purpose and objectives of impact evaluation. Evaluation of common but often problematic approaches: cross-sectional and before-after comparisons, and case studies of program beneficiaries. Examination of suite of experimental and quasi-experimental approaches: randomized controlled trials, matching, regression discontinuities, and difference-in-differences. Letter grading.
+273. Survey Analysis
+Units: 4.0
+Seminar, three hours. Exploration of large-sample size survey use in public policy and related social science disciplines. Topics may include social-psychology of survey response (especially with regard to attitudes and evaluations), issues of question wording and context, interviewer effects, and social desirability pressures; survey-based randomized experiments and unobtrusive measures of behaviors and attitudes; general issues of quantitative research including model specification, random and systematic measurement error, logic of causal analysis, and alternative meanings of statistical importance; and practical considerations in survey analysis including questionnaire construction, sampling and data collection, weighting, variable coding and transformations, scale construction, reliability, and missing values. Students construct and pretest online survey specific to each one's interests. Letter grading.
 M280A. Research and Development Policy
 Units: 4.0
 (Same as Management-PhD M251.) Lecture, three hours. Examination of research and development as process and as element of goal-oriented organization. Factors affecting invention and innovation; transfer of technology; organizational and behavioral considerations; coupling of science, technology, and organizational goals; assessing of and forecasting technological futures. S/U or letter grading.

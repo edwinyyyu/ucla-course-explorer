@@ -57,7 +57,7 @@ Seminar, one hour. Limited to science majors in Academic Advancement Program (AA
 99. Student Research Program
 Units: 1.0 to 2.0
 Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
-Upper Division Courses (117)
+Upper Division Courses (118)
 100. Introduction to Ecology and Behavior
 Units: 4.0
 Lecture, three hours; discussion, one hour. Requisite: Life Sciences 7B. Not open for credit to students with credit for course 118, 122, 124A, 124B, 125, C126, 129, 132, 134B, 136, or 151B. Introduction to methods and topics in ecology and behavior. Growth and regulation of populations, organization of communities and ecosystems, biogeography, and behaviors animals use to find food, choose mates, and interact in social groups. Letter grading.
@@ -270,6 +270,9 @@ Lecture, three hours; discussion, one hour. Not open for credit to students with
 161. Plant Ecology
 Units: 4.0
 Lecture, two and one half hours; discussion, one hour. Requisite: Life Sciences 1 or 7B. Introduction to ecology of terrestrial plants, covering individuals, populations, communities, and global processes. Topics include plant form and function, seed dormancy and population dynamics, life histories, disturbance and succession, community structure and dynamics, and global change. P/NP or letter grading.
+161L. Plant Ecology Laboratory
+Units: 4.0
+Laboratory, four hours. Requisites: course 161 (may be taken concurrently), Life Sciences 7B. Introduction to foundational principles, theory, and field application of ecology. Emphasis on ecology of terrestrial plants, use of these principles to predict consequences, and uncertainties associated with human-caused changes in environment. Examination of both biotic and abiotic elements of environment that influence distribution and abundance of plant species. Includes range of activities, from observations of plant materials in laboratory and in UCLA botanical garden, to manipulative greenhouse experiments with fast growing annual plants, to computer-based explorations of dynamics of foundational ecological models. Letter grading.
 162. Plant Physiology
 Units: 4.0
 Lecture, three hours; discussion, one hour. Requisites: Life Sciences 1, 2, 3, and 23L, or 7A, 7B, 7C, and 23L. Basic aspects of plant function, including photochemical, biochemical, and physiological aspects of photosynthesis. Carbon and nitrogen metabolism and its regulation; organellar interactions and compartmentation. Water relations, ion transport, flowering, hormone action, and plant responses to stress. Letter grading.

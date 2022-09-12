@@ -33,7 +33,7 @@ Tutorial, three hours. Limited to students in College Honors Program. Designed a
 99. Student Research Program
 Units: 1.0 to 2.0
 Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
-Upper Division Courses (14)
+Upper Division Courses (19)
 115. Introduction to Galactic Astronomy
 Units: 4.0
 Lecture, three hours; discussion, one hour. Requisites: course 81, Mathematics 31A, 31B, and Physics 1A or 1AH. Open to qualified sophomore and upper-division students. Introduction of principles important for understanding components and evolution of Milky Way galaxy. Topics include interstellar medium, star and planet formation, and exoplanets. Examination of basic physical processes governing compact stellar remnants such as white dwarfs, neutron stars, and black holes. Overview of structure and properties of Milky Way galaxy. P/NP or letter grading.
@@ -49,6 +49,21 @@ Lecture, three hours; discussion, one hour. Requisites: courses 115, 117. Design
 141. Cosmology
 Units: 4.0
 Lecture, three hours; discussion, one hour. Requisites: courses 115, 117. Designed for upper-division Astrophysics and Physics majors. In-depth exploration of Big Bang model for universe. Examination of what expanding universe is, how cosmologists measure its properties, and how universe has changed since Big Bang. Topics include cosmic expansion, dark matter, inflation, cosmic microwave background, Big Bang nucleosynthesis, and structure formation. P/NP or letter grading.
+142. Data and Computation in Astrophysics
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 81, 115, 117, and Computer Science 30 or 31 or Program in Computing 10A. Designed for upper-division Astrophysics and Physics majors. Project-based introduction to data and computation in astrophysics context. Students develop core computational toolkit for data retrieval, processing, analysis, visualization, and interpretation. Topics include analysis of large, heterogeneous datasets; high-performance computation; numerical simulations; and scientific numerical methods. P/NP or letter grading.
+143. Planets and Exoplanets
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 81, 115, 117, 127. Designed for upper-division Astrophysics and Physics majors. Focus on detection and characterization of planets orbiting other stars, and on physical processes that determine their formation, structure, and evolution. Topics of discussion include broader astrophysical context of planet formation and how observations of solar system properties can be incorporated into emerging understanding of extrasolar planetary systems. P/NP or letter grading.
+144. Star Formation and Interstellar Medium
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 81, 115, 117. Designed for upper-division Astrophysics and Physics majors. Focus on key components of interstellar medium (ISM) in galaxies, including dust, and neutral, ionized, and molecular gas. Consideration of dynamical processes, such as shocks and expanding supernova remnants. Covers process of star formation. Key ISM observational techniques are presented. P/NP or letter grading.
+145. High-Energy Astrophysics
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: Physics 17, 110A, 115A. Corequisites: Physics 110B, 115B. Designed for upper-division Astrophysics and Physics majors. Introduction to high-energy universe, with overview of sources of high energy (X-ray and gamma-ray) emission. Covers importance of energetic particles in galaxy and connection of high-energy astronomy to cosmology and particle physics. P/NP or letter grading.
+146. Astronomical Instrumentation
+Units: 4.0
+Lecture, three hours; discussion, one hour. Requisites: courses 81, 115, 117. Designed for upper-division Astrophysics and Physics majors. Focus on modern observational techniques for astronomy. Topics include optical and infrared techniques including telescope design, charge-coupled devices, and infrared detectors. These also include adaptive optics systems and high contrast detection methods. Covers all other electromagnetic windows from radio waves to gamma rays. Other topics include neutrino, dark matter, and gravitational wave detection. P/NP or letter grading.
 180. Astrophysics Laboratory
 Units: 4.0
 Lecture, two hours; laboratory, four hours. Designed for juniors/seniors in astrophysics, physics, or related field. Topics include statistical methods in astrophysics, instrumentation, data reduction, and optics. Laboratory experiments include observations of sun, stars, and other astronomical objects. Emphasis on use of computers for making measurements from two-dimensional astronomical images. P/NP or letter grading.

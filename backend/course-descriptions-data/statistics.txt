@@ -163,7 +163,7 @@ Tutorial, four hours. Limited to juniors/seniors. Internship in supervised setti
 199. Directed Research in Statistics
 Units: 1.0 to 4.0
 Tutorial, one hour. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit. Individual contract required. P/NP or letter grading.
-Graduate Courses (86)
+Graduate Courses (87)
 200A. Applied Probability
 Units: 4.0
 Lecture, three hours; discussion, one hour. Requisite: course 100A or Mathematics 170A. Limited to graduate statistics students. Simulation, renewal theory, martingale, and selected topics from queuing, reliability, speech recognition, computational biology, mathematical finance, epidemiology. S/U or letter grading.
@@ -251,6 +251,8 @@ Lecture, three hours. Recommended requisites: courses M232A, M232B. Demonstratio
 M235. Modern Environmental Statistics
 Units: 4.0
 (Formerly numbered 235.) (Same as Environment M235.) Seminar, three hours. Limited to graduate students. Recommended requisite: calculus, linear algebra. Focus on practical understanding and application of statistical tools for environmental datasets. Topics include brief overview of concepts in probability, distributions, hypothesis testing, developing and assessing regression models, multidimensional data exploration, time series analysis, and spatial modeling. Draws upon relevant examples in scientific literature. Performance of analyses of real-world datasets. Small groups complete and present project analyzing relevant dataset of choice. S/U or letter grading.
+M235. Modern Environmental Statistics (Effective Spring 2023 )
+Units: 4.0
 C236. Introduction to Bayesian Statistics
 Units: 4.0
 Lecture, three hours; discussion, one hour. Recommended requisite: course 200A or 200B. Designed for graduate students. Introduction to statistical inference based on use of Bayes theorem, covering foundational aspects, current applications, and computational issues. Topics include Stein paradox, nonparametric Bayes, and statistical learning. Examples of applications vary according to interests of students. Concurrently scheduled with course C180. S/U or letter grading.
@@ -289,7 +291,6 @@ Units: 4.0
 (Same as Bioinformatics M223 and Biomathematics M271.) Lecture, three hours; discussion, one hour. Preparation: elementary probability concepts. Requisite: course 100A or 200A or Bioinformatics M221. Introduction to statistical methods developed and widely applied in several branches of computational biology, such as gene expression, sequence alignment, motif discovery, comparative genomics, and biological networks, with emphasis on understanding of basic statistical concepts and use of statistical inference to solve biological problems. Letter grading.
 256. Causality
 Units: 4.0
-Lecture, three hours. Preparation: proficiency in basic R coding, probability theory, linear algebra, multivariate calculus, and statistics through inference and regression. Tools to pursue both theoretical and applied research in causality. S/U or letter grading.
 C261. Introduction to Pattern Recognition and Machine Learning
 Units: 4.0
 Lecture, three hours. Requisites: course 100B, Mathematics 33A. Introduction to pattern analysis and machine intelligence designed for advanced undergraduate and graduate students. Concurrently scheduled with course C161. S/U or letter grading.

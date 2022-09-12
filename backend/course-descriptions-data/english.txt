@@ -1,5 +1,5 @@
 English
-Lower Division Courses (41)
+Lower Division Courses (43)
 4HW. Critical Reading and Writing (Honors)
 Units: 5.0
 Lecture, four hours. Enforced requisite: English Composition 3 or 3H or English as a Second Language 36. Introduction to literary analysis, with close reading and carefully written exposition of selections from principal modes of literature: poetry, prose fiction, and drama. Minimum of four papers (three to five pages each) and two in-class essays. Satisfies Writing II requirement. Letter grading.
@@ -36,12 +36,18 @@ Units: 5.0
 M30SL. Environmental Literature and Culture (Service Learning)
 Units: 5.0
 (Same as Environment M30SL.) Lecture, three hours; discussion, one hour; fieldwork, two hours. Enforced requisite: satisfaction of Entry-Level Writing requirement. Introduction to core themes, questions, and methods within interdisciplinary field of environmental humanities. Examination of how different culture forms (e.g., fiction, journalism, poetry, visual art) represent environmental issues. Topics may include biodiversity, wilderness, food, urban ecologies, postcolonial ecologies, environmental justice, and climate change. Service learning component includes meaningful work with off-campus agency/agencies selected by instructor. P/NP or letter grading.
-M40. Structure of English Words
+31. Apocalypse: Imagining End of World
 Units: 5.0
-(Same as Linguistics M10.) Lecture, four hours; discussion, one hour. Introduction to structure of English words of classical origin, including most common base forms and rules by which alternate forms are derived. Students may expect to achieve substantial enrichment of their vocabulary while learning about etymology, semantic change, and abstract rules of English word formation. P/NP or letter grading.
+Lecture, four hours; discussion, one hour. Imagining that world will come to end is common reaction to crises such as war, genocide, famine, epidemic, and natural disaster. It is also major component of some religious traditions and political movements that aim to change society from ground up. Exploration of narrative templates and visual images that have typically accompanied stories about end of world, historical moment and movement they emerge from, their creators, audiences, and impacts. Exploration of these questions through wide range of textual and visual works from scholarship and journalism to novels, graphic novels, films, and videos. Consideration of how typical story templates, characters, and motifs of apocalypse shape current perceptions of risks, crises, and disasters that range from violent social conflict and revolutionary movements to industrial accidents, epidemics, and climate change. P/NP or letter grading.
 M50. Introduction to Visual Culture
 Units: 5.0
 (Same as Film and Television M50.) Lecture, three hours; discussion, one hour; laboratory, two hours. Enforced requisite: satisfaction of Entry-Level Writing requirement. Study of how visual media, including advertising, still and moving images, and narrative films, influence contemporary aesthetics, politics, and knowledge. P/NP or letter grading.
+51A. Poems and Poets
+Units: 5.0
+Lecture, three hours; discussion, one hour. Offers sample of enormous body of poetry written in English since Middle Ages. Reading of series of celebrated poets and their poems as way of exploring what poetry is and what it is for. Specifically, how works of art respond to conditions of social life as well as intimate personal experience. Consideration of poetry's political power. In-depth discussion about gender, race, class, sexuality, colonial violence, and, broadly, relationship between art and justice. Students are familiarized with key poetic forms, conventions, and techniques; learn how to read poem critically; and get better at putting thoughts in writing. Letter grading.
+60. L.A. Women
+Units: 5.0
+Lecture, four hours. Focus on women writers and filmmakers who live in and write about Los Angeles. Ranging personal essay, memoir, science fiction, romantic comedy, sitcom, and documentary, writers and filmmakers encountered linger and loiter in L.A.'s neighborhoods and their communities that expand, complicate, and enrich what we think we know about City of Angels. Students become particularly attuned to how race, ethnicity, gender, sexuality, and class inform one's orientation to and mobility within L.A. Study of history of L.A., from its more visible areas like Hollywood or Beverly Hills to its edges and outlying spaces like San Fernando Valley, Inland Empire, and East L.A. Students think critically about how women's accounts of living in, or visiting, L.A. have contributed to and intervened within stories city tells about itself. P/NP or letter grading.
 70. Medievalisms: Medieval Literature and Contemporary Culture
 Units: 5.0
 Lecture, four hours; discussion, one hour. Requisite: satisfaction of Entry-Level Writing requirement. Not open for credit to English majors or students with credit for any course in the 140 series. Introduction to medieval texts juxtaposed with modern texts and media to analyze how and why the medieval (in form of crusade, quest, romance, world-construction, etc.) is continually reproduced and transformed in large scale popular productions, novels, film, and television. Textual focus on medieval works in comparison to analysis of 20th- and 21st-century works may include Beowulf, Sir Gawain and the Green Knight, Le Morte Darthur, Lord of the Rings, Game of Thrones, and Harry Potter. P/NP or letter grading.

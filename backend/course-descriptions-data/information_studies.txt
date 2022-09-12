@@ -58,7 +58,7 @@ Seminar, three hours. Limited to 20 students. Designed as adjunct to undergradua
 199. Directed Research in Information Studies
 Units: 2.0 to 4.0
 Tutorial, one hour. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit. Individual contract required. Letter grading.
-Graduate Courses (100)
+Graduate Courses (101)
 200. Information in Society
 Units: 4.0
 Lecture, two hours; discussion, two hours. Examination of processes by which information and knowledge are created, integrated, disseminated, organized, used, and preserved. Topics include history of communication technologies, evolution of literacy, development of information professions, and social issues related to information access. Letter grading.
@@ -350,6 +350,8 @@ Tutorial, to be arranged. Preparation: consent of graduate adviser and graduate 
 596. Directed Individual Study or Research
 Units: 2.0 to 8.0
 Tutorial, to be arranged. Directed special studies in fields of bibliography, librarianship, and information science. Variable conference time depending on nature of study or complexity of research. S/U grading.
+596. Directed Individual Study or Research (Effective Winter 2023 )
+Units: 1.0 to 8.0
 597. Directed Studies for PhD Qualifying Examinations
 Units: 2.0 to 12.0
 Tutorial, to be arranged. S/U grading.

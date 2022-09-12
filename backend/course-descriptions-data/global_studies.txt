@@ -36,8 +36,10 @@ Units: 5.0
 Seminar, six hours. Requisite: course 100B. Corequisite: course 110A. Individual research projects on different aspects of globalization process in locations around world. Offered in summer only. P/NP or letter grading.
 114AD. Globalization in Context Global France: Study of Contemporary Economics, Politics, and Society
 Units: 5.0
+Lecture, six hours. Requisite: course 104. Corequisite: course 114BD. Culture, economy, history, and politics of race, gender, and religion and how they are affected by globalization. Field trips included to gain first-hand experience of these processes. Offered in summer only. P/NP or letter grading.
 114BD. Globalization in Context Seminar: Culture and Multiculturalism in France
 Units: 5.0
+Seminar, six hours. Requisite: course 104. Corequisite: course 114AD. Individual research projects on different aspects of globalization process in locations around world, including racial and gender identities. Offered in summer only. P/NP or letter grading.
 120. Introduction to International Business
 Units: 4.0
 Lecture, three hours; discussion, one hour (when scheduled). Over last five decades, world has increasingly become globalized, presenting many new opportunities for businesses and entrepreneurs. However, recent world events have demonstrated volatile nature of globalization and pitfalls that can also manifest for firms doing business in global setting. Students gain understanding of dynamic environment of international business, and how firm managers navigate complex world of international business to capitalize upon opportunities and mitigate against risks. P/NP or letter grading.
@@ -80,15 +82,15 @@ Seminar, three hours. Enforced requisites: courses 110A, 110B. Limited to senior
 192. Undergraduate Practicum in Global Studies
 Units: 2.0
 Seminar, two hours; practicum, to be arranged. Limited to juniors/seniors. Training and supervised practicum for advanced undergraduate students to serve as undergraduate course assistants in global studies courses. Students assist in preparation and presentation of materials and development of innovative programs with guidance of faculty members. May not be applied toward major requirements. May be repeated for credit. P/NP grading.
-194. Research Group Seminars: Global Studies
-Units: 2.0
-Seminar, two hours. Requisites: courses 110A, 110B. Limited to senior Global Studies majors. Discussion of research methods regarding various approaches to analysis and evaluation of globalization and current literature in field in preparation for senior thesis. May be repeated for credit. Letter grading.
+194. Research Group Seminars
+Units: 1.0
+Seminar, two hours. Designed to encourage participation and stimulate progress in specific research areas for undergraduate students who are part of departmental research group or internship. Discussion of research methods or current literature in field of global studies or of research of faulty members or students. May be repeated for credit. P/NP grading.
 199. Directed Research in Global Studies
 Units: 4.0
 Tutorial, to be arranged. Limited to juniors/seniors. Supervised individual research under guidance of faculty mentor. Culminating paper required. May be applied toward requirements via petition. May be repeated for credit. Individual contract required. Letter grading.
-199A. Directed Individual Research in Global Studies
-Units: 2.0
-Tutorial, one hour. Requisite: course 191. Limited to senior Global Studies majors. Supervised individual research or investigation under guidance of faculty mentor. Research, discussion, and planning of senior thesis. Individual contract required. In Progress grading (credit to be given only on completion of course 199B).
+199A. Directed Research in Global Studies
+Units: 4.0
+Tutorial, to be arranged. Limited to senior Global Studies majors. Supervised individual research under guidance of faculty mentor. Culminating paper required or comprehensive outline if pursuing departmental honors. Individual contract required. Letter grading.
 199B. Directed Individual Research in Global Studies
 Units: 4.0
 Tutorial, one hour. Requisite: course 199A. Limited to senior Global Studies majors. Supervised individual research or investigation under guidance of faculty mentor. Final drafting and submission of senior thesis. Culminating paper of 35 to 50 pages required. Individual contract required. Letter grading.

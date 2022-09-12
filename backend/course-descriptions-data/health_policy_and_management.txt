@@ -37,7 +37,7 @@ Tutorial, four hours. Limited to juniors/seniors. Individual intensive study, wi
 199. Directed Research in Health Policy and Management
 Units: 2.0 to 4.0
 Tutorial, one hour. Limited to juniors/seniors. Entry-level research apprenticeship under guidance of faculty mentors. Collaboration with faculty mentors on their research in area related to health policy and management. May be repeated for credit. Individual contract required. Letter grading.
-Graduate Courses (99)
+Graduate Courses (100)
 200A. Health Systems Organization and Financing
 Units: 4.0
 Lecture, three hours; discussion, one hour. Limited to graduate health services students. In-depth analysis of health services systems in U.S., using relevant theories, concepts, and models. S/U or letter grading.
@@ -47,6 +47,8 @@ Lecture, three hours; discussion, one hour. Limited to graduate health services 
 M201. Topics in Theoretical Epidemiology
 Units: 2.0
 (Same as Epidemiology M203.) Lecture, two hours. Selected topics from current research areas in epidemiologic theory and quantitative methods. Topics selected from biologic models, epidemiologic models, problems in inference, model specification problems, design issues, analysis issues, and confounding. May be repeated for credit with consent of instructor. S/U grading.
+202. Introduction to Statistics and Research Methods for Health Services Research
+Units: 4.0
 M203A. Microeconomic Analysis for Public Health and Policy
 Units: 4.0
 (Formerly numbered 203A.) (Same as Public Policy M201A.) Lecture, four hours. Requisite: Mathematics 3A or 3B or 31A. Course M203A is requisite to M203B. Basic concepts of microeconomics, with emphasis on their application to actual situations and their use in problem solving and focus on theory of choice. Extensive use of differential calculus. Letter grading.
@@ -127,6 +129,7 @@ Units: 4.0
 (Same as Community Health Sciences M252.) Lecture, three hours. Requisites: courses 200A, M236, M287. Conceptual and procedural tools for analysis of health policy, emphasizing role of analysis during various phases of lifecycle of public policy. Letter grading.
 234. Health Services Organization and Management Theory
 Units: 4.0
+Lecture, two hours; discussion, two hours. Preparation: two upper-division social sciences courses. Application of contemporary organization and management theory to systems that provide personal health-care services. Environmental characteristics, missions/goals, structure, and processes of health services organizations. S/U or letter grading.
 235. Law, Social Change, and Health Service Policy
 Units: 4.0
 Lecture, four hours. Preparation: two upper-division political science or sociology courses. Requisite: course 100. Legal issues affecting policy formulation for environmental, preventive, and curative health service programs. S/U or letter grading.

@@ -60,7 +60,7 @@ Tutorial, three hours. Limited to students in College Honors Program. Designed a
 99. Student Research Program
 Units: 1.0 to 2.0
 Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.
-Upper Division Courses (41)
+Upper Division Courses (42)
 100W. Interdisciplinary Academic Writing
 Units: 5.0
 Lecture, four hours. Enforced requisite: course 3 or 3H or English as a Second Language 36. Designed for sophomores/juniors/seniors. Course in academic writing suitable for both lower- and upper-division students that helps them develop academic papers with range of complexity and length. Focus on conventions of academic prose and genres across disciplines. Written assignments include common forms of academic writing such as argument, research paper, and/or critical essay. Satisfies Writing II requirement. Letter grading.
@@ -106,6 +106,8 @@ Lecture, four hours. Requisites: satisfaction of Entry-Level Writing requirement
 130E. Professional Writing: Arts and Entertainment
 Units: 5.0
 Lecture, four hours. Requisites: satisfaction of Entry-Level Writing requirement, course 3. Emphasis on the ability to write professionally about creative material and performances in areas such as film, television, theater, music, art/design, podcasts, and video games. Writing genres include critical reviews, recaps, promotional materials, treatments, and profiles. P/NP or letter grading.
+130F. Professional Writing: Writing for Audio
+Units: 5.0
 131A. Specialized Writing: Law and Politics
 Units: 4.0
 Lecture, four hours. Requisite: satisfaction of Entry-Level Writing and English Composition requirements. Designed for juniors/seniors. Advanced writing course designed to help students develop stylistic, formal, and argumentative sophistication in various rhetorical contexts, including different sections that emphasize rhetorical values of major professions and research areas. May be taken independently for credit. P/NP or letter grading.

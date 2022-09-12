@@ -313,7 +313,7 @@ Tutorial, four hours. Limited to juniors/seniors. Individual intensive study, wi
 199. Directed Research or Senior Project in Education
 Units: 2.0 to 4.0
 Tutorial, to be arranged. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit. Individual contract required. P/NP or letter grading.
-Graduate Courses (211)
+Graduate Courses (212)
 200A. Historical Research and Writing
 Units: 4.0
 Lecture, four hours. Methods of historical research and writing for students who are or who will be engaged in research and in report or paper or thesis writing, regardless of their field of interest. S/U or letter grading.
@@ -896,6 +896,8 @@ Lecture, three hours. Introduction to mental health issues in context of athleti
 476. History and Philosophy of Sport and Physical Education
 Units: 4.0
 Lecture, four hours. Focus on philosophical positions of body as determined by philosophical schools and intellectuals, past and present. Investigation that philosophical position of body has been significant factor in determining historic development of sport and physical activity/physical education; e.g., throughout history there were times where body was not held in high esteem, which negatively impacted development of sport. Theology also had impact upon how people viewed body. Sometimes sport thrived; sometimes it was condemned depending on theological beliefs. Body has history that is tied to sport history. Modernization theory used to explain how sport and physical activity evolved from pre-modern practice to modern practice. Study takes chronological, descriptive, and interpretive approaches. Letter grading.
+477. Leadership and Management of Athletic Departments in Educational Institutions
+Units: 4.0
 481. Knowledge and Inquiry in Classroom
 Units: 4.0
 Lecture, four hours. Logical features of instruction and their application to inquiry techniques in teaching and learning. Various conceptions of truth, belief, and fact and opinion, and their application to classroom learning situations. S/U or letter grading.
