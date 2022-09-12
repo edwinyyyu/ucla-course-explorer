@@ -56,8 +56,9 @@ with open("subjects.txt", "r") as f:
     lines = f.readlines()
     
     argparser = argparse.ArgumentParser(description="Scrape UCLA courses.")
-    argparser.add_argument("-l", type=int, nargs="+", choices=range(len(lines)),
-                           default=[], help="0-indexed subjects.txt line")
+    argparser.add_argument("-l", type=int, nargs="+", default=[],
+                           choices=range(1, 1 + len(lines)),
+                           help="line of subject in subjects.txt to scrape")
     args = argparser.parse_args()
     
     driver = webdriver.Firefox() # Edit to use preferred browser.
@@ -66,6 +67,6 @@ with open("subjects.txt", "r") as f:
             scrape_courses(line.strip())
     else:
         for line_index in args.l:
-            scrape_courses(lines[line_index].strip())
+            scrape_courses(lines[line_index - 1].strip())
 
 driver.quit()
