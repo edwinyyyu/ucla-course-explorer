@@ -25,21 +25,22 @@ def det_syn_subject(words, last_index):
                 return synonyms["*" + pattern]
         else:
             return synonyms[pattern]
-            
-    print(pattern)
-    print(words[last_index + 1])
-    return "TODO/EDGE CASE ERROR"
+    
+    # Use to check edge cases:
+    #print("=" + pattern + "=")
+    #print(words[last_index + 1])
+    return "TODO/IGNORE"
 
 def det_req_subject(extracted_words, course_index, orig_subject):
     words = [word.strip(",.;:()") for word in extracted_words.split()]
-    ignore_set = set()#{"and", "from", "or"}
+    ignore_set = {"and", "or", "and/or", "either", "from", "through"}
     
     for i in range(course_index, -1, -1):
         if not is_course_number(words[i]) and words[i] not in ignore_set:
-            # Note: These are edge cases that may fail if course descriptions
+            # Note: Some are edge cases that may fail if course descriptions
             #       are changed in the future.
-            # TODO: Figure out any nonworking edge cases.
-            if words[i] in {"course", "courses", "concurrently", "through", "and", "from", "or", "in", "to"}:
+            if words[i] in {"course", "courses",
+                "concurrently", "enforced", "section"}:
                 return orig_subject
             else:
                 #print(words[i])
@@ -61,13 +62,14 @@ def det_requisites(description, orig_subject):
         end_index = description.find(".")
         
         extracted_words = description[ : end_index]
-        words = [word.strip(",.;:()") for word in extracted_words.split()]
+        words = [word.strip(",.;:)") for word in extracted_words.split()]
         for i in range(len(words)):
             word = words[i]
             if is_course_number(word):
                 req_subject = det_req_subject(extracted_words, i, orig_subject)
                 requisites.setdefault(req_subject, []).append(word)
     
+    # Sanity check
     #print(requisites)
     return requisites
 
@@ -99,23 +101,20 @@ def parse_course_data(file):
                 description = lines[i + 1]
             requisites = det_requisites(description, subject_area)
 
-# global
+# main
+
 synonyms = {}
 with open("subjects_syn.txt", "r") as s:
     lines = [line.strip() for line in s.readlines()]
-    
     for l in lines:
         synonyms[l[ : l.find(":")]] = l[l.find(":") + 1 : ]
 
-#print(synonyms)
-
-# main
 directory = "course-descriptions-data"
 
 for filename in os.listdir(directory):
     with open(directory + "/" + filename, "r") as f:
         parse_course_data(f)
 
+# Sanity check:
 #with open("course-descriptions-data/computer_science.txt", "r") as f:
 #    parse_course_data(f)
-#
