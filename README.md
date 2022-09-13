@@ -56,4 +56,5 @@ Extend to more words if needed.
 
 ## Notes
 It would be better to take course data from the UCLA API as the parser is imperfect given that course description language is only somewhat standardized, but this is limited to authorized staff. At the moment scraping course descriptions should be good enough.
-Scraping and parsing may be improved by using CSS selectors. The current code was written before learning about such, but it works well enough so a change is unnecessary.
+
+Scraping and parsing may be improved by using CSS selectors or finding elements by class names. The current code was written before learning about such, but it works well enough so a change is unnecessary.
