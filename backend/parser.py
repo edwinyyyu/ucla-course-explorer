@@ -1,5 +1,6 @@
 import os
 
+# Determine if word matches pattern for course numbers
 def is_course_number(word):
     if len(word) == 0:
         return False
@@ -7,6 +8,7 @@ def is_course_number(word):
         return is_course_number(word[1 : ])
     return word[0].isdecimal()
 
+# Determine subject based on synonyms in subjects_syn.txt
 def det_syn_subject(words, last_index):
     next_index = last_index
     pattern = words[next_index]
@@ -31,6 +33,7 @@ def det_syn_subject(words, last_index):
     #print(words[last_index + 1])
     return "TODO/IGNORE"
 
+# Determine subject given position of course number in description
 def det_req_subject(extracted_words, course_index, orig_subject):
     words = [word.strip(",.;:()") for word in extracted_words.split()]
     ignore_set = {"and", "or", "and/or", "either", "from", "through"}
@@ -46,6 +49,7 @@ def det_req_subject(extracted_words, course_index, orig_subject):
                 #print(words[i])
                 return det_syn_subject(words, i)
 
+# Return dictionary of requisite subject: courses; post to database
 def det_requisites(description, orig_subject):
     requisites = {}
     
@@ -68,11 +72,13 @@ def det_requisites(description, orig_subject):
             if is_course_number(word):
                 req_subject = det_req_subject(extracted_words, i, orig_subject)
                 requisites.setdefault(req_subject, []).append(word)
+                # TODO: POST to database
     
     # Sanity check
     #print(requisites)
     return requisites
 
+# Get subject area, level, number, name, units, description, requisites
 def parse_course_data(file):
     lines = [line.strip() for line in file.readlines()]
     subject_area = lines[0].strip().replace(" (Undergraduate)", "")
