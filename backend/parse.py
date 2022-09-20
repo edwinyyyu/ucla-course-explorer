@@ -54,9 +54,10 @@ def det_req_subject(extracted_words, course_index, orig_subject):
             else:
                 #print(words[i])
                 return det_syn_subject(words, i)
+    return "TODO/IGNORE"
 
 # Return dictionary of requisite subject: courses; post to database
-def det_requisites(description, orig_subject):
+def det_requisites(description, orig_subject, orig_number):
     requisites = {}
     
     while "equisite: " in description or "equisites: " in description:
@@ -78,7 +79,12 @@ def det_requisites(description, orig_subject):
             if is_course_number(word):
                 req_subject = det_req_subject(extracted_words, i, orig_subject)
                 requisites.setdefault(req_subject, []).append(word)
+                
                 # TODO: POST to database
+                orig_code = orig_subject + " " + orig_number
+                req_code = req_subject + " " + word
+                db_requisites.insert_one({"source": orig_code,
+                                          "target": req_code})
     
     # Sanity check
     #print(requisites)
@@ -113,14 +119,14 @@ def parse_course_data(file):
             description = ""
             if i + 1 < len(lines):
                 description = lines[i + 1]
-            requisites = det_requisites(description, subject_area)
+            requisites = det_requisites(description, subject_area, number)
             
-            courses.update_one({"subject": subject_area, "number": number},
-                               {"$set": {"name": name,
-                                         "level": level,
-                                         "units": num_units,
-                                         "description": description}},
-                               upsert=True)
+            db_courses.update_one({"subject": subject_area, "number": number},
+                                  {"$set": {"name": name,
+                                            "level": level,
+                                            "units": num_units,
+                                            "description": description}},
+                                  upsert=True)
             courses_updated += 1
             print("Total " + subject_area + " courses updated in MongoDB: ",
                   courses_updated)
@@ -135,7 +141,8 @@ except:
     sys.exit(1)
 
 db = client.courseDB
-courses = db.courses
+db_courses = db.courses
+db_requisites = db.requisites
 
 synonyms = {}
 with open("subjects_syn.txt", "r") as s:
