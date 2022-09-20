@@ -1,4 +1,9 @@
 import os
+import sys
+
+import pymongo
+
+import credentials
 
 # Determine if word matches pattern for course numbers
 def is_course_number(word):
@@ -21,7 +26,8 @@ def det_syn_subject(words, last_index):
                 pattern = words[next_index] + " " + pattern
                 
                 if pattern not in synonyms:
-                    print("---" + pattern + "---CHECK")
+                    # Use to check edge cases:
+                    #print("---" + pattern + "---CHECK")
                     return synonyms["*" + prev_pattern]
             else:
                 return synonyms["*" + pattern]
@@ -78,8 +84,10 @@ def det_requisites(description, orig_subject):
     #print(requisites)
     return requisites
 
-# Get subject area, level, number, name, units, description, requisites
+# Get subject area, level, number, name, units, description, requisites;
+# update database
 def parse_course_data(file):
+    courses_updated = 0
     lines = [line.strip() for line in file.readlines()]
     subject_area = lines[0].strip().replace(" (Undergraduate)", "")
     subject_area = subject_area.replace(" (Graduate)", "")
@@ -87,13 +95,13 @@ def parse_course_data(file):
     
     for i in range(len(lines)):
         if lines[i].startswith("Lower Division Courses"):
-            level = "lower division"
+            level = "Lower Division"
             continue
         elif lines[i].startswith("Upper Division Courses"):
-            level = "upper division"
+            level = "Upper Division"
             continue
         elif lines[i].startswith("Graduate Courses"):
-            level = "graduate"
+            level = "Graduate"
             continue
     
         if lines[i].startswith("Units: "):
@@ -101,13 +109,33 @@ def parse_course_data(file):
             name = lines[i - 1][lines[i - 1].find(" ") + 1 : ]
             num_units = lines[i][lines[i].find(" ") + 1 : ]
             
-            # TODO: Ensure empty descriptions work.
+            # TODO: Ensure empty descriptions work
             description = ""
             if i + 1 < len(lines):
                 description = lines[i + 1]
             requisites = det_requisites(description, subject_area)
+            
+            courses.update_one({"subject": subject_area, "number": number},
+                               {"$set": {"name": name,
+                                         "level": level,
+                                         "units": num_units,
+                                         "description": description}},
+                               upsert=True)
+            courses_updated += 1
+            print("Total " + subject_area + " courses updated in MongoDB: ",
+                  courses_updated)
 
 # main
+client = pymongo.MongoClient(credentials.MONGO_CONNECTION_STRING,
+                             serverSelectionTimeoutMS=5000)
+try:
+    print(client.server_info())
+except:
+    print("Unable to connect to server.")
+    sys.exit(1)
+
+db = client.courseDB
+courses = db.courses
 
 synonyms = {}
 with open("subjects_syn.txt", "r") as s:
