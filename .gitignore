@@ -1,4 +1,5 @@
 *.log
 credentials.py
 __pycache__/
+course-descriptions-data/
 node_modules/
