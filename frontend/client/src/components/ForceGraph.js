@@ -26,9 +26,8 @@ const ForceGraph = ({ nodes, links }) => {
 
     const simulation = d3.forceSimulation(nodes)
       .force('center', d3.forceCenter(400, 300))
-      .force('charge', d3.forceManyBody().strength(40))
-      .force('collision', d3.forceCollide(20))
-      .force('link', d3.forceLink(links))
+      .force('charge', d3.forceManyBody().strength(-20))
+      .force('link', d3.forceLink(links).id(d => d.id))
       .on('tick', () => {
         node
           .attr('cx', d => d.x)
