@@ -27,7 +27,7 @@ def det_syn_subject(words, last_index):
                 
                 if pattern not in synonyms:
                     # Use to check edge cases:
-                    #print("---" + pattern + "---CHECK")
+                    print("---" + pattern + "---CHECK")
                     return synonyms["*" + prev_pattern]
             else:
                 return synonyms["*" + pattern]
@@ -35,8 +35,8 @@ def det_syn_subject(words, last_index):
             return synonyms[pattern]
     
     # Use to check edge cases:
-    #print("=" + pattern + "=")
-    #print(words[last_index + 1])
+    print("=" + pattern + "=")
+    print(words[last_index + 1])
     return "TODO/IGNORE"
 
 # Determine subject given position of course number in description
@@ -78,13 +78,13 @@ def det_requisites(description, orig_subject, orig_number):
             word = words[i]
             if is_course_number(word):
                 req_subject = det_req_subject(extracted_words, i, orig_subject)
-                requisites.setdefault(req_subject, []).append(word)
+                req_number = word
+                requisites.setdefault(req_subject, []).append(req_number)
                 
-                # TODO: POST to database
-                orig_code = orig_subject + " " + orig_number
-                req_code = req_subject + " " + word
-                db_requisites.insert_one({"source": orig_code,
-                                          "target": req_code})
+                db_requisites.insert_one({"source_subject": orig_subject,
+                                          "source_number": orig_number,
+                                          "target_subject": req_subject,
+                                          "target_number": req_number})
     
     # Sanity check
     #print(requisites)
