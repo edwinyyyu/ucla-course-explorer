@@ -1,5 +1,10 @@
 *.log
+
+# Credentials
 credentials.py
+credentials.js
+
+# Generated files
 __pycache__/
-course-descriptions-data/
 node_modules/
+course-descriptions-data/
