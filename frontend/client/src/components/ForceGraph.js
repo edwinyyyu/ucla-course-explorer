@@ -3,14 +3,19 @@ import * as d3 from 'd3';
 
 // https://reactfordataviz.com/articles/force-directed-graphs-with-react-and-d3v7/
 const ForceGraph = ({ nodes, links }) => {
+  let validLinks = links.filter(l =>
+    nodes.filter(n => n.id === l.source).length > 0 &&
+    nodes.filter(n => n.id === l.target).length > 0
+  );
+
   const svgRef = useRef();
 
   useEffect(() => {
     const svg = d3.select(svgRef.current);
-    
+
     const link = svg.append('g')
       .selectAll('line')
-      .data(links)
+      .data(validLinks)
       .join('line')
         .attr('stroke', 'black')
         .attr('stroke-width', 2);
@@ -27,7 +32,7 @@ const ForceGraph = ({ nodes, links }) => {
     const simulation = d3.forceSimulation(nodes)
       .force('center', d3.forceCenter(400, 300))
       .force('charge', d3.forceManyBody().strength(-20))
-      .force('link', d3.forceLink(links).id(d => d.id))
+      .force('link', d3.forceLink(validLinks).id(d => d.id))
       .on('tick', () => {
         node
           .attr('cx', d => d.x)
@@ -38,7 +43,7 @@ const ForceGraph = ({ nodes, links }) => {
           .attr('x2', d => d.target.x)
           .attr('y2', d => d.target.y);
       });
-  }, []);
+  }, [nodes, validLinks]);
 
   return (
     <svg ref={svgRef} width='800' height='600' ></svg>
