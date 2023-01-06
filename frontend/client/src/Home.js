@@ -1,8 +1,12 @@
+import { useEffect, useState } from 'react';
 import * as d3 from 'd3';
 
 import ForceGraph from './components/ForceGraph';
 
 const Home = () => {
+  const [nodes, setNodes] = useState(null);
+  const [links, setLinks] = useState(null);
+  /*
   let nodes = [
     {id: 'COM SCI M146'},
     {id: 'COM SCI 32'},
@@ -29,11 +33,34 @@ const Home = () => {
     { source: 'MATH 32A', target: 'MATH 33A' },
     { source: 'MATH 32A', target: 'MATH 32B' }
   ];
+  */
+
+  useEffect(() => {
+    fetch('/api/courses/subject/Mathematics')
+    .then(response => response.json())
+    .then(courses => {
+      setNodes(courses.map(course => {
+        return {
+          id: `${course.subject} ${course.number}`
+        };
+      }));
+    })
+    fetch('/api/requisites/source/subject/Mathematics')
+    .then(response => response.json())
+    .then(requisites => {
+      setLinks(requisites.map(requisite => {
+        return {
+          source: `${requisite.source_subject} ${requisite.source_number}`,
+          target: `${requisite.target_subject} ${requisite.target_number}`
+        };
+      }));
+    })
+  }, []);
 
   return (
     <div className='Home'>
       <h1>Hello world!</h1>
-      <ForceGraph nodes={nodes} links={links} />
+      {nodes && links && <ForceGraph nodes={nodes} links={links} />}
     </div>
   );
 };
