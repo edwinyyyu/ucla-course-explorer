@@ -13,6 +13,23 @@ const ForceGraph = ({ nodes, links }) => {
   useEffect(() => {
     const svg = d3.select(svgRef.current);
 
+    const drag_start = d => {
+      if (!d.active) simulation.alphaTarget(0.3).restart();
+      d.subject.fx = d.subject.x;
+      d.subject.fy = d.subject.y;
+    };
+
+    const drag = d => {
+      d.subject.fx = d.x;
+      d.subject.fy = d.y;
+    };
+
+    const drag_end = d => {
+      if (!d.active) simulation.alphaTarget(0);
+      d.subject.fx = null;
+      d.subject.fy = null;
+    };
+
     const link = svg.append('g')
       .selectAll('line')
       .data(validLinks)
@@ -27,7 +44,12 @@ const ForceGraph = ({ nodes, links }) => {
         .attr('r', 4)
         .attr('stroke', 'white')
         .attr('stroke-width', 1)
-        .attr('fill', 'green');
+        .attr('fill', 'green')
+        .call(d3.drag()
+          .on("start", drag_start)
+          .on("drag", drag)
+          .on("end", drag_end)
+        );
 
     const simulation = d3.forceSimulation(nodes)
       .force('center', d3.forceCenter(800, 600))
@@ -46,7 +68,7 @@ const ForceGraph = ({ nodes, links }) => {
           .attr('x2', d => d.target.x)
           .attr('y2', d => d.target.y);
       });
-  }, []);
+  }, [nodes, validLinks]);
 
   return (
     <svg ref={svgRef} width='1600' height='1200' ></svg>
