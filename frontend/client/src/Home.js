@@ -36,7 +36,7 @@ const Home = () => {
   */
 
   useEffect(() => {
-    fetch('/api/courses/subject/Mathematics')
+    fetch('http://localhost:4000/api/courses/subject/Mathematics')
     .then(response => response.json())
     .then(courses => {
       setNodes(courses.map(course => {
@@ -45,7 +45,7 @@ const Home = () => {
         };
       }));
     })
-    fetch('/api/requisites/source/subject/Mathematics')
+    fetch('http://localhost:4000/api/requisites/source/subject/Mathematics')
     .then(response => response.json())
     .then(requisites => {
       setLinks(requisites.map(requisite => {

@@ -1,4 +1,5 @@
 const express = require('express');
+const cors = require('cors');
 
 const coursesRoutes = require('./routes/courses');
 const requisitesRoutes = require('./routes/requisites');
@@ -6,6 +7,9 @@ const requisitesRoutes = require('./routes/requisites');
 const { connectToDb } = require('./db');
 
 const app = express();
+app.use(cors({
+  origin: '*'
+}));
 
 connectToDb(err => {
   if (!err) {
