@@ -40,8 +40,8 @@ const ForceGraph = ({ nodes, links }) => {
       .selectAll('line')
       .data(validLinks)
       .join('line')
-        .attr('stroke', '#115533')
-        .attr('stroke-width', 2);
+        .attr('stroke', '#88aa99')
+        .attr('stroke-width', 1.5);
 
     const node = svg.append('g')
       .selectAll('circle')
@@ -50,12 +50,38 @@ const ForceGraph = ({ nodes, links }) => {
         .attr('r', 6)
         .attr('stroke', 'white')
         .attr('stroke-width', 2)
-        .attr('fill', '#22aa66')
+        .attr('fill', color_level)
         .call(drag(simulation))
         .on('mouseover', mouseover)
         .on('mousemove', mousemove)
         .on('mouseout', mouseout);
+
+    const marker = svg.append('defs')
+      .append('marker')
+        .attr('id', 'directed-marker')
+        .attr('viewBox', '0 -5 10 10')
+        .attr('refX', 18)
+        .attr('refY', 0)
+        .attr('markerWidth', 6)
+        .attr('markerHeight', 6)
+        .attr('orient', 'auto-start-reverse')
+        .attr('fill', '#88aa99')
+      .append('path')
+        .attr('d', 'M0,-5 L10,0 L0,5');
+
+    link.attr('marker-start', 'url(#directed-marker)');
   }, [nodes, validLinks]);
+
+  const color_level = d => {
+    console.log(d);
+    if (d.level == 'Lower Division') {
+      return '#33ff99';
+    } else if (d.level == 'Upper Division') {
+      return '#22aa66';
+    } else {
+      return '#115533';
+    }
+  };
 
   let dragging = false;
   const drag = simulation => {
@@ -92,7 +118,7 @@ const ForceGraph = ({ nodes, links }) => {
     d3.select(e.target)
       .transition()
       .attr('r', 9)
-      .attr('fill', '#33ff99');
+      .attr('fill', '#bbffdd');
 
     if (!dragging) {
       d3.select(tooltipRef.current)
@@ -110,7 +136,7 @@ const ForceGraph = ({ nodes, links }) => {
     }
   };
 
-  const mousemove = (e, d) => {
+  const mousemove = (e) => {
     if (!dragging) {
       d3.select(tooltipRef.current)
         .style('position', 'absolute')
@@ -119,11 +145,11 @@ const ForceGraph = ({ nodes, links }) => {
     }
   };
 
-  const mouseout = (e, d) => {
+  const mouseout = (e) => {
     d3.select(e.target)
       .transition()
       .attr('r', 6)
-      .attr('fill', '#22aa66');
+      .attr('fill', color_level);
 
     if (!dragging) {
       d3.select(tooltipRef.current)
