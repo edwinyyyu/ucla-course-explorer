@@ -70,4 +70,4 @@ It would be better to take course data from the UCLA API as the parser is imperf
 Scraping and parsing may be improved by using CSS selectors or finding elements by class names. The current code was written before learning about such, but it works well enough so a change is unnecessary.
 
 ## Progress Demo
-https://user-images.githubusercontent.com/92917168/232438499-52d76b3d-fd96-4e3c-9683-e653993f3b4c.mp4
+https://user-images.githubusercontent.com/92917168/232676045-05f354d2-8223-43c8-a343-265197e29043.mp4
