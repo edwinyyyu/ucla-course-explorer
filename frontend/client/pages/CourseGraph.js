@@ -1,8 +1,8 @@
 import { useEffect, useState } from 'react';
 
-import ForceGraph from './components/ForceGraph';
+import ForceGraph from './ForceGraph';
 
-const Home = () => {
+const CourseGraph = () => {
   const [nodes, setNodes] = useState(null);
   const [links, setLinks] = useState(null);
 
@@ -35,11 +35,11 @@ const Home = () => {
   }, []);
 
   return (
-    <div className='Home'>
+    <div className='CourseGraph'>
       <h1>UCLA Mathematics Courses</h1>
       {nodes && links && <ForceGraph nodes={nodes} links={links} />}
     </div>
   );
 };
 
-export default Home;
+export default CourseGraph;

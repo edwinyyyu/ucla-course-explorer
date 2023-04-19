@@ -2,15 +2,15 @@ import { useEffect, useRef } from 'react';
 import * as d3 from 'd3';
 
 const ForceGraph = ({ nodes, links }) => {
-  const validLinks = links.filter(l =>
-    nodes.filter(n => n.id === l.source).length > 0 &&
-    nodes.filter(n => n.id === l.target).length > 0
-  );
-
   const svgRef = useRef();
   const tooltipRef = useRef();
 
-    useEffect(() => {
+  useEffect(() => {
+    const validLinks = links.filter(l =>
+      nodes.filter(n => n.id === l.source).length > 0 &&
+      nodes.filter(n => n.id === l.target).length > 0
+    );
+
     const svg = d3.select(svgRef.current);
 
     const simulation = d3.forceSimulation(nodes)
@@ -70,7 +70,7 @@ const ForceGraph = ({ nodes, links }) => {
         .attr('d', 'M0,-5 L10,0 L0,5');
 
     link.attr('marker-start', 'url(#directed-marker)');
-  }, [nodes, validLinks]);
+  }, [nodes, links]);
 
   const color_level = d => {
     console.log(d);
