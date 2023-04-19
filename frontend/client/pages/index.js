@@ -1,4 +1,4 @@
-import CourseGraph from './CourseGraph';
+import CourseGraph from '../components/CourseGraph';
 
 const Home = () => {
   return (

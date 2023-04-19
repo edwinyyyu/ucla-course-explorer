@@ -1,0 +1,29 @@
+body {
+  font-family: sans-serif;
+}
+
+.graphLink {
+  stroke: #88aa99;
+  stroke-width: 1.5;
+}
+
+.graphNode {
+  stroke: white;
+  stroke-width: 2;
+}
+
+#dirMarker {
+  fill: #88aa99;
+}
+
+#graphTooltip {
+  position: absolute;
+  max-width: 400px;
+  padding: 5px;
+  border-radius: 5px;
+  border-width: 2x;
+  border-style: solid;
+  border-color: #115533;
+  background-color: white;
+  color: #115533;
+}
