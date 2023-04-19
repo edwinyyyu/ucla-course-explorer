@@ -7,20 +7,23 @@ const SVG_HEIGHT = 1200;
 const ALPHA_TARGET = 0.3;
 
 const ForceGraph = ({ nodes, links }) => {
-  let validLinks = links.filter(l =>
+  const validLinks = links.filter(l =>
     nodes.filter(n => n.id === l.source).length > 0 &&
     nodes.filter(n => n.id === l.target).length > 0
   );
 
+  const deepNodes = structuredClone(nodes);
+  const deepLinks = structuredClone(validLinks);
+
   const containerRef = useRef(null);
 
   useEffect(() => {
-    const graphCleanup = graph(containerRef.current, nodes, validLinks);
+    const graphCleanup = graph(containerRef.current, deepNodes, deepLinks);
 
     return () => {
       graphCleanup();
     };
-  }, [nodes, validLinks]);
+  }, [deepNodes, deepLinks]);
 
   return (
     <div ref={containerRef} className='ForceGraph'/>

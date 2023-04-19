@@ -7,6 +7,16 @@ const CourseGraph = () => {
   const [links, setLinks] = useState([]);
 
   useEffect(() => {
+    fetch('http://localhost:4000/api/courses/subject/Mathematics')
+    .then(response => response.json())
+    .then(courses => {
+      setNodes(n => extend(n, courses.map(courseNode)));
+    });
+    fetch('http://localhost:4000/api/requisites/source/subject/Mathematics')
+    .then(response => response.json())
+    .then(requisites => {
+      setLinks(l => extend(l, requisites.map(requisiteLink)));
+    });
     fetch('http://localhost:4000/api/courses/subject/Computer_Science')
     .then(response => response.json())
     .then(courses => {
